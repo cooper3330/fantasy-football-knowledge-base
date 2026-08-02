@@ -1,0 +1,4 @@
+# Obsidian device/session-local state — not shared across devices
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
