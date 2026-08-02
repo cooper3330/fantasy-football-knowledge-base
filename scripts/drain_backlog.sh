@@ -10,13 +10,17 @@
 # It does NOT ingest into the wiki and does NOT touch git -- it only stages
 # transcripts into Sources/_inbox/ for later ingestion.
 #
+# Logs to scripts/logs/daily.log -- the same stream as the scheduled daily job,
+# so all pipeline activity is readable in one place. Drain runs are wrapped in
+# BACKLOG DRAIN banners to stay distinguishable from routine daily runs.
+#
 # Usage:
 #   ./scripts/drain_backlog.sh            # drain everything
-#   ./scripts/drain_backlog.sh 25         # drain at most 25 episodes this run
+#   ./scripts/drain_backlog.sh 50         # drain at most 50 episodes this run
 #
 # Recommended for a long run (survives terminal close):
-#   nohup ./scripts/drain_backlog.sh > /dev/null 2>&1 &
-#   tail -f scripts/logs/backlog.log
+#   nohup ./scripts/drain_backlog.sh 50 > /dev/null 2>&1 &
+#   tail -f scripts/logs/daily.log
 
 set -uo pipefail
 
@@ -25,7 +29,7 @@ cd "$REPO_DIR" || exit 1
 
 LOG_DIR="scripts/logs"
 mkdir -p "$LOG_DIR"
-LOG="$LOG_DIR/backlog.log"
+LOG="$LOG_DIR/daily.log"
 
 LIMIT_ARG=""
 if [ "$#" -ge 1 ]; then
@@ -34,13 +38,18 @@ fi
 
 {
   echo ""
-  echo "============================================================"
-  echo "backlog drain started $(date '+%Y-%m-%d %H:%M:%S')  ${LIMIT_ARG:-(no limit)}"
+  echo "==================== BACKLOG DRAIN START ===================="
+  echo "$(date '+%Y-%m-%d %H:%M:%S')  args: --oldest ${LIMIT_ARG:-(no limit)}"
   echo "============================================================"
 } >> "$LOG"
 
 # `nice` keeps the machine responsive for interactive use while this grinds.
 nice -n 10 /usr/bin/python3 scripts/check_new_episodes.py --oldest $LIMIT_ARG \
   >> "$LOG" 2>&1
+RC=$?
 
-echo "backlog drain finished $(date '+%Y-%m-%d %H:%M:%S')" >> "$LOG"
+{
+  echo "==================== BACKLOG DRAIN END ======================"
+  echo "$(date '+%Y-%m-%d %H:%M:%S')  exit=$RC"
+  echo "============================================================"
+} >> "$LOG"

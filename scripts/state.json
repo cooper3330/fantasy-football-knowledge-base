@@ -2,13 +2,15 @@
   "episodes": {
     "00ca2964-daa0-11ee-bcbf-13939a892fe2": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "00ca2964-daa0-11ee-bcbf-13939a892fe2",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-07",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Calvin Ridley, Marquise Brown & Tee Higgins Breakdown"
+      "staged_path": "Sources/_inbox/2024-03-07-rp-calvin-ridley-marquise-brown-tee-higgins-breakdown.md",
+      "status": "fetched",
+      "title": "Calvin Ridley, Marquise Brown & Tee Higgins Breakdown",
+      "transcript_source": "whisper"
     },
     "01551378-2ddd-4fa0-9cc9-48ef57767cdb": {
       "expert": "Chris Harris",
@@ -404,23 +406,27 @@
     },
     "39e1a28e-eae2-11ee-a2a6-2b71cf173f17": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "39e1a28e-eae2-11ee-a2a6-2b71cf173f17",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-26",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Breaking Down the Top 3 Wide Receiver Prospects"
+      "staged_path": "Sources/_inbox/2024-03-26-rp-breaking-down-the-top-3-wide-receiver-prospects.md",
+      "status": "fetched",
+      "title": "Breaking Down the Top 3 Wide Receiver Prospects",
+      "transcript_source": "whisper"
     },
     "3ec29720-e003-11ee-9c1e-0fc3b4285c56": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "3ec29720-e003-11ee-9c1e-0fc3b4285c56",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-14",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Free Agency Continued: Breaking Calvin Ridley News, Diontae, Russ, Jeudy & Gabe Davis"
+      "staged_path": "Sources/_inbox/2024-03-14-rp-free-agency-continued-breaking-calvin-ridley-news-diontae-russ-jeudy-g.md",
+      "status": "fetched",
+      "title": "Free Agency Continued: Breaking Calvin Ridley News, Diontae, Russ, Jeudy & Gabe Davis",
+      "transcript_source": "whisper"
     },
     "442d4d36-426c-4593-8152-c712245b1c16": {
       "expert": "Chris Harris",
@@ -1234,13 +1240,15 @@
     },
     "6beea0a0-dfee-11ee-8e1a-0b0323795c53": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "6beea0a0-dfee-11ee-8e1a-0b0323795c53",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-12",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Hot Start in Free Agency: Kirk Cousins, Michael Pittman, Saquon Barkley & Josh Jacobs"
+      "staged_path": "Sources/_inbox/2024-03-12-rp-hot-start-in-free-agency-kirk-cousins-michael-pittman-saquon-barkley-j.md",
+      "status": "fetched",
+      "title": "Hot Start in Free Agency: Kirk Cousins, Michael Pittman, Saquon Barkley & Josh Jacobs",
+      "transcript_source": "whisper"
     },
     "6c0304ae-b3f7-11ef-b76b-67a162b6e355": {
       "expert": "Matt Harmon",
@@ -1484,13 +1492,15 @@
     },
     "72065f4a-ec88-11ee-a27d-bfe0827a10a3": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "72065f4a-ec88-11ee-a27d-bfe0827a10a3",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-28",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "The Worst Wide Receiver Depth Charts Out There"
+      "staged_path": "Sources/_inbox/2024-03-28-rp-the-worst-wide-receiver-depth-charts-out-there.md",
+      "status": "fetched",
+      "title": "The Worst Wide Receiver Depth Charts Out There",
+      "transcript_source": "whisper"
     },
     "7207a6c7-f3ee-4dc9-ad70-f074912d66ae": {
       "expert": "Chris Harris",
@@ -1514,43 +1524,51 @@
     },
     "75003942-53e9-11ee-bfa7-bb78291205a6": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "75003942-53e9-11ee-bfa7-bb78291205a6",
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-29",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Wide Receiver Prospects & the State of the Falcons"
+      "staged_path": "Sources/_inbox/2024-02-29-rp-wide-receiver-prospects-the-state-of-the-falcons.md",
+      "status": "fetched",
+      "title": "Wide Receiver Prospects & the State of the Falcons",
+      "transcript_source": "whisper"
     },
     "75274b0e-53e9-11ee-bfa7-27c23fd9424e": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "75274b0e-53e9-11ee-bfa7-27c23fd9424e",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-05",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Mike Evans Stays in Tampa & Levels of Wide Receiver Need"
+      "staged_path": "Sources/_inbox/2024-03-05-rp-mike-evans-stays-in-tampa-levels-of-wide-receiver-need.md",
+      "status": "fetched",
+      "title": "Mike Evans Stays in Tampa & Levels of Wide Receiver Need",
+      "transcript_source": "whisper"
     },
     "754e300c-53e9-11ee-bfa7-9b1735551926": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "754e300c-53e9-11ee-bfa7-9b1735551926",
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-27",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Tee Higgins & Mike Evans, Marvin Harrison Jr. & Bieniemy Picks College Ball"
+      "staged_path": "Sources/_inbox/2024-02-27-rp-tee-higgins-mike-evans-marvin-harrison-jr-bieniemy-picks-college-ball.md",
+      "status": "fetched",
+      "title": "Tee Higgins & Mike Evans, Marvin Harrison Jr. & Bieniemy Picks College Ball",
+      "transcript_source": "whisper"
     },
     "75961c8e-e609-11ee-ae72-733c20539487": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "75961c8e-e609-11ee-ae72-733c20539487",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-21",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Marquise Brown to KC, Jerry Jeudy Charting & New Falcons WR Room"
+      "staged_path": "Sources/_inbox/2024-03-21-rp-marquise-brown-to-kc-jerry-jeudy-charting-new-falcons-wr-room.md",
+      "status": "fetched",
+      "title": "Marquise Brown to KC, Jerry Jeudy Charting & New Falcons WR Room",
+      "transcript_source": "whisper"
     },
     "777f296c-2948-11f1-ac11-7bd1e544f89a": {
       "expert": "Matt Harmon",
@@ -1624,13 +1642,15 @@
     },
     "862bb65a-e571-11ee-a692-03b8e19ccf2d": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "862bb65a-e571-11ee-a692-03b8e19ccf2d",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-19",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Weekend Receiver News: Keenan Allen Joins Bears & Bills Add Curtis Samuel"
+      "staged_path": "Sources/_inbox/2024-03-19-rp-weekend-receiver-news-keenan-allen-joins-bears-bills-add-curtis-samuel.md",
+      "status": "fetched",
+      "title": "Weekend Receiver News: Keenan Allen Joins Bears & Bills Add Curtis Samuel",
+      "transcript_source": "whisper"
     },
     "8e32740f-c58e-486d-849b-9a9fb8adf071": {
       "expert": "Chris Harris",
@@ -2004,33 +2024,39 @@
     },
     "b6a139ba-f05a-11ee-a49d-c7ba36321973": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "b6a139ba-f05a-11ee-a49d-c7ba36321973",
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-02",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Brian Thomas Jr. & Ladd McConkey Profiles"
+      "staged_path": "Sources/_inbox/2024-04-02-rp-brian-thomas-jr-ladd-mcconkey-profiles.md",
+      "status": "fetched",
+      "title": "Brian Thomas Jr. & Ladd McConkey Profiles",
+      "transcript_source": "whisper"
     },
     "b6dd77f4-f05a-11ee-a49d-7b198c386c1f": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "b6dd77f4-f05a-11ee-a49d-7b198c386c1f",
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-04",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Stefon Diggs is a Texan & Keon Coleman Breakdown"
+      "staged_path": "Sources/_inbox/2024-04-04-rp-stefon-diggs-is-a-texan-keon-coleman-breakdown.md",
+      "status": "fetched",
+      "title": "Stefon Diggs is a Texan & Keon Coleman Breakdown",
+      "transcript_source": "whisper"
     },
     "b71408e6-f05a-11ee-a49d-bf2e3bc6ad2c": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "b71408e6-f05a-11ee-a49d-bf2e3bc6ad2c",
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-09",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Roman Wilson & Ricky Pearsall Breakdowns"
+      "staged_path": "Sources/_inbox/2024-04-09-rp-roman-wilson-ricky-pearsall-breakdowns.md",
+      "status": "fetched",
+      "title": "Roman Wilson & Ricky Pearsall Breakdowns",
+      "transcript_source": "whisper"
     },
     "b74ad4fc-f05a-11ee-a49d-e3f42e01d463": {
       "expert": "Matt Harmon",
@@ -2064,13 +2090,15 @@
     },
     "b7f720cc-f05a-11ee-a49d-7bf676acef96": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "b7f720cc-f05a-11ee-a49d-7bf676acef96",
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-11",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Adonai Mitchell & Free Agent WR's Remaining"
+      "staged_path": "Sources/_inbox/2024-04-11-rp-adonai-mitchell-free-agent-wrs-remaining.md",
+      "status": "fetched",
+      "title": "Adonai Mitchell & Free Agent WR's Remaining",
+      "transcript_source": "whisper"
     },
     "b82f1e82-f05a-11ee-a49d-f74011657587": {
       "expert": "Matt Harmon",
@@ -2894,23 +2922,27 @@
     },
     "c9911cf6-2483-11ed-a706-738dd2d50466": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "c9911cf6-2483-11ed-a706-738dd2d50466",
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-18",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "College Standouts & NFL Divisional Round Preview"
+      "staged_path": "Sources/_inbox/2024-01-18-rp-college-standouts-nfl-divisional-round-preview.md",
+      "status": "fetched",
+      "title": "College Standouts & NFL Divisional Round Preview",
+      "transcript_source": "whisper"
     },
     "c99ff2c6-2483-11ed-a706-b3db9caa60a9": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "c99ff2c6-2483-11ed-a706-b3db9caa60a9",
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-25",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Head Coaching News & Conference Championship Breakdowns"
+      "staged_path": "Sources/_inbox/2024-01-25-rp-head-coaching-news-conference-championship-breakdowns.md",
+      "status": "fetched",
+      "title": "Head Coaching News & Conference Championship Breakdowns",
+      "transcript_source": "whisper"
     },
     "c9a39e87-7570-431c-903c-7fd128a9c80d": {
       "expert": "Chris Harris",
@@ -2946,13 +2978,15 @@
     },
     "c9dbb6bc-2483-11ed-a706-434cb233715f": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "c9dbb6bc-2483-11ed-a706-434cb233715f",
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-23",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Some Fun Games in the Divisional Round"
+      "staged_path": "Sources/_inbox/2024-01-23-rp-some-fun-games-in-the-divisional-round.md",
+      "status": "fetched",
+      "title": "Some Fun Games in the Divisional Round",
+      "transcript_source": "whisper"
     },
     "c9e4b010-f05a-11ee-a49d-ff10a521cd47": {
       "expert": "Matt Harmon",
@@ -2966,33 +3000,39 @@
     },
     "c9ea5820-2483-11ed-a706-d79edbab0d08": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "c9ea5820-2483-11ed-a706-d79edbab0d08",
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-30",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Conference Championship Review & More Coaching Hires"
+      "staged_path": "Sources/_inbox/2024-01-30-rp-conference-championship-review-more-coaching-hires.md",
+      "status": "fetched",
+      "title": "Conference Championship Review & More Coaching Hires",
+      "transcript_source": "whisper"
     },
     "ca08ed6c-2483-11ed-a706-5b5bf51c7b3c": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "ca08ed6c-2483-11ed-a706-5b5bf51c7b3c",
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-13",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Chiefs Take Down 49ers for Super Bowl LVIII"
+      "staged_path": "Sources/_inbox/2024-02-13-rp-chiefs-take-down-49ers-for-super-bowl-lviii.md",
+      "status": "fetched",
+      "title": "Chiefs Take Down 49ers for Super Bowl LVIII",
+      "transcript_source": "whisper"
     },
     "ca178d40-2483-11ed-a706-5f16602d1dad": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "ca178d40-2483-11ed-a706-5f16602d1dad",
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-01",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Arthur Smith to Pittsburgh, Seahawks Personnel & Senior Bowl Takes"
+      "staged_path": "Sources/_inbox/2024-02-01-rp-arthur-smith-to-pittsburgh-seahawks-personnel-senior-bowl-takes.md",
+      "status": "fetched",
+      "title": "Arthur Smith to Pittsburgh, Seahawks Personnel & Senior Bowl Takes",
+      "transcript_source": "whisper"
     },
     "ca1ef2d4-f05a-11ee-a49d-672ca87a059a": {
       "expert": "Matt Harmon",
@@ -3330,303 +3370,363 @@
     },
     "https://mattwaldmanrsp.com/?p=49461": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49461",
       "last_checked": "2026-08-02",
       "pub_date": "2023-12-21",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "The Pacing and Control of Elite NFL Movers/Decision-Makers and the Pro-Readiness of WRs Marvin Harrison, Jr vs. Malik Nabers: Going Deep with Brandon Angelo and Matt Waldman"
+      "staged_path": "Sources/_inbox/2023-12-21-rsp-the-pacing-and-control-of-elite-nfl-moversdecision-makers-and-the-pro-.md",
+      "status": "fetched",
+      "title": "The Pacing and Control of Elite NFL Movers/Decision-Makers and the Pro-Readiness of WRs Marvin Harrison, Jr vs. Malik Nabers: Going Deep with Brandon Angelo and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49476": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49476",
       "last_checked": "2026-08-02",
       "pub_date": "2023-12-21",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "The Cyclical Nature of Talent vs. Scheme in the NFL and the NIL\u2019s Potential Impact on the NFL: RSP Film and Theory with Adam Harstad and Matt Waldman"
+      "staged_path": "Sources/_inbox/2023-12-21-rsp-the-cyclical-nature-of-talent-vs-scheme-in-the-nfl-and-the-nils-potent.md",
+      "status": "fetched",
+      "title": "The Cyclical Nature of Talent vs. Scheme in the NFL and the NIL\u2019s Potential Impact on the NFL: RSP Film and Theory with Adam Harstad and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49509": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49509",
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-01",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It: 1.1.24: An RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-01-01-rsp-feel-it-or-fk-it-1124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It: 1.1.24: An RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49554": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49554",
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-04",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Favorite 2023 NFL Storylines and 2023 Rookie Review: RSP Film and Theory with Adam Harstad and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-01-04-rsp-favorite-2023-nfl-storylines-and-2023-rookie-review-rsp-film-and-theor.md",
+      "status": "fetched",
+      "title": "Favorite 2023 NFL Storylines and 2023 Rookie Review: RSP Film and Theory with Adam Harstad and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49577": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49577",
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-08",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It: 1.8.24: An RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-01-08-rsp-feel-it-or-fk-it-1824-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It: 1.8.24: An RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49594": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49594",
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-11",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "The Safest RB in the Draft, the Sleeper Miscast as a Gadget, the Keon Coleman Rollercoaster, and Penix and Punishment: Going Deep with Brandon Angelo and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-01-11-rsp-the-safest-rb-in-the-draft-the-sleeper-miscast-as-a-gadget-the-keon-co.md",
+      "status": "fetched",
+      "title": "The Safest RB in the Draft, the Sleeper Miscast as a Gadget, the Keon Coleman Rollercoaster, and Penix and Punishment: Going Deep with Brandon Angelo and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49609": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49609",
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-11",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Adam\u2019s 2023 Post-Rookie-Year Prospect Model: RSP Film and Theory with Adam Harstad and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-01-11-rsp-adams-2023-post-rookie-year-prospect-model-rsp-film-and-theory-with-ad.md",
+      "status": "fetched",
+      "title": "Adam\u2019s 2023 Post-Rookie-Year Prospect Model: RSP Film and Theory with Adam Harstad and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49613": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49613",
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-15",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It: 1.8.24: Special Guest Daniel Harms Joins Matt Waldman\u2019s RSP Cast"
+      "staged_path": "Sources/_inbox/2024-01-15-rsp-feel-it-or-fk-it-1824-special-guest-daniel-harms-joins-matt-waldmans-r.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It: 1.8.24: Special Guest Daniel Harms Joins Matt Waldman\u2019s RSP Cast",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49637": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49637",
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-22",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It: 1.22.24: An RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-01-22-rsp-feel-it-or-fk-it-12224-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It: 1.22.24: An RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49684": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49684",
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-29",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It: 1.29.24: An RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-01-29-rsp-feel-it-or-fk-it-12924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It: 1.29.24: An RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49700": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49700",
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-01",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "2024 Sr. Bowl Fallout and Fave Developmental Picks: Going Deep with Brandon Angelo and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-02-01-rsp-2024-sr-bowl-fallout-and-fave-developmental-picks-going-deep-with-bran.md",
+      "status": "fetched",
+      "title": "2024 Sr. Bowl Fallout and Fave Developmental Picks: Going Deep with Brandon Angelo and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49709": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49709",
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-02",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "The NFL Hall of Fame (And Our Picks for the \u201924 Class) RSP Film and Theory with Adam Harstad and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-02-02-rsp-the-nfl-hall-of-fame-and-our-picks-for-the-24-class-rsp-film-and-theor.md",
+      "status": "fetched",
+      "title": "The NFL Hall of Fame (And Our Picks for the \u201924 Class) RSP Film and Theory with Adam Harstad and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49718": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49718",
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-05",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It: 2.5.24: An RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-02-05-rsp-feel-it-or-fk-it-2524-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It: 2.5.24: An RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49738": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49738",
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-12",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It Post-Super Bowl Edition: An RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-02-12-rsp-feel-it-or-fk-it-post-super-bowl-edition-an-rsp-cast-with-bob-harris-a.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It Post-Super Bowl Edition: An RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49784": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49784",
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-19",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It: Never Too Early to Draft Edition RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-02-19-rsp-feel-it-or-fk-it-never-too-early-to-draft-edition-rsp-cast-with-bob-ha.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It: Never Too Early to Draft Edition RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49806": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49806",
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-22",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Going Deep with Brandon Angelo and Matt Waldman: The 2024 RB Class Edition"
+      "staged_path": "Sources/_inbox/2024-02-22-rsp-going-deep-with-brandon-angelo-and-matt-waldman-the-2024-rb-class-edit.md",
+      "status": "fetched",
+      "title": "Going Deep with Brandon Angelo and Matt Waldman: The 2024 RB Class Edition",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49824": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49824",
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-26",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It:  Fantasy Drafts in February, the NFL Combine, and QB Metrics with Bob Harris and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-02-26-rsp-feel-it-or-fk-it-fantasy-drafts-in-february-the-nfl-combine-and-qb-met.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It:  Fantasy Drafts in February, the NFL Combine, and QB Metrics with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49867": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49867",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-01",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Combine 40 Times in Perspective and the \u201cBig Four\u201d \u201924 RB Free Agents: RSP Film and Theory with Adam Harstad and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-03-01-rsp-combine-40-times-in-perspective-and-the-big-four-24-rb-free-agents-rsp.md",
+      "status": "fetched",
+      "title": "Combine 40 Times in Perspective and the \u201cBig Four\u201d \u201924 RB Free Agents: RSP Film and Theory with Adam Harstad and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49871": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49871",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-04",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It: NFL Combine Fallout, and Free Agent/Rookie QB Fits with Bob Harris and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-03-04-rsp-feel-it-or-fk-it-nfl-combine-fallout-and-free-agentrookie-qb-fits-with.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It: NFL Combine Fallout, and Free Agent/Rookie QB Fits with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49886": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49886",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-08",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "2024 NFL Draft QB Class A-T: Matt Waldman\u2019s RSP Solo Cast"
+      "staged_path": "Sources/_inbox/2024-03-08-rsp-2024-nfl-draft-qb-class-a-t-matt-waldmans-rsp-solo-cast.md",
+      "status": "fetched",
+      "title": "2024 NFL Draft QB Class A-T: Matt Waldman\u2019s RSP Solo Cast",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49894": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49894",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-11",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It: 3.11.24: An RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-03-11-rsp-feel-it-or-fk-it-31124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It: 3.11.24: An RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49913": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49913",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-16",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "2024 NFL Draft WR Class A-Z: Matt Waldman\u2019s RSP Solo Cast"
+      "staged_path": "Sources/_inbox/2024-03-16-rsp-2024-nfl-draft-wr-class-a-z-matt-waldmans-rsp-solo-cast.md",
+      "status": "fetched",
+      "title": "2024 NFL Draft WR Class A-Z: Matt Waldman\u2019s RSP Solo Cast",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49936": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49936",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-19",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It: 3.19.24: An RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-03-19-rsp-feel-it-or-fk-it-31924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It: 3.19.24: An RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49941": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49941",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-23",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Matt Waldman\u2019s 2024 RSP RB A-W Solo Cast"
+      "staged_path": "Sources/_inbox/2024-03-23-rsp-matt-waldmans-2024-rsp-rb-a-w-solo-cast.md",
+      "status": "fetched",
+      "title": "Matt Waldman\u2019s 2024 RSP RB A-W Solo Cast",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49951": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49951",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-25",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It: 3.25.24: An RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-03-25-rsp-feel-it-or-fk-it-32524-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It: 3.25.24: An RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49969": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49969",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-28",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Going Deep with Brandon Angelo and Matt Waldman: If We Were NFL GMs\u2026"
+      "staged_path": "Sources/_inbox/2024-03-28-rsp-going-deep-with-brandon-angelo-and-matt-waldman-if-we-were-nfl-gms.md",
+      "status": "fetched",
+      "title": "Going Deep with Brandon Angelo and Matt Waldman: If We Were NFL GMs\u2026",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49974": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49974",
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-30",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Matt Waldman\u2019s 2024 RSP TE A-Z Solo Cast"
+      "staged_path": "Sources/_inbox/2024-03-30-rsp-matt-waldmans-2024-rsp-te-a-z-solo-cast.md",
+      "status": "fetched",
+      "title": "Matt Waldman\u2019s 2024 RSP TE A-Z Solo Cast",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49985": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49985",
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-01",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It: 4.1.24: An RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-04-01-rsp-feel-it-or-fk-it-4124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It: 4.1.24: An RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=49999": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=49999",
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-08",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F@#k It: 4.8.24: An RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "Sources/_inbox/2024-04-08-rsp-feel-it-or-fk-it-4824-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F@#k It: 4.8.24: An RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=50015": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-02",
       "guid": "https://mattwaldmanrsp.com/?p=50015",
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-11",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Going Deep with Brandon Angelo and Matt Waldman: Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes"
+      "staged_path": "Sources/_inbox/2024-04-11-rsp-going-deep-with-brandon-angelo-and-matt-waldman-fave-evals-coach-kille.md",
+      "status": "fetched",
+      "title": "Going Deep with Brandon Angelo and Matt Waldman: Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=50029": {
       "expert": "Matt Waldman",

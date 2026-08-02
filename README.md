@@ -197,14 +197,17 @@ completion first; afterwards only 0–3 episodes are ever pending and oldest-fir
 is exactly right.
 
 **`scripts/drain_backlog.sh`** is the separate, one-time counterpart for the
-back catalog — same script, but `--oldest` and uncapped, run under `nice`,
-logging to `scripts/logs/backlog.log`. Safe to interrupt: state is checkpointed
-after every episode, so re-running resumes exactly where it stopped.
+back catalog — same underlying script, but `--oldest` and optionally uncapped,
+run under `nice`. It logs to the **same `scripts/logs/daily.log`** as the
+scheduled job so all pipeline activity reads as one stream, wrapped in
+`BACKLOG DRAIN START/END` banners to stay distinguishable. Safe to interrupt:
+state is checkpointed after every episode, so re-running resumes exactly where
+it stopped.
 
 ```bash
-nohup ./scripts/drain_backlog.sh > /dev/null 2>&1 &   # drain everything
-tail -f scripts/logs/backlog.log                      # watch progress
-./scripts/drain_backlog.sh 25                         # or just 25 episodes
+nohup ./scripts/drain_backlog.sh 50 > /dev/null 2>&1 &   # drain 50 episodes
+nohup ./scripts/drain_backlog.sh > /dev/null 2>&1 &      # or drain everything
+tail -f scripts/logs/daily.log                           # watch progress
 ```
 
 **`run_weekly_backup.sh`** is deliberately trivial and fully decoupled from
