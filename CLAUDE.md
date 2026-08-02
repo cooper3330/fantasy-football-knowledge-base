@@ -65,9 +65,53 @@ isn't format-specific, don't force a tag — leave it general.
    resolves links by filename), e.g. `Players/Christian McCaffrey.md`,
    `Concepts/Zero RB.md`.
 
+## Automated ingestion queue (`Sources/_inbox/`)
+
+`scripts/check_new_episodes.py` runs daily (scheduled task) and passively watches
+this Mac's local Apple Podcasts library/cache for new episodes across every show
+listed in the script's `SHOWS` config — currently:
+
+- **Reception Perception: The Show** ([[Matt Harmon]]) — only `[FULL EPISODE]`
+  releases; clips are filtered out.
+- **Harris Fantasy Football Podcast** ([[Chris Harris]]) — every episode.
+- **Matt Waldman's RSP Cast** ([[Matt Waldman]]) — every episode.
+
+It never touches git and never calls any Apple API directly — it only reads
+`MTLibrary.sqlite` and the TTML transcript cache that Podcasts.app already
+writes to disk because this machine is subscribed to each show. When Apple's
+auto-generated transcript for an episode has finished downloading, the script
+stages a plain-text copy at `Sources/_inbox/<date>-<show-slug>-<title-slug>.md`
+and marks it `fetched` in `scripts/state.json`.
+
+At the start of any session (and always as part of the daily scheduled task),
+check `Sources/_inbox/` for staged files. For each one:
+
+1. Treat its content as a new transcript — apply the full ingestion workflow
+   below (steps 2–5), using the front matter already present (expert, show,
+   date) instead of re-deriving it.
+2. Note: Apple labels speakers generically (`SPEAKER_1`, `SPEAKER_2`, ...) with
+   no name mapping, and the label→person mapping isn't guaranteed stable across
+   episodes. Infer who's actually speaking from context (introductions, how
+   they refer to each other, subject matter) — don't assume a fixed order.
+3. Once fully ingested (the source note is created/updated and all extracted
+   claims are woven into Player/Concept/Expert notes), move the file out of
+   `Sources/_inbox/` into its permanent home per step 1 below, delete the
+   staging copy, and update its entry in `scripts/state.json` to
+   `"status": "ingested"`.
+
+Episodes whose transcript hasn't appeared within a couple of days of
+publication are logged to `Sources/_needs-attention.md` by the script itself
+(not by you) — checking continues automatically, that file is just visibility
+into what's stuck.
+
+A separate, independent weekly scheduled task handles `git add`/`commit`/`push`
+for the whole repo. Never run git commands as part of ingestion — the two are
+intentionally decoupled.
+
 ## Ingesting a new transcript
 
-When given a new podcast/media transcript, or a link/summary of one:
+When given a new podcast/media transcript, or a link/summary of one (including
+from `Sources/_inbox/` above):
 
 1. Create `Sources/<Show> - <YYYY-MM-DD> - <Expert>.md` from
    `_templates/Source.md`, filling in front matter (expert, show, episode, date,
