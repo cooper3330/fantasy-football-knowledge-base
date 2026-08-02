@@ -50,59 +50,95 @@ isn't format-specific, don't force a tag — leave it general.
    claims as "According to [[Expert Name]] ([[Source Note]], YYYY-MM-DD)
    [Format if applicable]: ..." — never state an expert's take as settled truth
    in the wiki's own voice.
-4. **Append, don't overwrite.** When a new source contradicts or updates an old
+4. **Chronological order wins.** Within a note's "Expert Takes", bullets are
+   ordered oldest → newest, so the last bullet is always the most current view.
+   Recency carries weight: when takes conflict, the newer one reflects better
+   information (injuries, camp reports, depth-chart moves), and an older take
+   must never be written in a way that supersedes or overwrites a newer one.
+   Keep both, dated, in order. See the ingestion-order rule below.
+5. **Append, don't overwrite.** When a new source contradicts or updates an old
    take (e.g. after an injury or role change), add the new dated entry alongside
    the old one rather than deleting it. The history of how opinion shifted is
    valuable — don't erase it.
-5. **Idempotent ingestion.** Before creating a note, search for an existing one,
+6. **Idempotent ingestion.** Before creating a note, search for an existing one,
    including under likely synonyms/nicknames (e.g. "CMC" vs "Christian
    McCaffrey"). Update in place; don't duplicate.
-6. **Dense linking.** Use `[[wikilinks]]` liberally — every player mention, expert
+7. **Dense linking.** Use `[[wikilinks]]` liberally — every player mention, expert
    mention, and named concept should link to its note.
-7. **Disagreement is signal.** When experts differ, record both takes rather than
+8. **Disagreement is signal.** When experts differ, record both takes rather than
    picking a winner or silently averaging them.
-8. **File naming.** Filename = exact display name used in wikilinks (Obsidian
+9. **File naming.** Filename = exact display name used in wikilinks (Obsidian
    resolves links by filename), e.g. `Players/Christian McCaffrey.md`,
    `Concepts/Zero RB.md`.
 
 ## Automated ingestion queue (`Sources/_inbox/`)
 
-`scripts/check_new_episodes.py` runs daily (scheduled task) and passively watches
-this Mac's local Apple Podcasts library/cache for new episodes across every show
-listed in the script's `SHOWS` config — currently:
+`scripts/check_new_episodes.py` reads each tracked show's public RSS feed and
+stages a plain-text transcript at
+`Sources/_inbox/<date>-<show-slug>-<title-slug>.md`, marking it `fetched` in
+`scripts/state.json` (keyed by RSS `<guid>`). Tracked shows:
 
 - **Reception Perception: The Show** ([[Matt Harmon]]) — only `[FULL EPISODE]`
   releases; clips are filtered out.
 - **Harris Fantasy Football Podcast** ([[Chris Harris]]) — every episode.
 - **Matt Waldman's RSP Cast** ([[Matt Waldman]]) — every episode.
 
-It never touches git and never calls any Apple API directly — it only reads
-`MTLibrary.sqlite` and the TTML transcript cache that Podcasts.app already
-writes to disk because this machine is subscribed to each show. When Apple's
-auto-generated transcript for an episode has finished downloading, the script
-stages a plain-text copy at `Sources/_inbox/<date>-<show-slug>-<title-slug>.md`
-and marks it `fetched` in `scripts/state.json`.
+Each staged file records how its transcript was produced in the
+`transcript_source` front-matter field:
+
+- **`whisper`** — local speech-to-text via `whisper.cpp` (`large-v3-turbo`) on
+  the episode's public MP3 enclosure. Free, offline, no API key, ~24× realtime
+  on this Mac. **This is the path for effectively every episode.**
+- **`feed-transcript`** — a `<podcast:transcript>` tag on the RSS item.
+  Disabled by default (`PREFER_FEED_TRANSCRIPTS = False`): the only such
+  transcripts here are 8 RSP Cast episodes from a 2024 Blubrry trial whose ASR
+  is measurably worse than Whisper's. Used automatically only if an episode has
+  a transcript tag but no audio enclosure.
+
+The script never touches git and never calls a paid API.
 
 At the start of any session (and always as part of the daily scheduled task),
-check `Sources/_inbox/` for staged files. For each one:
+check `Sources/_inbox/` for staged files.
+
+**Always ingest in strict chronological order, oldest episode first.** Staged
+filenames are date-prefixed (`YYYY-MM-DD-<show>-<title>.md`), so sorting by
+filename gives the correct order. This is not a nicety — expert opinion on a
+player evolves (injuries, depth-chart changes, camp reports), and each
+`Players/` note accumulates dated takes in file order. Ingesting oldest-first
+means a more current take always lands *after* an older one, so the note reads
+chronologically and a stale opinion can never appear to supersede a fresher
+one. If you ever ingest out of order, insert the bullet in its correct
+date position rather than appending it to the end.
+
+For each staged file:
 
 1. Treat its content as a new transcript — apply the full ingestion workflow
    below (steps 2–5), using the front matter already present (expert, show,
    date) instead of re-deriving it.
-2. Note: Apple labels speakers generically (`SPEAKER_1`, `SPEAKER_2`, ...) with
-   no name mapping, and the label→person mapping isn't guaranteed stable across
-   episodes. Infer who's actually speaking from context (introductions, how
-   they refer to each other, subject matter) — don't assume a fixed order.
-3. Once fully ingested (the source note is created/updated and all extracted
+2. **No speaker labels.** Neither transcript source provides diarization.
+   Infer who's speaking from context (introductions, how they refer to each
+   other, subject matter). Most episodes are a consistent host pairing — see
+   the relevant `Sources/` notes for who hosts what.
+3. **Expect ASR errors on proper nouns**, especially player names. Observed
+   examples: "Malik neighbors" (Nabers), "Romo Dunze" (Rome Odunze), "Jameer
+   Gibbs" (Jahmyr Gibbs), "Debo Samuel" (Deebo Samuel), "Dijon Stribling"
+   (De'Zhaun Stribling). Always normalize to the correct real-world spelling
+   before creating or updating a `Players/` note, and check for an existing
+   note under the correct spelling first (rule 6, idempotent ingestion). Never
+   create a player note under a garbled ASR spelling.
+4. Once fully ingested (the source note is created/updated and all extracted
    claims are woven into Player/Concept/Expert notes), move the file out of
    `Sources/_inbox/` into its permanent home per step 1 below, delete the
    staging copy, and update its entry in `scripts/state.json` to
    `"status": "ingested"`.
 
-Episodes whose transcript hasn't appeared within a couple of days of
-publication are logged to `Sources/_needs-attention.md` by the script itself
-(not by you) — checking continues automatically, that file is just visibility
-into what's stuck.
+Whisper output has inconsistent capitalization/punctuation on long episodes
+(a known long-form drift; content accuracy is unaffected). Don't treat
+lowercase passages as lower-confidence — they're as accurate as the rest.
+
+Episodes the pipeline fails to transcribe are logged to
+`Sources/_needs-attention.md` by the script itself (not by you) and retried on
+every run — that file is just visibility into what's stuck.
 
 A separate, independent weekly scheduled task handles `git add`/`commit`/`push`
 for the whole repo. Never run git commands as part of ingestion — the two are
