@@ -20,4 +20,5 @@ Particularly relevant to [[Dynasty]] given the prospect-evaluation focus.
 
 
 ## Sources
-- 
+- [[Matt Waldman's RSP Cast - 2026-07-20 - Matt Waldman]]
+- [[Matt Waldman's RSP Cast - 2026-07-27 - Matt Waldman]]
