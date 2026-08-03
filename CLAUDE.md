@@ -207,7 +207,13 @@ fixed.
   whether to open the page. For players, lead with position/team and the current
   headline view.
 - Keep player entries grouped by position (QB / RB / WR / TE).
-- Update it in the same pass that creates a page — never defer.
+- Update it in the same pass — never defer — in **both** cases:
+  - a page was **created**, and
+  - an existing page's **headline view materially changed** (see ingest step 7).
+    The line must describe the current view, not the view at creation time.
+- Mark clearly when a page's takes are old enough to be untrustworthy, e.g.
+  *(2023 takes, stale)*. During a live draft the index line is often all that
+  gets read, so an unqualified stale summary actively misleads.
 
 ## What NOT to do
 
