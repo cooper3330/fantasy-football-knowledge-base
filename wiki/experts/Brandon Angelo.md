@@ -50,7 +50,17 @@ while Waldman supplies scouting-report framing and NFL comps.
 - **2023-12-21** — [[Malik Nabers]] over [[Marvin Harrison Jr.]] for the 2024
   rookie class, on pro-readiness rather than ceiling; projected Nabers for
   1,100+ yards and 10+ TDs as a rookie.
+- **2024-01-11** — 2024 draft-prospect calls, all open: [[Blake Corum]] as
+  possibly the safest running back in the class on pace-control/movement
+  grounds rather than measurables (top-5 personal ranking); [[Keon Coleman]]
+  as a top-5 receiver prospect overall, with the explicit risk flagged as
+  Courtland Sutton-style outside-role pigeonholing rather than a talent
+  ceiling; [[Ainias Smith]] as a personal sleeper likely to outplay a
+  "gadget player" public perception; [[Michael Penix Jr.]] projected to need
+  a multi-year bench runway (Jordan Love comp) given his injury history,
+  rather than starting early.
 
 ## Sources
 - [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]] — *Going Deep*; RB movement skills, pro-readiness vs ceiling, player development
 - [[Matt Waldman's RSP Cast - 2024-01-08]] — not a co-host on this episode; his "healthy enough to play vs. perform" framework relayed by Waldman on [[Tony Pollard]]
+- [[Matt Waldman's RSP Cast - 2024-01-11 (Going Deep - Draft Prospects)]] — *Going Deep*; 2024 draft-class evaluation of [[Blake Corum]], [[Michael Penix Jr.]], [[Keon Coleman]], and [[Ainias Smith]]; extends the pace-control/movement-intellect framework with a new "compensatory skill" mechanism

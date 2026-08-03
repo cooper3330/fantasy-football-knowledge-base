@@ -78,6 +78,14 @@ Deep* with Brandon Angelo.
   "concern relative to the buzz" — his objection is usually to what a player is
   being valued at, not to the player. Applied to [[Marvin Harrison Jr.]] on
   2023-12-21.
+- **Treats outside quantitative models as one input, never a verdict.**
+  Reacting to Adam Harstad's [[Post-Rookie-Year Receiver Model]] on 2024-01-11:
+  "I often like players more or less than the model suggests... you're not
+  going to shut the whole thing down" when a number disagrees with his own
+  tape read. Cites his own [[Christian Watson]]-over-Garrett Wilson stance from
+  the 2022 rookie class as the example — the model favored Watson, and Waldman
+  said at the time he still wouldn't trade Watson for Wilson regardless
+  (Garrett Wilson is not otherwise tracked in this wiki).
 
 ## Track Record Notes
 
@@ -149,6 +157,28 @@ Deep* with Brandon Angelo.
   stated principle that a tight end's year-one output is rarely his final
   form. Worth tracking against how both careers actually develop.
 
+- **Self-admitted biggest 2023 rookie-WR pre-draft miss (2024-01-11,
+  *Film and Theory*): [[Rashee Rice]].** Graded him as overrated by 19 draft
+  spots pre-draft, ranking him 44th overall (late-fourth-round rookie-draft
+  value). After the season, reacting to Adam Harstad's
+  [[Post-Rookie-Year Receiver Model]] score, calls it his single biggest miss
+  of the class and says he needs to revisit the tape — an explicit,
+  self-flagged correction rather than a quiet revision. See
+  [[Post-Rookie-Year Receiver Model]].
+
+- **[[Puka Nacua]] — real hit, modest by his own account (2024-01-11).**
+  Volunteers, unprompted, that his own pre-draft ranking had Nacua just 31st
+  overall (bottom of his second tier), underrated by only 14 spots relative to
+  draft slot — a genuine hit, but well short of "the Nick Chubb of receivers."
+  Offered as his own calibration check against Harstad's model, which scored
+  Nacua's rookie year as the single best in the sampled history (2006–2023).
+
+- **Kayshon Boutte — acknowledged miss (2024-01-11).** Ranked him 19th
+  among rookie receivers pre-draft, underrated by roughly seven spots; says
+  flatly "that hasn't worked out early on" once actual playing time didn't
+  materialize. No further evaluative claim made on Boutte himself, so no page
+  was created for him — logged here as a track-record item only.
+
 ## Sources
 - [[Matt Waldman's RSP Cast - 2023-12-14]] — career longevity / aging curves (with Adam Harstad)
 - [[Matt Waldman's RSP Cast - 2023-12-18]] — *Feel It or F**k It*, Week 15 (with Bob Harris); route-running framework, 2024 RB market, Houston scheme-vs-talent
@@ -157,3 +187,6 @@ Deep* with Brandon Angelo.
 - [[Matt Waldman's RSP Cast - 2024-01-01]] — *Feel It or F**k It*, New Year's week (with Bob Harris); 2024 redraft ADP calls across ~20 players, Cleveland and the Rams as new scheme-vs-talent cases, injury-agnostic roster construction
 - [[Matt Waldman's RSP Cast - 2024-01-04]] — *RSP Film and Theory* (with Adam Harstad); 2023 season storylines and a full 2023 rookie-class review across ~18 players, the "do the harder thing" role-difficulty heuristic, Purdy's career-arc forecast
 - [[Matt Waldman's RSP Cast - 2024-01-08]] — *Feel It or F**k It*, Week 18 wrap (with Bob Harris); a wide 2024 redraft/dynasty sweep across ~19 players, Brandon Angelo's "healthy enough to play vs. perform" framework relayed via Tony Pollard
+- [[Matt Waldman's RSP Cast - 2024-01-11 (Post-Rookie Model)]] — *RSP Film and Theory* (with Adam Harstad); Harstad's [[Post-Rookie-Year Receiver Model]] applied to the full 2023 rookie WR class (~19 players), several self-admitted track-record corrections (Rice, Nacua, Boutte)
+- [[Matt Waldman's RSP Cast - 2024-01-11 (Going Deep - Draft Prospects)]] — *Going Deep* (with Brandon Angelo); 2024 draft-class evaluation of [[Blake Corum]], [[Michael Penix Jr.]], [[Keon Coleman]], and [[Ainias Smith]]; also published 2024-01-11 — a distinct episode from the Post-Rookie Model one above
+- [[Matt Waldman's RSP Cast - 2024-01-15]] — *Feel It or F**k It*, with guest Daniel Harms filling in for Bob Harris; a wide mix of current-NFL takes and 2024 draft prospects, including an unresolved on-air disagreement with the guest over [[Travis Kelce]]'s decline

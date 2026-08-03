@@ -1,0 +1,20 @@
+---
+type: player
+team: Washington (2024 draft prospect)
+position: QB
+tags: [player]
+---
+
+# Michael Penix Jr.
+
+> ⚠️ Takes below are from January 2024, pre-draft. He was not yet on an NFL
+> roster at the time of this take — treat as historical scouting context
+> until superseded by newer takes.
+
+## Expert Takes
+
+- 2024-01-11 — According to [[Brandon Angelo]] and [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-11 (Going Deep - Draft Prospects)]]) [Dynasty]: real talent, but both hosts frame his outlook as dominated by his injury history (two ACL tears) rather than his throwing. On tape against Michigan in the national championship, Angelo reads him as "a step too slow" evading pressure off-platform — he anticipates the rush correctly but can no longer plant and redirect his feet in time, a movement cost from the injuries rather than a mental one. Waldman raises Trent Edwards and Carson Strong as the downside case — talented passers whose careers were derailed after taking a physical beating behind bad offensive lines, never regaining what they'd lost. The hosts' preferred outcome comp is a left-handed Geno Smith: less flashy arm talent than his college tape suggested but a "coach on the field" who makes the right read and the right decision, following a Jordan Love-style redshirt runway (see [[Player Development and Coachability]]) rather than starting as a rookie. Both are explicit that sitting behind a veteran for a year or more is the outcome they'd want for him, given the physical toll already on his ledger.
+
+## Related Concepts
+- [[Player Development and Coachability]]
+- [[Dynasty]]

@@ -13,6 +13,8 @@ tags: [player]
 ## Expert Takes
 
 - 2023-12-18 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2023-12-18]]) [Redraft (Standard)]: **f\*\*k it for right now** after Burks led the Titans in receiving. "Obviously there's talent to be mined with his game, but it's still a work in progress" — and one game shouldn't move you. His instruction: wait to see whether the touches and targets follow the next week before starting him. Added uncertainty from the quarterback spot, with Will Levis dealing with an ankle sprain.
+- 2024-01-11 — According to [[Brandon Angelo]] ([[Matt Waldman's RSP Cast - 2024-01-11 (Going Deep - Draft Prospects)]]) [Dynasty]: a much more pessimistic aside, made in passing while discussing why the Titans job is unattractive to coaching candidates — "Burks' injury ship has kind of sailed," cited alongside a lack of other young offensive weapons as evidence the Titans roster isn't close to contending. Not a full re-evaluation of his game, but a real downgrade in outlook from the "talent to be mined" framing three weeks earlier.
 
 ## Related Concepts
 - [[Redraft (Standard)]]
+- [[Dynasty]]

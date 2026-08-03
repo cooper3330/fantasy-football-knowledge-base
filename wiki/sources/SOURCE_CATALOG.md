@@ -31,6 +31,9 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-01-01 | [[Matt Waldman]] | Feel It Or F@#k It: 1.1.24 (w/ Bob Harris) | [[Matt Waldman's RSP Cast - 2024-01-01]] |
 | 2024-01-04 | [[Matt Waldman]] | Favorite 2023 NFL Storylines and 2023 Rookie Review (w/ Adam Harstad) | [[Matt Waldman's RSP Cast - 2024-01-04]] |
 | 2024-01-08 | [[Matt Waldman]] | Feel It Or F@#k It: 1.8.24 (w/ Bob Harris) | [[Matt Waldman's RSP Cast - 2024-01-08]] |
+| 2024-01-11 | [[Matt Waldman]] | Adam's 2023 Post-Rookie-Year Prospect Model — RSP Film and Theory (w/ Adam Harstad) | [[Matt Waldman's RSP Cast - 2024-01-11 (Post-Rookie Model)]] |
+| 2024-01-11 | [[Matt Waldman]] | The Safest RB in the Draft, the Sleeper Miscast as a Gadget, the Keon Coleman Rollercoaster, and Penix and Punishment — Going Deep (w/ Brandon Angelo) | [[Matt Waldman's RSP Cast - 2024-01-11 (Going Deep - Draft Prospects)]] |
+| 2024-01-15 | [[Matt Waldman]] | Feel It Or F@#k It, with guest Daniel Harms | [[Matt Waldman's RSP Cast - 2024-01-15]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

@@ -257,3 +257,84 @@ through it. Verified with a simulated race: a concurrent change now survives a
 stale writer. Two bugs were caught by that test rather than in production — a
 kwargs/positional `guid` collision that would have crashed the drain on its
 first episode, and its non-fix in the function body instead of the signature.
+
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — Adam's 2023 Post-Rookie-Year Prospect Model: RSP Film and Theory with Adam Harstad (2024-01-11)
+*RSP Film and Theory* with **Adam Harstad** (not tracked). Entire episode is
+Harstad's [[Post-Rookie-Year Receiver Model]] (new concept page) — a
+touchdown-adjusted yards-per-route-run + usage-rate score — applied to the
+full 2023 rookie WR class. Created 4 player pages ([[Cedric Tillman]],
+[[Tyler Scott]], [[Jonathan Mingo]], [[Demario Douglas]]) and updated 13
+existing rookie-WR pages. **What materially changed:** (1) [[Rashee Rice]] —
+Waldman names this his single biggest 2023 pre-draft miss (had him 44th
+overall) and now sees real Tyreek-Hill-level upside, though the
+manufactured-role downside case (independently echoed by Matt Harmon) is
+equally live. (2) [[Dontayvion Wicks]] — the model's single biggest
+buy-vs-market-price in the class; Waldman upgrades him from a hold to an
+active trade target. (3) The season-long [[Drake London]] vs. [[Zay Flowers]]
+debate is closed decisively toward London. (4) [[Puka Nacua]]'s rookie season
+scores as the single best in the model's 2006-2023 sample, expanding
+Harstad's historic "big four" to a "big five" — Waldman notes, for
+calibration, that his own pre-draft grade on Nacua was a modest hit (31st),
+not a bold call. (5) [[Tank Dell]] lands in a historically bust-free score
+bucket alongside Mike Evans and Julio Jones, though size/durability and the
+[[Nico Collins]] role-difficulty argument keep Waldman's personal ranking of
+him below that bucket's other names. One bottom-tier rookie WR's name could
+not be confidently resolved from the ASR transcript ("Xavier Gibson," likely
+Xavier Hutchinson) — no page created, flagged in the source summary for
+manual review. Also logged two further self-admitted Waldman track-record
+items: Kayshon Boutte (miss, no page) and the Nacua calibration note, both
+on [[Matt Waldman]]'s expert page.
+
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — The Safest RB in the Draft, the Sleeper Miscast as a Gadget, the Keon Coleman Rollercoaster, and Penix and Punishment (2024-01-11, Going Deep)
+*Going Deep* with [[Brandon Angelo]] (tracked). The second of two episodes
+both dated 2024-01-11 — filenames disambiguated as "(Post-Rookie Model)" and
+"(Going Deep - Draft Prospects)" per the existing 2023-12-21 naming
+precedent. Entirely pre-draft 2024 prospect scouting. Created 4 player pages:
+[[Blake Corum]] (RB, Michigan — Angelo's "safest RB in the class" case, built
+on [[Pace Control and Movement Intellect]] rather than measurables),
+[[Michael Penix Jr.]] (QB, Washington — outlook dominated by injury history;
+both hosts want a Jordan-Love-style bench runway), [[Keon Coleman]] (WR,
+Florida State — the title "rollercoaster," public perception overcorrecting
+from athletic-freak to overrated; real scheme-dependency risk), and
+[[Ainias Smith]] (WR/RB, Texas A&M — the "sleeper miscast as a gadget," ASR
+name normalized from "Aniah/Anais/Elias Smith"). **What materially changed:**
+(1) [[Treylon Burks]]'s outlook takes a real hit — "his injury ship has kind
+of sailed," a genuine downgrade from the "talent to be mined" framing three
+weeks prior. (2) [[Pace Control and Movement Intellect]] gains a new,
+explicitly named mechanism — "compensatory skill" — via a Frank
+Gore/Devin Singletary/Adrian Peterson discussion, plus the clearest single
+statement yet of why slower processors read plays better ("the faster you
+play, the faster you need to process the information"). (3)
+[[Player Development and Coachability]] gains a QB-durability angle: young
+quarterbacks who take a physical beating either recover with a veteran
+runway (Steve Young, Terry Bradshaw, Jim Plunkett) or don't (Trent Edwards,
+Carson Strong), and coaches should proactively pull back playing time before
+a beaten-up young QB starts "seeing ghosts." An extended Vrabel/Belichick
+coaching-carousel discussion was **not** ingested as wiki content, aside from
+the Burks aside — no fantasy-relevant player claim otherwise at stake.
+
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It, guest Daniel Harms (2024-01-15)
+*Feel It or F**k It* with guest **Daniel Harms** (Football Guys/NFL33.com —
+not tracked), filling in for Bob Harris. Episode's RSS title says "1.8.24"
+but internal references confirm a 2024-01-15 publish date (a week after
+[[Matt Waldman's RSP Cast - 2024-01-08]]); flagged as a likely upstream title
+typo in the source summary. Created 10 player pages spanning current NFL
+players ([[Michael Gallup]], [[De'Von Achane]], [[Tua Tagovailoa]]) and 2024
+draft prospects ([[Drake Maye]], [[Bo Nix]], [[Brian Thomas Jr.]],
+[[Ricky Pearsall]], [[Braelon Allen]], [[Troy Franklin]], [[Caleb Williams]]).
+**What materially changed:** (1) [[Tony Pollard]] — a real one-week reversal;
+both Waldman and Harms flip from "real rebound odds" to skeptical, citing a
+lack of vision in condensed spaces and lost explosiveness. (2)
+[[Travis Kelce]] — Harms pushes back hard on Waldman's own January 1 decline
+read, attributing the down year to two specific injuries rather than
+decline; recorded as a live, unresolved disagreement per rule 9 rather than
+flattened into one view. (3) [[Rashee Rice]] gets its most detailed positive
+read yet from a Chiefs-focused analyst, reinforcing the reversal already
+logged from the 2024-01-11 Post-Rookie Model episode. (4) [[Keon Coleman]]
+gets independent third-source corroboration of the [[Brandon Angelo]]/Waldman
+take from four days earlier, plus a new mechanism (Jordan Travis's injury,
+not Coleman's play, explains his softened draft stock). ASR normalizations:
+Drake May → [[Drake Maye]], Ricky Purcell → [[Ricky Pearsall]], Braylon Allen
+→ [[Braelon Allen]]. An extended Chicago Bears coaching-security/Fields-vs-
+Williams speculation thread was mostly **not** ingested as wiki content, aside
+from one sentence of situational context logged on [[Caleb Williams]]'s page.

@@ -2688,13 +2688,15 @@
     },
     "c35019ce-f05a-11ee-a49d-030fa57bbabf": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "c35019ce-f05a-11ee-a49d-030fa57bbabf",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2024-10-31",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Trades, Benchings & Patrick Peterson Joins!"
+      "staged_path": "raw/transcripts/reception-perception/2024-10-31-rp-trades-benchings-patrick-peterson-joins.md",
+      "status": "fetched",
+      "title": "Trades, Benchings & Patrick Peterson Joins!",
+      "transcript_source": "whisper"
     },
     "c38910fa-111c-11f1-959d-c75cf40b094b": {
       "expert": "Matt Harmon",
@@ -2754,23 +2756,27 @@
     },
     "c4363a58-f05a-11ee-a49d-5b238d9cd59f": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "c4363a58-f05a-11ee-a49d-5b238d9cd59f",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2024-10-29",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Week 8 Breakdown!"
+      "staged_path": "raw/transcripts/reception-perception/2024-10-29-rp-week-8-breakdown.md",
+      "status": "fetched",
+      "title": "Week 8 Breakdown!",
+      "transcript_source": "whisper"
     },
     "c46fae82-f05a-11ee-a49d-d780c39bffa5": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "c46fae82-f05a-11ee-a49d-d780c39bffa5",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2024-11-05",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Week 9 Breakdown & Real or Mirage?"
+      "staged_path": "raw/transcripts/reception-perception/2024-11-05-rp-week-9-breakdown-real-or-mirage.md",
+      "status": "fetched",
+      "title": "Week 9 Breakdown & Real or Mirage?",
+      "transcript_source": "whisper"
     },
     "c4e412ea-f05a-11ee-a49d-7f6179b92ab4": {
       "expert": "Matt Harmon",
@@ -2814,13 +2820,15 @@
     },
     "c59104e6-f05a-11ee-a49d-f3f133d0bf0e": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "c59104e6-f05a-11ee-a49d-f3f133d0bf0e",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2024-11-12",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Poor Quarterback Play & Big Week 10 Performances"
+      "staged_path": "raw/transcripts/reception-perception/2024-11-12-rp-poor-quarterback-play-big-week-10-performances.md",
+      "status": "fetched",
+      "title": "Poor Quarterback Play & Big Week 10 Performances",
+      "transcript_source": "whisper"
     },
     "c5a1b5ea-a4fd-4b40-a37e-27b6684a6f1f": {
       "expert": "Chris Harris",
@@ -3537,8 +3545,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-11",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-01-11-rsp-the-safest-rb-in-the-draft-the-sleeper-miscast-as-a-gadget-the-keon-co.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-01-11-rsp-the-safest-rb-in-the-draft-the-sleeper-miscast-as-a-gadget-the-keon-co.md",
+      "status": "ingested",
       "title": "The Safest RB in the Draft, the Sleeper Miscast as a Gadget, the Keon Coleman Rollercoaster, and Penix and Punishment: Going Deep with Brandon Angelo and Matt Waldman",
       "transcript_source": "whisper"
     },
@@ -3549,8 +3557,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-11",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-01-11-rsp-adams-2023-post-rookie-year-prospect-model-rsp-film-and-theory-with-ad.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-01-11-rsp-adams-2023-post-rookie-year-prospect-model-rsp-film-and-theory-with-ad.md",
+      "status": "ingested",
       "title": "Adam\u2019s 2023 Post-Rookie-Year Prospect Model: RSP Film and Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
     },
@@ -3561,8 +3569,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-15",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-01-15-rsp-feel-it-or-fk-it-1824-special-guest-daniel-harms-joins-matt-waldmans-r.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-01-15-rsp-feel-it-or-fk-it-1824-special-guest-daniel-harms-joins-matt-waldmans-r.md",
+      "status": "ingested",
       "title": "Feel It Or F@#k It: 1.8.24: Special Guest Daniel Harms Joins Matt Waldman\u2019s RSP Cast",
       "transcript_source": "whisper"
     },
@@ -4420,53 +4428,63 @@
     },
     "https://mattwaldmanrsp.com/?p=50842": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "https://mattwaldmanrsp.com/?p=50842",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2024-10-31",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Anthony Richardson, Jameis Winston, Russell Wilson, Diontae Johnson, and Bo Nix: Going Deep with Brandon Angelo and Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2024-10-31-rsp-anthony-richardson-jameis-winston-russell-wilson-diontae-johnson-and-b.md",
+      "status": "fetched",
+      "title": "Anthony Richardson, Jameis Winston, Russell Wilson, Diontae Johnson, and Bo Nix: Going Deep with Brandon Angelo and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=50848": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "https://mattwaldmanrsp.com/?p=50848",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2024-10-31",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Tapping Out, Archetypes and Modeling, Tips on Analysis to Trust: RSP Film and Theory with Adam Harstad and Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2024-10-31-rsp-tapping-out-archetypes-and-modeling-tips-on-analysis-to-trust-rsp-film.md",
+      "status": "fetched",
+      "title": "Tapping Out, Archetypes and Modeling, Tips on Analysis to Trust: RSP Film and Theory with Adam Harstad and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=50863": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "https://mattwaldmanrsp.com/?p=50863",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2024-11-04",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It or F\u2013It 11.4.24: An RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2024-11-04-rsp-feel-it-or-fit-11424-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It or F\u2013It 11.4.24: An RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=50896": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "https://mattwaldmanrsp.com/?p=50896",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2024-11-07",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Generalists vs. Specialists, Optimal Development Behavior, Politics and Sport, and Suggestions about Politics: RSP Film and Theory with Adam Harstad and Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2024-11-07-rsp-generalists-vs-specialists-optimal-development-behavior-politics-and-s.md",
+      "status": "fetched",
+      "title": "Generalists vs. Specialists, Optimal Development Behavior, Politics and Sport, and Suggestions about Politics: RSP Film and Theory with Adam Harstad and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=50902": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "https://mattwaldmanrsp.com/?p=50902",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2024-11-11",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It or F\u2013It 11.11.24: An RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2024-11-11-rsp-feel-it-or-fit-111124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It or F\u2013It 11.11.24: An RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=50918": {
       "expert": "Matt Waldman",
