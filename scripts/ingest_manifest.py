@@ -102,7 +102,11 @@ MUST DO for EACH transcript (per CLAUDE.md ingest steps):
     (b) move transcript to raw/ingested/<show>/, (c) update staged_path.
  8. Run `python3 scripts/verify_integrity.py` and confirm OK.
 
-DO NOT run any git commands. Do not modify transcript contents.
+HARD CONSTRAINTS -- these are not style preferences:
+- DO NOT run ANY git command, for any reason. Not `git mv`, not `git add`, not
+  `git status`. Use plain `mv` to move transcripts. The orchestrator handles all
+  version control; an agent touching git can stage or destroy work it cannot see.
+- DO NOT modify the contents of any transcript under raw/.
 
 Report concisely: pages created, pages updated/merged, what materially changed,
 names normalized, and the verify_integrity output."""

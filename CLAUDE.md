@@ -136,7 +136,10 @@ rediscovering the wiki's contents on every run.
    agents will clobber each other.
 2. **Verify between each** — run `python3 scripts/verify_integrity.py` and
    confirm the transcript moved to `raw/ingested/`.
-3. **Commit after each** so a failure never costs more than one episode.
+3. **Checkpoint-commit between episodes** so a failure never costs more than one
+   episode. This is the orchestrator's job and is *not* part of ingestion — see
+   "What NOT to do". Skip it when running unattended/headless; the weekly backup
+   job covers that path.
 4. **On agent failure, check for partial writes** before retrying: if
    `verify_integrity` is OK and `git status` is clean, nothing was written and
    the retry is safe. This has been exercised — a mid-run API failure left no
@@ -276,7 +279,19 @@ fixed.
 - Don't merge multiple experts into an unattributed "consensus".
 - Don't generate the wiki's own rankings or predictions — curate what experts
   said. Synthesis pages may *organize* expert views; they may not invent new ones.
-- Don't run git commands during ingestion. A separate weekly job handles backup.
+- **Don't run git commands as part of ingestion.** Ingestion itself — every one
+  of the 8 steps — never touches git. This holds for ingest subagents and for
+  the headless daily job without exception.
+
+  The one deliberate exception is *checkpointing*, and it is not part of
+  ingestion: a human-facing orchestrator driving a long interactive batch may
+  commit **between** episodes so that a failure costs at most one episode and
+  leaves an obvious rollback point. That is a decision about the run, not a step
+  in the workflow. It proved its worth when two mid-batch API failures needed
+  verifying against a known-clean tree.
+
+  Automated backup remains the separate weekly `launchd` job. Ingestion and git
+  stay independent processes.
 
 ---
 
