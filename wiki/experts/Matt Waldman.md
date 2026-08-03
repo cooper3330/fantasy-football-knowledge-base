@@ -19,6 +19,16 @@ recurring formats: *Feel It or F**k It* with Bob Harris (rapid-fire hot takes),
 *RSP Film and Theory* with Adam Harstad (conceptual/analytical), and *Going
 Deep* with Brandon Angelo.
 
+The Rookie Scouting Portfolio (RSP) itself, per Waldman's own description
+(2024-01-22): in its 19th year as of this episode, covering 150+ prospects
+across QB/RB/WR/TE, sold as a two-part product — a pre-draft guide (April 1)
+and a post-draft guide with fit-adjusted rankings (one week post-draft) — at
+$21.95 each. Waldman cites SMU recruiting director Alex Brown as an
+industry validator: NFL evaluators reportedly cross-check their own boards
+against the RSP. The post-draft product is explicitly where situational fit
+gets folded in — his own example is Puka Nacua, graded modestly pre-draft but
+one of his bigger post-draft value calls once his Rams landing spot was known.
+
 ## Philosophy / Known Biases
 
 - **Film first, reactionary news second.** Explicitly prefers his post-draft
@@ -86,6 +96,10 @@ Deep* with Brandon Angelo.
   the 2022 rookie class as the example — the model favored Watson, and Waldman
   said at the time he still wouldn't trade Watson for Wilson regardless
   (Garrett Wilson is not otherwise tracked in this wiki).
+- **Weighs intangibles and relationship fit alongside tape**, not just as a
+  tiebreaker. Explicitly credits watching [[Jahmyr Gibbs]]'s pre-draft rapport
+  with Lions RBs coach Scotty Montgomery as something that shaded his
+  evaluation of the fit positively before the draft happened (2024-01-22).
 
 ## Track Record Notes
 
@@ -173,6 +187,15 @@ Deep* with Brandon Angelo.
   Offered as his own calibration check against Harstad's model, which scored
   Nacua's rookie year as the single best in the sampled history (2006–2023).
 
+- **Open, unresolved disagreements with guest Daniel Harms's 2024-01-15
+  pre-draft reads (2024-01-22).** On his own first detailed looks at three
+  2024 QB prospects, Waldman lands in a different place than Harms did a week
+  earlier on two of three: more bullish than Harms on [[Bo Nix]] (Harms:
+  "will struggle in the NFL"; Waldman: possibly a top-3-4 QB in the class),
+  more skeptical than Harms on [[Drake Maye]] (Harms: strongly feeling it;
+  Waldman: "my Desmond Ritter of this class"). On [[Caleb Williams]] the two
+  broadly agree (boom-bust framing). All three checkable against the players'
+  rookie seasons.
 - **Kayshon Boutte — acknowledged miss (2024-01-11).** Ranked him 19th
   among rookie receivers pre-draft, underrated by roughly seven spots; says
   flatly "that hasn't worked out early on" once actual playing time didn't
@@ -190,3 +213,4 @@ Deep* with Brandon Angelo.
 - [[Matt Waldman's RSP Cast - 2024-01-11 (Post-Rookie Model)]] — *RSP Film and Theory* (with Adam Harstad); Harstad's [[Post-Rookie-Year Receiver Model]] applied to the full 2023 rookie WR class (~19 players), several self-admitted track-record corrections (Rice, Nacua, Boutte)
 - [[Matt Waldman's RSP Cast - 2024-01-11 (Going Deep - Draft Prospects)]] — *Going Deep* (with Brandon Angelo); 2024 draft-class evaluation of [[Blake Corum]], [[Michael Penix Jr.]], [[Keon Coleman]], and [[Ainias Smith]]; also published 2024-01-11 — a distinct episode from the Post-Rookie Model one above
 - [[Matt Waldman's RSP Cast - 2024-01-15]] — *Feel It or F**k It*, with guest Daniel Harms filling in for Bob Harris; a wide mix of current-NFL takes and 2024 draft prospects, including an unresolved on-air disagreement with the guest over [[Travis Kelce]]'s decline
+- [[Matt Waldman's RSP Cast - 2024-01-22]] — *Feel It or F**k It*, Divisional Round wrap and Conference Championship preview (with Bob Harris); a wide 2024 redraft/dynasty sweep plus Waldman's own first detailed looks at [[Jayden Daniels]], [[J.J. McCarthy]], [[Bo Nix]], [[Drake Maye]] and [[Caleb Williams]], several disagreeing with guest Daniel Harms's 2024-01-15 reads

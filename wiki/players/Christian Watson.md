@@ -14,6 +14,9 @@ tags: [player]
 ## Expert Takes
 
 - 2024-01-08 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-08]]) [Dynasty]: pairs Watson's speed with [[Jayden Reed]]'s as the two dimensions [[Dontayvion Wicks]] can't match, but flags durability as the entire question mark on his 2024 outlook — "if he cannot figure out the availability side of the equation," Wicks (or [[Romeo Doubs]]) is positioned to take the fantasy-relevant role share instead. Notes the Packers front office has discussed the availability issue openly rather than treating it as settled.
+- 2024-01-16 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-01-16]]): "super physically talented," but had no impact in the Wild Card win over Dallas — consistent with, not a new addition to, the availability/consistency concern already tracked on his page.
+- 2024-01-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-22]]) [Best Ball]: unchanged read heading into best-ball draft season — "still think he's that guy," a unique speed/athleticism difference-maker, but availability remains the entire question mark. With Green Bay's receiver room this crowded, Waldman's stated draft strategy is to take "the cheapest piece on a regular basis" among Reed/Wicks/Doubs/Watson rather than pay a premium for any one name, expecting the group to cannibalize each other's value in redraft more than in best ball.
 
 ## Related Concepts
 - [[Dynasty]]
+- [[Best Ball]]

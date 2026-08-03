@@ -34,6 +34,9 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-01-11 | [[Matt Waldman]] | Adam's 2023 Post-Rookie-Year Prospect Model — RSP Film and Theory (w/ Adam Harstad) | [[Matt Waldman's RSP Cast - 2024-01-11 (Post-Rookie Model)]] |
 | 2024-01-11 | [[Matt Waldman]] | The Safest RB in the Draft, the Sleeper Miscast as a Gadget, the Keon Coleman Rollercoaster, and Penix and Punishment — Going Deep (w/ Brandon Angelo) | [[Matt Waldman's RSP Cast - 2024-01-11 (Going Deep - Draft Prospects)]] |
 | 2024-01-15 | [[Matt Waldman]] | Feel It Or F@#k It, with guest Daniel Harms | [[Matt Waldman's RSP Cast - 2024-01-15]] |
+| 2024-01-16 | [[Matt Harmon]] | Wild Card Weekend Recap (w/ James Koh) | [[Reception Perception The Show - 2024-01-16]] |
+| 2024-01-18 | [[Matt Harmon]] | College Standouts & NFL Divisional Round Preview (w/ James Koh) | [[Reception Perception The Show - 2024-01-18]] |
+| 2024-01-22 | [[Matt Waldman]] | Feel It Or F@#k It: 1.22.24 (w/ Bob Harris) | [[Matt Waldman's RSP Cast - 2024-01-22]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

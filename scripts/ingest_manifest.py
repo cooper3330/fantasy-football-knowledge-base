@@ -23,9 +23,15 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 STATE = REPO / "scripts" / "state.json"
 
-CO_HOSTS = """- *Feel It or F**k It* -> BOB HARRIS (NOT tracked; NOT the same person as tracked expert Chris Harris)
-- *Film and Theory*      -> ADAM HARSTAD (NOT tracked)
-- *Going Deep*           -> BRANDON ANGELO (**IS** a tracked expert -- link as [[Brandon Angelo]], do not label him untracked)"""
+CO_HOSTS = """By show:
+- *Matt Waldman's RSP Cast* -> MATT WALDMAN (tracked). Rotating co-hosts:
+    - *Feel It or F**k It* -> BOB HARRIS   (NOT tracked; NOT the same person as tracked expert Chris Harris)
+    - *Film and Theory*    -> ADAM HARSTAD (NOT tracked)
+    - *Going Deep*         -> BRANDON ANGELO (**IS** tracked -- link [[Brandon Angelo]], never label him untracked)
+- *Reception Perception: The Show* -> MATT HARMON (tracked) with JAMES KOH (co-host, NOT tracked)
+- *Harris Fantasy Football Podcast* -> CHRIS HARRIS (tracked), frequent rotating guests (NOT tracked)
+
+Guests seen so far, all NOT tracked: Daniel Harms, Jeff Erickson, Cecil Lammey, Dwain McFarland, JJ Zachariason."""
 
 
 def load_queue():

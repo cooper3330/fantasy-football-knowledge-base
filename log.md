@@ -338,3 +338,108 @@ Drake May → [[Drake Maye]], Ricky Purcell → [[Ricky Pearsall]], Braylon Alle
 → [[Braelon Allen]]. An extended Chicago Bears coaching-security/Fields-vs-
 Williams speculation thread was mostly **not** ingested as wiki content, aside
 from one sentence of situational context logged on [[Caleb Williams]]'s page.
+
+## [2026-08-03] ingest | Reception Perception: The Show — Wild Card Weekend Recap (2024-01-16)
+**First [[Matt Harmon]] episode ingested into this wiki.** Everything prior
+was Matt Waldman's RSP Cast; Harmon has his own expert page, populated here
+for the first time (Background/Philosophy/Track Record were previously
+empty). Co-host **James Koh** (not tracked, distinct from Matt Waldman's
+co-hosts) attributed by name throughout — ASR renders his name as "James
+Go"/"James Gov"/"James Coe," normalized to James Koh. Raw/ingested paths for
+this show are `raw/transcripts/reception-perception/` and
+`raw/ingested/reception-perception/`, not `rsp-cast/`. A Wild Card recap
+episode — game-recap content is low-durability by nature, so ingestion
+favored evaluation reads over play-by-play. Created 1 player page
+([[Jared Goff]]) and 1 concept page ([[Reception Perception Methodology]],
+capturing Harmon's durable WR-charting framework — success rate vs.
+press/man/zone, route-type and alignment splits, the 3-game-to-8-game
+sampling process, and the cross-class "stacked board" tier system).
+**What materially changed:** (1) [[Jordan Love]] gets the strongest praise of
+any quarterback logged in this wiki to date — Harmon says he wouldn't take
+10 other QBs over him given age/contract, ranking him above [[Dak Prescott]],
+Trevor Lawrence and Jalen Hurts. (2) [[Tua Tagovailoa]] gets the harshest read
+yet ("straight up bad"), benchmarked directly against new page
+[[Jared Goff]] — Harmon pegs Tua's ceiling just below Goff's, itself outside
+a top-12 QB conversation. (3) [[Cooper Kupp]]'s decline case sharpens
+considerably: Harmon puts 50/50 odds that ankle-injury-driven explosiveness
+loss is permanent, directly citing Reception Perception's own man-coverage
+separation data showing [[Puka Nacua]] now out-separates him. (4)
+[[Nico Collins]] gets a specific redraft ADP forecast (waiver-wire price to
+2nd/3rd round) off a Wild Card-clinic performance alongside [[C.J. Stroud]].
+(5) [[Joe Flacco]]'s outlook shifts from "starter competition" to "likely
+veteran-backup market" after Cleveland's Wild Card exit. Not ingested as wiki
+content: a lengthy Cowboys/Belichick/Vrabel/Deion-Sanders coaching-carousel
+discussion (no fantasy-relevant player claim at stake).
+
+## [2026-08-03] pipeline | Concurrent transcript drain note
+A transcript drain is running alongside this ingest batch, continuing to add
+new Reception Perception episodes under `raw/transcripts/reception-perception/`
+(now running well past January 2024 into 2025). These are out of scope for
+this ingest and were left untouched; only the three transcripts explicitly
+assigned were processed, oldest-first, per rule 4.
+
+## [2026-08-03] ingest | Reception Perception: The Show — College Standouts & NFL Divisional Round Preview (2024-01-18)
+Second [[Matt Harmon]] episode, with co-host **James Koh** (not tracked; ASR
+"James Coe" normalized). Two halves: early (3-game-sample, explicitly
+non-final) 2024 draft-prospect charting on the consensus top three receiver
+prospects, and a betting-heavy Divisional Round preview. Created 3 player
+pages ([[Rome Odunze]] — ASR "Romo Dunze"/"Romo Dunzey" normalized to his
+real name; [[John Metchie III]] — ASR "John Mechie" normalized;
+[[Xavier Hutchinson]]) and substantially expanded the
+[[Reception Perception Methodology]] concept page with the fullest on-air
+demonstration yet of Harmon's charting metrics (press/curl-route success
+rates, alignment share) and his cross-class "stacked board" tier system.
+**What materially changed:** (1) Harmon's charting independently corroborates
+the existing Waldman/Angelo pre-draft reads on [[Marvin Harrison Jr.]] (elite
+press-coverage separator, ceiling still ahead of pro-readiness) and
+[[Malik Nabers]] (ranked 3rd of the elite trio in separation/contested-catch/
+hands despite the "60 to zero" deceleration praise) — a second, independent
+data source agreeing with the RSP Cast's earlier read, not a new
+disagreement. (2) [[Ja'Marr Chase]] and [[Drake London]] both gain a durable
+pedigree marker: one of only five receivers (with Chris Olave, DeVonta
+Smith, Garrett Wilson — not tracked) ever to earn Harmon's tier-one "stacked
+board" grade. (3) [[Nico Collins]] gets a specific role-difficulty mechanism
+(cover-6 in-breaking route data against elite linebackers) reinforcing his
+2024-01-16 breakout read, while [[Noah Brown]]'s IR placement and
+[[Xavier Hutchinson]]'s limited usage leave Houston's receiver room
+dangerously thin behind Collins going into a tougher Baltimore defense.
+(4) [[Stefon Diggs]] picks up a real, new role-dilution mechanism — Buffalo
+hiding him in the slot specifically to dodge opposing CB1s — not present in
+his prior entries. Per the low-durability guidance for game-recap/preview
+content, most of the divisional-round betting-line and prop material was
+**not** ingested; only matchup mechanisms with forward-looking evaluative
+content were kept (see the source page's "Not given pages" list for the
+full skip list: Josh Allen, Patrick Mahomes, Baker Mayfield, Robert Woods).
+
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: 1.22.24 (2024-01-22)
+Back to [[Matt Waldman]]'s RSP Cast with co-host **Bob Harris** (not tracked,
+not [[Chris Harris]]) after the two-episode Reception Perception detour.
+Divisional Round wrap plus Conference Championship preview, then a distinct
+second half of Waldman's own first detailed 2024 QB prospect reads. Created
+4 player pages ([[Rashad Bateman]], [[Chris Godwin]], [[Jayden Daniels]],
+[[J.J. McCarthy]]). **What materially changed:** (1) [[Jordan Love]] gets a
+detailed defense of his Divisional Round pick-six moment as rookie-starter
+growing pains, plus a "top five QB production" claim for his final month of
+2023 comparable to [[Lamar Jackson]]'s — reinforces Harmon's independent
+praise from the prior two episodes with a second, differently-reasoned
+source. (2) [[Brock Purdy]] gets a specific, actionable redraft claim: early
+ECR ranks him outside the top-12 quarterbacks, which Waldman calls "a
+mistake" he intends to exploit. (3) [[Devin Singletary]] reverses hard from
+the December 2023 "feeling it" read to no longer being Houston's presumptive
+2024 starter — a real reversal, not corroboration, kept alongside the old
+take per rule 5. (4) [[Khalil Shakir]] is now explicitly rated above both
+[[Gabe Davis]] and [[Stefon Diggs]] on Buffalo's depth chart. (5) Real,
+if vague, smoke reported around [[Stefon Diggs]] and the Bills organization
+— "there's got to be more to that story" — logged as a live, unresolved
+signal rather than a firm claim. (6) On the three 2024 QB prospects Waldman
+now grades himself for the first time, two are live disagreements with
+guest Daniel Harms's 2024-01-15 reads rather than confirmations: more
+bullish than Harms on [[Bo Nix]], more skeptical than Harms on
+[[Drake Maye]] — both logged per rule 9 without picking a winner. (7)
+[[Michael Penix Jr.]] downgrades from the 2024-01-11 bench-runway framing to
+a "journeyman starter" grade. The [[Matt Waldman]] expert page also picks up
+its first detailed description of the Rookie Scouting Portfolio product
+itself (19th year, $21.95, pre/post-draft two-part structure) from Waldman's
+own on-air description. ASR normalizations: none required beyond standard
+name-drift cleanup (no new garbled names introduced this episode beyond
+already-normalized ones).
