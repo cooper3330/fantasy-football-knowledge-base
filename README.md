@@ -22,8 +22,12 @@ index.md              catalog of every wiki page (retrieval entry point)
 log.md                append-only record of ingests / queries / lints
 CLAUDE.md             the schema: conventions + workflows
 
-raw/                  LAYER 1 - immutable sources, never edited
-  transcripts/
+raw/                  LAYER 1 - sources; contents never edited
+  transcripts/        awaiting ingestion (the work queue)
+    reception-perception/
+    harris-football/
+    rsp-cast/
+  ingested/           already woven into the wiki
     reception-perception/
     harris-football/
     rsp-cast/
@@ -41,9 +45,16 @@ wiki/                 LAYER 2 - LLM-owned
 scripts/              transcription pipeline + state.json
 ```
 
-Key property: raw transcripts are written once into `raw/` and **never move**.
-Ingestion status lives in `scripts/state.json`, not in a file's location — so no
-transcript can be lost to a failed or partial move.
+Transcripts are written into `raw/transcripts/` and relocate exactly once, to
+`raw/ingested/`, when ingested — so the folder itself is the work queue. Their
+*contents* are never edited. `scripts/state.json` remains authoritative, and
+`scripts/verify_integrity.py` reconciles state against disk, detecting and
+repairing drift (missing files, wrong tree, stale paths, duplicates, orphans):
+
+```bash
+python3 scripts/verify_integrity.py          # report
+python3 scripts/verify_integrity.py --fix    # repair
+```
 
 ## Automated ingestion pipeline
 

@@ -18,7 +18,7 @@ for the chronological record of ingests, queries, and lints.
 
 | Layer | Location | Owner |
 |---|---|---|
-| **Raw sources** | `raw/transcripts/` | Immutable. Append-only. Never edited. |
+| **Raw sources** | `raw/transcripts/` (queue)<br>`raw/ingested/` (done) | Contents immutable. Only permitted change is moving between the two trees on ingestion. |
 | **Wiki** | `wiki/` | LLM-owned. Created, updated, cross-referenced. |
 | **Schema** | `CLAUDE.md` | Conventions + workflows. |
 
@@ -77,6 +77,8 @@ Transcription and ingestion progress is tracked in `scripts/state.json`.
 
 - `pending` — episode known from RSS, not yet transcribed
 - `fetched` — transcript in `raw/transcripts/`, awaiting ingestion
-- `ingested` — woven into the wiki
+- `ingested` — woven into the wiki; transcript moved to `raw/ingested/`
+
+Run `python3 scripts/verify_integrity.py` to reconcile state against disk.
 
 Source-acquisition failures are logged to [raw/_needs-attention.md](raw/_needs-attention.md).

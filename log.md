@@ -42,3 +42,12 @@ Reorganized into the three-layer pattern: immutable `raw/` sources, LLM-owned
 `log.md`. Added `wiki/synthesis/` for filed query answers supporting draft and
 waiver decisions. All 154 transcripts preserved and verified byte-identical
 (1,614,588 words). Prior state tagged `pre-karpathy-restructure`.
+
+## [2026-08-03] pipeline | Physical separation of ingested transcripts
+Split the raw layer into `raw/transcripts/` (awaiting ingestion) and
+`raw/ingested/` (done), so the folder itself is a visible work queue rather than
+requiring a `state.json` query. Transcript *contents* remain immutable; the only
+permitted change is this one relocation. Added `scripts/verify_integrity.py` to
+reconcile state against disk — detects missing files, wrong tree, stale paths,
+duplicate basenames, and orphans, with `--fix` to repair. Verified it catches and
+repairs a simulated half-completed move.

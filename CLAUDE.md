@@ -16,9 +16,14 @@ dates and citations. It curates expert opinion; it does not originate advice.
 
 | Layer | Path | Rule |
 |---|---|---|
-| **Raw** | `raw/transcripts/<show>/` | **Immutable.** Read, never edit, never move, never delete. Append-only. Source of truth. |
+| **Raw** | `raw/transcripts/<show>/` (awaiting ingestion)<br>`raw/ingested/<show>/` (done) | **Contents immutable.** Never edit or delete a transcript. The *only* permitted change is relocating it between these two trees on ingestion. |
 | **Wiki** | `wiki/` | Yours entirely. Create, update, cross-link, keep consistent. |
 | **Schema** | `CLAUDE.md` (this file) | Conventions and workflows. |
+
+The two raw trees give an at-a-glance work queue: anything in
+`raw/transcripts/` still needs ingesting. `scripts/state.json` remains the
+authoritative record; `scripts/verify_integrity.py` reconciles the two and
+repairs drift.
 
 Plus two maintained files at the root:
 
@@ -105,8 +110,7 @@ chronological invariant hold.
 
 For each transcript:
 
-1. Read it from `raw/transcripts/<show>/`. **Do not modify or move it.** It
-   stays there permanently.
+1. Read it from `raw/transcripts/<show>/`. **Never edit its contents.**
 2. Note: transcripts have **no speaker labels**. Infer speakers from context
    (introductions, how they address each other, subject matter). Capitalization
    and punctuation drift mid-episode — this is cosmetic, content is accurate.
@@ -121,7 +125,24 @@ For each transcript:
 6. Update `wiki/sources/SOURCE_CATALOG.md` with a row for the episode.
 7. Update `index.md` for any newly created page (see "Index maintenance").
 8. Append to `log.md`: `## [YYYY-MM-DD] ingest | <Show> — <Episode Title>`.
-9. Set the episode's `status` to `ingested` in `scripts/state.json`.
+9. **Finalize, strictly in this order** — the order matters so an interruption
+   is always recoverable:
+   a. Set the episode's `status` to `ingested` in `scripts/state.json`.
+   b. Move the transcript `raw/transcripts/<show>/<file>` →
+      `raw/ingested/<show>/<file>`.
+   c. Update that episode's `staged_path` in `state.json` to the new location.
+
+   If you are interrupted between these, nothing is lost: the transcript exists
+   in one tree or the other, and `scripts/verify_integrity.py` will detect and
+   repair the mismatch. Run it if anything looks inconsistent:
+
+   ```bash
+   python3 scripts/verify_integrity.py          # report
+   python3 scripts/verify_integrity.py --fix    # repair
+   ```
+
+   **Never delete a transcript.** Moving between the two raw trees is the only
+   permitted relocation.
 
 ## Operation: query
 
@@ -153,6 +174,9 @@ A periodic health pass. Check for:
 - **Garbled names** — pages created under ASR spellings (rule 7), or duplicates
   of the same player under two spellings.
 - **Gaps** — a tracked expert with no recent sources; a format page with no takes.
+- **Raw/state drift** — run `python3 scripts/verify_integrity.py`. It checks that
+  every transcript is on disk, in the tree its status implies, referenced by
+  state, with no duplicates or orphans.
 
 Append findings to `log.md` as `## [YYYY-MM-DD] lint | <scope>` with what was
 fixed.
