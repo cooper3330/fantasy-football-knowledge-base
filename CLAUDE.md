@@ -52,11 +52,20 @@ wiki/
 - [[Chris Harris]] — Harris Fantasy Football Podcast
 - [[Matt Harmon]] — Reception Perception: The Show (WR charting)
 - [[Matt Waldman]] — Matt Waldman's RSP Cast (film-based scouting, dynasty)
+- [[Brandon Angelo]] — *Going Deep* co-host on the RSP Cast. **Evaluation and
+  theory, not rankings** — his value is mostly in the concept layer, and his
+  frameworks outlive the specific players he applies them to.
 
-Only ingest takes from these three unless asked to add another. Podcasts
-frequently feature co-hosts and guests (e.g. Bob Harris, James Koh, Jeff
-Erickson) — attribute their views to them by name and note they are not tracked
-experts; never silently merge a guest's opinion into a tracked expert's.
+Only ingest takes from these four unless asked to add another. Podcasts
+frequently feature other co-hosts and guests — **Bob Harris** (*Feel It or
+F**k It*), **Adam Harstad** (*Film and Theory*), James Koh, Jeff Erickson,
+Cecil Lammey — who are **not** tracked. Attribute their views to them by name
+and note they are not tracked experts; never silently merge a guest's opinion
+into a tracked expert's.
+
+⚠️ **Bob Harris ≠ [[Chris Harris]].** Different people. Bob Harris co-hosts the
+RSP Cast and is not tracked; Chris Harris hosts the Harris Fantasy Football
+Podcast and is tracked. Never conflate them.
 
 ## Format priority
 
@@ -107,6 +116,36 @@ Triggered when transcripts sit in `raw/transcripts/` with status `fetched` in
 **Always process oldest-first.** Filenames are date-prefixed, so sorting by
 filename gives the correct order. See rule 4 — this is what makes the
 chronological invariant hold.
+
+### Delegate to subagents — one transcript per agent
+
+A transcript is 10–20k words and ingestion touches 10–15 pages. Doing several
+in one context degrades quality on the later ones. **Spawn one subagent per
+transcript**, each with a fresh context.
+
+Run `python3 scripts/ingest_manifest.py` first — it prints a ready-made
+subagent prompt for the next transcript, with the current page inventory and
+co-host roster already inlined. This exists so the agent doesn't burn tokens
+rediscovering the wiki's contents on every run.
+
+**Rules for orchestrating:**
+
+1. **Strictly sequential — never parallel.** Two reasons: rule 4 requires
+   episode N ingested before N+1, and every agent writes to the same shared
+   files (`index.md`, `log.md`, `SOURCE_CATALOG.md`, `state.json`). Concurrent
+   agents will clobber each other.
+2. **Verify between each** — run `python3 scripts/verify_integrity.py` and
+   confirm the transcript moved to `raw/ingested/`.
+3. **Commit after each** so a failure never costs more than one episode.
+4. **On agent failure, check for partial writes** before retrying: if
+   `verify_integrity` is OK and `git status` is clean, nothing was written and
+   the retry is safe. This has been exercised — a mid-run API failure left no
+   partial state.
+5. Agents must **not** run git commands; the orchestrator commits.
+
+Use a cheaper model for ingestion agents where available. Extraction against a
+schema this explicit does not need the most capable model, and this is the
+single biggest cost lever in the whole pipeline.
 
 For each transcript:
 

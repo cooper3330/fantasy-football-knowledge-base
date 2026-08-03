@@ -143,3 +143,18 @@ ASR normalizations included Malik Neighbors→Malik Nabers, Margaret/Mark Richar
 Jr.→Marvin Harrison Jr., Bruce Hall→Breece Hall, Isaiah→Isiah Pacheco, Robert
 Sala→Robert Saleh, Drew Locke→Drew Lock, Chad Rider→Chad Reuter, Cecil
 Lammy→Cecil Lammey, Sigmund Blum→Sigmund Bloom, Blinkoff→Biletnikoff.
+
+## [2026-08-03] pipeline | Brandon Angelo promoted to tracked expert
+Added [[Brandon Angelo]] (*Going Deep* co-host) as the fourth tracked expert —
+evaluation-and-theory focused rather than rankings, so his value concentrates in
+the concept layer. Rewrote 33 existing attributions across 28 files that had
+labelled him "not a tracked expert". Corrected provenance is preserved: the
+RB movement-skill framework and the pro-readiness-vs-ceiling framework are his.
+
+## [2026-08-03] pipeline | Subagent ingestion protocol documented + cost tooling
+CLAUDE.md now specifies one-subagent-per-transcript with fresh context, strictly
+sequential (shared-file writes and rule 4 both forbid parallelism), verify and
+commit between each. Added scripts/ingest_manifest.py, which precomputes the
+page inventory and co-host roster into a ready-made agent prompt so agents stop
+rediscovering the wiki on every run — a cost that otherwise grows as the wiki
+grows. Measured baseline: ~126k tokens/episode, ~18.9M for the remaining 150.

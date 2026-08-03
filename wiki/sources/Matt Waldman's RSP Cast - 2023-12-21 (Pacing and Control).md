@@ -14,7 +14,7 @@ tags: [source]
 **Raw transcript:** `raw/ingested/rsp-cast/2023-12-21-rsp-the-pacing-and-control-of-elite-nfl-moversdecision-makers-and-the-pro-.md`
 
 > **Two episodes share this date.** This is the *Going Deep* episode with
-> **Brandon Angelo**. The other is
+> [[Brandon Angelo]]. The other is
 > [[Matt Waldman's RSP Cast - 2023-12-21]] — *RSP Film and Theory* with Adam
 > Harstad, "The Cyclical Nature of Talent vs. Scheme."
 >
@@ -27,7 +27,7 @@ tags: [source]
 ## Summary
 
 *Going Deep* — the every-other-week format [[Matt Waldman]] co-hosts with
-**Brandon Angelo** (X: @Angelo_Fantasy; **not** a tracked expert in this wiki —
+[[Brandon Angelo]] (X: @Angelo_Fantasy; **not** a tracked expert in this wiki —
 his views are attributed to him by name throughout). Note this is a third
 co-host, distinct from Adam Harstad (*RSP Film and Theory*) and Bob Harris
 (*Feel It or F**k It*).

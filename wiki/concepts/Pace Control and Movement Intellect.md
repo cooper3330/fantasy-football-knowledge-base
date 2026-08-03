@@ -7,7 +7,7 @@ tags: [concept, evaluation, film]
 
 ## Definition
 
-The cross-positional trait [[Matt Waldman]] and **Brandon Angelo** argue
+The cross-positional trait [[Matt Waldman]] and [[Brandon Angelo]] argue
 separates elite NFL movers: not top-end speed, but the ability to **control
 your own gears** play-to-play — and, paired with it, to **gauge the pace and
 angles of everyone else** — and then to take only what the play actually offers.
@@ -22,7 +22,7 @@ quarterbacks and receivers as well as backs. Read them together.
 
 ## Expert Takes
 
-- 2023-12-21 — **Brandon Angelo** (co-host of *Going Deep* — **not** a tracked expert in this wiki) on [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]]: the framing take. The thread linking [[Lamar Jackson]], [[James Cook]], [[Jahmyr Gibbs]] and [[Christian McCaffrey]] is "how well they control the pace of their own game" — athletes who "control space and time" or "know how to control their own gears on a given play." Jackson is his purest case: "Lamar Jackson never reaches top gear." The negative exemplar is [[Isiah Pacheco]] — "you get zero or a hundred." Defenders struggle because these players are "moving at a different pace on every single play."
+- 2023-12-21 — [[Brandon Angelo]] (co-host of *Going Deep*) on [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]]: the framing take. The thread linking [[Lamar Jackson]], [[James Cook]], [[Jahmyr Gibbs]] and [[Christian McCaffrey]] is "how well they control the pace of their own game" — athletes who "control space and time" or "know how to control their own gears on a given play." Jackson is his purest case: "Lamar Jackson never reaches top gear." The negative exemplar is [[Isiah Pacheco]] — "you get zero or a hundred." Defenders struggle because these players are "moving at a different pace on every single play."
 
 - 2023-12-21 — **Angelo**, same episode, the second half of the trait: taking what is blocked instead of hunting the explosive. "Every play in the NFL is not a score mission." Elite movers know what a given play can yield "based on their own capabilities, based on what's blocked, based on what the defense is," and they also manage *contact type* — high, low, direct, indirect — to negate punishment over a 200-hit season. He credits [[Jahmyr Gibbs]] with the version of this that young players usually lack: when it isn't there, Gibbs protects himself and goes down, "and he's okay doing that." The counter-case is [[Breece Hall]], who Angelo says tries to hit the home run every down. His summary of the payoff: these players "become the engines of their own offense."
 

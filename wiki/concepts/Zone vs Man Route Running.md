@@ -26,7 +26,7 @@ receiver quality.
 
 - 2023-12-21 — **Waldman**, same episode, the pre-route and post-route bookends he uses to grade pro-readiness — **release work** (opening the chest to press instead of using a footwork release gets a receiver pinned to the boundary) and **catch-window selection** (Chris Olave as the model, varying whether he attacks the earliest or latest window based on coverage) — plus overhand vs underhand attack position. [[Marvin Harrison Jr.]] is the negative worked example on all three; Terry McLaurin is the standing exception on underhand catching. Full detail: [[Prospect Pro-Readiness vs Ceiling]].
 
-- 2023-12-21 — **Brandon Angelo** (co-host — **not** a tracked expert), same episode, on the practical consequence: route-tree breadth is what makes a receiver deployable everywhere. [[Malik Nabers]] can be aligned "in the backfield, in the slot, out wide, at Z" from day one; [[Marvin Harrison Jr.]] is "not the mover that Nabers is, which is going to limit his route tree initially."
+- 2023-12-21 — [[Brandon Angelo]], same episode, on the practical consequence: route-tree breadth is what makes a receiver deployable everywhere. [[Malik Nabers]] can be aligned "in the backfield, in the slot, out wide, at Z" from day one; [[Marvin Harrison Jr.]] is "not the mover that Nabers is, which is going to limit his route tree initially."
 
 ## Related
 - [[Weak Quarterback Play and Receiver Value]]

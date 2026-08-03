@@ -7,7 +7,7 @@ tags: [concept, evaluation, dynasty, rookie]
 
 ## Definition
 
-The distinction [[Matt Waldman]] and **Brandon Angelo** draw between how good a
+The distinction [[Matt Waldman]] and [[Brandon Angelo]] draw between how good a
 player will eventually be (**ceiling**) and how much of his game already
 transfers on day one (**pro-readiness**). The two come apart routinely, and
 they are priced as if they don't — which is where rookie-draft and
@@ -18,7 +18,7 @@ player as he is a prospect."
 
 ## Expert Takes
 
-- 2023-12-21 — **Brandon Angelo** (co-host of *Going Deep* — **not** a tracked expert) on [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]]: the framing case, [[Malik Nabers]] vs [[Marvin Harrison Jr.]]. "Nabers is NFL-ready on all three levels of the field. Marvin Harrison Jr. is NFL-ready." He grants Harrison the higher ceiling and expects both to be top-10 NFL receivers within five years, but expects Nabers to produce first — 1,100+ yards and 10+ touchdowns as a rookie — while Harrison has "more of a learning curve."
+- 2023-12-21 — [[Brandon Angelo]] (co-host of *Going Deep*) on [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]]: the framing case, [[Malik Nabers]] vs [[Marvin Harrison Jr.]]. "Nabers is NFL-ready on all three levels of the field. Marvin Harrison Jr. is NFL-ready." He grants Harrison the higher ceiling and expects both to be top-10 NFL receivers within five years, but expects Nabers to produce first — 1,100+ yards and 10+ touchdowns as a rookie — while Harrison has "more of a learning curve."
 
 - 2023-12-21 — **Angelo**, same episode, the mechanism: pro-readiness is mostly about how much of the route tree and alignment chart a rookie can be handed immediately. Nabers can be moved "in the backfield, in the slot, out wide, at Z" from day one; Harrison is "not the mover that Nabers is, which is going to limit his route tree initially," and should be given slot reps early to acclimate rather than being asked to beat NFL No. 1 corners one-on-one from the jump.
 
