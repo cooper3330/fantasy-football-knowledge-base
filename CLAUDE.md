@@ -123,8 +123,20 @@ For each transcript:
 5. Update `wiki/experts/<Expert>.md` with the new source, and any shift in their
    overall stance or known biases.
 6. Update `wiki/sources/SOURCE_CATALOG.md` with a row for the episode.
-7. Update `index.md` for any newly created page (see "Index maintenance").
+7. Update `index.md` (see "Index maintenance"), for **both**:
+   - every page newly created in this ingest, and
+   - every existing page whose **headline view materially changed** — an injury,
+     a role or depth-chart shift, a big ranking move, a notable reversal. The
+     index line must reflect the *current* view, not the view from whenever the
+     page was created. A stale index line is worse than none, because it is what
+     gets read during a live draft.
+
+   Don't rewrite an index line for a minor corroborating take that doesn't move
+   the headline.
 8. Append to `log.md`: `## [YYYY-MM-DD] ingest | <Show> — <Episode Title>`.
+   Include a one-line note of what materially changed (e.g. "Pearsall knee
+   concern — cratered to ~WR70"), so `log.md` is scannable for *what shifted*,
+   not just *what was processed*.
 9. **Finalize, strictly in this order** — the order matters so an interruption
    is always recoverable:
    a. Set the episode's `status` to `ingested` in `scripts/state.json`.
@@ -174,6 +186,9 @@ A periodic health pass. Check for:
 - **Garbled names** — pages created under ASR spellings (rule 7), or duplicates
   of the same player under two spellings.
 - **Gaps** — a tracked expert with no recent sources; a format page with no takes.
+- **Stale index lines** — an `index.md` summary that no longer matches its page's
+  most recent take. Spot-check by comparing each index line against the last
+  bullet on the page it points to.
 - **Raw/state drift** — run `python3 scripts/verify_integrity.py`. It checks that
   every transcript is on disk, in the tree its status implies, referenced by
   state, with no duplicates or orphans.
