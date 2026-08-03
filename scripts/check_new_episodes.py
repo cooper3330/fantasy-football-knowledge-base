@@ -37,6 +37,7 @@ from datetime import date, datetime
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 REPO_ROOT = Path(__file__).resolve().parent.parent
 STATE_PATH = REPO_ROOT / "scripts" / "state.json"
 RAW_DIR = REPO_ROOT / "raw" / "transcripts"
@@ -138,7 +139,18 @@ def migrate_state(state):
     return state
 
 
-def save_state(state):
+def save_state(state, guid=None):
+    """Persist state.
+
+    When `guid` is given, write ONLY that episode's fields through the locked
+    read-merge-write helper. The drain holds state in memory for hours while
+    wiki ingestion may be mutating the same file; a wholesale rewrite of our
+    stale copy would silently revert its changes. See scripts/state_io.py.
+    """
+    if guid is not None:
+        import state_io
+        state_io.update_episode(guid, **state["episodes"][guid])
+        return
     STATE_PATH.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n")
 
 
@@ -445,7 +457,7 @@ def main():
             elapsed = (datetime.now() - started).total_seconds()
             print(f"      OK  {len(text.split()):,} words in {elapsed:.0f}s -> {out_path.name}\n",
                   flush=True)
-            save_state(state)   # checkpoint after every episode so long runs are resumable
+            save_state(state, guid=ep["guid"])   # locked, scoped checkpoint (concurrency-safe)
         except Exception as e:
             print(f"      FAILED: {e}\n", file=sys.stderr, flush=True)
             failures.append({
@@ -456,7 +468,10 @@ def main():
             })
 
     write_needs_attention(failures)
-    save_state(state)
+    # No trailing wholesale save_state() here on purpose. Every episode was
+    # already persisted through the locked, scoped path as it completed; a
+    # full rewrite of our hours-old in-memory copy would silently revert any
+    # changes wiki ingestion made concurrently. See scripts/state_io.py.
 
     remaining = total_pending - fetched
     print(f"Done. {fetched} staged, {len(failures)} failed, ~{remaining} still pending.")

@@ -196,10 +196,19 @@ For each transcript:
    not just *what was processed*.
 9. **Finalize, strictly in this order** — the order matters so an interruption
    is always recoverable:
-   a. Set the episode's `status` to `ingested` in `scripts/state.json`.
+   a. Set the episode's `status` to `ingested` — **use the locked helper, never
+      hand-edit the JSON**, because a transcript drain may be writing the same
+      file concurrently:
+      ```bash
+      python3 scripts/state_io.py --guid "<guid>" --status ingested
+      ```
    b. Move the transcript `raw/transcripts/<show>/<file>` →
       `raw/ingested/<show>/<file>`.
-   c. Update that episode's `staged_path` in `state.json` to the new location.
+   c. Update that episode's `staged_path` to the new location, again via the
+      helper:
+      ```bash
+      python3 scripts/state_io.py --guid "<guid>" --staged-path raw/ingested/<show>/<file>.md
+      ```
 
    If you are interrupted between these, nothing is lost: the transcript exists
    in one tree or the other, and `scripts/verify_integrity.py` will detect and

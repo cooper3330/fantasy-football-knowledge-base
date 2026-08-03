@@ -98,8 +98,11 @@ MUST DO for EACH transcript (per CLAUDE.md ingest steps):
  4. Row in wiki/sources/SOURCE_CATALOG.md.
  5. Update index.md -- for BOTH new pages AND existing pages whose headline view changed.
  6. Append to log.md with a note of what materially changed.
- 7. Finalize IN THIS ORDER: (a) status "ingested" in scripts/state.json,
-    (b) move transcript to raw/ingested/<show>/, (c) update staged_path.
+ 7. Finalize IN THIS ORDER -- and use the LOCKED helper for state.json, never
+    hand-edit it (a transcript drain may be writing the same file concurrently):
+      a. python3 scripts/state_io.py --guid "<guid>" --status ingested
+      b. mv the transcript to raw/ingested/<show>/     (plain mv, NOT git mv)
+      c. python3 scripts/state_io.py --guid "<guid>" --staged-path raw/ingested/<show>/<file>.md
  8. Run `python3 scripts/verify_integrity.py` and confirm OK.
 
 HARD CONSTRAINTS -- these are not style preferences:

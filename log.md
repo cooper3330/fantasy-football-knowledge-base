@@ -246,3 +246,14 @@ agent independently produced the correct spelling. Unlinked [[Travis Etienne]]
 (a conditional passing mention in the Tank Bigsby page, no substantive take —
 per the rule that pages come only from real evaluative takes). Zero dangling
 links, zero duplicate players, chronological order verified.
+
+## [2026-08-03] pipeline | Fixed state.json race between drain and ingestion
+The transcript drain and wiki ingestion both mutate scripts/state.json, and the
+drain held an in-memory copy for the whole run while rewriting the entire file
+after every episode — so a concurrent ingestion's changes would be silently
+reverted, re-marking `ingested` episodes as `fetched`. Added scripts/state_io.py
+(exclusive flock + re-read + atomic temp-file rename) and routed both writers
+through it. Verified with a simulated race: a concurrent change now survives a
+stale writer. Two bugs were caught by that test rather than in production — a
+kwargs/positional `guid` collision that would have crashed the drain on its
+first episode, and its non-fix in the function body instead of the signature.
