@@ -1,23 +1,49 @@
 # fantasy-football-knowledge-base
 
-An LLM-maintained Obsidian wiki of fantasy football advice, built from podcast
-and media transcripts of select experts — in the spirit of Andrej Karpathy's
-"LLM wiki" approach: small, atomic, densely cross-linked notes that Claude
-writes and links as source material comes in.
+An LLM-maintained Obsidian wiki of fantasy football analysis, built from the
+podcast transcripts of three trusted analysts and structured after Andrej
+Karpathy's [llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+pattern.
 
-Start at [Home.md](Home.md). See [CLAUDE.md](CLAUDE.md) for the wiki's
-maintenance rules and how new transcripts get ingested.
+**Purpose:** answer real draft and waiver-wire questions — comparing players
+across Best Ball, Dynasty, and Redraft formats — grounded in what specific
+analysts actually said, with dates and citations.
+
+Start at [index.md](index.md). See [CLAUDE.md](CLAUDE.md) for the schema and
+workflows, and [log.md](log.md) for the operation history.
 
 ## Structure
-- `Experts/` — analyst/host notes: philosophy, track record, sources
-- `Players/` — one note per player, aggregating dated, attributed takes
-- `Concepts/` — strategy/scheme notes (e.g. Zero RB)
-- `Formats/` — formats played, in priority order: Best Ball, Dynasty, Redraft (Standard)
-- `Sources/` — one note per ingested transcript/appearance
-- `Sources/_inbox/` — transcripts staged by the automated pipeline, awaiting ingestion
-- `_templates/` — starting shape for each note type
-- `Experts.md` / `Players.md` / `Concepts.md` / `Formats.md` / `Sources.md` — top-level indexes
-- `scripts/` — the automated ingestion pipeline (see below)
+
+Follows Andrej Karpathy's [llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+three-layer pattern:
+
+```
+index.md              catalog of every wiki page (retrieval entry point)
+log.md                append-only record of ingests / queries / lints
+CLAUDE.md             the schema: conventions + workflows
+
+raw/                  LAYER 1 - immutable sources, never edited
+  transcripts/
+    reception-perception/
+    harris-football/
+    rsp-cast/
+  _needs-attention.md source-acquisition failures
+
+wiki/                 LAYER 2 - LLM-owned
+  players/            one page per NFL player
+  experts/            one page per tracked analyst
+  concepts/           strategy / scheme pages
+  formats/            Best Ball, Dynasty, Redraft (Standard)
+  sources/            per-episode summaries + SOURCE_CATALOG.md
+  synthesis/          filed answers to recurring draft/waiver questions
+  _templates/         starting shapes for each page type
+
+scripts/              transcription pipeline + state.json
+```
+
+Key property: raw transcripts are written once into `raw/` and **never move**.
+Ingestion status lives in `scripts/state.json`, not in a file's location — so no
+transcript can be lost to a failed or partial move.
 
 ## Automated ingestion pipeline
 
@@ -89,7 +115,7 @@ ingestion step compensates):
   the wiki is keyed on player names. Observed: "Malik neighbors" (Nabers),
   "Romo Dunze" (Rome Odunze), "Jameer Gibbs" (Jahmyr Gibbs), "Debo Samuel"
   (Deebo Samuel), "Dijon Stribling" (De'Zhaun Stribling). `CLAUDE.md` requires
-  normalizing these before creating any `Players/` note.
+  normalizing these before creating any `wiki/players/` page.
 
 **Full episode vs. clip filtering**: Reception Perception publishes both to one
 feed — full episodes titled `[FULL EPISODE] ...`, clips titled `RP Clips: ...`.
@@ -172,7 +198,7 @@ independent `LaunchAgent`s, canonical copies tracked in
 
 **`run_daily_check.sh`** runs `scripts/check_new_episodes.py --oldest --limit 10`
 (pure Python 3, stdlib only — no pip dependencies) to update `scripts/state.json`
-and stage new transcripts into `Sources/_inbox/`. If anything landed there, it
+and write new transcripts into `raw/transcripts/<show>/`. If anything landed there, it
 then invokes `claude -p "..."` — Claude Code's headless mode, running locally in
 the repo so it picks up `CLAUDE.md` automatically — to do the actual wiki-writing
 ingestion, explicitly instructed to process staged files in chronological order.
@@ -181,7 +207,7 @@ ingestion, explicitly instructed to process staged files in chronological order.
 Two deliberate choices in that invocation:
 
 - **`--oldest`** — expert opinion on a player evolves (injuries, camp reports,
-  depth-chart moves), and each `Players/` note accumulates dated takes in file
+  depth-chart moves), and each `wiki/players/` page accumulates dated takes in file
   order. Processing oldest → newest means a more current take always lands
   *after* an older one, so a stale 2024 opinion can never appear to supersede a
   fresher 2026 one. The same ordering is enforced at the ingestion step and
@@ -228,7 +254,7 @@ To uninstall: `launchctl bootout "gui/$(id -u)/<label>"`, then delete the
 
 `scripts/state.json` tracks every episode, **keyed by RSS `<guid>`**:
 `pending` (seen in the feed, no transcript yet) → `fetched` (transcript staged
-in `Sources/_inbox/`, with `transcript_source` recording which path produced
+in `raw/transcripts/`, with `transcript_source` recording which path produced
 it) → `ingested` (fully woven into the wiki; set by Claude, not the script,
 once it's done processing a staged file).
 
@@ -243,6 +269,6 @@ interrupted at any point — by Ctrl-C, a reboot, or a crash — and resumed wit
 no lost work and no duplicate transcription.
 
 Episodes the pipeline fails to transcribe are logged to
-`Sources/_needs-attention.md` by the script (not by Claude) and retried on
+`raw/_needs-attention.md` by the script (not by Claude) and retried on
 every subsequent run — that file is visibility into what's stuck, not a dead
 end.

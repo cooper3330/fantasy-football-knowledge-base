@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Fetches new podcast episodes for every tracked show and stages a plain-text
-transcript in Sources/_inbox/ for wiki ingestion.
+transcript into raw/transcripts/<show>/ for wiki ingestion.
 
 Transcript acquisition, in preference order:
   1. A <podcast:transcript> tag on the RSS item (publisher-provided, exact,
@@ -13,7 +13,7 @@ Never touches git. Never calls a paid API. Audio comes from the same public
 RSS enclosures any podcast client downloads.
 
 State lives in scripts/state.json, keyed by RSS <guid>. Episodes move
-pending -> fetched (transcript staged) -> ingested (woven into the wiki by
+pending -> fetched (transcript written to raw/) -> ingested (woven into the wiki by
 Claude, per CLAUDE.md).
 
 Usage:
@@ -39,8 +39,8 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 STATE_PATH = REPO_ROOT / "scripts" / "state.json"
-INBOX_DIR = REPO_ROOT / "Sources" / "_inbox"
-NEEDS_ATTENTION_PATH = REPO_ROOT / "Sources" / "_needs-attention.md"
+RAW_DIR = REPO_ROOT / "raw" / "transcripts"
+NEEDS_ATTENTION_PATH = REPO_ROOT / "raw" / "_needs-attention.md"
 
 WHISPER_BIN = "/opt/homebrew/bin/whisper-cli"
 WHISPER_MODEL = Path.home() / ".local/share/whisper-models/ggml-large-v3-turbo.bin"
@@ -79,6 +79,7 @@ def _strip_full_episode_prefix(title):
 SHOWS = [
     {
         "slug": "rp",
+        "raw_subdir": "reception-perception",
         "feed_url": "https://feeds.megaphone.fm/reception-perception-the-show",
         "expert_name": "Matt Harmon",
         "show_name": "Reception Perception: The Show",
@@ -87,6 +88,7 @@ SHOWS = [
     },
     {
         "slug": "harris",
+        "raw_subdir": "harris-football",
         "feed_url": "https://harrisfootball.libsyn.com/rss",
         "expert_name": "Chris Harris",
         "show_name": "Harris Fantasy Football Podcast",
@@ -95,6 +97,7 @@ SHOWS = [
     },
     {
         "slug": "rsp",
+        "raw_subdir": "rsp-cast",
         "feed_url": "https://mattwaldmanrsp.com/feed/podcast/",
         "expert_name": "Matt Waldman",
         "show_name": "Matt Waldman's RSP Cast",
@@ -304,7 +307,8 @@ def transcript_from_whisper(ep, verbose=True):
 def stage_transcript(show, ep, text, source_kind):
     pub = ep["pub_date"].isoformat() if ep["pub_date"] else "unknown-date"
     title = show["clean_title"](ep["title"])
-    out_path = INBOX_DIR / f"{pub}-{show['slug']}-{slugify(title)[:70]}.md"
+    out_dir = RAW_DIR / show["raw_subdir"]
+    out_path = out_dir / f"{pub}-{show['slug']}-{slugify(title)[:70]}.md"
 
     if source_kind == "feed-transcript":
         note = ("<!-- Publisher-provided transcript from the RSS <podcast:transcript>\n"
@@ -330,7 +334,7 @@ def stage_transcript(show, ep, text, source_kind):
         f"{note}\n\n"
     )
 
-    INBOX_DIR.mkdir(parents=True, exist_ok=True)
+    out_dir.mkdir(parents=True, exist_ok=True)
     out_path.write_text(front + text + "\n")
     return out_path
 

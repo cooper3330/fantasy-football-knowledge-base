@@ -7,7 +7,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-07",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-03-07-rp-calvin-ridley-marquise-brown-tee-higgins-breakdown.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-03-07-rp-calvin-ridley-marquise-brown-tee-higgins-breakdown.md",
       "status": "fetched",
       "title": "Calvin Ridley, Marquise Brown & Tee Higgins Breakdown",
       "transcript_source": "whisper"
@@ -29,7 +29,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2025-08-13",
       "show": "Harris Fantasy Football Podcast",
-      "staged_path": "Sources/_inbox/2025-08-13-harris-adp-surprises-for-2025-brock-bowers-profile.md",
+      "staged_path": "raw/transcripts/harris-football/2025-08-13-harris-adp-surprises-for-2025-brock-bowers-profile.md",
       "status": "fetched",
       "title": "ADP Surprises For 2025 & Brock Bowers Profile",
       "transcript_source": "whisper"
@@ -411,7 +411,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-26",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-03-26-rp-breaking-down-the-top-3-wide-receiver-prospects.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-03-26-rp-breaking-down-the-top-3-wide-receiver-prospects.md",
       "status": "fetched",
       "title": "Breaking Down the Top 3 Wide Receiver Prospects",
       "transcript_source": "whisper"
@@ -423,7 +423,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-14",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-03-14-rp-free-agency-continued-breaking-calvin-ridley-news-diontae-russ-jeudy-g.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-03-14-rp-free-agency-continued-breaking-calvin-ridley-news-diontae-russ-jeudy-g.md",
       "status": "fetched",
       "title": "Free Agency Continued: Breaking Calvin Ridley News, Diontae, Russ, Jeudy & Gabe Davis",
       "transcript_source": "whisper"
@@ -1245,7 +1245,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-12",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-03-12-rp-hot-start-in-free-agency-kirk-cousins-michael-pittman-saquon-barkley-j.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-03-12-rp-hot-start-in-free-agency-kirk-cousins-michael-pittman-saquon-barkley-j.md",
       "status": "fetched",
       "title": "Hot Start in Free Agency: Kirk Cousins, Michael Pittman, Saquon Barkley & Josh Jacobs",
       "transcript_source": "whisper"
@@ -1497,7 +1497,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-28",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-03-28-rp-the-worst-wide-receiver-depth-charts-out-there.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-03-28-rp-the-worst-wide-receiver-depth-charts-out-there.md",
       "status": "fetched",
       "title": "The Worst Wide Receiver Depth Charts Out There",
       "transcript_source": "whisper"
@@ -1529,7 +1529,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-29",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-02-29-rp-wide-receiver-prospects-the-state-of-the-falcons.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-02-29-rp-wide-receiver-prospects-the-state-of-the-falcons.md",
       "status": "fetched",
       "title": "Wide Receiver Prospects & the State of the Falcons",
       "transcript_source": "whisper"
@@ -1541,7 +1541,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-05",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-03-05-rp-mike-evans-stays-in-tampa-levels-of-wide-receiver-need.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-03-05-rp-mike-evans-stays-in-tampa-levels-of-wide-receiver-need.md",
       "status": "fetched",
       "title": "Mike Evans Stays in Tampa & Levels of Wide Receiver Need",
       "transcript_source": "whisper"
@@ -1553,7 +1553,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-27",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-02-27-rp-tee-higgins-mike-evans-marvin-harrison-jr-bieniemy-picks-college-ball.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-02-27-rp-tee-higgins-mike-evans-marvin-harrison-jr-bieniemy-picks-college-ball.md",
       "status": "fetched",
       "title": "Tee Higgins & Mike Evans, Marvin Harrison Jr. & Bieniemy Picks College Ball",
       "transcript_source": "whisper"
@@ -1565,7 +1565,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-21",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-03-21-rp-marquise-brown-to-kc-jerry-jeudy-charting-new-falcons-wr-room.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-03-21-rp-marquise-brown-to-kc-jerry-jeudy-charting-new-falcons-wr-room.md",
       "status": "fetched",
       "title": "Marquise Brown to KC, Jerry Jeudy Charting & New Falcons WR Room",
       "transcript_source": "whisper"
@@ -1647,7 +1647,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-19",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-03-19-rp-weekend-receiver-news-keenan-allen-joins-bears-bills-add-curtis-samuel.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-03-19-rp-weekend-receiver-news-keenan-allen-joins-bears-bills-add-curtis-samuel.md",
       "status": "fetched",
       "title": "Weekend Receiver News: Keenan Allen Joins Bears & Bills Add Curtis Samuel",
       "transcript_source": "whisper"
@@ -2029,7 +2029,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-02",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-04-02-rp-brian-thomas-jr-ladd-mcconkey-profiles.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-04-02-rp-brian-thomas-jr-ladd-mcconkey-profiles.md",
       "status": "fetched",
       "title": "Brian Thomas Jr. & Ladd McConkey Profiles",
       "transcript_source": "whisper"
@@ -2041,7 +2041,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-04",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-04-04-rp-stefon-diggs-is-a-texan-keon-coleman-breakdown.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-04-04-rp-stefon-diggs-is-a-texan-keon-coleman-breakdown.md",
       "status": "fetched",
       "title": "Stefon Diggs is a Texan & Keon Coleman Breakdown",
       "transcript_source": "whisper"
@@ -2053,7 +2053,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-09",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-04-09-rp-roman-wilson-ricky-pearsall-breakdowns.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-04-09-rp-roman-wilson-ricky-pearsall-breakdowns.md",
       "status": "fetched",
       "title": "Roman Wilson & Ricky Pearsall Breakdowns",
       "transcript_source": "whisper"
@@ -2065,7 +2065,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-16",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-04-16-rp-big-news-for-big-names-xavier-worthy-breakdown.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-04-16-rp-big-news-for-big-names-xavier-worthy-breakdown.md",
       "status": "fetched",
       "title": "Big News for Big Names & Xavier Worthy Breakdown",
       "transcript_source": "whisper"
@@ -2077,7 +2077,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-23",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-04-23-rp-jalynn-polk-jalen-mcmillan-javon-baker.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-04-23-rp-jalynn-polk-jalen-mcmillan-javon-baker.md",
       "status": "fetched",
       "title": "Ja'Lynn Polk, Jalen McMillan & Javon Baker",
       "transcript_source": "whisper"
@@ -2089,7 +2089,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-30",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-04-30-rp-day-1-wide-receiver-landing-spots.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-04-30-rp-day-1-wide-receiver-landing-spots.md",
       "status": "fetched",
       "title": "Day 1 Wide Receiver Landing Spots",
       "transcript_source": "whisper"
@@ -2101,7 +2101,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-11",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-04-11-rp-adonai-mitchell-free-agent-wrs-remaining.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-04-11-rp-adonai-mitchell-free-agent-wrs-remaining.md",
       "status": "fetched",
       "title": "Adonai Mitchell & Free Agent WR's Remaining",
       "transcript_source": "whisper"
@@ -2113,7 +2113,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-18",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-04-18-rp-xavier-legette-troy-franklin-breakdowns.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-04-18-rp-xavier-legette-troy-franklin-breakdowns.md",
       "status": "fetched",
       "title": "Xavier Legette & Troy Franklin Breakdowns",
       "transcript_source": "whisper"
@@ -2125,7 +2125,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-25",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-04-25-rp-2024-wide-receiver-class-superlatives.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-04-25-rp-2024-wide-receiver-class-superlatives.md",
       "status": "fetched",
       "title": "2024 Wide Receiver Class Superlatives",
       "transcript_source": "whisper"
@@ -2137,7 +2137,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-02",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-05-02-rp-day-2-3-wide-receiver-landing-spots.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-05-02-rp-day-2-3-wide-receiver-landing-spots.md",
       "status": "fetched",
       "title": "Day 2 & 3 Wide Receiver Landing Spots",
       "transcript_source": "whisper"
@@ -2149,7 +2149,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-07",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-05-07-rp-are-these-rookies-going-over-or-under-their-yardage-lines.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-05-07-rp-are-these-rookies-going-over-or-under-their-yardage-lines.md",
       "status": "fetched",
       "title": "Are These Rookies Going Over or Under Their Yardage Lines?",
       "transcript_source": "whisper"
@@ -2161,7 +2161,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-14",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-05-14-rp-bears-eagles-dive-w-adam-rank-chris-long.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-05-14-rp-bears-eagles-dive-w-adam-rank-chris-long.md",
       "status": "fetched",
       "title": "Bears & Eagles Dive w/ Adam Rank & Chris Long",
       "transcript_source": "whisper"
@@ -2173,7 +2173,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-21",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-05-21-rp-second-year-guys-tank-dell-dontayvion-wicks.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-05-21-rp-second-year-guys-tank-dell-dontayvion-wicks.md",
       "status": "fetched",
       "title": "Second Year Guys: Tank Dell & Dontayvion Wicks",
       "transcript_source": "whisper"
@@ -2195,7 +2195,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-29",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-05-29-rp-puka-nacua-zay-flowers-breakdown-malik-washington-addition-in-miami.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-05-29-rp-puka-nacua-zay-flowers-breakdown-malik-washington-addition-in-miami.md",
       "status": "fetched",
       "title": "Puka Nacua & Zay Flowers Breakdown + Malik Washington Addition in Miami",
       "transcript_source": "whisper"
@@ -2207,7 +2207,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-09",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-05-09-rp-breaking-down-some-receiver-rooms.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-05-09-rp-breaking-down-some-receiver-rooms.md",
       "status": "fetched",
       "title": "Breaking Down Some Receiver Rooms",
       "transcript_source": "whisper"
@@ -2229,7 +2229,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-23",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-05-23-rp-second-year-guys-josh-downs-quentin-johnston.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-05-23-rp-second-year-guys-josh-downs-quentin-johnston.md",
       "status": "fetched",
       "title": "Second Year Guys: Josh Downs & Quentin Johnston",
       "transcript_source": "whisper"
@@ -2241,7 +2241,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-30",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-05-30-rp-jayden-reed-jordan-addison-eagles-draft-a-gem.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-05-30-rp-jayden-reed-jordan-addison-eagles-draft-a-gem.md",
       "status": "fetched",
       "title": "Jayden Reed & Jordan Addison + Eagles Draft a Gem?",
       "transcript_source": "whisper"
@@ -2253,7 +2253,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-06-04",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-06-04-rp-the-beefy-jameson-williams-episode-we-all-need.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-06-04-rp-the-beefy-jameson-williams-episode-we-all-need.md",
       "status": "fetched",
       "title": "The Beefy Jameson Williams Episode We All Need",
       "transcript_source": "whisper"
@@ -2265,7 +2265,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-06-06",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-06-06-rp-we-love-nico-collins-where-george-pickens-does-best.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-06-06-rp-we-love-nico-collins-where-george-pickens-does-best.md",
       "status": "fetched",
       "title": "We Love Nico Collins & Where George Pickens Does Best",
       "transcript_source": "whisper"
@@ -2277,7 +2277,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-06-13",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-06-13-rp-amon-ra-garrett-wilson-brenden-rice.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-06-13-rp-amon-ra-garrett-wilson-brenden-rice.md",
       "status": "fetched",
       "title": "Amon-Ra, Garrett Wilson & Brenden Rice",
       "transcript_source": "whisper"
@@ -2289,7 +2289,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-06-20",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-06-20-rp-first-time-nfl-offensive-coordinators.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-06-20-rp-first-time-nfl-offensive-coordinators.md",
       "status": "fetched",
       "title": "First-time NFL Offensive Coordinators",
       "transcript_source": "whisper"
@@ -2301,7 +2301,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-06-27",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-06-27-rp-choose-your-fighters-wide-receiver-battles.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-06-27-rp-choose-your-fighters-wide-receiver-battles.md",
       "status": "fetched",
       "title": "Choose Your Fighters: Wide Receiver Battles",
       "transcript_source": "whisper"
@@ -2313,7 +2313,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-06-11",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-06-11-rp-jamarr-chase-christian-watson-malachi-corley.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-06-11-rp-jamarr-chase-christian-watson-malachi-corley.md",
       "status": "fetched",
       "title": "Ja'Marr Chase, Christian Watson & Malachi Corley",
       "transcript_source": "whisper"
@@ -2325,7 +2325,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-06-18",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-06-18-rp-t-law-gets-paid-chris-olave-profile-rookie-roundup-on-devontez-walker.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-06-18-rp-t-law-gets-paid-chris-olave-profile-rookie-roundup-on-devontez-walker.md",
       "status": "fetched",
       "title": "T-Law Gets Paid, Chris Olave Profile & Rookie Roundup on Devontez Walker",
       "transcript_source": "whisper"
@@ -2337,7 +2337,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-06-25",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-06-25-rp-team-by-team-offensive-schemes-continued.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-06-25-rp-team-by-team-offensive-schemes-continued.md",
       "status": "fetched",
       "title": "Team-by-Team Offensive Schemes Continued",
       "transcript_source": "whisper"
@@ -2349,7 +2349,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-02",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-07-02-rp-devonta-smith-rashee-rice-profiles.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-07-02-rp-devonta-smith-rashee-rice-profiles.md",
       "status": "fetched",
       "title": "DeVonta Smith & Rashee Rice Profiles",
       "transcript_source": "whisper"
@@ -2361,7 +2361,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-05",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-07-05-rp-jaylen-waddle-demario-douglas-profiles.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-07-05-rp-jaylen-waddle-demario-douglas-profiles.md",
       "status": "fetched",
       "title": "Jaylen Waddle & Demario Douglas Profiles",
       "transcript_source": "whisper"
@@ -2373,7 +2373,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-11",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-07-11-rp-which-afc-south-team-has-the-best-wr-room.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-07-11-rp-which-afc-south-team-has-the-best-wr-room.md",
       "status": "fetched",
       "title": "Which AFC South Team Has The Best WR Room?",
       "transcript_source": "whisper"
@@ -2385,7 +2385,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-18",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-07-18-rp-breaking-down-offensive-lines-w-brandon-thorn.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-07-18-rp-breaking-down-offensive-lines-w-brandon-thorn.md",
       "status": "fetched",
       "title": "Breaking Down Offensive Lines w/ Brandon Thorn",
       "transcript_source": "whisper"
@@ -2397,7 +2397,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-25",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-07-25-rp-nfc-south-breakdown.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-07-25-rp-nfc-south-breakdown.md",
       "status": "fetched",
       "title": "NFC South Breakdown",
       "transcript_source": "whisper"
@@ -2409,7 +2409,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-09",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-07-09-rp-the-jets-are-betting-on-aaron-rodgersagain.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-07-09-rp-the-jets-are-betting-on-aaron-rodgersagain.md",
       "status": "fetched",
       "title": "The Jets Are Betting On Aaron Rodgers...Again",
       "transcript_source": "whisper"
@@ -2421,7 +2421,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-16",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-07-16-rp-diving-into-the-nfc-east-offenses.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-07-16-rp-diving-into-the-nfc-east-offenses.md",
       "status": "fetched",
       "title": "Diving Into the NFC East Offenses",
       "transcript_source": "whisper"
@@ -2433,7 +2433,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-23",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-07-23-rp-afc-north-breakdown.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-07-23-rp-afc-north-breakdown.md",
       "status": "fetched",
       "title": "AFC North Breakdown",
       "transcript_source": "whisper"
@@ -2445,7 +2445,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-30",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-07-30-rp-nfc-north-breakdown.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-07-30-rp-nfc-north-breakdown.md",
       "status": "fetched",
       "title": "NFC North Breakdown",
       "transcript_source": "whisper"
@@ -2457,7 +2457,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-08-01",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-08-01-rp-afc-west-breakdown.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-08-01-rp-afc-west-breakdown.md",
       "status": "fetched",
       "title": "AFC West Breakdown",
       "transcript_source": "whisper"
@@ -2469,7 +2469,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-08-08",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-08-08-rp-lets-talk-about-some-obscure-wide-receivers.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-08-08-rp-lets-talk-about-some-obscure-wide-receivers.md",
       "status": "fetched",
       "title": "Let's Talk About Some Obscure Wide Receivers",
       "transcript_source": "whisper"
@@ -2481,7 +2481,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-08-29",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-08-29-rp-diving-deep-into-some-wide-receiver-rooms.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-08-29-rp-diving-deep-into-some-wide-receiver-rooms.md",
       "status": "fetched",
       "title": "Diving Deep Into Some Wide Receiver Rooms",
       "transcript_source": "whisper"
@@ -2493,7 +2493,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-08-06",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-08-06-rp-nfc-west-breakdown.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-08-06-rp-nfc-west-breakdown.md",
       "status": "fetched",
       "title": "NFC West Breakdown",
       "transcript_source": "whisper"
@@ -2515,7 +2515,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-08-27",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-08-27-rp-what-do-we-think-of-these-rookie-quarterbacks.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-08-27-rp-what-do-we-think-of-these-rookie-quarterbacks.md",
       "status": "fetched",
       "title": "What Do We Think of These Rookie Quarterbacks?",
       "transcript_source": "whisper"
@@ -2527,7 +2527,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-03",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-09-03-rp-2024-nfl-season-hot-takes.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-09-03-rp-2024-nfl-season-hot-takes.md",
       "status": "fetched",
       "title": "2024 NFL Season Hot Takes!",
       "transcript_source": "whisper"
@@ -2549,7 +2549,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-05",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-09-05-rp-all-rise-week-1-is-upon-us.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-09-05-rp-all-rise-week-1-is-upon-us.md",
       "status": "fetched",
       "title": "All Rise: Week 1 is Upon Us",
       "transcript_source": "whisper"
@@ -2561,7 +2561,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-12",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-09-12-rp-week-2-storylines-preview.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-09-12-rp-week-2-storylines-preview.md",
       "status": "fetched",
       "title": "Week 2 Storylines & Preview",
       "transcript_source": "whisper"
@@ -2573,7 +2573,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-19",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-09-19-rp-fixing-struggling-offenses-wide-receiver-buy-or-sell.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-09-19-rp-fixing-struggling-offenses-wide-receiver-buy-or-sell.md",
       "status": "fetched",
       "title": "Fixing Struggling Offenses & Wide Receiver Buy or Sell",
       "transcript_source": "whisper"
@@ -2585,7 +2585,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-26",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-09-26-rp-bring-on-week-4.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-09-26-rp-bring-on-week-4.md",
       "status": "fetched",
       "title": "Bring on Week 4!",
       "transcript_source": "whisper"
@@ -2597,7 +2597,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-10",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-09-10-rp-week-1-recap.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-09-10-rp-week-1-recap.md",
       "status": "fetched",
       "title": "Week 1 Recap!",
       "transcript_source": "whisper"
@@ -2609,7 +2609,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-17",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-09-17-rp-week-2-takeaways.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-09-17-rp-week-2-takeaways.md",
       "status": "fetched",
       "title": "Week 2 Takeaways!",
       "transcript_source": "whisper"
@@ -2621,7 +2621,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-25",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-09-25-rp-week-3-takeaways.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-09-25-rp-week-3-takeaways.md",
       "status": "fetched",
       "title": "Week 3 Takeaways!",
       "transcript_source": "whisper"
@@ -2633,7 +2633,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-01",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-10-01-rp-week-4-takeaways-rookie-roundup.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-10-01-rp-week-4-takeaways-rookie-roundup.md",
       "status": "fetched",
       "title": "Week 4 Takeaways + Rookie Roundup!",
       "transcript_source": "whisper"
@@ -2645,7 +2645,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-03",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-10-03-rp-davante-adams-forecast-re-evaluating-the-2022-wr-class.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-10-03-rp-davante-adams-forecast-re-evaluating-the-2022-wr-class.md",
       "status": "fetched",
       "title": "Davante Adams Forecast + Re-Evaluating The 2022 WR Class",
       "transcript_source": "whisper"
@@ -2657,7 +2657,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-10",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-10-10-rp-nico-out-drake-starting-garrett-wilson-ros.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-10-10-rp-nico-out-drake-starting-garrett-wilson-ros.md",
       "status": "fetched",
       "title": "Nico Out, Drake Starting & Garrett Wilson ROS",
       "transcript_source": "whisper"
@@ -2669,7 +2669,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-17",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-10-17-rp-remaining-pieces-in-cleveland-vegas-doubsslayton-temperature-check.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-10-17-rp-remaining-pieces-in-cleveland-vegas-doubsslayton-temperature-check.md",
       "status": "fetched",
       "title": "Remaining Pieces in Cleveland & Vegas + Doubs/Slayton Temperature Check",
       "transcript_source": "whisper"
@@ -2681,7 +2681,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-24",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-10-24-rp-nuk-traded-bucs-in-shambles-is-btj-the-best-rookie.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-10-24-rp-nuk-traded-bucs-in-shambles-is-btj-the-best-rookie.md",
       "status": "fetched",
       "title": "Nuk Traded, Bucs in Shambles & is BTJ the Best Rookie?",
       "transcript_source": "whisper"
@@ -2713,7 +2713,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-08",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-10-08-rp-week-5-takeaways.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-10-08-rp-week-5-takeaways.md",
       "status": "fetched",
       "title": "Week 5 Takeaways!",
       "transcript_source": "whisper"
@@ -2735,7 +2735,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-15",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-10-15-rp-veterans-balling-out-ravens-on-fire-drake-mayes-first-start.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-10-15-rp-veterans-balling-out-ravens-on-fire-drake-mayes-first-start.md",
       "status": "fetched",
       "title": "Veterans Balling Out, Ravens on Fire & Drake Maye's First Start",
       "transcript_source": "whisper"
@@ -2747,7 +2747,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-22",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-10-22-rp-week-7-takeaways.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-10-22-rp-week-7-takeaways.md",
       "status": "fetched",
       "title": "Week 7 Takeaways!",
       "transcript_source": "whisper"
@@ -3029,7 +3029,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-18",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-01-18-rp-college-standouts-nfl-divisional-round-preview.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-01-18-rp-college-standouts-nfl-divisional-round-preview.md",
       "status": "fetched",
       "title": "College Standouts & NFL Divisional Round Preview",
       "transcript_source": "whisper"
@@ -3041,7 +3041,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-25",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-01-25-rp-head-coaching-news-conference-championship-breakdowns.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-01-25-rp-head-coaching-news-conference-championship-breakdowns.md",
       "status": "fetched",
       "title": "Head Coaching News & Conference Championship Breakdowns",
       "transcript_source": "whisper"
@@ -3073,7 +3073,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-16",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-01-16-rp-wild-card-weekend-recap.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-01-16-rp-wild-card-weekend-recap.md",
       "status": "fetched",
       "title": "Wild Card Weekend Recap",
       "transcript_source": "whisper"
@@ -3085,7 +3085,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-23",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-01-23-rp-some-fun-games-in-the-divisional-round.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-01-23-rp-some-fun-games-in-the-divisional-round.md",
       "status": "fetched",
       "title": "Some Fun Games in the Divisional Round",
       "transcript_source": "whisper"
@@ -3107,7 +3107,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-30",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-01-30-rp-conference-championship-review-more-coaching-hires.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-01-30-rp-conference-championship-review-more-coaching-hires.md",
       "status": "fetched",
       "title": "Conference Championship Review & More Coaching Hires",
       "transcript_source": "whisper"
@@ -3119,7 +3119,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-13",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-02-13-rp-chiefs-take-down-49ers-for-super-bowl-lviii.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-02-13-rp-chiefs-take-down-49ers-for-super-bowl-lviii.md",
       "status": "fetched",
       "title": "Chiefs Take Down 49ers for Super Bowl LVIII",
       "transcript_source": "whisper"
@@ -3131,7 +3131,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-01",
       "show": "Reception Perception: The Show",
-      "staged_path": "Sources/_inbox/2024-02-01-rp-arthur-smith-to-pittsburgh-seahawks-personnel-senior-bowl-takes.md",
+      "staged_path": "raw/transcripts/reception-perception/2024-02-01-rp-arthur-smith-to-pittsburgh-seahawks-personnel-senior-bowl-takes.md",
       "status": "fetched",
       "title": "Arthur Smith to Pittsburgh, Seahawks Personnel & Senior Bowl Takes",
       "transcript_source": "whisper"
@@ -3453,7 +3453,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2023-12-14",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2023-12-14-rsp-what-is-happening-to-nfl-careers-something-is-happening-to-older-playe.md",
+      "staged_path": "raw/transcripts/rsp-cast/2023-12-14-rsp-what-is-happening-to-nfl-careers-something-is-happening-to-older-playe.md",
       "status": "fetched",
       "title": "What Is Happening to NFL Careers? Something Is Happening to Older Players: RSP Film and Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
@@ -3465,7 +3465,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2023-12-18",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2023-12-18-rsp-feel-it-or-fk-it-121823-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2023-12-18-rsp-feel-it-or-fk-it-121823-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F@#k It 12.18.23: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3477,7 +3477,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2023-12-21",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2023-12-21-rsp-the-pacing-and-control-of-elite-nfl-moversdecision-makers-and-the-pro-.md",
+      "staged_path": "raw/transcripts/rsp-cast/2023-12-21-rsp-the-pacing-and-control-of-elite-nfl-moversdecision-makers-and-the-pro-.md",
       "status": "fetched",
       "title": "The Pacing and Control of Elite NFL Movers/Decision-Makers and the Pro-Readiness of WRs Marvin Harrison, Jr vs. Malik Nabers: Going Deep with Brandon Angelo and Matt Waldman",
       "transcript_source": "whisper"
@@ -3489,7 +3489,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2023-12-21",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2023-12-21-rsp-the-cyclical-nature-of-talent-vs-scheme-in-the-nfl-and-the-nils-potent.md",
+      "staged_path": "raw/transcripts/rsp-cast/2023-12-21-rsp-the-cyclical-nature-of-talent-vs-scheme-in-the-nfl-and-the-nils-potent.md",
       "status": "fetched",
       "title": "The Cyclical Nature of Talent vs. Scheme in the NFL and the NIL\u2019s Potential Impact on the NFL: RSP Film and Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
@@ -3501,7 +3501,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-01",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-01-01-rsp-feel-it-or-fk-it-1124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-01-01-rsp-feel-it-or-fk-it-1124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 1.1.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3513,7 +3513,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-04",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-01-04-rsp-favorite-2023-nfl-storylines-and-2023-rookie-review-rsp-film-and-theor.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-01-04-rsp-favorite-2023-nfl-storylines-and-2023-rookie-review-rsp-film-and-theor.md",
       "status": "fetched",
       "title": "Favorite 2023 NFL Storylines and 2023 Rookie Review: RSP Film and Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
@@ -3525,7 +3525,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-08",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-01-08-rsp-feel-it-or-fk-it-1824-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-01-08-rsp-feel-it-or-fk-it-1824-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 1.8.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3537,7 +3537,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-11",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-01-11-rsp-the-safest-rb-in-the-draft-the-sleeper-miscast-as-a-gadget-the-keon-co.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-01-11-rsp-the-safest-rb-in-the-draft-the-sleeper-miscast-as-a-gadget-the-keon-co.md",
       "status": "fetched",
       "title": "The Safest RB in the Draft, the Sleeper Miscast as a Gadget, the Keon Coleman Rollercoaster, and Penix and Punishment: Going Deep with Brandon Angelo and Matt Waldman",
       "transcript_source": "whisper"
@@ -3549,7 +3549,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-11",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-01-11-rsp-adams-2023-post-rookie-year-prospect-model-rsp-film-and-theory-with-ad.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-01-11-rsp-adams-2023-post-rookie-year-prospect-model-rsp-film-and-theory-with-ad.md",
       "status": "fetched",
       "title": "Adam\u2019s 2023 Post-Rookie-Year Prospect Model: RSP Film and Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
@@ -3561,7 +3561,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-15",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-01-15-rsp-feel-it-or-fk-it-1824-special-guest-daniel-harms-joins-matt-waldmans-r.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-01-15-rsp-feel-it-or-fk-it-1824-special-guest-daniel-harms-joins-matt-waldmans-r.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 1.8.24: Special Guest Daniel Harms Joins Matt Waldman\u2019s RSP Cast",
       "transcript_source": "whisper"
@@ -3573,7 +3573,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-22",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-01-22-rsp-feel-it-or-fk-it-12224-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-01-22-rsp-feel-it-or-fk-it-12224-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 1.22.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3585,7 +3585,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-29",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-01-29-rsp-feel-it-or-fk-it-12924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-01-29-rsp-feel-it-or-fk-it-12924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 1.29.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3597,7 +3597,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-01",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-02-01-rsp-2024-sr-bowl-fallout-and-fave-developmental-picks-going-deep-with-bran.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-02-01-rsp-2024-sr-bowl-fallout-and-fave-developmental-picks-going-deep-with-bran.md",
       "status": "fetched",
       "title": "2024 Sr. Bowl Fallout and Fave Developmental Picks: Going Deep with Brandon Angelo and Matt Waldman",
       "transcript_source": "whisper"
@@ -3609,7 +3609,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-02",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-02-02-rsp-the-nfl-hall-of-fame-and-our-picks-for-the-24-class-rsp-film-and-theor.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-02-02-rsp-the-nfl-hall-of-fame-and-our-picks-for-the-24-class-rsp-film-and-theor.md",
       "status": "fetched",
       "title": "The NFL Hall of Fame (And Our Picks for the \u201924 Class) RSP Film and Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
@@ -3621,7 +3621,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-05",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-02-05-rsp-feel-it-or-fk-it-2524-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-02-05-rsp-feel-it-or-fk-it-2524-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 2.5.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3633,7 +3633,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-12",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-02-12-rsp-feel-it-or-fk-it-post-super-bowl-edition-an-rsp-cast-with-bob-harris-a.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-02-12-rsp-feel-it-or-fk-it-post-super-bowl-edition-an-rsp-cast-with-bob-harris-a.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It Post-Super Bowl Edition: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3645,7 +3645,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-19",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-02-19-rsp-feel-it-or-fk-it-never-too-early-to-draft-edition-rsp-cast-with-bob-ha.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-02-19-rsp-feel-it-or-fk-it-never-too-early-to-draft-edition-rsp-cast-with-bob-ha.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: Never Too Early to Draft Edition RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3657,7 +3657,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-22",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-02-22-rsp-going-deep-with-brandon-angelo-and-matt-waldman-the-2024-rb-class-edit.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-02-22-rsp-going-deep-with-brandon-angelo-and-matt-waldman-the-2024-rb-class-edit.md",
       "status": "fetched",
       "title": "Going Deep with Brandon Angelo and Matt Waldman: The 2024 RB Class Edition",
       "transcript_source": "whisper"
@@ -3669,7 +3669,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-26",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-02-26-rsp-feel-it-or-fk-it-fantasy-drafts-in-february-the-nfl-combine-and-qb-met.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-02-26-rsp-feel-it-or-fk-it-fantasy-drafts-in-february-the-nfl-combine-and-qb-met.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It:  Fantasy Drafts in February, the NFL Combine, and QB Metrics with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3681,7 +3681,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-01",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-03-01-rsp-combine-40-times-in-perspective-and-the-big-four-24-rb-free-agents-rsp.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-03-01-rsp-combine-40-times-in-perspective-and-the-big-four-24-rb-free-agents-rsp.md",
       "status": "fetched",
       "title": "Combine 40 Times in Perspective and the \u201cBig Four\u201d \u201924 RB Free Agents: RSP Film and Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
@@ -3693,7 +3693,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-04",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-03-04-rsp-feel-it-or-fk-it-nfl-combine-fallout-and-free-agentrookie-qb-fits-with.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-03-04-rsp-feel-it-or-fk-it-nfl-combine-fallout-and-free-agentrookie-qb-fits-with.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: NFL Combine Fallout, and Free Agent/Rookie QB Fits with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3705,7 +3705,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-08",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-03-08-rsp-2024-nfl-draft-qb-class-a-t-matt-waldmans-rsp-solo-cast.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-03-08-rsp-2024-nfl-draft-qb-class-a-t-matt-waldmans-rsp-solo-cast.md",
       "status": "fetched",
       "title": "2024 NFL Draft QB Class A-T: Matt Waldman\u2019s RSP Solo Cast",
       "transcript_source": "whisper"
@@ -3717,7 +3717,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-11",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-03-11-rsp-feel-it-or-fk-it-31124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-03-11-rsp-feel-it-or-fk-it-31124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 3.11.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3729,7 +3729,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-16",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-03-16-rsp-2024-nfl-draft-wr-class-a-z-matt-waldmans-rsp-solo-cast.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-03-16-rsp-2024-nfl-draft-wr-class-a-z-matt-waldmans-rsp-solo-cast.md",
       "status": "fetched",
       "title": "2024 NFL Draft WR Class A-Z: Matt Waldman\u2019s RSP Solo Cast",
       "transcript_source": "whisper"
@@ -3741,7 +3741,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-19",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-03-19-rsp-feel-it-or-fk-it-31924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-03-19-rsp-feel-it-or-fk-it-31924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 3.19.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3753,7 +3753,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-23",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-03-23-rsp-matt-waldmans-2024-rsp-rb-a-w-solo-cast.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-03-23-rsp-matt-waldmans-2024-rsp-rb-a-w-solo-cast.md",
       "status": "fetched",
       "title": "Matt Waldman\u2019s 2024 RSP RB A-W Solo Cast",
       "transcript_source": "whisper"
@@ -3765,7 +3765,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-25",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-03-25-rsp-feel-it-or-fk-it-32524-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-03-25-rsp-feel-it-or-fk-it-32524-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 3.25.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3777,7 +3777,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-28",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-03-28-rsp-going-deep-with-brandon-angelo-and-matt-waldman-if-we-were-nfl-gms.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-03-28-rsp-going-deep-with-brandon-angelo-and-matt-waldman-if-we-were-nfl-gms.md",
       "status": "fetched",
       "title": "Going Deep with Brandon Angelo and Matt Waldman: If We Were NFL GMs\u2026",
       "transcript_source": "whisper"
@@ -3789,7 +3789,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-03-30",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-03-30-rsp-matt-waldmans-2024-rsp-te-a-z-solo-cast.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-03-30-rsp-matt-waldmans-2024-rsp-te-a-z-solo-cast.md",
       "status": "fetched",
       "title": "Matt Waldman\u2019s 2024 RSP TE A-Z Solo Cast",
       "transcript_source": "whisper"
@@ -3801,7 +3801,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-01",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-04-01-rsp-feel-it-or-fk-it-4124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-04-01-rsp-feel-it-or-fk-it-4124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 4.1.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3813,7 +3813,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-08",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-04-08-rsp-feel-it-or-fk-it-4824-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-04-08-rsp-feel-it-or-fk-it-4824-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 4.8.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3825,7 +3825,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-11",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-04-11-rsp-going-deep-with-brandon-angelo-and-matt-waldman-fave-evals-coach-kille.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-04-11-rsp-going-deep-with-brandon-angelo-and-matt-waldman-fave-evals-coach-kille.md",
       "status": "fetched",
       "title": "Going Deep with Brandon Angelo and Matt Waldman: Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes",
       "transcript_source": "whisper"
@@ -3837,7 +3837,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-15",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-04-15-rsp-feel-it-or-fk-it-41524-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-04-15-rsp-feel-it-or-fk-it-41524-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 4.15.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3849,7 +3849,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-22",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-04-22-rsp-feel-it-or-fk-it-42224-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-04-22-rsp-feel-it-or-fk-it-42224-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 4.22.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3861,7 +3861,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-23",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-04-23-rsp-evaluation-vs-valuation-24-nfl-draft-faves-and-risks-matt-waldmans-rsp.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-04-23-rsp-evaluation-vs-valuation-24-nfl-draft-faves-and-risks-matt-waldmans-rsp.md",
       "status": "fetched",
       "title": "Evaluation vs. Valuation, \u201924 NFL Draft Faves, and Risks: Matt Waldman\u2019s RSP Scout Talk with NFL.com\u2019s Chad Reuter",
       "transcript_source": "whisper"
@@ -3873,7 +3873,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-23",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-04-23-rsp-caleb-williams-brock-purdy-and-anthony-richardson-qb-therapy-with-will.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-04-23-rsp-caleb-williams-brock-purdy-and-anthony-richardson-qb-therapy-with-will.md",
       "status": "fetched",
       "title": "Caleb Williams, Brock Purdy, and Anthony Richardson \u2013 QB Therapy with Will Hewlett: Matt Waldman\u2019s RSP Scout Talk",
       "transcript_source": "whisper"
@@ -3885,7 +3885,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-29",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-04-29-rsp-feel-it-or-fk-it-42924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-04-29-rsp-feel-it-or-fk-it-42924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 4.29.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3897,7 +3897,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-02",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-05-02-rsp-2024-post-draft-landing-spot-breakdown-going-deep-with-brandon-angelo-.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-05-02-rsp-2024-post-draft-landing-spot-breakdown-going-deep-with-brandon-angelo-.md",
       "status": "fetched",
       "title": "2024 Post-Draft Landing Spot Breakdown: Going Deep with Brandon Angelo and Matt Waldman",
       "transcript_source": "whisper"
@@ -3909,7 +3909,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-06",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-05-06-rsp-feel-it-or-fk-it-5624-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-05-06-rsp-feel-it-or-fk-it-5624-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 5.6.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3921,7 +3921,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-13",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-05-13-rsp-feel-it-or-fk-it-51324-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-05-13-rsp-feel-it-or-fk-it-51324-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It Or F@#k It: 5.13.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3933,7 +3933,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-17",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-05-17-rsp-2024-nfl-rookie-dynasty-draft-thoughts-going-deep-with-brandon-angelo-.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-05-17-rsp-2024-nfl-rookie-dynasty-draft-thoughts-going-deep-with-brandon-angelo-.md",
       "status": "fetched",
       "title": "2024 NFL Rookie Dynasty Draft Thoughts: Going Deep with Brandon Angelo and Matt Waldman",
       "transcript_source": "whisper"
@@ -3945,7 +3945,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-20",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-05-20-rsp-feel-it-or-fit-52024-an-rsp-cast-with-jagger-may-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-05-20-rsp-feel-it-or-fit-52024-an-rsp-cast-with-jagger-may-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 5.20.24: An RSP Cast with Jagger May and Matt Waldman",
       "transcript_source": "whisper"
@@ -3957,7 +3957,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-06-03",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-06-03-rsp-feel-it-or-fit-6324-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-06-03-rsp-feel-it-or-fit-6324-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 6.3.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3969,7 +3969,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-06-10",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-06-10-rsp-feel-it-or-fit-61024-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-06-10-rsp-feel-it-or-fit-61024-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 6.10.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3981,7 +3981,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-06-18",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-06-18-rsp-feel-it-or-fit-61724-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-06-18-rsp-feel-it-or-fit-61724-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 6.17.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -3993,7 +3993,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-01",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-07-01-rsp-feel-it-or-fit-7124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-07-01-rsp-feel-it-or-fit-7124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 7.1.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4005,7 +4005,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-04",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-07-04-rsp-sleeper-wrs-for-the-2024-nflfantasy-season-going-deep-with-brandon-ang.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-07-04-rsp-sleeper-wrs-for-the-2024-nflfantasy-season-going-deep-with-brandon-ang.md",
       "status": "fetched",
       "title": "Sleeper WRs for the 2024 NFL/Fantasy Season: Going Deep with Brandon Angelo and Matt Waldman",
       "transcript_source": "whisper"
@@ -4017,7 +4017,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-08",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-07-08-rsp-feel-it-or-fit-7824-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-07-08-rsp-feel-it-or-fit-7824-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 7.8.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4029,7 +4029,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-12",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-07-12-rsp-jj-zacahariason-and-the-late-round-draft-guide-on-matt-waldmans-rsp-ca.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-07-12-rsp-jj-zacahariason-and-the-late-round-draft-guide-on-matt-waldmans-rsp-ca.md",
       "status": "fetched",
       "title": "JJ Zacahariason and the Late-Round Draft Guide on Matt Waldman\u2019s RSP Cast",
       "transcript_source": "whisper"
@@ -4041,7 +4041,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-15",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-07-15-rsp-feel-it-or-fit-71524-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-07-15-rsp-feel-it-or-fit-71524-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 7.15.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4053,7 +4053,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-22",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-07-22-rsp-feel-it-or-fit-72224-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-07-22-rsp-feel-it-or-fit-72224-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 7.22.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4065,7 +4065,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-29",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-07-29-rsp-dwain-mcfarland-and-matt-waldman-rsp-cast-digging-into-the-2024-fantas.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-07-29-rsp-dwain-mcfarland-and-matt-waldman-rsp-cast-digging-into-the-2024-fantas.md",
       "status": "fetched",
       "title": "Dwain McFarland and Matt Waldman RSP Cast: Digging into the 2024 Fantasy Draft Prospects",
       "transcript_source": "whisper"
@@ -4077,7 +4077,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-29",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-07-29-rsp-feel-it-or-fit-72924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-07-29-rsp-feel-it-or-fit-72924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 7.29.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4089,7 +4089,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-08-05",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-08-05-rsp-feel-it-or-fit-8524-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-08-05-rsp-feel-it-or-fit-8524-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 8.5.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4101,7 +4101,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-08-12",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-08-12-rsp-2024-nfl-preseason-risers-fallers-and-curiosities-matt-waldmans-rsp-so.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-08-12-rsp-2024-nfl-preseason-risers-fallers-and-curiosities-matt-waldmans-rsp-so.md",
       "status": "fetched",
       "title": "2024 NFL Preseason Risers, Fallers, and Curiosities: Matt Waldman\u2019s RSP Solo Cast",
       "transcript_source": "whisper"
@@ -4113,7 +4113,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-08-19",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-08-19-rsp-feel-it-or-fit-81924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-08-19-rsp-feel-it-or-fit-81924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 8.19.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4125,7 +4125,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-08-22",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-08-22-rsp-preseason-buzz-regular-season-predictions-going-deep-with-brandon-ange.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-08-22-rsp-preseason-buzz-regular-season-predictions-going-deep-with-brandon-ange.md",
       "status": "fetched",
       "title": "Preseason Buzz & Regular Season Predictions: Going Deep with Brandon Angelo and Matt Waldman",
       "transcript_source": "whisper"
@@ -4137,7 +4137,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-08-26",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-08-26-rsp-feel-it-or-fit-82624-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-08-26-rsp-feel-it-or-fit-82624-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 8.26.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4149,7 +4149,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-02",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-09-02-rsp-feel-it-or-fit-9224-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-09-02-rsp-feel-it-or-fit-9224-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 9.2.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4161,7 +4161,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-05",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-09-05-rsp-hot-start-cold-finish-predictions-and-25-nfl-draft-prospects-going-dee.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-09-05-rsp-hot-start-cold-finish-predictions-and-25-nfl-draft-prospects-going-dee.md",
       "status": "fetched",
       "title": "Hot Start, Cold Finish Predictions and \u201925 NFL Draft Prospects: Going Deep with Brandon Angelo and Matt Waldman",
       "transcript_source": "whisper"
@@ -4173,7 +4173,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-05",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-09-05-rsp-managing-september-kickoffs-kyler-and-where-you-fantasy-gms-fd-up-whil.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-09-05-rsp-managing-september-kickoffs-kyler-and-where-you-fantasy-gms-fd-up-whil.md",
       "status": "fetched",
       "title": "Managing September, Kickoffs, Kyler, and Where You Fantasy GMs F\u2013d Up While We Were Gone: RSP Film and Theory with Adam Harstad",
       "transcript_source": "whisper"
@@ -4185,7 +4185,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-09",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-09-09-rsp-feel-it-or-f-it-9924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-09-09-rsp-feel-it-or-f-it-9924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F-It 9.9.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4197,7 +4197,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-11",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-09-11-rsp-emerging-college-football-stars-and-backups-to-know-matt-waldmans-rspc.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-09-11-rsp-emerging-college-football-stars-and-backups-to-know-matt-waldmans-rspc.md",
       "status": "fetched",
       "title": "Emerging College Football Stars and Backups to Know: Matt Waldman\u2019s RSP/C2C Podcast with Felix Sharpe",
       "transcript_source": "whisper"
@@ -4209,7 +4209,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-12",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-09-12-rsp-week-1-developments-identifying-worthwhile-trades-the-argument-for-ed-.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-09-12-rsp-week-1-developments-identifying-worthwhile-trades-the-argument-for-ed-.md",
       "status": "fetched",
       "title": "Week 1 Developments, Identifying Worthwhile Trades, the Argument for Ed Reed\u2019s All-Time Greatness: RSP Film and Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
@@ -4221,7 +4221,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-16",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-09-16-rsp-feel-it-or-f-it-91624-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-09-16-rsp-feel-it-or-f-it-91624-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F-It 9.16.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4233,7 +4233,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-19",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-09-19-rsp-fran-tarkenton-patrick-mahomes-and-skylar-thompson-rsp-film-and-theory.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-09-19-rsp-fran-tarkenton-patrick-mahomes-and-skylar-thompson-rsp-film-and-theory.md",
       "status": "fetched",
       "title": "Fran Tarkenton, Patrick Mahomes, and Skylar Thompson: RSP Film and Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
@@ -4245,7 +4245,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-20",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-09-20-rsp-progress-reports-on-the-2023-and-2024-rookie-qb-classes-in-the-nfl-mat.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-09-20-rsp-progress-reports-on-the-2023-and-2024-rookie-qb-classes-in-the-nfl-mat.md",
       "status": "fetched",
       "title": "Progress Reports on the 2023 and 2024 Rookie QB Classes in the NFL: Matt Waldman\u2019s RSP Scout Talk",
       "transcript_source": "whisper"
@@ -4257,7 +4257,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-23",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-09-23-rsp-feel-it-or-fit-92324-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-09-23-rsp-feel-it-or-fit-92324-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 9.23.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4269,7 +4269,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-25",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-09-25-rsp-kalel-mullings-and-justin-joly-rsp-campus2canton-podcast-with-felix-sh.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-09-25-rsp-kalel-mullings-and-justin-joly-rsp-campus2canton-podcast-with-felix-sh.md",
       "status": "fetched",
       "title": "Kalel Mullings and Justin Joly: RSP-Campus2Canton Podcast with Felix Sharpe and Matt Waldman",
       "transcript_source": "whisper"
@@ -4281,7 +4281,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-26",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-09-26-rsp-win-now-trades-jayden-daniels-and-qb-value-in-rookie-draft-rsp-film-an.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-09-26-rsp-win-now-trades-jayden-daniels-and-qb-value-in-rookie-draft-rsp-film-an.md",
       "status": "fetched",
       "title": "Win-Now Trades, Jayden Daniels, and QB Value in Rookie Draft: RSP Film And Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
@@ -4293,7 +4293,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-09-30",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-09-30-rsp-feel-it-or-fit-93024-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-09-30-rsp-feel-it-or-fit-93024-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 9.30.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4305,7 +4305,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-03",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-10-03-rsp-the-state-of-nfl-offenses-roy-green-daryl-lamonica-and-harstads-razor-.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-10-03-rsp-the-state-of-nfl-offenses-roy-green-daryl-lamonica-and-harstads-razor-.md",
       "status": "fetched",
       "title": "The State of NFL Offenses, Roy Green, Daryl Lamonica, and Harstad\u2019s Razor: RSP Film and Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
@@ -4317,7 +4317,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-07",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-10-07-rsp-feel-it-or-fit-10724-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-10-07-rsp-feel-it-or-fit-10724-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 10.7.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4329,7 +4329,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-10",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-10-10-rsp-rashee-rice-emerging-tes-and-2025-nfl-draft-rbs-going-deep-with-brando.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-10-10-rsp-rashee-rice-emerging-tes-and-2025-nfl-draft-rbs-going-deep-with-brando.md",
       "status": "fetched",
       "title": "Rashee Rice, Emerging TEs, and 2025 NFL Draft RBs: Going Deep with Brandon Angelo and Matt Waldman",
       "transcript_source": "whisper"
@@ -4341,7 +4341,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-10",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-10-10-rsp-regression-candidates-exuberance-pessimism-and-problematic-figures-rsp.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-10-10-rsp-regression-candidates-exuberance-pessimism-and-problematic-figures-rsp.md",
       "status": "fetched",
       "title": "Regression Candidates, Exuberance-Pessimism, and Problematic Figures: RSP Film and Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
@@ -4353,7 +4353,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-14",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-10-14-rsp-feel-it-or-fit-101424-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-10-14-rsp-feel-it-or-fit-101424-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 10.14.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4365,7 +4365,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-17",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-10-17-rsp-writing-craft-and-content-in-the-fantasy-industry-rsp-film-and-theory-.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-10-17-rsp-writing-craft-and-content-in-the-fantasy-industry-rsp-film-and-theory-.md",
       "status": "fetched",
       "title": "Writing, Craft, and Content in the Fantasy Industry: RSP Film and Theory with Adam Harstad",
       "transcript_source": "whisper"
@@ -4377,7 +4377,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-21",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-10-21-rsp-feel-it-or-fit-102124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-10-21-rsp-feel-it-or-fit-102124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 10.21.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
@@ -4389,7 +4389,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-23",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-10-23-rsp-matt-waldman-and-felix-sharpes-rsp-c2c-podcast-isaac-brown-nick-marsh-.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-10-23-rsp-matt-waldman-and-felix-sharpes-rsp-c2c-podcast-isaac-brown-nick-marsh-.md",
       "status": "fetched",
       "title": "Matt Waldman and Felix Sharpe\u2019s RSP-C2C Podcast: Isaac Brown, Nick Marsh, Carson Beck and Anthony Richardson",
       "transcript_source": "whisper"
@@ -4401,7 +4401,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-24",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-10-24-rsp-brock-bowers-vs-history-trading-across-leagues-and-critiquing-alarmist.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-10-24-rsp-brock-bowers-vs-history-trading-across-leagues-and-critiquing-alarmist.md",
       "status": "fetched",
       "title": "Brock Bowers vs. History, Trading Across Leagues, and Critiquing Alarmist Film Analysis: RSP Film and Theory with Adam Harstad",
       "transcript_source": "whisper"
@@ -4413,7 +4413,7 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-10-28",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "Sources/_inbox/2024-10-28-rsp-feel-it-or-fit-102824-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "staged_path": "raw/transcripts/rsp-cast/2024-10-28-rsp-feel-it-or-fit-102824-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
       "status": "fetched",
       "title": "Feel It or F\u2013It 10.28.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"

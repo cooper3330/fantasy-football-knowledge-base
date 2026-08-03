@@ -1,173 +1,196 @@
-# Fantasy Football Knowledge Base — Wiki Operating Instructions
+# Fantasy Football Knowledge Base — Schema
 
-This repo is a self-maintaining wiki, in the spirit of Andrej Karpathy's "LLM wiki"
-approach: a vault of small, atomic, densely cross-linked markdown notes that Claude
-builds and updates as new source material (podcast/media transcripts and appearances
-from select fantasy football experts) comes in. The human mostly feeds in source
-material; Claude does the writing, linking, and organizing.
+This vault follows Andrej Karpathy's
+[llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+pattern. You (Claude) own the wiki layer. The human curates sources and asks
+questions; you do the summarizing, cross-referencing, and maintenance.
 
-## Structure
+**What this wiki is for:** answering real fantasy football decisions — draft
+picks, waiver claims, trade evaluations, start/sit — by comparing players across
+scoring formats, grounded in what specific trusted analysts actually said, with
+dates and citations. It curates expert opinion; it does not originate advice.
 
-- `Home.md` — vault entry point
-- `Experts.md`, `Players.md`, `Concepts.md`, `Sources.md` — top-level Maps of Content
-  (MOCs) linking into each folder below
-- `Experts/` — one note per analyst/host: their philosophy, known biases, track
-  record, links to their takes
-- `Players/` — one note per NFL player, aggregating dated, attributed takes over time
-- `Concepts/` — strategy/scheme notes (e.g. Zero RB, streaming defense, positional
-  scarcity, dynasty rebuild timing)
-- `Formats/` — the formats actually played: [[Best Ball]], [[Dynasty]],
-  [[Redraft (Standard)]], in that priority order (see `Formats.md`)
-- `Sources/` — one note per ingested transcript/appearance, with front matter
-- `_templates/` — starting shape for each note type
+---
 
-## Tracked experts (as of this writing)
+## Three layers
 
-- [[Chris Harris]] — Harris Football Podcast
-- [[Matt Waldman]] — Rookie Scouting Portfolio (dynasty/prospect focus)
-- [[Matt Harmon]] — Yahoo Sports
+| Layer | Path | Rule |
+|---|---|---|
+| **Raw** | `raw/transcripts/<show>/` | **Immutable.** Read, never edit, never move, never delete. Append-only. Source of truth. |
+| **Wiki** | `wiki/` | Yours entirely. Create, update, cross-link, keep consistent. |
+| **Schema** | `CLAUDE.md` (this file) | Conventions and workflows. |
 
-Only ingest takes from these tracked experts unless the user explicitly asks
-to add another. If asked to add one, create their `Experts/<Name>.md` note
-and link it from `Experts.md` before ingesting their content.
+Plus two maintained files at the root:
+
+- **`index.md`** — catalog of every wiki page with a one-line summary, grouped
+  by category. This is the retrieval entry point: consult it before drilling
+  into pages.
+- **`log.md`** — append-only chronological record. Never rewrite past entries.
+
+### Wiki layout
+
+```
+wiki/
+├── players/      one page per NFL player
+├── experts/      one page per tracked analyst
+├── concepts/     strategy/scheme pages (Zero RB, alignment, etc.)
+├── formats/      Best Ball / Dynasty / Redraft (Standard)
+├── sources/      one summary page per ingested episode + SOURCE_CATALOG.md
+├── synthesis/    filed answers to recurring questions (see "Query")
+└── _templates/   starting shapes for each page type
+```
+
+---
+
+## Tracked experts
+
+- [[Chris Harris]] — Harris Fantasy Football Podcast
+- [[Matt Harmon]] — Reception Perception: The Show (WR charting)
+- [[Matt Waldman]] — Matt Waldman's RSP Cast (film-based scouting, dynasty)
+
+Only ingest takes from these three unless asked to add another. Podcasts
+frequently feature co-hosts and guests (e.g. Bob Harris, James Koh, Jeff
+Erickson) — attribute their views to them by name and note they are not tracked
+experts; never silently merge a guest's opinion into a tracked expert's.
 
 ## Format priority
 
-The wiki owner plays, in order of importance: [[Best Ball]] (highest) >
-[[Dynasty]] > [[Redraft (Standard)]] (lowest). When a source's advice is
-format-specific, tag the bullet with the format(s) it applies to, e.g.
-`[Best Ball]` or `[Dynasty]`, and cross-post to the relevant `Formats/*.md`
-note's "Expert Takes" section as well as the player/concept note. If a take
-isn't format-specific, don't force a tag — leave it general.
+[[Best Ball]] (highest) > [[Dynasty]] > [[Redraft (Standard)]] (lowest). When a
+take is format-specific, tag it (`[Best Ball]`, `[Dynasty]`) and cross-post to
+the relevant `wiki/formats/` page. Don't force a tag on general takes.
+
+---
 
 ## Core rules
 
-1. **Atomic notes.** One file per entity. Don't merge players, don't create
-   catch-all notes.
-2. **Source-grounded.** Every claim in a Player/Concept note must cite the
-   `[[Source]]` it came from, with expert + date. No unsourced assertions.
-3. **Opinion, not fact.** Fantasy advice is subjective and time-sensitive. Frame
-   claims as "According to [[Expert Name]] ([[Source Note]], YYYY-MM-DD)
-   [Format if applicable]: ..." — never state an expert's take as settled truth
-   in the wiki's own voice.
-4. **Chronological order wins.** Within a note's "Expert Takes", bullets are
-   ordered oldest → newest, so the last bullet is always the most current view.
-   Recency carries weight: when takes conflict, the newer one reflects better
-   information (injuries, camp reports, depth-chart moves), and an older take
-   must never be written in a way that supersedes or overwrites a newer one.
-   Keep both, dated, in order. See the ingestion-order rule below.
-5. **Append, don't overwrite.** When a new source contradicts or updates an old
-   take (e.g. after an injury or role change), add the new dated entry alongside
-   the old one rather than deleting it. The history of how opinion shifted is
-   valuable — don't erase it.
-6. **Idempotent ingestion.** Before creating a note, search for an existing one,
-   including under likely synonyms/nicknames (e.g. "CMC" vs "Christian
-   McCaffrey"). Update in place; don't duplicate.
-7. **Dense linking.** Use `[[wikilinks]]` liberally — every player mention, expert
-   mention, and named concept should link to its note.
-8. **Disagreement is signal.** When experts differ, record both takes rather than
-   picking a winner or silently averaging them.
-9. **File naming.** Filename = exact display name used in wikilinks (Obsidian
-   resolves links by filename), e.g. `Players/Christian McCaffrey.md`,
-   `Concepts/Zero RB.md`.
-
-## Automated ingestion queue (`Sources/_inbox/`)
-
-`scripts/check_new_episodes.py` reads each tracked show's public RSS feed and
-stages a plain-text transcript at
-`Sources/_inbox/<date>-<show-slug>-<title-slug>.md`, marking it `fetched` in
-`scripts/state.json` (keyed by RSS `<guid>`). Tracked shows:
-
-- **Reception Perception: The Show** ([[Matt Harmon]]) — only `[FULL EPISODE]`
-  releases; clips are filtered out.
-- **Harris Fantasy Football Podcast** ([[Chris Harris]]) — every episode.
-- **Matt Waldman's RSP Cast** ([[Matt Waldman]]) — every episode.
-
-Each staged file records how its transcript was produced in the
-`transcript_source` front-matter field:
-
-- **`whisper`** — local speech-to-text via `whisper.cpp` (`large-v3-turbo`) on
-  the episode's public MP3 enclosure. Free, offline, no API key, ~24× realtime
-  on this Mac. **This is the path for effectively every episode.**
-- **`feed-transcript`** — a `<podcast:transcript>` tag on the RSS item.
-  Disabled by default (`PREFER_FEED_TRANSCRIPTS = False`): the only such
-  transcripts here are 8 RSP Cast episodes from a 2024 Blubrry trial whose ASR
-  is measurably worse than Whisper's. Used automatically only if an episode has
-  a transcript tag but no audio enclosure.
-
-The script never touches git and never calls a paid API.
-
-At the start of any session (and always as part of the daily scheduled task),
-check `Sources/_inbox/` for staged files.
-
-**Always ingest in strict chronological order, oldest episode first.** Staged
-filenames are date-prefixed (`YYYY-MM-DD-<show>-<title>.md`), so sorting by
-filename gives the correct order. This is not a nicety — expert opinion on a
-player evolves (injuries, depth-chart changes, camp reports), and each
-`Players/` note accumulates dated takes in file order. Ingesting oldest-first
-means a more current take always lands *after* an older one, so the note reads
-chronologically and a stale opinion can never appear to supersede a fresher
-one. If you ever ingest out of order, insert the bullet in its correct
-date position rather than appending it to the end.
-
-For each staged file:
-
-1. Treat its content as a new transcript — apply the full ingestion workflow
-   below (steps 2–5), using the front matter already present (expert, show,
-   date) instead of re-deriving it.
-2. **No speaker labels.** Neither transcript source provides diarization.
-   Infer who's speaking from context (introductions, how they refer to each
-   other, subject matter). Most episodes are a consistent host pairing — see
-   the relevant `Sources/` notes for who hosts what.
-3. **Expect ASR errors on proper nouns**, especially player names. Observed
-   examples: "Malik neighbors" (Nabers), "Romo Dunze" (Rome Odunze), "Jameer
+1. **Atomic pages.** One page per entity. No catch-all pages.
+2. **Source-grounded.** Every claim cites the source page it came from, with
+   expert + date. No unsourced assertions.
+3. **Opinion, not fact.** Frame as "According to [[Expert]] ([[Source]],
+   YYYY-MM-DD) [Format]: ..." — never state a take as settled truth in the
+   wiki's own voice.
+4. **Chronological order wins.** Bullets in a page's "Expert Takes" run oldest →
+   newest, so the last bullet is the most current view. When takes conflict, the
+   newer one reflects better information (injuries, camp reports, depth-chart
+   moves); an older take must never be written so as to supersede a newer one.
+   If ingesting out of order, insert at the correct date position rather than
+   appending.
+5. **Append, don't overwrite.** A contradicting new take is added alongside the
+   old one, not in place of it. How opinion shifted is itself valuable.
+6. **Idempotent.** Before creating a page, search for an existing one under
+   synonyms/nicknames ("CMC" vs "Christian McCaffrey"). Update in place.
+7. **Normalize proper nouns.** Transcripts are ASR output and garble names —
+   observed: "Malik neighbors" (Nabers), "Romo Dunze" (Rome Odunze), "Jameer
    Gibbs" (Jahmyr Gibbs), "Debo Samuel" (Deebo Samuel), "Dijon Stribling"
-   (De'Zhaun Stribling). Always normalize to the correct real-world spelling
-   before creating or updating a `Players/` note, and check for an existing
-   note under the correct spelling first (rule 6, idempotent ingestion). Never
-   create a player note under a garbled ASR spelling.
-4. Once fully ingested (the source note is created/updated and all extracted
-   claims are woven into Player/Concept/Expert notes), move the file out of
-   `Sources/_inbox/` into its permanent home per step 1 below, delete the
-   staging copy, and update its entry in `scripts/state.json` to
-   `"status": "ingested"`.
+   (De'Zhaun Stribling), "about Wall" (Matt Waldman). Always resolve to the
+   correct real-world spelling before creating or updating a page. **Never
+   create a page under a garbled spelling.**
+8. **Dense linking.** `[[wikilinks]]` for every player, expert, concept, and
+   format mention.
+9. **Disagreement is signal.** When experts differ, record both takes. Don't
+   pick a winner or average them.
+10. **File naming.** Filename = exact display name used in wikilinks, e.g.
+    `wiki/players/Christian McCaffrey.md`.
 
-Whisper output has inconsistent capitalization/punctuation on long episodes
-(a known long-form drift; content accuracy is unaffected). Don't treat
-lowercase passages as lower-confidence — they're as accurate as the rest.
+---
 
-Episodes the pipeline fails to transcribe are logged to
-`Sources/_needs-attention.md` by the script itself (not by you) and retried on
-every run — that file is just visibility into what's stuck.
+## Operation: ingest
 
-A separate, independent weekly scheduled task handles `git add`/`commit`/`push`
-for the whole repo. Never run git commands as part of ingestion — the two are
-intentionally decoupled.
+Triggered when transcripts sit in `raw/transcripts/` with status `fetched` in
+`scripts/state.json`.
 
-## Ingesting a new transcript
+**Always process oldest-first.** Filenames are date-prefixed, so sorting by
+filename gives the correct order. See rule 4 — this is what makes the
+chronological invariant hold.
 
-When given a new podcast/media transcript, or a link/summary of one (including
-from `Sources/_inbox/` above):
+For each transcript:
 
-1. Create `Sources/<Show> - <YYYY-MM-DD> - <Expert>.md` from
-   `_templates/Source.md`, filling in front matter (expert, show, episode, date,
-   url) and a brief summary.
-2. Add a row to `Sources.md`.
-3. Pull out distinct, player- or concept-specific claims. For each:
-   - Find or create the relevant `Players/<Name>.md` or `Concepts/<Name>.md`
-     (from the matching template).
-   - Append a dated bullet under "Expert Takes" citing the source and expert,
-     tagged with a format per the "Format priority" section below when the
-     take is format-specific.
-   - Link back to the source note.
-4. Update/create `Experts/<Expert>.md` with a link to the new source and, if
-   their overall stance shifted, a short note on that.
-5. Make sure the `Players.md` / `Concepts.md` / `Experts.md` MOCs link to any
-   newly created notes.
+1. Read it from `raw/transcripts/<show>/`. **Do not modify or move it.** It
+   stays there permanently.
+2. Note: transcripts have **no speaker labels**. Infer speakers from context
+   (introductions, how they address each other, subject matter). Capitalization
+   and punctuation drift mid-episode — this is cosmetic, content is accurate.
+3. Create `wiki/sources/<Show> - <YYYY-MM-DD>.md` — a summary page: what was
+   covered, who spoke, and links to every entity page the episode touched. This
+   is a *summary*, not a copy; the full text stays in `raw/`.
+4. Extract distinct, attributable claims. For each, create or update the
+   relevant `wiki/players/`, `wiki/concepts/`, or `wiki/formats/` page with a
+   dated bullet citing the source. **A single episode may touch 10–15 pages.**
+5. Update `wiki/experts/<Expert>.md` with the new source, and any shift in their
+   overall stance or known biases.
+6. Update `wiki/sources/SOURCE_CATALOG.md` with a row for the episode.
+7. Update `index.md` for any newly created page (see "Index maintenance").
+8. Append to `log.md`: `## [YYYY-MM-DD] ingest | <Show> — <Episode Title>`.
+9. Set the episode's `status` to `ingested` in `scripts/state.json`.
+
+## Operation: query
+
+When asked a fantasy question (draft, waiver, trade, start/sit):
+
+1. Consult `index.md` first, then read the relevant pages.
+2. Answer with citations — expert, date, format. Surface disagreement between
+   experts rather than flattening it. Weight recency (rule 4).
+3. **If the answer is durable and likely to be asked again, file it** as a page
+   in `wiki/synthesis/` (e.g. "Best Ball WR Targets 2026", "Dynasty RB Tiers"),
+   add it to `index.md`, and log it. This is the point of the pattern: valuable
+   answers accumulate as wiki pages instead of disappearing into chat.
+4. Append to `log.md`: `## [YYYY-MM-DD] query | <question>`.
+
+Synthesis pages are **derived**, not authoritative — they must cite the player
+pages behind them and note the date they were last refreshed, since player
+opinion moves.
+
+## Operation: lint
+
+A periodic health pass. Check for:
+
+- **Contradictions** — a page asserting two incompatible things without dates.
+- **Stale claims** — a synthesis page built on takes that have since been
+  superseded; an injury/role note overtaken by later reporting.
+- **Orphan pages** — pages nothing links to, or missing from `index.md`.
+- **Missing cross-references** — a player mentioned in prose without a wikilink,
+  or an expert page not listing a source it clearly informed.
+- **Garbled names** — pages created under ASR spellings (rule 7), or duplicates
+  of the same player under two spellings.
+- **Gaps** — a tracked expert with no recent sources; a format page with no takes.
+
+Append findings to `log.md` as `## [YYYY-MM-DD] lint | <scope>` with what was
+fixed.
+
+---
+
+## Index maintenance
+
+`index.md` is the retrieval layer — keep it accurate or retrieval degrades.
+
+- Every wiki page appears exactly once, under its category.
+- Each entry is **one line**: the wikilink plus a short summary that helps decide
+  whether to open the page. For players, lead with position/team and the current
+  headline view.
+- Keep player entries grouped by position (QB / RB / WR / TE).
+- Update it in the same pass that creates a page — never defer.
 
 ## What NOT to do
 
-- Don't fabricate takes, quotes, or stats not present in the source material.
-- Don't collapse multiple experts' views into one unattributed "consensus" bullet.
-- Don't generate the wiki's own rankings or predictions — it curates what experts
-  said, it doesn't originate advice.
+- Don't modify, move, or delete anything under `raw/`.
+- Don't fabricate takes, quotes, or stats not present in the source.
+- Don't merge multiple experts into an unattributed "consensus".
+- Don't generate the wiki's own rankings or predictions — curate what experts
+  said. Synthesis pages may *organize* expert views; they may not invent new ones.
+- Don't run git commands during ingestion. A separate weekly job handles backup.
+
+---
+
+## Pipeline (transcript acquisition)
+
+`scripts/check_new_episodes.py` reads each show's public RSS feed and writes
+transcripts into `raw/transcripts/<show>/`, transcribing locally with
+`whisper.cpp`. It never touches git and never calls a paid API. See `README.md`
+for architecture, setup, and the researched-and-rejected alternatives.
+
+State (`scripts/state.json`, keyed by RSS guid): `pending` → `fetched` →
+`ingested`. You set `ingested`; the script sets the other two.
+
+Backlog draining is a separate, one-time operation (`scripts/drain_backlog.sh`).
+The daily job is **currently paused** while the back catalog is transcribed and
+ingested.
