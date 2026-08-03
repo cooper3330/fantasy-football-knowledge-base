@@ -252,6 +252,9 @@ A periodic health pass. Check for:
 - **Garbled names** — pages created under ASR spellings (rule 7), or duplicates
   of the same player under two spellings.
 - **Gaps** — a tracked expert with no recent sources; a format page with no takes.
+- **Split wikilinks** — a `[[Player\nName]]` broken across a line break by text
+  wrapping. These silently fail to resolve and are easy to miss. Check with:
+  `grep -Pzo '\[\[[^\]]*\n[^\]]*\]\]' **/*.md`. Check `log.md` too, not just `wiki/`.
 - **Stale index lines** — an `index.md` summary that no longer matches its page's
   most recent take. Spot-check by comparing each index line against the last
   bullet on the page it points to.

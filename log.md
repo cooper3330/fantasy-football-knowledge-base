@@ -462,8 +462,7 @@ route-running argument behind it. (3) [[Brock Purdy]] gets a direct, on-record
 disagreement between experts: Waldman calls him "exposed as nothing other
 than what he is" (a good QB) after the Divisional Round win, Harmon calls the
 same game "a bad game" and grades him "top 20," not elite-tier — logged as an
-open disagreement per rule 9, not flattened. (4) [[Mike Evans]] and [[Baker
-Mayfield]] both get free-agency mechanics (dollar figures, suitor teams,
+open disagreement per rule 9, not flattened. (4) [[Mike Evans]] and [[Baker Mayfield]] both get free-agency mechanics (dollar figures, suitor teams,
 Detroit's cap space/culture fit for Evans). (5) [[John Metchie III]] gets a
 real downgrade — "has proven nothing to this point in his career" — after a
 Wild Card flash three episodes prior. (6) [[Aaron Jones]] gets "criminally
@@ -511,16 +510,13 @@ overdraft warning), two current stars who'd never gotten their own page
 despite plenty of prior mentions — [[Patrick Mahomes]] (specific 2024
 redraft value call) and [[Jalen Hurts]] (introduced via a Lamar Jackson
 value comparison, Kellen Moore OC hire flagged as a live variable) — and
-eight 2024 draft prospects from the Senior Bowl/Shrine Game: [[Jabari
-Small]], [[Blake Watson]], [[Jonathan Brooks]] (RB); [[Malik Washington]],
-[[Xavier Legette]], [[Malachi Corley]], [[Javon Baker]] (WR); [[Spencer
-Rattler]] (QB). **What materially changed:** (1) [[Lamar Jackson]] gets a
+eight 2024 draft prospects from the Senior Bowl/Shrine Game: [[Jabari Small]], [[Blake Watson]], [[Jonathan Brooks]] (RB); [[Malik Washington]],
+[[Xavier Legette]], [[Malachi Corley]], [[Javon Baker]] (WR); [[Spencer Rattler]] (QB). **What materially changed:** (1) [[Lamar Jackson]] gets a
 detailed, personal defense of his AFC Championship performance plus a
 concrete 2024 redraft value call — expected to supplant [[Patrick Mahomes]]
 at QB2 (maybe QB1), with the receiver-room injury context (Rashad Bateman,
 Odell Beckham Jr., Mark Andrews/Isaiah Likely, lost J.K. Dobbins) offered as
-the reason for expected year-two growth under Todd Monken. (2) [[Brock
-Purdy]] gets a direct rebuttal to Harmon's 2024-01-23 "bad game" critique —
+the reason for expected year-two growth under Todd Monken. (2) [[Brock Purdy]] gets a direct rebuttal to Harmon's 2024-01-23 "bad game" critique —
 Waldman frames his doubters as chasing the wrong (loud, obvious) QB traits
 and credits a stacked supporting cast, while flagging real front-office
 skittishness risk if SF doesn't win the Super Bowl. (3) [[Jared Goff]]'s Ben
