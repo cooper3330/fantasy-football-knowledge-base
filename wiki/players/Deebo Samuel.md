@@ -1,0 +1,21 @@
+---
+type: player
+team: San Francisco 49ers
+position: WR
+tags: [player]
+---
+
+# Deebo Samuel
+
+> ⚠️ Takes below are from 2023. Team/role are as of that date and are almost
+> certainly stale — treat as historical context until superseded by newer takes.
+
+## Expert Takes
+
+- 2023-12-21 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2023-12-21]]): the episode's cleanest example of a player whose fantasy value is inseparable from his scheme. Explicitly endorsing a segment he had seen from [[Matt Harmon]] — "a dead-on explanation" — Waldman's version: as a zone-beater and a gadget runner Samuel is outstanding, "there are few that do it as well as him in those situations," and because the NFL plays enough zone the production shows up. Against man coverage he is "not remotely as good." The conclusion is a warning about team change rather than about talent: "he might not even be remotely the player he is right now in fantasy football if he were on another team that forced him to be in situations where he was going to get covered man-to-man more often." Waldman is careful that this is not pejorative — leveraging that skill set is the organization's job. See [[Zone vs Man Route Running]] and [[Scheme vs Talent]].
+- 2023-12-21 — **Adam Harstad** (co-host — not a tracked expert), same episode, two framings that cut against pricing Samuel as a type: (1) if the league's next scheme-centric swing is teams copying the Kyle Shanahan offense, "everybody's looking for a Deebo Samuel type and a George Kittle type" — Harstad is skeptical it is copyable; (2) Percy Harvin was "a better Deebo Samuel — he could do all the stuff Deebo did and he could also do stuff Deebo didn't do," and never got that level of commitment, because the league was in a scheme-centric mode at the time. The role, on this reading, is scarcer than the skill set.
+
+## Related Concepts
+- [[Zone vs Man Route Running]]
+- [[Scheme vs Talent]]
+- [[League Trend Cycles and Market Inefficiency]]

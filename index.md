@@ -46,6 +46,8 @@ for the chronological record of ingests, queries, and lints.
 - [[Jake Browning]] — QB, CIN — streamable low-end QB1 on his 2023 run; strong middle-of-field/timing thrower, no off-platform deep ball *(2023 takes, stale)*
 - [[Baker Mayfield]] — QB, TB — Waldman expected Tampa to re-sign him for 2024; "like what he's doing within his capabilities," Geno Smith leap possible *(2023 takes, stale)*
 - [[C.J. Stroud]] — QB, HOU — talent real, but both hosts credit part of the production to the Shanahan-tree system around him *(2023 takes, stale)*
+- [[Lamar Jackson]] — QB, BAL — Waldman's contrarian call: the *most* scheme-dependent of the top QBs; limited outside the numbers, not a knock on talent *(2023 takes, stale)*
+- [[Brock Purdy]] — QB, SF — not a system QB per Waldman; in-structure processing travels, and 9.88 Y/A vs Garoppolo in the same offense *(2023 takes, stale)*
 
 ### Running Backs
 - [[Christian McCaffrey]] — RB, SF — unqualified 1.01 for 2024; age 28 explicitly dismissed; the "leverage over the field" case *(2023 takes, stale)*
@@ -55,6 +57,8 @@ for the chronological record of ingests, queries, and lints.
 - [[Tyler Goodson]] — RB, IND — explosive, natural cutback runner masked by Iowa's scheme; Waldman's long-term Colts preference *(2023 takes, stale)*
 - [[Trey Sermon]] — RB, IND — competent one-week fill-in, nothing beyond it; Howard/Williams comp *(2023 takes, stale)*
 - [[Devin Singletary]] — RB, HOU — had taken the job outright from Dameon Pierce; 26 carries to 1 *(2023 takes, stale)*
+- [[Saquon Barkley]] — RB, NYG — valuable, but the last of the space-expensive jump-cut runners; inefficient play-to-play on film *(2023 takes, stale)*
+- [[Derrick Henry]] — RB, TEN — "a one of one"; Harstad's standing warning against drafting his archetype off one outlier *(2023 takes, stale)*
 
 ### Wide Receivers
 - [[Justin Jefferson]] — WR, MIN — "one of the best three route runners in the NFL"; backup QB costs him a tier, not a start *(2023 takes, stale)*
@@ -70,6 +74,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Treylon Burks]] — WR, TEN — talent to be mined, still a work in progress; one big game wasn't a role *(2023 takes, stale)*
 - [[DeAndre Hopkins]] — WR, TEN — the "old man game" archetype; experts split on how much tail is left *(2023 takes, stale)*
 - [[Adam Thielen]] — WR, CAR — reputation as a possession receiver misreads a genuinely elite athletic profile *(2023 takes, stale)*
+- [[Deebo Samuel]] — WR, SF — elite vs zone and as a gadget runner, "not remotely as good" vs man; his value may not survive a team change *(2023 takes, stale)*
 
 ### Tight Ends
 - [[T.J. Hockenson]] — TE, MIN — great in zone, positions well in man; TE1 ceiling minus a tier with a backup QB *(2023 takes, stale)*
@@ -84,7 +89,10 @@ for the chronological record of ingests, queries, and lints.
 - [[Scouting Bias and Player Archetypes]] — archetype labels track appearance/pedigree more than measured traits, and leak into ADP
 - [[Weak Quarterback Play and Receiver Value]] — managers over-discount receivers for bad QBs; discount the *throws he can't make*, not the name
 - [[Zone vs Man Route Running]] — beating man and beating zone are separate skills; doing both (not speed) is Waldman's top-WR marker
-- [[Scheme vs Talent]] — how much production belongs to the system; Houston's Shanahan-tree offense as the test case
+- [[Scheme vs Talent]] — how much production belongs to the system; Houston as the test case, plus the league-wide swing between talent-centric and scheme-centric eras (Dec 2023 read: talent-centric) and why "system quarterback" is a bad label
+- [[Running Back Size and Movement Skills]] — change of direction in tight space as the RB separator, and Waldman's claimed ~205–215 lb ceiling on the trait
+- [[League Trend Cycles and Market Inefficiency]] — NFL trends are cyclical, not progressive; the edge belongs to whoever zags while a trend is crowded
+- [[NIL and Player Development]] — whether paid college players thin rookie classes or force the NFL to develop players; both hosts say mostly no
 
 <!-- Claude: one line per concept page with a short definition. -->
 

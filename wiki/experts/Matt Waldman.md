@@ -46,6 +46,21 @@ Deep* with Brandon Angelo.
 - **Comps to specific NFL players** as his shorthand for a prospect's ceiling
   and skill set (Sermon as Jordan Howard / Jamaal Williams; Goodson as an
   "aspiring Austin Ekler"; Tre Tucker as an "aspiring Jaylen Waddle").
+- **Treats scheme dependence as descriptive, not pejorative.** "These are his
+  skill sets. If you're smart, you're going to leverage them — and that's more
+  on your organization than it is on your player." He will call a star
+  scheme-dependent ([[Lamar Jackson]], [[Deebo Samuel]]) while maintaining the
+  player could be more valuable than anyone in the right building. Read his
+  scheme-dependency calls as *risk on a team change*, not as downgrades.
+- **Comfortable being the lone dissenter**, including against his own
+  colleagues — on 2023-12-21 he took the opposite side of a unanimous
+  Footballguys staff answer on which quarterback was most scheme-dependent.
+- **Process over single-season outcomes.** Explicitly rebuilds his system after
+  misses rather than defending them, and argues an evaluation cannot be graded
+  after one or two years. See [[Scouting Bias and Player Archetypes]].
+- **Plays in few leagues by choice**, and is openly skeptical of analysts who
+  play in dozens and publicize the wins — a small signal about how to read
+  industry track-record claims, his own included.
 
 ## Track Record Notes
 
@@ -55,6 +70,29 @@ Deep* with Brandon Angelo.
   finished the segment ahead of Robinson (RB9 vs RB11). The underlying argument
   was about consistent pricing of draft capital, not about talent.
 
+- **Wide receiver system rebuilt after a self-admitted miss (2023-12-21).** He
+  names Hakeem Butler — whom he graded near Julio Jones around 2019 — as the
+  miss that prompted him to rework his wide receiver evaluation, spending a
+  couple of years studying wide receiver coach Drew Lieberman's (The Sideline
+  Hustle) instructional work with pro receivers to get more granular about
+  which traits to prioritize. He now calls receiver one of his stronger
+  positions after considering it a blind spot. Claimed hits since the rebuild,
+  in his own words "good fits immediately, ahead of most in the industry":
+  A.J. Brown, [[Justin Jefferson]], Chris Olave, [[Jayden Reed]]. Worth
+  weighting his post-2019 receiver calls differently from his earlier ones.
+
+- **[[James Cook]] fit call — right, one year late.** He was publicly excited
+  about Cook's fit in Buffalo as a rookie, took criticism when year one was
+  quiet, and Cook was RB5 in PPR by Week 15 of 2023. He raises it himself as an
+  argument for judging evaluations on a multi-year horizon.
+
+- **Open prediction (2023-12-21), unresolved at time of writing:** that
+  [[Lamar Jackson]] is more scheme-dependent than [[Brock Purdy]] — the
+  specific claim being that Jackson is limited outside the numbers beyond a
+  certain distance and that successive Baltimore coordinators have built around
+  hiding it. Checkable against later coaching changes for both quarterbacks.
+
 ## Sources
 - [[Matt Waldman's RSP Cast - 2023-12-14]] — career longevity / aging curves (with Adam Harstad)
 - [[Matt Waldman's RSP Cast - 2023-12-18]] — *Feel It or F**k It*, Week 15 (with Bob Harris); route-running framework, 2024 RB market, Houston scheme-vs-talent
+- [[Matt Waldman's RSP Cast - 2023-12-21]] — *RSP Film and Theory* (with Adam Harstad); RB size and movement skills, cyclical league trends, talent-vs-scheme eras, NIL

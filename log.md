@@ -78,3 +78,29 @@ running vs speed, and the man/zone split, as Waldman's primary WR sorting
 question. ASR name normalizations included Jalen→Jordan Addison, Jameer→Jahmyr
 Gibbs, Brandon Iuk→Brandon Aiyuk, Trey→Tre Tucker, Miko→Nico Collins,
 Traylon→Treylon Burks.
+
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — The Cyclical Nature of Talent vs. Scheme + NIL (2023-12-21)
+*RSP Film and Theory* with co-host **Adam Harstad** (not a tracked expert;
+attributed by name — a different co-host from Bob Harris on the *Feel It or
+F**k It* shows). Almost entirely conceptual. Created 3 concept pages
+([[Running Back Size and Movement Skills]],
+[[League Trend Cycles and Market Inefficiency]],
+[[NIL and Player Development]]) and 5 player pages
+([[Lamar Jackson]], [[Brock Purdy]], [[Deebo Samuel]], [[Derrick Henry]],
+[[Saquon Barkley]]). **What materially changed:** the episode's title thread was
+merged into the existing [[Scheme vs Talent]] page rather than duplicated — it
+now carries the league-wide swing between talent-centric and scheme-centric
+eras (Dec 2023 read: talent-centric, so atypical builds get used), and
+Harstad's rejection of "system quarterback" as a label, with Peyton Manning as
+the reductio. New disagreement recorded: Waldman calls [[Lamar Jackson]] more
+scheme-dependent than [[Brock Purdy]] against a unanimous Footballguys staff —
+logged as an open, checkable prediction on his expert page. New durable RB
+framework (change of direction in tight space, with a claimed ~205–215 lb
+ceiling on the trait) now sits under [[Christian McCaffrey]], [[Jahmyr Gibbs]]
+and [[James Cook]]; [[Saquon Barkley]] enters as the counter-example. Waldman
+track record expanded: he rebuilt his WR system after the Hakeem Butler miss
+(A.J. Brown / Jefferson / Olave / Reed as claimed post-rebuild hits), so his
+pre-2019 receiver calls should be weighted differently. ASR normalizations
+included Debo→Deebo Samuel, Eckler→Ekler, Keyshawn→Deuce Vaughn, work
+done→Warrick Dunn, Cordell/Paris→Cordarrelle Patterson, Hawkinson→Hockenson,
+Munkin→Todd Monken, Marlon Roll→Myron Rolle.

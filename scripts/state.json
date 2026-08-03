@@ -3489,8 +3489,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2023-12-21",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2023-12-21-rsp-the-cyclical-nature-of-talent-vs-scheme-in-the-nfl-and-the-nils-potent.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2023-12-21-rsp-the-cyclical-nature-of-talent-vs-scheme-in-the-nfl-and-the-nils-potent.md",
+      "status": "ingested",
       "title": "The Cyclical Nature of Talent vs. Scheme in the NFL and the NIL\u2019s Potential Impact on the NFL: RSP Film and Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
     },

@@ -26,6 +26,7 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 |---|---|---|---|
 | 2023-12-14 | [[Matt Waldman]] | What Is Happening to NFL Careers? (w/ Adam Harstad) | [[Matt Waldman's RSP Cast - 2023-12-14]] |
 | 2023-12-18 | [[Matt Waldman]] | Feel It or F@#k It 12.18.23 — Week 15 (w/ Bob Harris) | [[Matt Waldman's RSP Cast - 2023-12-18]] |
+| 2023-12-21 | [[Matt Waldman]] | The Cyclical Nature of Talent vs. Scheme + NIL's Impact (w/ Adam Harstad) | [[Matt Waldman's RSP Cast - 2023-12-21]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |
