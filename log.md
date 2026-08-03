@@ -158,3 +158,91 @@ commit between each. Added scripts/ingest_manifest.py, which precomputes the
 page inventory and co-host roster into a ready-made agent prompt so agents stop
 rediscovering the wiki on every run — a cost that otherwise grows as the wiki
 grows. Measured baseline: ~126k tokens/episode, ~18.9M for the remaining 150.
+
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: 1.1.24 (2024-01-01)
+Looser New Year's-week *Feel It or F**k It* with **Bob Harris** (not tracked;
+not [[Chris Harris]]), covering ~20 players' 2024 redraft outlook. Created 14
+player pages (QB: [[Anthony Richardson]], [[Joe Flacco]]; RB:
+[[Kenneth Walker III]], [[Kyren Williams]], [[Raheem Mostert]],
+[[James Connor]], [[Aaron Jones]], [[Zamir White]]; WR: [[CeeDee Lamb]],
+[[Tyreek Hill]], [[Mike Evans]], [[Stefon Diggs]], [[Cooper Kupp]]; TE:
+[[Travis Kelce]]) and 1 concept page ([[Injury-Agnostic Roster Construction]]).
+**What materially changed:** (1) the 2024 #1-overall debate splits the hosts —
+Waldman ranks [[Christian McCaffrey]] 1st, [[CeeDee Lamb]] 2nd, [[Tyreek Hill]]
+3rd; Bob Harris takes Lamb over McCaffrey and Hill over Lamb — recorded as
+disagreement, not flattened. (2) [[Scheme vs Talent]] gains two fresh 2024
+cases: Cleveland's turnaround credited to O-line coach Tom Cable and
+Stefanski's scheme more than to [[Joe Flacco]] himself, and [[Kyren Williams]]
+graded explicitly as sub-top-10 talent producing top-10 output off the Rams'
+line — with [[Derrick Henry]] joining via free agency flagged as the risk to
+that read. (3) [[Derrick Henry]]'s own 2024 valuation is now "dead zone" round,
+not low-end RB1, with a hoped-for Ravens landing spot. (4) [[Lamar Jackson]]
+and [[Brock Purdy]]/[[C.J. Stroud]] get updated, materially unchanged headline
+views (Jackson still unqualified QB1 despite the scheme-dependency label;
+Purdy still edges Stroud). Index markers advanced from *(2023 takes, stale)*
+to *(2024 takes, stale)* on all five updated player pages. ASR normalizations
+included Kyron Williams→Kyren Williams, Ken Walker→Kenneth Walker III, Stefan
+Diggs→Stefon Diggs, Cooper Cup→Cooper Kupp, Travis Kelsey→Travis Kelce, Brandon
+Ayoub→Brandon Aiyuk, Devon Achan→De'Von Achane, Raheem Moser→Raheem Mostert.
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — Favorite 2023 NFL Storylines and 2023 Rookie Review (2024-01-04)
+*RSP Film and Theory* with **Adam Harstad** (not tracked), a season-recap plus
+full 2023 rookie-class review. Created 18 player pages (QB: [[Jordan Love]],
+[[Dak Prescott]]; RB: [[Tank Bigsby]], [[Kendre Miller]], [[Chase Brown]]; WR:
+[[Quentin Johnston]], [[Jaxon Smith-Njigba]], [[Zay Flowers]], [[Puka Nacua]],
+[[Tank Dell]], [[Nico Collins]], [[Josh Downs]], [[Marvin Mims Jr.]],
+[[Jalen Hyatt]], [[Rashee Rice]]; TE: [[Dalton Kincaid]], [[Luke Musgrave]],
+[[Tucker Kraft]]) and 1 concept page ([[Role Difficulty and Replaceability]],
+Harstad's "prefer the guy doing the harder thing" heuristic, applied to
+Nico Collins/Tank Dell and to Rashee Rice's Mahomes-inflated role).
+**What materially changed:** (1) Waldman gives an explicit personal 2023
+rookie-WR tier (JSN, Addison, Nacua, Reed, Flowers, with Dell just outside),
+recorded on [[Jordan Addison]] and [[Jayden Reed]] as updates — Reed in
+particular gets "I wouldn't trade him for any of them," a real elevation.
+(2) [[Quentin Johnston]] enters as the class's clearest bust risk, with a
+specific catch-point mechanism rather than a vague "hasn't produced" read.
+(3) [[Brock Purdy]] gets a durable, checkable career-arc forecast (comped to
+early Brady/Warner/Wilson/Roethlisberger) — logged on [[Matt Waldman]]'s
+expert page as an open prediction. (4) [[Dalton Kincaid]] vs [[Sam LaPorta]]:
+Waldman explicitly keeps Kincaid ranked above LaPorta long-term despite
+LaPorta clearly outproducing him as a rookie — also logged as a trackable
+stated-preference-against-results item on Waldman's expert page.
+(5) [[Lamar Jackson]] and [[Joe Flacco]] get reinforcing updates (Beckham
+"best offense" quote, Flacco's on-film progression). A lengthy Bill
+Belichick/Bill Walsh coaching-legacy debate and a "wins above .500" coaching
+statistic aside were **not** ingested as wiki content — no fantasy-relevant
+player claim was at stake. ASR normalizations included Jackson Smith and
+Jigba→Jaxon Smith-Njigba, Riles Garrett→Myles Garrett, Kinkade→Kincaid, Rishi
+Rice→Rashee Rice, Skymore→Skyy Moore.
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: 1.8.24 (2024-01-08)
+Week 18 wrap with **Bob Harris** (not tracked; not [[Chris Harris]]). A fast
+sweep across four crowded team situations. Created 16 player pages (RB:
+[[Tony Pollard]], [[Michael Carter]], [[Austin Ekeler]], [[Josh Jacobs]],
+[[Jordan Mason]], [[Elijah Mitchell]], [[Tyler Allgeier]]; WR: [[Gabe Davis]],
+[[Khalil Shakir]], [[Drake London]], [[Michael Wilson]], [[Wan'Dale Robinson]],
+[[Ronnie Bell]], [[Dontayvion Wicks]], [[Romeo Doubs]], [[Christian Watson]])
+and 1 concept page ([[Healthy Enough to Play vs. Healthy Enough to Perform]],
+a [[Brandon Angelo]] framework relayed by Waldman even though Angelo wasn't a
+co-host this episode — logged on Angelo's own expert page since he's tracked).
+**What materially changed:** (1) [[Michael Wilson]] graduates from a "not
+given" one-liner in the 2024-01-04 episode to a full evaluative take now that
+there's enough substance (route-running comp, health-contingent 2024 range).
+(2) [[James Connor]]'s "toast" skepticism is reframed as a second-contract
+finance story rather than a talent decline — a real nuance, not just
+repetition. (3) [[Josh Jacobs]] vs. [[Zamir White]] recorded as a direct,
+explicit comparison rather than two independent reads. (4) Buffalo's passing
+game (Kincaid/Shakir/Cook) and Green Bay's receiver room (Wicks/Doubs/Watson/
+Reed) each get an explicit "who gets squeezed out" argument. (5) One RB
+question's ASR transcription could not be confidently resolved to a real
+player name — no page was created rather than guess, and it's flagged in the
+source summary for manual review. ASR normalizations included Mother
+Tucker→Tucker Kraft (a filler-phrase/name collision), Amari DiMarcato→Emari
+DeMercado, Javante Williams→Javonte Williams, one dale robinson→Wan'Dale
+Robinson, Ekler→Ekeler.
+
+## [2026-08-03] lint | Name consistency and dangling links after batch 5-7
+Fixed "Austin Ekler" -> [[Austin Ekeler]] across 10 files. Notable: the error
+originated with the earlier Opus-class single-episode agents; the Sonnet batch
+agent independently produced the correct spelling. Unlinked [[Travis Etienne]]
+(a conditional passing mention in the Tank Bigsby page, no substantive take —
+per the rule that pages come only from real evaluative takes). Zero dangling
+links, zero duplicate players, chronological order verified.

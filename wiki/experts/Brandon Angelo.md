@@ -37,6 +37,12 @@ while Waldman supplies scouting-report framing and NFL comps.
   [[Player Development and Coachability]].
 - Willing to make sharp calls against consensus (e.g. [[Malik Nabers]] over
   [[Marvin Harrison Jr.]] "by a healthy margin" on pro-readiness grounds).
+- **Professional background informs his injury framework.** A performance
+  specialist who works with pro athletes and a former Purdue running back
+  himself — the basis for distinguishing "healthy enough to play" from
+  "healthy enough to play at the level you were drafted to play at," relayed
+  by Waldman on [[Matt Waldman's RSP Cast - 2024-01-08]] and applied to
+  [[Tony Pollard]]. See [[Healthy Enough to Play vs. Healthy Enough to Perform]].
 
 ## Track Record Notes
 
@@ -47,3 +53,4 @@ while Waldman supplies scouting-report framing and NFL comps.
 
 ## Sources
 - [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]] — *Going Deep*; RB movement skills, pro-readiness vs ceiling, player development
+- [[Matt Waldman's RSP Cast - 2024-01-08]] — not a co-host on this episode; his "healthy enough to play vs. perform" framework relayed by Waldman on [[Tony Pollard]]

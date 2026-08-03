@@ -17,6 +17,8 @@ tags: [player]
 - 2023-12-18 — Caveat both hosts raised, same episode: the 2024 outlook for both Robinson and [[Jahmyr Gibbs]] depends on coaching. Arthur Smith's return to Atlanta was uncertain, and Waldman said he'd be in on Robinson either way.
 - 2023-12-21 — [[Brandon Angelo]] (co-host of *Going Deep*) on [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]]: names a specific usage mechanism behind the 2023 frustration, and it argues for volume being the fix. Robinson is "a rhythm runner who gets better with the more touches he gets," and Atlanta under Arthur Smith is his headline example of a coach running "scheme over personnel, not personnel over scheme" — a top-eight pick splitting work with Cordarrelle Patterson. His framing is that this is a coach problem that "is going to bite you," not a player problem. See [[Player Development and Coachability]] and [[Scheme vs Talent]].
 
+- 2024-01-08 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-08]]) [Redraft (Standard)]: reaffirms the workload thesis now that Arthur Smith is confirmed gone from Atlanta — expects Robinson to be "run into the ground" (in the positive, bell-cow sense) by a new coaching staff, "with a dash of [[Tyler Allgeier]]" still mixed in as a complementary piece rather than a true committee split.
+
 ## Related Concepts
 - [[Jahmyr Gibbs]] — the paired call; the two takes are one argument
 - [[Player Development and Coachability]]

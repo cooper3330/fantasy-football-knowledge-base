@@ -45,7 +45,7 @@ Deep* with Brandon Angelo.
   same sentence ("feel it this week, f\*\*k it long-term").
 - **Comps to specific NFL players** as his shorthand for a prospect's ceiling
   and skill set (Sermon as Jordan Howard / Jamaal Williams; Goodson as an
-  "aspiring Austin Ekler"; Tre Tucker as an "aspiring Jaylen Waddle").
+  "aspiring [[Austin Ekeler]]"; Tre Tucker as an "aspiring Jaylen Waddle").
 - **Treats scheme dependence as descriptive, not pejorative.** "These are his
   skill sets. If you're smart, you're going to leverage them — and that's more
   on your organization than it is on your player." He will call a star
@@ -130,8 +130,30 @@ Deep* with Brandon Angelo.
   certain distance and that successive Baltimore coordinators have built around
   hiding it. Checkable against later coaching changes for both quarterbacks.
 
+- **Open prediction (2024-01-01), unresolved at time of writing:**
+  [[Anthony Richardson]] as a top-12 quarterback in 2024 — committed to hard
+  and early, before a full healthy season of tape existed to support it.
+  Directly checkable against his 2024 season.
+
+- **Open prediction (2024-01-04), unresolved at time of writing:** compares
+  [[Brock Purdy]]'s career shape to the early careers of Tom Brady, Kurt
+  Warner, Russell Wilson and Ben Roethlisberger — low-volume, hyper-efficient
+  quarterbacks who kept their level of play once their teams leaned on them
+  more. Explicit forecast: "I don't expect him to be less special than he is
+  now" once San Francisco relies on Purdy more heavily. Checkable against
+  Purdy's later-career volume and efficiency.
+
+- **Stated preference against the season's results (2024-01-04):** ranks
+  [[Dalton Kincaid]] above [[Sam LaPorta]] in his long-term dynasty tight end
+  view even though LaPorta clearly outproduced Kincaid as a rookie — on the
+  stated principle that a tight end's year-one output is rarely his final
+  form. Worth tracking against how both careers actually develop.
+
 ## Sources
 - [[Matt Waldman's RSP Cast - 2023-12-14]] — career longevity / aging curves (with Adam Harstad)
 - [[Matt Waldman's RSP Cast - 2023-12-18]] — *Feel It or F**k It*, Week 15 (with Bob Harris); route-running framework, 2024 RB market, Houston scheme-vs-talent
 - [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]] — *Going Deep* (with Brandon Angelo); pace control and movement intellect, [[Malik Nabers]] vs [[Marvin Harrison Jr.]] pro-readiness, player development and coachability. Recorded *before* the episode below, which cites it.
 - [[Matt Waldman's RSP Cast - 2023-12-21]] — *RSP Film and Theory* (with Adam Harstad); RB size and movement skills, cyclical league trends, talent-vs-scheme eras, NIL
+- [[Matt Waldman's RSP Cast - 2024-01-01]] — *Feel It or F**k It*, New Year's week (with Bob Harris); 2024 redraft ADP calls across ~20 players, Cleveland and the Rams as new scheme-vs-talent cases, injury-agnostic roster construction
+- [[Matt Waldman's RSP Cast - 2024-01-04]] — *RSP Film and Theory* (with Adam Harstad); 2023 season storylines and a full 2023 rookie-class review across ~18 players, the "do the harder thing" role-difficulty heuristic, Purdy's career-arc forecast
+- [[Matt Waldman's RSP Cast - 2024-01-08]] — *Feel It or F**k It*, Week 18 wrap (with Bob Harris); a wide 2024 redraft/dynasty sweep across ~19 players, Brandon Angelo's "healthy enough to play vs. perform" framework relayed via Tony Pollard

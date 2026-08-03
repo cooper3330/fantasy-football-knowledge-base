@@ -30,6 +30,8 @@ reason to develop players at all).
 
 - 2023-12-21 — **Waldman and Angelo**, same episode, the upside of self-knowledge: [[Gardner Minshew]] as the model backup — "he knows exactly who he is," has no illusions about being a starter, and is valuable precisely because he can "execute schematically, not make mistakes, just give me a chance to win." Angelo's stated league-wide condition: "there's a lot of bad quarterbacks right now in the NFL."
 
+- 2024-01-04 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-01-04]]: a positive organizational-patience example in [[Jordan Love]] — Green Bay giving him extended bench time to develop before starting, in the lineage of how the franchise handled Aaron Rodgers, Brett Favre, Matt Hasselbeck, and Mark Brunell. Read alongside the [[Drew Lock]] case above, the contrast is *organization* rather than *player*: both were unpolished young passers, but Green Bay's development pipeline gave Love the runway Denver didn't give Lock.
+
 **Why this is in the wiki:** it is the mechanism behind a recurring dynasty
 mistake — buying a talented player into a situation that will not develop him,
 or selling one whose problem was situational. It also supplies the reason

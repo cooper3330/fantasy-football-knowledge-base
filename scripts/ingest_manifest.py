@@ -85,6 +85,11 @@ KEY REMINDERS:
   silently lost.
 - Prefer merging into existing concept pages over proliferating near-duplicates.
 
+PROCESS ONE TRANSCRIPT COMPLETELY BEFORE STARTING THE NEXT. Do not read all
+transcripts up front -- finish all 8 steps below for transcript 1 (including the
+file move and state.json update), then move on to transcript 2. This keeps each
+transcript's context clean and means an interruption loses at most one episode.
+
 MUST DO for EACH transcript (per CLAUDE.md ingest steps):
  1. Source summary page in wiki/sources/ (SUMMARY only -- never copy transcript text).
  2. Create/update player, concept, format pages with dated attributed bullets in
@@ -105,8 +110,8 @@ names normalized, and the verify_integrity output."""
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--count", type=int, default=1,
-                    help="episodes per agent; >1 amortizes fixed overhead")
+    ap.add_argument("--count", type=int, default=3,
+                    help="episodes per agent (default 3); amortizes fixed overhead")
     ap.add_argument("--list", action="store_true", help="show the queue only")
     args = ap.parse_args()
 

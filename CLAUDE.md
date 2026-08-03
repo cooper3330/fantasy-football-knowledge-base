@@ -143,9 +143,24 @@ rediscovering the wiki's contents on every run.
    partial state.
 5. Agents must **not** run git commands; the orchestrator commits.
 
-Use a cheaper model for ingestion agents where available. Extraction against a
-schema this explicit does not need the most capable model, and this is the
-single biggest cost lever in the whole pipeline.
+### Model and batch size (cost)
+
+Ingestion is the most expensive thing this wiki does. Two settings control it:
+
+- **Always spawn ingest agents with `model: "sonnet"`.** Extraction against a
+  schema this explicit does not need a frontier model. This is the single
+  biggest cost lever in the pipeline — do not default to the parent model.
+- **Batch 3 transcripts per agent** (`ingest_manifest.py --count 3`). The
+  fixed overhead — reading the schema, loading the page inventory, learning the
+  conventions — is paid once per *agent*, not once per transcript, so batching
+  amortizes it. Keep batches small enough that the last transcript in a batch
+  still gets a clean context; 3 is the working default, 5 is the ceiling.
+
+Batched agents must still finalize each transcript completely (all 8 steps,
+including the move and the state update) before starting the next one in the
+batch. Never let an agent read all three transcripts up front.
+
+Measured baseline before these settings: **~131k tokens per episode**.
 
 For each transcript:
 

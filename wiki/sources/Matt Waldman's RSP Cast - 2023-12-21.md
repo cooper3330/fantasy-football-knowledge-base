@@ -27,7 +27,7 @@ dropped in as illustrations.
 
 1. **Running back size and movement skills.** Waldman opens on a point raised
    by Brandon Angelo on *Going Deep* the night before: the shared trait among
-   [[Christian McCaffrey]], [[Jahmyr Gibbs]], [[James Cook]], Austin Ekler and
+   [[Christian McCaffrey]], [[Jahmyr Gibbs]], [[James Cook]], [[Austin Ekeler]] and
    [[Lamar Jackson]] is changing direction inside tight creases at speed, and
    Waldman argues the trait has a weight ceiling around 205–215 pounds. The
    contrast is the space-expensive jump cut — Adrian Peterson's move, still run
@@ -107,7 +107,7 @@ only — deliberately left off:
   player when Tony Pollard leaves next year", captured on
   [[Running Back Size and Movement Skills]]); Cordarrelle Patterson (his 2023
   usability is the league changing more than the player, captured on
-  [[League Trend Cycles and Market Inefficiency]]); Austin Ekler (named
+  [[League Trend Cycles and Market Inefficiency]]); [[Austin Ekeler]] (named
   repeatedly as the archetype, no new evaluation beyond the 12-18 decline
   question); Jimmy Garoppolo (yards-per-attempt comparison used to argue for
   Purdy).
@@ -129,7 +129,7 @@ only — deliberately left off:
 ## ASR normalizations applied
 
 Whisper output → correct spelling: "Debo Samuel" → Deebo Samuel; "Austin
-Eckler / Egler" → Austin Ekler; "Jameer Gibbs" → Jahmyr Gibbs; "Terry / Tariq
+Eckler / Egler" → [[Austin Ekeler]]; "Jameer Gibbs" → Jahmyr Gibbs; "Terry / Tariq
 Cohen" → Tarik Cohen; "work done" and "Dunn" → Warrick Dunn; "Keyshawn Vaughn"
 (self-corrected on air) → Deuce Vaughn; "Cordell Patterson" / "Paris" →
 Cordarrelle Patterson; "TJ Hawkinson" → T.J. Hockenson; "George Kiddle" →

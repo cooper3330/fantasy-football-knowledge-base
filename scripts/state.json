@@ -3501,8 +3501,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-01",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-01-01-rsp-feel-it-or-fk-it-1124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-01-01-rsp-feel-it-or-fk-it-1124-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "ingested",
       "title": "Feel It Or F@#k It: 1.1.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
     },
@@ -3513,8 +3513,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-04",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-01-04-rsp-favorite-2023-nfl-storylines-and-2023-rookie-review-rsp-film-and-theor.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-01-04-rsp-favorite-2023-nfl-storylines-and-2023-rookie-review-rsp-film-and-theor.md",
+      "status": "ingested",
       "title": "Favorite 2023 NFL Storylines and 2023 Rookie Review: RSP Film and Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
     },
@@ -3525,8 +3525,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-08",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-01-08-rsp-feel-it-or-fk-it-1824-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-01-08-rsp-feel-it-or-fk-it-1824-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "ingested",
       "title": "Feel It Or F@#k It: 1.8.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
     },
