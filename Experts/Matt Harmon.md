@@ -19,7 +19,4 @@ receiver-charting project.
 
 
 ## Sources
-- [[Reception Perception The Show - 2026-07-23 - Matt Harmon]]
-- [[Reception Perception The Show - 2026-07-28 - Matt Harmon]]
-- [[Reception Perception The Show - 2026-07-30 - Matt Harmon]]
-- [[Harris Fantasy Football Podcast - 2026-07-31 - Chris Harris]] (guest appearance)
+- 

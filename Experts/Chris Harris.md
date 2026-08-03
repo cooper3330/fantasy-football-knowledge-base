@@ -18,5 +18,4 @@ Host of the Harris Football Podcast.
 
 
 ## Sources
-- [[Harris Fantasy Football Podcast - 2026-07-28 - Chris Harris]]
-- [[Harris Fantasy Football Podcast - 2026-07-31 - Chris Harris]]
+- 
