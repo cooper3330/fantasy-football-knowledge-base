@@ -17,5 +17,7 @@ streaming.
 
 - 2023-12-14 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2023-12-14]]): partially dissents — describes himself as "more of a matchup tinkerer," believing he can go deeper on certain situations, while acknowledging it has also burned him. Frames matchup deviation as most defensible when forced by circumstance (an injury to a starter) rather than chosen.
 
+- 2023-12-18 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2023-12-18]]) [Redraft (Standard)]: corroborates his matchup-tinkerer stance in practice — recommends [[Jake Browning]] as a low-end QB1 explicitly to "play the matchups," and rules on [[Tre Tucker]] and [[Treylon Burks]] as matchup-and-volume-dependent WR4s rather than as roster-rank starts. **Bob Harris** (co-host — not a tracked expert) frames the playoff-week version of the same posture: "this time of year you're taking the gifts that are given to you and feeling them to the degree you need to, and not overplaying the hand."
+
 ## Related
 - [[Redraft (Standard)]]

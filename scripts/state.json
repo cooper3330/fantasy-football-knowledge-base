@@ -3465,8 +3465,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2023-12-18",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2023-12-18-rsp-feel-it-or-fk-it-121823-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2023-12-18-rsp-feel-it-or-fk-it-121823-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "ingested",
       "title": "Feel It or F@#k It 12.18.23: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
     },

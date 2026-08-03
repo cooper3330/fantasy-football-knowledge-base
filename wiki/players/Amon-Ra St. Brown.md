@@ -1,0 +1,20 @@
+---
+type: player
+team: Detroit Lions
+position: WR
+tags: [player]
+---
+
+# Amon-Ra St. Brown
+
+> ⚠️ Takes below are from 2023. Team/role are as of that date and are almost
+> certainly stale — treat as historical context until superseded by newer takes.
+
+## Expert Takes
+
+- 2023-12-18 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2023-12-18]]): **feeling it** as a top-5 wide receiver, on the same basis as [[Keenan Allen]] — elite route running rather than speed, wins against both man and zone rather than just zone, and is deployed both inside and outside. Waldman's contrast case is Deebo Samuel, whom he rates a great zone route runner but not a good man route runner. See [[Zone vs Man Route Running]].
+- 2023-12-18 — **Bob Harris** (co-host — not a tracked expert), same episode [Best Ball]: treats St. Brown as the safer of the pair on continuity — "same play caller," where Allen's offense might change again — and says he'll keep drafting both in January best-ball leagues until better information arrives.
+
+## Related Concepts
+- [[Zone vs Man Route Running]]
+- [[Best Ball]]

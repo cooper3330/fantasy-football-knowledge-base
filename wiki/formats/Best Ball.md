@@ -18,4 +18,7 @@ highest-priority format.
 
 ## Expert Takes
 <!-- Attributed, dated bullets on best-ball-specific strategy or player value -->
-- 
+
+- 2023-12-18 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2023-12-18]]): the early-market call for 2024 is to buy the *unloved* half of a debate the market has just resolved. Having pushed [[Jahmyr Gibbs]] over [[Bijan Robinson]] all through 2023 — and been right, Gibbs finishing ahead at RB9 to RB11 — he plans to pound the table for **Robinson** in 2024 precisely because the premium will now sit on Gibbs. Same logic behind [[Brandon Aiyuk]] as a WR1 bet: "I'm going to get him at a bargain anyway, so why not."
+- 2023-12-18 — **Bob Harris** (co-host — not a tracked expert), same episode: on drafting in the January window, before free agency and coaching moves resolve — his default is to keep betting on established route-running profiles until better information arrives, naming [[Keenan Allen]] and [[Amon-Ra St. Brown]]. Notes the asymmetry between the two: St. Brown has the same play-caller, Allen's offense may change again.
+- 2023-12-18 — **Matt Waldman**, same episode: [[Christian McCaffrey]] is the unqualified 1.01 for 2024 despite turning 28 — his framing of what an early pick buys is "leverage over the field."

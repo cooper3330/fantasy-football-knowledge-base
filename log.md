@@ -60,3 +60,21 @@ stable ~33% to 7.7% — with no established cause. Created 3 concept pages
 ([[Aging Curves and Career Longevity]], [[Start Your Best Players]],
 [[Scouting Bias and Player Archetypes]]) and 2 player pages. Materially changes
 the [[Dynasty]] baseline: historical age curves overvalue older players.
+
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — Feel It or F@#k It 12.18.23 (2023-12-18)
+Rapid-fire Week 15 hot-take episode with co-host **Bob Harris** (not a tracked
+expert, and not [[Chris Harris]] — attributed by name throughout). Created 22
+player pages, 3 concept pages ([[Weak Quarterback Play and Receiver Value]],
+[[Zone vs Man Route Running]], [[Scheme vs Talent]]), and cross-posted to
+[[Best Ball]] and [[Redraft (Standard)]], which had no takes before this.
+**What materially changed:** Waldman flips his own 2024 RB market call —
+vindicated on [[Jahmyr Gibbs]] over [[Bijan Robinson]] (RB9 vs RB11), he now
+pounds the table for *Robinson* because the premium moved to Gibbs; recorded as
+a track-record note and a philosophy signal on [[Matt Waldman]] (he prices
+players, not just ranks them). [[Christian McCaffrey]] locked as the
+unqualified 2024 1.01 at age 28, which bounds the 12-14 aging-curve finding to
+replacement-level players rather than elite ones. New durable framework: route
+running vs speed, and the man/zone split, as Waldman's primary WR sorting
+question. ASR name normalizations included Jalen→Jordan Addison, Jameer→Jahmyr
+Gibbs, Brandon Iuk→Brandon Aiyuk, Trey→Tre Tucker, Miko→Nico Collins,
+Traylon→Treylon Burks.

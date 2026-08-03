@@ -31,6 +31,8 @@ to, historical age curves overvalue older players.
 
 - 2023-12-14 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2023-12-14]]) [Dynasty]: his first instinct is concussion awareness and rule changes — not that players retire *citing* concussions, but that head-injury history becomes one factor among several (a younger player pushing for the job, an unsatisfying contract offer) that makes extending a career past 30 not worth it. Framed it as "I'm not lengthening my career to get that extra bit of money because of concussions as a factor." Also argued spread offenses cut both ways: they help receivers develop technique earlier while devaluing the middle-of-field processing that sustained older running backs, linebackers, and interior linemen. Suggested the 2023–24 shift back toward 12/13 personnel could produce a partial correction in the next data bucket.
 
+- 2023-12-18 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2023-12-18]]): declines to apply the age discount to elite players. Asked whether [[Christian McCaffrey]] is the RB1 overall for 2024, he answers yes without qualification — "I don't care if he's going to turn 28, he's the top one" — arguing from what McCaffrey did to San Francisco's offense on arrival rather than from any age curve. A useful boundary on the Harstad data four days earlier: the collapse is a population-level fact about *replacement-level* aging, and neither host treats it as a reason to fade an individual top-of-position player. Waldman did raise decline as a live possibility for Austin Ekler in the same episode, floating [[James Cook]] as a successor archetype.
+
 ## Related
 - [[Dynasty]]
 - [[Scouting Bias and Player Archetypes]]
