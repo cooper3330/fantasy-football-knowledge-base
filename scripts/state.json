@@ -3453,8 +3453,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2023-12-14",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2023-12-14-rsp-what-is-happening-to-nfl-careers-something-is-happening-to-older-playe.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2023-12-14-rsp-what-is-happening-to-nfl-careers-something-is-happening-to-older-playe.md",
+      "status": "ingested",
       "title": "What Is Happening to NFL Careers? Something Is Happening to Older Players: RSP Film and Theory with Adam Harstad and Matt Waldman",
       "transcript_source": "whisper"
     },

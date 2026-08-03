@@ -42,14 +42,18 @@ for the chronological record of ingests, queries, and lints.
 
 ## Players
 
-*No player pages yet — populated as transcripts are ingested.*
+### Wide Receivers
+- [[DeAndre Hopkins]] — WR, TEN — the "old man game" archetype; experts split on how much tail is left *(2023 takes, stale)*
+- [[Adam Thielen]] — WR, CAR — reputation as a possession receiver misreads a genuinely elite athletic profile *(2023 takes, stale)*
 
 <!-- Claude: maintain grouped by position (QB / RB / WR / TE), each with a
      one-line summary. See CLAUDE.md "Index maintenance". -->
 
 ## Concepts
 
-*No concept pages yet.*
+- [[Aging Curves and Career Longevity]] — 30+ production collapsed league-wide since ~2017; cause unknown. Core [[Dynasty]] input.
+- [[Start Your Best Players]] — start top-down off your own rankings rather than chasing weekly matchups
+- [[Scouting Bias and Player Archetypes]] — archetype labels track appearance/pedigree more than measured traits, and leak into ADP
 
 <!-- Claude: one line per concept page with a short definition. -->
 

@@ -51,3 +51,12 @@ permitted change is this one relocation. Added `scripts/verify_integrity.py` to
 reconcile state against disk — detects missing files, wrong tree, stale paths,
 duplicate basenames, and orphans, with `--fix` to repair. Verified it catches and
 repairs a simulated half-completed move.
+
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — What Is Happening to NFL Careers? (2023-12-14)
+Concept-heavy Film & Theory episode with guest Adam Harstad (not a tracked
+expert; attributed by name). Key finding: 30+ production has collapsed
+league-wide since ~2017 — 30+ share of 1,000-yard receiving seasons fell from a
+stable ~33% to 7.7% — with no established cause. Created 3 concept pages
+([[Aging Curves and Career Longevity]], [[Start Your Best Players]],
+[[Scouting Bias and Player Archetypes]]) and 2 player pages. Materially changes
+the [[Dynasty]] baseline: historical age curves overvalue older players.

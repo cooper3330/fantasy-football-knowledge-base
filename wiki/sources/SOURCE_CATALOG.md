@@ -22,7 +22,9 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 
 ## Ingested episodes
 
-*None yet — the back catalog is being transcribed, then ingested oldest-first.*
+| Date | Expert | Episode | Summary page |
+|---|---|---|---|
+| 2023-12-14 | [[Matt Waldman]] | What Is Happening to NFL Careers? (w/ Adam Harstad) | [[Matt Waldman's RSP Cast - 2023-12-14]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |
