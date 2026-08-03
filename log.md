@@ -104,3 +104,42 @@ pre-2019 receiver calls should be weighted differently. ASR normalizations
 included Debo→Deebo Samuel, Eckler→Ekler, Keyshawn→Deuce Vaughn, work
 done→Warrick Dunn, Cordell/Paris→Cordarrelle Patterson, Hawkinson→Hockenson,
 Munkin→Todd Monken, Marlon Roll→Myron Rolle.
+
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — Going Deep: Pacing/Control of Elite Movers + Harrison Jr. vs Nabers (2023-12-21)
+*Going Deep* with co-host **Brandon Angelo** (not a tracked expert; attributed by
+name — a third co-host, distinct from Adam Harstad and Bob Harris). **Second
+episode dated 2023-12-21**, filed as
+[[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]] so it doesn't
+collide with the *Film and Theory* page. It was recorded **first** — the Film
+and Theory episode credits "a point raised by Brandon Angelo on *Going Deep* the
+night before" — so its bullets were inserted *above* the Film and Theory bullets
+on every shared page rather than appended.
+Created 10 player pages ([[Malik Nabers]], [[Marvin Harrison Jr.]],
+[[Breece Hall]], [[Nick Chubb]], [[David Montgomery]], [[Isiah Pacheco]],
+[[Drew Lock]], [[Gardner Minshew]], [[Sam LaPorta]], [[Kyler Murray]]) and 3
+concept pages ([[Pace Control and Movement Intellect]],
+[[Prospect Pro-Readiness vs Ceiling]],
+[[Player Development and Coachability]]).
+**What materially changed:** (1) The provenance of the RB size argument is now
+correct — [[Running Back Size and Movement Skills]] was *updated, not
+duplicated*, with an origin block showing the ~205–215 lb ceiling claim is
+**Angelo's**, stated on film over a James Cook clip, and [[Nick Chubb]] enters
+as an explicit counter-example that bounds the rule. (2) [[Derrick Henry]]
+picks up his first real fantasy knock in this wiki: once a defense keys him,
+"you're not fixing it mid-game," and the tackle-difficulty comparison inverts
+toward the small movers — his index line was rewritten. (3) New rookie-draft
+framework: pro-readiness graded separately from ceiling, with both hosts on
+[[Malik Nabers]] over [[Marvin Harrison Jr.]] "by a healthy margin" against
+industry consensus — logged as an open, checkable call on [[Matt Waldman]]'s
+page, along with Waldman's three-item receiver technique checklist (release
+work, catch-window selection, overhand vs underhand attack position).
+(4) [[Bijan Robinson]] gains a usage mechanism — "a rhythm runner who gets
+better with the more touches he gets" against Atlanta's scheme-over-personnel
+approach. (5) The NIL/one-and-done material was merged into the existing
+[[NIL and Player Development]] rather than given a new page; the
+coachability/organizational half was split out as its own concept, anchored by
+Waldman's [[Sam LaPorta]] floor scenario and the long [[Drew Lock]] case study.
+ASR normalizations included Malik Neighbors→Malik Nabers, Margaret/Mark Richard
+Jr.→Marvin Harrison Jr., Bruce Hall→Breece Hall, Isaiah→Isiah Pacheco, Robert
+Sala→Robert Saleh, Drew Locke→Drew Lock, Chad Rider→Chad Reuter, Cecil
+Lammy→Cecil Lammey, Sigmund Blum→Sigmund Bloom, Blinkoff→Biletnikoff.

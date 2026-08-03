@@ -19,6 +19,10 @@ price into a player when he changes teams, or when his coordinator does.
 
 - 2023-12-18 — Related application, same episode: both hosts treat the play-caller as a live variable in 2024 projections rather than a fixed input — [[Jahmyr Gibbs]]'s outlook depends on whether Ben Johnson stays in Detroit, and [[Bijan Robinson]]'s on whether Arthur Smith returns to Atlanta. **Bob Harris** reads Atlanta's 2023 backfield split as a coaching decision on a team that knew it wasn't good, not a verdict on the player.
 
+- 2023-12-21 — **Brandon Angelo** (co-host of *Going Deep* — **not** a tracked expert) on [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]]: names the failure mode in one line — Atlanta is running "scheme over personnel," not personnel over scheme, and that is why a top-eight pick in [[Bijan Robinson]], "a rhythm runner who gets better with the more touches he gets," was splitting work with Cordarrelle Patterson. His generalization is about coaches rather than systems: "you get stubborn in terms of, well, my philosophy is going to be the same way because I coach in the NFL." Corroborates and sharpens Bob Harris's 12-18 reading of the same backfield. See [[Player Development and Coachability]].
+
+- 2023-12-21 — **Angelo**, same episode, a caution about the *player* side of the label, using [[Lamar Jackson]]: the popular framing that a player is "great without structure, bad within it" is usually wrong. "They're so good without structure that they don't need structure — it's not that they're not good in structure." Worth holding against the scheme-dependency calls elsewhere on this page: dependence on a system and inability to operate inside one are different claims.
+
 ### The league-wide swing (2023-12-21, *RSP Film and Theory*)
 
 - 2023-12-21 — **Adam Harstad** (co-host — not a tracked expert) on [[Matt Waldman's RSP Cast - 2023-12-21]]: the central framework of the episode — the NFL alternates between two modes. In a **talent-centric** swing, teams "find our players and then create something that best suits their specific skills"; in a **scheme-centric** swing, teams have "a dominant scheme that we know works and defenses haven't caught on to yet, so we're going to find players that fit that scheme." He reads the mid-1990s as scheme-centric (defenses hadn't solved the West Coast offense) and **December 2023 as firmly talent-centric**: "by and large, if you can do something good, somebody is going to find you and find a way to use you and put you on the field." His stated consequence is a wider diversity of builds and less homogenization by position — "a good time to be an atypical running back, or an atypical anything." This is the same cycle logic as [[League Trend Cycles and Market Inefficiency]], applied to players rather than fronts.
@@ -34,5 +38,6 @@ price into a player when he changes teams, or when his coordinator does.
 ## Related
 - [[League Trend Cycles and Market Inefficiency]]
 - [[Running Back Size and Movement Skills]]
+- [[Player Development and Coachability]]
 - [[Redraft (Standard)]]
 - [[Scouting Bias and Player Archetypes]]

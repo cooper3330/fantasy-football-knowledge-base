@@ -15,6 +15,9 @@ tags: [player]
 - 2023-12-18 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2023-12-18]]): **feeling it** as a top-5 wide receiver, on the same basis as [[Keenan Allen]] — elite route running rather than speed, wins against both man and zone rather than just zone, and is deployed both inside and outside. Waldman's contrast case is Deebo Samuel, whom he rates a great zone route runner but not a good man route runner. See [[Zone vs Man Route Running]].
 - 2023-12-18 — **Bob Harris** (co-host — not a tracked expert), same episode [Best Ball]: treats St. Brown as the safer of the pair on continuity — "same play caller," where Allen's offense might change again — and says he'll keep drafting both in January best-ball leagues until better information arrives.
 
+- 2023-12-21 — **Brandon Angelo** (co-host of *Going Deep* — **not** a tracked expert) on [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]], in passing: names St. Brown first among the players who define Detroit's locker room — a roster deliberately built for "an unselfish brand of football that works with those guys' personalities," alongside [[David Montgomery]], Jared Goff and [[Jahmyr Gibbs]]. A situation/culture note, not a change to the evaluation above. See [[Player Development and Coachability]].
+
 ## Related Concepts
 - [[Zone vs Man Route Running]]
+- [[Player Development and Coachability]]
 - [[Best Ball]]

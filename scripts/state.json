@@ -3477,8 +3477,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2023-12-21",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2023-12-21-rsp-the-pacing-and-control-of-elite-nfl-moversdecision-makers-and-the-pro-.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2023-12-21-rsp-the-pacing-and-control-of-elite-nfl-moversdecision-makers-and-the-pro-.md",
+      "status": "ingested",
       "title": "The Pacing and Control of Elite NFL Movers/Decision-Makers and the Pro-Readiness of WRs Marvin Harrison, Jr vs. Malik Nabers: Going Deep with Brandon Angelo and Matt Waldman",
       "transcript_source": "whisper"
     },

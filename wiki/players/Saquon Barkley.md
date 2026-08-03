@@ -12,9 +12,12 @@ tags: [player]
 
 ## Expert Takes
 
+- 2023-12-21 — **Brandon Angelo** (co-host of *Going Deep* — **not** a tracked expert) on [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]] (recorded before the *Film and Theory* episode below): the physical version of the same objection. Barkley is granted as "great mover, super dynamic," but he and [[Derrick Henry]] "physically cannot get in and out of these positions as quickly" as [[James Cook]], [[Jahmyr Gibbs]] or [[Christian McCaffrey]] — the trait Angelo argues the league is moving toward.
+- 2023-12-21 — According to [[Matt Waldman]], same episode, the comp that frames his whole case: Barkley is "a more agile version of an Adrian Peterson type of runner" — "jump cuts or bust with him," but violent enough with it to make it work. Waldman's Peterson anecdote (a photo of cracked earth captioned as Peterson's jump-cut landing) is the origin of the "space-expensive" argument he restates in the *Film and Theory* episode below. He notes [[Nick Chubb]] as the one back of comparable size who has gotten away with that movement class efficiently.
 - 2023-12-21 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2023-12-21]]): a film-mechanics knock delivered while explicitly conceding the fantasy value. Barkley is one of the last backs still relying on the big jump cut — the Adrian Peterson move, a violent plant and a dramatic lateral cut — and Waldman's objection is that the move is space-expensive, because the back jumps two to three yards forward toward the line before cutting. His verdict: "while he's still a valuable fantasy commodity, an NFL commodity, he's not the most efficient runner on a play-to-play basis when it comes to certain changes of direction." The contrast class is the group that changes direction inside tight creases at speed — [[Christian McCaffrey]], [[Jahmyr Gibbs]], [[James Cook]], Austin Ekler. Full framework: [[Running Back Size and Movement Skills]].
 - 2023-12-21 — **Adam Harstad** (co-host — not a tracked expert), same episode, tangentially: recounts trading Le'Veon Bell and Antonio Brown for the 1.01 in 2018 to take Barkley, and that Bell and Brown had "one more good season between them" afterward — told as a story about the dynasty trade market rather than as an evaluation of Barkley.
 
 ## Related Concepts
 - [[Running Back Size and Movement Skills]]
+- [[Pace Control and Movement Intellect]]
 - [[Dynasty]]

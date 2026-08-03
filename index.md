@@ -48,6 +48,9 @@ for the chronological record of ingests, queries, and lints.
 - [[C.J. Stroud]] — QB, HOU — talent real, but both hosts credit part of the production to the Shanahan-tree system around him *(2023 takes, stale)*
 - [[Lamar Jackson]] — QB, BAL — Waldman's contrarian call: the *most* scheme-dependent of the top QBs; limited outside the numbers, not a knock on talent *(2023 takes, stale)*
 - [[Brock Purdy]] — QB, SF — not a system QB per Waldman; in-structure processing travels, and 9.88 Y/A vs Garoppolo in the same offense *(2023 takes, stale)*
+- [[Kyler Murray]] — QB, ARI — one narrow knock: bails the pocket on proximity, "runs as if a bomb has blown up" when anyone gets within three yards *(2023 takes, stale)*
+- [[Drew Lock]] — QB, SEA — the wiki's case study in coachability; "surface level" game, a missed Peyton Manning lifeline, now a solid long-term backup *(2023 takes, stale)*
+- [[Gardner Minshew]] — QB, IND — the model backup: knows exactly who he is, executes schematically, doesn't lose you games *(2023 takes, stale)*
 
 ### Running Backs
 - [[Christian McCaffrey]] — RB, SF — unqualified 1.01 for 2024; age 28 explicitly dismissed; the "leverage over the field" case *(2023 takes, stale)*
@@ -58,7 +61,11 @@ for the chronological record of ingests, queries, and lints.
 - [[Trey Sermon]] — RB, IND — competent one-week fill-in, nothing beyond it; Howard/Williams comp *(2023 takes, stale)*
 - [[Devin Singletary]] — RB, HOU — had taken the job outright from Dameon Pierce; 26 carries to 1 *(2023 takes, stale)*
 - [[Saquon Barkley]] — RB, NYG — valuable, but the last of the space-expensive jump-cut runners; inefficient play-to-play on film *(2023 takes, stale)*
-- [[Derrick Henry]] — RB, TEN — "a one of one"; Harstad's standing warning against drafting his archetype off one outlier *(2023 takes, stale)*
+- [[Derrick Henry]] — RB, TEN — "a one of one" and unreplicable, but now with a real knock: once a defense keys him "you're not fixing it mid-game," and linebackers find the small movers harder to tackle *(2023 takes, stale)*
+- [[Breece Hall]] — RB, NYJ — "averts one disaster at a time"; processes fast but not two steps ahead, and Waldman still expects big-time yardage with a better line *(2023 takes, stale)*
+- [[Nick Chubb]] — RB, CLE — the big back who beats the size rule; best ever at re-accelerating post-contact, "Hall of Fame caliber talent," 2023 knee injury the live question *(2023 takes, stale)*
+- [[David Montgomery]] — RB, DET — the low-variance half of the Detroit committee; "very rarely will break a 25-plus-yard run" *(2023 takes, stale)*
+- [[Isiah Pacheco]] — RB, KC — the pace-control negative case: one speed, "zero or a hundred" *(2023 takes, stale)*
 
 ### Wide Receivers
 - [[Justin Jefferson]] — WR, MIN — "one of the best three route runners in the NFL"; backup QB costs him a tier, not a start *(2023 takes, stale)*
@@ -75,9 +82,12 @@ for the chronological record of ingests, queries, and lints.
 - [[DeAndre Hopkins]] — WR, TEN — the "old man game" archetype; experts split on how much tail is left *(2023 takes, stale)*
 - [[Adam Thielen]] — WR, CAR — reputation as a possession receiver misreads a genuinely elite athletic profile *(2023 takes, stale)*
 - [[Deebo Samuel]] — WR, SF — elite vs zone and as a gadget runner, "not remotely as good" vs man; his value may not survive a team change *(2023 takes, stale)*
+- [[Malik Nabers]] — WR, LSU prospect — both *Going Deep* hosts take him over Marvin Harrison Jr. "by a healthy margin" on pro-readiness; 1,100/10 rookie projection *(2023 pre-draft takes, stale)*
+- [[Marvin Harrison Jr.]] — WR, Ohio State prospect — higher ceiling, longer runway; three correctable technique flags (releases, catch windows, underhand default) and "not as good a player as he is a prospect" *(2023 pre-draft takes, stale)*
 
 ### Tight Ends
 - [[T.J. Hockenson]] — TE, MIN — great in zone, positions well in man; TE1 ceiling minus a tier with a backup QB *(2023 takes, stale)*
+- [[Sam LaPorta]] — TE, DET — Waldman's own miss: needed the perfect fit and found it; the value here is the organizational-floor reasoning, not the ranking *(2023 takes, stale)*
 
 <!-- Claude: maintain grouped by position (QB / RB / WR / TE), each with a
      one-line summary. See CLAUDE.md "Index maintenance". -->
@@ -90,9 +100,12 @@ for the chronological record of ingests, queries, and lints.
 - [[Weak Quarterback Play and Receiver Value]] — managers over-discount receivers for bad QBs; discount the *throws he can't make*, not the name
 - [[Zone vs Man Route Running]] — beating man and beating zone are separate skills; doing both (not speed) is Waldman's top-WR marker
 - [[Scheme vs Talent]] — how much production belongs to the system; Houston as the test case, plus the league-wide swing between talent-centric and scheme-centric eras (Dec 2023 read: talent-centric) and why "system quarterback" is a bad label
-- [[Running Back Size and Movement Skills]] — change of direction in tight space as the RB separator, and Waldman's claimed ~205–215 lb ceiling on the trait
+- [[Running Back Size and Movement Skills]] — change of direction in tight space as the RB separator, and the claimed ~205–215 lb ceiling on the trait (originally Brandon Angelo's argument); Nick Chubb is the standing counter-example
 - [[League Trend Cycles and Market Inefficiency]] — NFL trends are cyclical, not progressive; the edge belongs to whoever zags while a trend is crowded
-- [[NIL and Player Development]] — whether paid college players thin rookie classes or force the NFL to develop players; both hosts say mostly no
+- [[NIL and Player Development]] — whether paid college players thin rookie classes or force the NFL to develop players; Angelo expects a chain reaction and older prospects, Harstad expects mostly nothing
+- [[Pace Control and Movement Intellect]] — controlling your own gears and gauging everyone else's; the cross-positional sibling of the RB size argument, and why single-speed runners get corralled
+- [[Prospect Pro-Readiness vs Ceiling]] — how much of a rookie's game transfers on day one, graded separately from how good he'll eventually be; Nabers vs Harrison Jr. as the worked example
+- [[Player Development and Coachability]] — whether the player will accept coaching and whether the building can give it; why a prospect's floor is usually organizational
 
 <!-- Claude: one line per concept page with a short definition. -->
 

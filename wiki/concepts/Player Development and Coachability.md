@@ -1,0 +1,44 @@
+---
+type: concept
+tags: [concept, evaluation, development, dynasty]
+---
+
+# Player Development and Coachability
+
+## Definition
+
+Why two players with the same measurables end up in different places: whether
+the player will accept coaching, whether the organization is set up to give it,
+and whether coach and front office even agree on what the player is for. The
+[[Dynasty]] version of the question is *which situations actually improve a
+player*, since the same prospect lands very differently in a Detroit-style
+locker room than in a scheme-first one.
+
+Distinct from — and paired with — [[NIL and Player Development]], which covers
+the *structural* incentive question (does anyone in college or the NFL have a
+reason to develop players at all).
+
+## Expert Takes
+
+- 2023-12-21 — **Brandon Angelo** (co-host of *Going Deep* — **not** a tracked expert) on [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]]: the problem is two-sided. "A lot of pros don't want to be developed — they've been told their whole life they're the best." And a coach "doesn't want to change philosophically" either. His example of the coach half is Atlanta: "personnel over scheme is not the case, it's scheme over personnel" — a top-eight pick in [[Bijan Robinson]], "a rhythm runner who gets better with the more touches he gets," splitting work with Cordarrelle Patterson. See [[Scheme vs Talent]].
+
+- 2023-12-21 — **Angelo**, same episode, the positive case: the Detroit Lions "are not as talented as some of those teams in the NFL, but they play an unselfish brand of football that works with those guys' personalities." His read is that Detroit recruits for cultural fit — he names [[Amon-Ra St. Brown]], [[David Montgomery]], Jared Goff and [[Jahmyr Gibbs]] ("listen to him speak") — and that the locker room is strong enough to absorb and "massage along" a player who fits less naturally, citing Jameson Williams. His stated marker of a good organization: players who believe "I don't know everything, I want to get better at my craft," and coaches who hold the same view.
+
+- 2023-12-21 — According to [[Matt Waldman]], same episode, the front-office failure mode, relayed from a former scout and biomechanics/analytics consultant who has worked with roughly 30 teams and is a longtime RSP subscriber. Waldman's published floor scenario for [[Sam LaPorta]] was that he "winds up on the bench getting fattened up and put on special teams because the coach and the GM are in a pissing match" — the coach wanting an inline blocking tight end, the GM having drafted a weapon, and the player being told to gain 20 pounds and block. The consultant's reaction: "that's literally the RIP for so many NFL players." Recorded here as a *scouting* rule — a prospect's floor is often organizational, not physical.
+
+- 2023-12-21 — **Waldman**, same episode, the long-form player-side case study: [[Drew Lock]]. Waldman's evaluation was that Lock's game was "much more surface level" than the Patrick Mahomes comparisons implied — "the difference between a pop musician who plays an instrument and a jazz musician." His read of the cause was developmental, not athletic: a high-school phenom at a mid-tier SEC school that needed him too much to bench him, so undisciplined technique never got enforced; against Alabama/Georgia/LSU you could see him trying to do it correctly and failing, "like the kid who was naturally gifted at math but now getting stretched." The story Waldman tells as the crux: Peyton Manning called Lock after the draft offering help, Lock said thanks and ended the call — where, in Waldman's telling, a Tom Brady-type would have offered to wash cars and babysit for film sessions. Lock called Manning back in year three, when Teddy Bridgewater arrived, and it was too late in Denver. Waldman quotes Lock's father (via **Cecil Lammey**, not a tracked expert) saying he had been telling his son since high school to apply himself and "he's never done it." Waldman's explicit generalization: "you don't have to be a bad person — you just may not understand the gravity of the situation. You're great for where you are; you're not great for where you're going." Angelo's label for it: "being situationally naive." Both note Geno Smith as the counter-arc from a similar starting point, and Angelo's contrast is Tom Brady at Michigan being told he could transfer or treat every snap like the Super Bowl.
+
+- 2023-12-21 — **Waldman and Angelo**, same episode, the upside of self-knowledge: [[Gardner Minshew]] as the model backup — "he knows exactly who he is," has no illusions about being a starter, and is valuable precisely because he can "execute schematically, not make mistakes, just give me a chance to win." Angelo's stated league-wide condition: "there's a lot of bad quarterbacks right now in the NFL."
+
+**Why this is in the wiki:** it is the mechanism behind a recurring dynasty
+mistake — buying a talented player into a situation that will not develop him,
+or selling one whose problem was situational. It also supplies the reason
+Waldman's floor scenarios are written as organizational stories rather than
+injury/athleticism stories.
+
+## Related
+- [[NIL and Player Development]] — the structural-incentive half
+- [[Scheme vs Talent]]
+- [[Prospect Pro-Readiness vs Ceiling]]
+- [[Scouting Bias and Player Archetypes]]
+- [[Dynasty]]

@@ -15,6 +15,20 @@ input: it bears on how deep and how old incoming rookie classes are.
 
 ## Expert Takes
 
+### Where the argument originated (*Going Deep*, 2023-12-21)
+
+Recorded before the *RSP Film and Theory* conversation below, which Waldman
+opens by crediting to Brandon Angelo. Source:
+[[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]].
+
+- 2023-12-21 — **Brandon Angelo** (co-host of *Going Deep* — **not** a tracked expert) [Dynasty]: the chain-reaction thesis. "It's really only going to take one blue chipper as a prospect to take the NIL and go back to school, and it's going to really start a chain reaction." The consequence he names is the one that matters for rookie drafts: "what you're going to get is prospects that are a year older," which "misshapes the evaluations" front offices are working from — he uses [[Marvin Harrison Jr.]] and Caleb Williams as the hypotheticals. On whether the NCAA fights it: "probably nothing, because it makes them a lot of money. You want the star of your show to be the star of your show for as long as they can."
+
+- 2023-12-21 — **Angelo**, same episode: his prediction for the NFL's counter-move is a **one-and-done entry rule** on the NBA model, "in the next three to five years, ten years" — motivated by owners wanting to "combat the aging of prospects," since "the younger talent you have, the more time you have." He also expects the draft to get less predictable at the top ("if half of that first round is gone, the game changes") and therefore more punishing of misses: teams will have to "play it not based on traits but based on what the player is now."
+
+- 2023-12-21 — According to [[Matt Waldman]], same episode, the optimistic reading — and the version he clearly prefers: this could "drive the NFL to force them to develop players." His concrete mechanics: teams that draft a 19-year-old quarterback will have to draft another the following year and another after that, will be "stupid or foolish about it" at first, and the smart ones will respond by hiring the private position coaches veterans already use in-house and extending that to other positions. His flat assessment of the status quo: "we've already talked about how they don't coach up players... they're scheme oriented." Angelo's agreement: it will "force front offices to be a lot more intentional with their draft picks and not take as many darts." See [[Player Development and Coachability]] for the player-side half of that conversation.
+
+### As discussed on *RSP Film and Theory* (2023-12-21)
+
 - 2023-12-21 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2023-12-21]]) [Dynasty]: sets up the question. Players who get a fourth/fifth-round grade back from the draft advisory committee have always had the option to return to school; NIL now means returning is also lucrative, and there was live chatter that even Marvin Harrison Jr. (and hypothetically Caleb Williams) might go back. His speculation, again sourced to Brandon Angelo: teams that were counting on those prospects may have to "make a commitment sooner," possibly pushing the NFL toward a one-and-done entry rule. His stated cost of that path — teams would draft 19-year-old quarterbacks and receivers who aren't remotely ready, and the wasted resources would eventually force them to actually build development programs.
 
 - 2023-12-21 — **Adam Harstad** (co-host — not a tracked expert), same episode: skeptical that NIL competes with the NFL for players at all, on business-size grounds. Each college program is a much smaller business than an NFL team, and college football as a whole splits less total revenue about a hundred ways where the NFL splits more revenue 32 ways. His conclusion: "boosters can make a play for the Marvin Harrison Juniors of the world — they can keep like two or three pro-ready players per team off the market for another year or two — but I don't think they're really going to compete with NFL money for the mid-tier guys," and boosters won't prioritize spending there anyway. Some players will stay simply because they like college and can now afford to.
@@ -33,6 +47,7 @@ development to improve. Both are checkable predictions worth revisiting against
 later drafts.
 
 ## Related
+- [[Player Development and Coachability]] — the player/organization half
 - [[Dynasty]]
 - [[Aging Curves and Career Longevity]]
 - [[Matt Waldman]]
