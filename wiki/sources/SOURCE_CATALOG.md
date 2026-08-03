@@ -37,6 +37,9 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-01-16 | [[Matt Harmon]] | Wild Card Weekend Recap (w/ James Koh) | [[Reception Perception The Show - 2024-01-16]] |
 | 2024-01-18 | [[Matt Harmon]] | College Standouts & NFL Divisional Round Preview (w/ James Koh) | [[Reception Perception The Show - 2024-01-18]] |
 | 2024-01-22 | [[Matt Waldman]] | Feel It Or F@#k It: 1.22.24 (w/ Bob Harris) | [[Matt Waldman's RSP Cast - 2024-01-22]] |
+| 2024-01-23 | [[Matt Harmon]] | Some Fun Games in the Divisional Round (w/ James Koh) | [[Reception Perception The Show - 2024-01-23]] |
+| 2024-01-25 | [[Matt Harmon]] | Head Coaching News & Conference Championship Breakdowns (w/ James Koh) | [[Reception Perception The Show - 2024-01-25]] |
+| 2024-01-29 | [[Matt Waldman]] | Feel It Or F@#k It: 1.29.24 (w/ Bob Harris) | [[Matt Waldman's RSP Cast - 2024-01-29]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

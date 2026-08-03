@@ -16,6 +16,7 @@ tags: [player]
 - 2023-12-18 — **Bob Harris** (co-host — not a tracked expert), same episode [Best Ball]: treats St. Brown as the safer of the pair on continuity — "same play caller," where Allen's offense might change again — and says he'll keep drafting both in January best-ball leagues until better information arrives.
 
 - 2023-12-21 — [[Brandon Angelo]] (co-host of *Going Deep*) on [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]], in passing: names St. Brown first among the players who define Detroit's locker room — a roster deliberately built for "an unselfish brand of football that works with those guys' personalities," alongside [[David Montgomery]], Jared Goff and [[Jahmyr Gibbs]]. A situation/culture note, not a change to the evaluation above. See [[Player Development and Coachability]].
+- 2024-01-25 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-01-25]]): ranked #2 of the playoffs' remaining receivers behind [[Brandon Aiyuk]] on pure ability, but "the most valuable receiver to their team... in a runaway" — "if Amon Ra St. Brown was kidnapped, the Lions would be so screwed" despite good complementary talent (Sam LaPorta, Jahmyr Gibbs, Josh Reynolds). Cites real in-season development as an outside receiver specifically — now beating press-man coverage, not just zone — as the reason he's "closer to that complete elite tier," on the cusp with Aiyuk.
 
 ## Related Concepts
 - [[Zone vs Man Route Running]]

@@ -956,23 +956,27 @@
     },
     "64f11ee4-b3f7-11ef-b76b-33f79a5f7e32": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "64f11ee4-b3f7-11ef-b76b-33f79a5f7e32",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-06",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "AFC East WR Division Preview"
+      "staged_path": "raw/transcripts/reception-perception/2025-08-06-rp-afc-east-wr-division-preview.md",
+      "status": "fetched",
+      "title": "AFC East WR Division Preview",
+      "transcript_source": "whisper"
     },
     "6515ad36-b3f7-11ef-b76b-5b2643dbba05": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "6515ad36-b3f7-11ef-b76b-5b2643dbba05",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-13",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "AFC North WR Division Preview"
+      "staged_path": "raw/transcripts/reception-perception/2025-08-13-rp-afc-north-wr-division-preview.md",
+      "status": "fetched",
+      "title": "AFC North WR Division Preview",
+      "transcript_source": "whisper"
     },
     "653b68aa-b3f7-11ef-b76b-271931511ee4": {
       "expert": "Matt Harmon",
@@ -1008,23 +1012,27 @@
     },
     "65abece2-b3f7-11ef-b76b-a3421fcce144": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "65abece2-b3f7-11ef-b76b-a3421fcce144",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-08",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "NFC East WR Division Preview"
+      "staged_path": "raw/transcripts/reception-perception/2025-08-08-rp-nfc-east-wr-division-preview.md",
+      "status": "fetched",
+      "title": "NFC East WR Division Preview",
+      "transcript_source": "whisper"
     },
     "65d1118e-b3f7-11ef-b76b-c322c5e0f033": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "65d1118e-b3f7-11ef-b76b-c322c5e0f033",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-15",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "NFC North WR Division Preview"
+      "staged_path": "raw/transcripts/reception-perception/2025-08-15-rp-nfc-north-wr-division-preview.md",
+      "status": "fetched",
+      "title": "NFC North WR Division Preview",
+      "transcript_source": "whisper"
     },
     "65f67b54-b3f7-11ef-b76b-afd3707f338f": {
       "expert": "Matt Harmon",
@@ -1350,13 +1358,15 @@
     },
     "6c20fd4d-0d6a-427f-a3a7-cb425309f98b": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "6c20fd4d-0d6a-427f-a3a7-cb425309f98b",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-14",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Flag Players 10 Thru 6 & Offenses We Might Be Wrong About"
+      "staged_path": "raw/transcripts/harris-football/2025-08-14-harris-flag-players-10-thru-6-offenses-we-might-be-wrong-about.md",
+      "status": "fetched",
+      "title": "Flag Players 10 Thru 6 & Offenses We Might Be Wrong About",
+      "transcript_source": "whisper"
     },
     "6c7401f4-b3f7-11ef-b76b-5bf619852b6e": {
       "expert": "Matt Harmon",
@@ -3175,8 +3185,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-25",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2024-01-25-rp-head-coaching-news-conference-championship-breakdowns.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2024-01-25-rp-head-coaching-news-conference-championship-breakdowns.md",
+      "status": "ingested",
       "title": "Head Coaching News & Conference Championship Breakdowns",
       "transcript_source": "whisper"
     },
@@ -3221,8 +3231,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-23",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2024-01-23-rp-some-fun-games-in-the-divisional-round.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2024-01-23-rp-some-fun-games-in-the-divisional-round.md",
+      "status": "ingested",
       "title": "Some Fun Games in the Divisional Round",
       "transcript_source": "whisper"
     },
@@ -3322,13 +3332,15 @@
     },
     "cb1d2b1e-c186-4109-aadd-a7da7e747c12": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "cb1d2b1e-c186-4109-aadd-a7da7e747c12",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-15",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Flag Players 5 Thru 1 & Frag Players For 2025"
+      "staged_path": "raw/transcripts/harris-football/2025-08-15-harris-flag-players-5-thru-1-frag-players-for-2025.md",
+      "status": "fetched",
+      "title": "Flag Players 5 Thru 1 & Frag Players For 2025",
+      "transcript_source": "whisper"
     },
     "ce590d40-d3a6-43b1-9a84-c73823f77042": {
       "expert": "Chris Harris",
@@ -3729,8 +3741,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-29",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-01-29-rsp-feel-it-or-fk-it-12924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-01-29-rsp-feel-it-or-fk-it-12924-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "ingested",
       "title": "Feel It Or F@#k It: 1.29.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
     },
@@ -5270,43 +5282,51 @@
     },
     "https://mattwaldmanrsp.com/?p=51997": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "https://mattwaldmanrsp.com/?p=51997",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-04",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F\u2013It 8.4..2025: An RSP Podcast with Bob Harris and Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2025-08-04-rsp-feel-it-or-fit-842025-an-rsp-podcast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F\u2013It 8.4..2025: An RSP Podcast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=52053": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "https://mattwaldmanrsp.com/?p=52053",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-07",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Weapon RBs, Rookie Risers/Fallers, Young Vets Emerging: Going Deep w/ Brandon Angelo & Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2025-08-07-rsp-weapon-rbs-rookie-risersfallers-young-vets-emerging-going-deep-w-brand.md",
+      "status": "fetched",
+      "title": "Weapon RBs, Rookie Risers/Fallers, Young Vets Emerging: Going Deep w/ Brandon Angelo & Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=52061": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "https://mattwaldmanrsp.com/?p=52061",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-11",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F\u2013It 8.11..2025: An RSP Podcast with B\u2026Dave Kluge and Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2025-08-11-rsp-feel-it-or-fit-8112025-an-rsp-podcast-with-bdave-kluge-and-matt-waldma.md",
+      "status": "fetched",
+      "title": "Feel It Or F\u2013It 8.11..2025: An RSP Podcast with B\u2026Dave Kluge and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=52096": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "https://mattwaldmanrsp.com/?p=52096",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-15",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "What You Didn\u2019t Know about NFL Training Camp and the Preseason: RSP Scout Talk with Matt Waldman and Dan Hatman"
+      "staged_path": "raw/transcripts/rsp-cast/2025-08-15-rsp-what-you-didnt-know-about-nfl-training-camp-and-the-preseason-rsp-scou.md",
+      "status": "fetched",
+      "title": "What You Didn\u2019t Know about NFL Training Camp and the Preseason: RSP Scout Talk with Matt Waldman and Dan Hatman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=52106": {
       "expert": "Matt Waldman",

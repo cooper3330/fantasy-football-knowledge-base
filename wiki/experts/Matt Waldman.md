@@ -202,6 +202,17 @@ one of his bigger post-draft value calls once his Rams landing spot was known.
   materialize. No further evaluative claim made on Boutte himself, so no page
   was created for him — logged here as a track-record item only.
 
+- **Open prediction (2024-01-29), unresolved at time of writing:**
+  [[Lamar Jackson]] to supplant [[Patrick Mahomes]] as the top 2024 redraft
+  quarterback — "if he's not quarterback two, he's quarterback three" — with
+  the live question being whether he also passes Jalen Hurts, complicated by
+  Philadelphia's Kellen Moore OC hire. Directly checkable against 2024 ADP.
+- **Open prediction (2024-01-29), unresolved at time of writing:** explicit
+  caution against overdrafting [[Jameson Williams]] off a single big NFC
+  Championship game ("the Gabe Davis factor") while still being personally
+  optimistic on him — a stated preference for restraint on a hot name, worth
+  checking against how the market actually prices him.
+
 ## Sources
 - [[Matt Waldman's RSP Cast - 2023-12-14]] — career longevity / aging curves (with Adam Harstad)
 - [[Matt Waldman's RSP Cast - 2023-12-18]] — *Feel It or F**k It*, Week 15 (with Bob Harris); route-running framework, 2024 RB market, Houston scheme-vs-talent
@@ -214,3 +225,4 @@ one of his bigger post-draft value calls once his Rams landing spot was known.
 - [[Matt Waldman's RSP Cast - 2024-01-11 (Going Deep - Draft Prospects)]] — *Going Deep* (with Brandon Angelo); 2024 draft-class evaluation of [[Blake Corum]], [[Michael Penix Jr.]], [[Keon Coleman]], and [[Ainias Smith]]; also published 2024-01-11 — a distinct episode from the Post-Rookie Model one above
 - [[Matt Waldman's RSP Cast - 2024-01-15]] — *Feel It or F**k It*, with guest Daniel Harms filling in for Bob Harris; a wide mix of current-NFL takes and 2024 draft prospects, including an unresolved on-air disagreement with the guest over [[Travis Kelce]]'s decline
 - [[Matt Waldman's RSP Cast - 2024-01-22]] — *Feel It or F**k It*, Divisional Round wrap and Conference Championship preview (with Bob Harris); a wide 2024 redraft/dynasty sweep plus Waldman's own first detailed looks at [[Jayden Daniels]], [[J.J. McCarthy]], [[Bo Nix]], [[Drake Maye]] and [[Caleb Williams]], several disagreeing with guest Daniel Harms's 2024-01-15 reads
+- [[Matt Waldman's RSP Cast - 2024-01-29]] — *Feel It or F**k It*, Conference Championship wrap (with Bob Harris); extended [[Lamar Jackson]]/[[Brock Purdy]]/[[Jared Goff]] analysis, new pages [[Patrick Mahomes]] and [[Jalen Hurts]], plus eight Senior Bowl/Shrine Game 2024 prospect quick-hitters

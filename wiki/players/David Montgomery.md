@@ -19,6 +19,8 @@ tags: [player]
 on Montgomery; the take is that he is the lower-variance half of a committee
 whose upside sits with the other back.
 
+- 2024-01-29 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-29]]): named, without a ranking split, as one half of a "dynamic running back duo" that "gives you all the pieces" — part of a broader case that Detroit is built for continued success beyond its 2023 coordinators, alongside [[Jahmyr Gibbs]], [[Amon-Ra St. Brown]] and [[Sam LaPorta]].
+
 ## Related Concepts
 - [[Pace Control and Movement Intellect]]
 - [[Player Development and Coachability]]

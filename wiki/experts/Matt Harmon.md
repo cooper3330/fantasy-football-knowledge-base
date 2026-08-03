@@ -69,7 +69,25 @@ pulled from dedicated rankings segments.
   praise, [[Rome Odunze]] as a pleasant surprise with no separation
   concerns. Directly checkable against all three players' rookie seasons and
   against Harmon's own eventual full ~8-game profiles.
+- **Open, unresolved 2024-01-23 read:** [[Brock Purdy]] season-long grade —
+  "a good quarterback," but explicitly not top-12/15, placed instead at
+  "top 20." A direct, on-record disagreement with [[Matt Waldman]]'s more
+  bullish read of the same Divisional Round game. Directly checkable.
+- **Open, unresolved 2024-01-23 read:** picks [[Jayden Reed]] over
+  [[Dontayvion Wicks]] as the Green Bay receiver with the best odds of
+  becoming a true number-one, and rates [[Christian Watson]]'s case for the
+  same role as resting on size/speed alone with no route-running argument to
+  back it. Checkable against how Green Bay's receiver room actually sorts
+  itself out.
+- **Open, unresolved 2024-01-25 read:** explicit five-way ranking of the
+  playoffs' remaining receivers — [[Brandon Aiyuk]] #1 ("best pure receiver"),
+  [[Amon-Ra St. Brown]] #2 (but #1 by team value), [[Deebo Samuel]] #3,
+  [[Zay Flowers]] #4 (with explicit "superstar tier" future upside),
+  [[Rashee Rice]] #5 ("the most limited of these five"). Checkable against
+  each player's subsequent career trajectory.
 
 ## Sources
 - [[Reception Perception The Show - 2024-01-16]] — Wild Card Weekend recap (with James Koh); extended [[Jordan Love]] praise, [[Tua Tagovailoa]] vs. [[Jared Goff]] ceiling comparison, [[Puka Nacua]]/[[Cooper Kupp]] baton-passing read, introduces the [[Reception Perception Methodology]] concept
 - [[Reception Perception The Show - 2024-01-18]] — early 2024 draft-prospect charting on [[Marvin Harrison Jr.]], [[Malik Nabers]] and [[Rome Odunze]] (with James Koh), plus a Divisional Round preview across all four games; introduces the "stacked board" tier-one grade, applied to [[Ja'Marr Chase]] and [[Drake London]]
+- [[Reception Perception The Show - 2024-01-23]] — Divisional Round recap across all four games (with James Koh); a full breakdown of Green Bay's WR hierarchy ([[Jayden Reed]], [[Dontayvion Wicks]], [[Christian Watson]], [[Romeo Doubs]]), free-agency mechanics for [[Stefon Diggs]]/[[Gabe Davis]]/[[Mike Evans]]/[[Baker Mayfield]], and a public disagreement with [[Matt Waldman]] over [[Brock Purdy]]'s Divisional Round performance
+- [[Reception Perception The Show - 2024-01-25]] — head-coaching carousel roundup (mostly not ingested — no player-role connection) plus Conference Championship breakdown (with James Koh); a five-way ranking of the playoffs' remaining receivers ([[Brandon Aiyuk]], [[Amon-Ra St. Brown]], [[Deebo Samuel]], [[Zay Flowers]], [[Rashee Rice]]) and matchup notes on [[Isiah Pacheco]], [[Jared Goff]] and [[Christian McCaffrey]]

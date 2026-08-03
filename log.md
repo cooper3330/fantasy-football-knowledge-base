@@ -443,3 +443,91 @@ itself (19th year, $21.95, pre/post-draft two-part structure) from Waldman's
 own on-air description. ASR normalizations: none required beyond standard
 name-drift cleanup (no new garbled names introduced this episode beyond
 already-normalized ones).
+
+## [2026-08-03] ingest | Reception Perception: The Show — Some Fun Games in the Divisional Round (2024-01-23)
+Third [[Matt Harmon]] episode, with co-host **James Koh** (not tracked). A
+Divisional Round recap across all four games, heavier on free-agency/team-
+building mechanics than the two prior episodes; coaching-carousel speculation
+(McDermott's job security, a hypothetical Ben Johnson pitch) was not ingested
+per the low-durability guidance. No new player pages — all 18 touched pages
+already existed. **What materially changed:** (1) [[Stefon Diggs]] gets the
+fullest injury theory yet (unreported oblique/back injury since ~Week 10)
+behind a steep 2nd-half production collapse, plus real trade/restructure
+mechanics ($32M dead cap rules out a cut). (2) Green Bay's WR hierarchy gets
+its clearest ranking yet — Harmon picks [[Jayden Reed]] as the receiver with
+the best odds to become a true number one (an explicit Amon-Ra St. Brown
+comp), [[Dontayvion Wicks]] second, [[Romeo Doubs]] a clear fourth, and
+[[Christian Watson]]'s case downgraded to resting on size/speed alone with no
+route-running argument behind it. (3) [[Brock Purdy]] gets a direct, on-record
+disagreement between experts: Waldman calls him "exposed as nothing other
+than what he is" (a good QB) after the Divisional Round win, Harmon calls the
+same game "a bad game" and grades him "top 20," not elite-tier — logged as an
+open disagreement per rule 9, not flattened. (4) [[Mike Evans]] and [[Baker
+Mayfield]] both get free-agency mechanics (dollar figures, suitor teams,
+Detroit's cap space/culture fit for Evans). (5) [[John Metchie III]] gets a
+real downgrade — "has proven nothing to this point in his career" — after a
+Wild Card flash three episodes prior. (6) [[Aaron Jones]] gets "criminally
+underrated" praise alongside a durability concern and a call for Green Bay to
+draft a real RB2. (7) [[C.J. Stroud]] gets his first real bad-game caveat in
+this wiki (confused, no counterpunch once Nico Collins was taken away), framed
+as a structural Baltimore-scheme problem rather than a talent verdict.
+[[Nico Collins]], [[Devin Singletary]], [[Gabe Davis]], [[Khalil Shakir]],
+[[Noah Brown]] and [[Jared Goff]] get reinforcing/corroborating updates. No
+new ASR name garbles this episode.
+
+## [2026-08-03] ingest | Reception Perception: The Show — Head Coaching News & Conference Championship Breakdowns (2024-01-25)
+Fourth [[Matt Harmon]] episode, with co-host **James Koh** (not tracked). Two
+halves: a head-coaching carousel roundup (Atlanta's open search, Chargers/
+Harbaugh, Titans hiring Brian Callahan, Raiders retaining Antonio Pierce plus
+hiring Tom Telesco as GM, Patriots promoting Gerard Mayo) and a Conference
+Championship preview. Per the low-durability guidance, almost none of the
+coaching material was ingested — no specific player's role was tied to any of
+these hires in the episode. The one exception: unconfirmed chatter that Ben
+Johnson is close to taking the Washington HC job, logged on [[Jared Goff]]'s
+page (explicitly flagged as rumor) since it bears directly on his
+already-open "what happens once Ben Johnson leaves Detroit" question. No new
+player pages — all 10 touched pages already existed. **What materially
+changed:** (1) the fullest head-to-head receiver-ranking exercise in this
+wiki — Harmon explicitly ranks the five receivers remaining in the playoffs:
+[[Brandon Aiyuk]] #1 ("best pure receiver," expects 100 yards vs. Detroit's
+league-worst secondary), [[Amon-Ra St. Brown]] #2 overall but #1 by team
+value ("in a runaway"), [[Deebo Samuel]] #3 ("a true game wrecker"),
+[[Zay Flowers]] #4 (real "superstar tier" future upside flagged, but a tough
+outside-alignment AFC Championship matchup), [[Rashee Rice]] #5/last ("the
+most limited of these five," capped at a Cooper-Kupp-archetype ceiling
+despite Puka-Nacua-range rookie efficiency). (2) [[Isiah Pacheco]] gets his
+first real bell-cow question logged, plus a live offensive-line injury risk
+(Joe Thuney) ahead of the AFC Championship. (3) [[Jared Goff]] gets a
+Shanahan-history/blitz-vulnerability note ahead of a game both hosts expect
+Detroit to lose comfortably. (4) [[Brock Purdy]] and [[Christian McCaffrey]]
+get direct matchup-specific reinforcements of prior reads.
+
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: 1.29.24 (2024-01-29)
+*Feel It or F**k It* with **Bob Harris** (not tracked; not [[Chris Harris]]).
+Conference Championship wrap plus a Senior Bowl/Shrine Game prospect
+quick-hitters segment. Created 11 new player pages: [[Jameson Williams]]
+(WR, DET — real but hedged optimism, an explicit "Gabe Davis factor"
+overdraft warning), two current stars who'd never gotten their own page
+despite plenty of prior mentions — [[Patrick Mahomes]] (specific 2024
+redraft value call) and [[Jalen Hurts]] (introduced via a Lamar Jackson
+value comparison, Kellen Moore OC hire flagged as a live variable) — and
+eight 2024 draft prospects from the Senior Bowl/Shrine Game: [[Jabari
+Small]], [[Blake Watson]], [[Jonathan Brooks]] (RB); [[Malik Washington]],
+[[Xavier Legette]], [[Malachi Corley]], [[Javon Baker]] (WR); [[Spencer
+Rattler]] (QB). **What materially changed:** (1) [[Lamar Jackson]] gets a
+detailed, personal defense of his AFC Championship performance plus a
+concrete 2024 redraft value call — expected to supplant [[Patrick Mahomes]]
+at QB2 (maybe QB1), with the receiver-room injury context (Rashad Bateman,
+Odell Beckham Jr., Mark Andrews/Isaiah Likely, lost J.K. Dobbins) offered as
+the reason for expected year-two growth under Todd Monken. (2) [[Brock
+Purdy]] gets a direct rebuttal to Harmon's 2024-01-23 "bad game" critique —
+Waldman frames his doubters as chasing the wrong (loud, obvious) QB traits
+and credits a stacked supporting cast, while flagging real front-office
+skittishness risk if SF doesn't win the Super Bowl. (3) [[Jared Goff]]'s Ben
+Johnson/Washington rumor firms up further ("baked into the cake"); Waldman
+separately states a general "we overrate coordinators" philosophy as
+context. (4) [[Travis Kelce]] and [[Sam LaPorta]] both get reinforcing
+updates. (5) [[Ricky Pearsall]] gets independent third-source
+corroboration of the existing Puka-Nacua-comp sleeper case. No ASR
+normalizations required beyond the standing Jameson Williams "Jamison
+Williams" garble, resolved per rule 7.
