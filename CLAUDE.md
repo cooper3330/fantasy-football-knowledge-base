@@ -215,10 +215,38 @@ Measured from agent transcripts (`cache_read + cache_creation + output`):
 Batching cost **1.8× per episode**. Saving 3k of fixed overhead by spending
 ~12M on carried context is a bad trade by four orders of magnitude.
 
-Note that the per-agent totals reported in tool output (~130–190k) are not the
-real figure — they exclude cached input, which is where 90%+ of the cost lives.
-Measure from the transcripts under
-`~/.claude/projects/<project>/<session>/subagents/agent-*.jsonl`.
+- **Spawn with `subagent_type: "ingest"`** (`.claude/agents/ingest.md`), which
+  restricts the agent to Read, Write, Edit and Bash. An unrestricted agent
+  starts at ~44.6k tokens of context before it does any work — only ~2.8k of
+  that is the prompt; the rest is the system prompt plus tool schemas for
+  browsers, computer-use, mail, calendar and simulators that an ingest agent
+  never touches. That constant is re-read on every turn, so at 77 turns it is
+  ~3.2M tokens, roughly 38% of all cache reads.
+
+  Agent definitions are loaded when a session starts, so a newly added or edited
+  one only takes effect in the next session.
+
+### Measuring cost
+
+Do not tune against the token total in tool output. It excludes cached input —
+~92% of what an agent consumes — so a run reported as "149k" really moved 9.1M.
+
+```bash
+python3 scripts/agent_cost.py                     # all agents, newest first
+python3 scripts/agent_cost.py --agent <agentId>   # one run
+```
+
+It reads `~/.claude/projects/<project>/<session>/subagents/agent-*.jsonl` and
+weights components by price (cache write 1.25×, cache read 0.10×, output 5×),
+because raw volume misleads: cache writes are ~7% of tokens but ~42% of cost.
+
+Two numbers to watch:
+
+- **turns × context** is the whole cost model. Fewer turns, smaller context.
+  There is no third lever — cache hit rate is already ~93% and has no knob.
+- **cache rebuilt Nx** — 1.0× means the cache was built once. Observed runs sit
+  at 4–5.5×, meaning it expired mid-run and every rebuild was charged at the
+  write rate. Shorter runs cross fewer expiries, so cutting turns pays twice.
 
 For each transcript:
 
