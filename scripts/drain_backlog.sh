@@ -19,10 +19,19 @@
 #   ./scripts/drain_backlog.sh 50         # drain at most 50 episodes this run
 #
 # Recommended for a long run (survives terminal close):
-#   nohup ./scripts/drain_backlog.sh 50 > /dev/null 2>&1 &
+#   nohup ./scripts/drain_backlog.sh 50 < /dev/null > /dev/null 2>&1 &
 #   tail -f scripts/logs/daily.log
 
 set -uo pipefail
+
+# Detach stdin. `nohup` only blocks SIGHUP when the terminal closes; it does
+# nothing about SIGTTIN, which STOPS a background job the moment it reads from
+# the tty. That is what silently suspended two overnight drains -- they sat in
+# state T for hours having transcribed nothing, because stdout/stderr were
+# redirected but stdin was still attached to the terminal. Doing it here means
+# the script is safe however it is invoked, not only when the caller remembers
+# to add `< /dev/null`.
+exec < /dev/null
 
 REPO_DIR="/Users/kylecooper/dev/fantasy-football-knowledge-base"
 cd "$REPO_DIR" || exit 1
