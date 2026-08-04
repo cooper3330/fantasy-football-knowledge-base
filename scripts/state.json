@@ -56,23 +56,27 @@
     },
     "0dbc85d9-9d25-4bcb-81fc-ee84ced0d510": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "0dbc85d9-9d25-4bcb-81fc-ee84ced0d510",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-08-28",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Total Listener Request!"
+      "staged_path": "raw/transcripts/harris-football/2025-08-28-harris-total-listener-request.md",
+      "status": "fetched",
+      "title": "Total Listener Request!",
+      "transcript_source": "whisper"
     },
     "0f5c37fb-e627-48fc-89f3-2687e05a3f38": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "0f5c37fb-e627-48fc-89f3-2687e05a3f38",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-08-26",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Players We Might Be Wrong About!"
+      "staged_path": "raw/transcripts/harris-football/2025-08-26-harris-players-we-might-be-wrong-about.md",
+      "status": "fetched",
+      "title": "Players We Might Be Wrong About!",
+      "transcript_source": "whisper"
     },
     "134b65df-cca6-4df4-b9e3-7b3b1bdec71e": {
       "expert": "Chris Harris",
@@ -506,23 +510,27 @@
     },
     "47f009ed-7d3f-4ab1-b687-e0f331e10918": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "47f009ed-7d3f-4ab1-b687-e0f331e10918",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-11",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Biggest Week 2 Lineup Quandaries & WASvGB Preview"
+      "staged_path": "raw/transcripts/harris-football/2025-09-11-harris-biggest-week-2-lineup-quandaries-wasvgb-preview.md",
+      "status": "fetched",
+      "title": "Biggest Week 2 Lineup Quandaries & WASvGB Preview",
+      "transcript_source": "whisper"
     },
     "48baac45-22ce-4e50-b2a5-c86fb0e4e152": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "48baac45-22ce-4e50-b2a5-c86fb0e4e152",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-12",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Players We've Already Changed Our Minds On & Thursday Night Injuries!"
+      "staged_path": "raw/transcripts/harris-football/2025-09-12-harris-players-weve-already-changed-our-minds-on-thursday-night-injuries.md",
+      "status": "fetched",
+      "title": "Players We've Already Changed Our Minds On & Thursday Night Injuries!",
+      "transcript_source": "whisper"
     },
     "490d441c-02b5-4b2f-a066-cffe75dd0fe7": {
       "expert": "Chris Harris",
@@ -998,13 +1006,15 @@
     },
     "6560057a-b3f7-11ef-b76b-576cff712d7e": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "6560057a-b3f7-11ef-b76b-576cff712d7e",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-08-27",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Plenty of Receiver News & Notable Cuts"
+      "staged_path": "raw/transcripts/reception-perception/2025-08-27-rp-plenty-of-receiver-news-notable-cuts.md",
+      "status": "fetched",
+      "title": "Plenty of Receiver News & Notable Cuts",
+      "transcript_source": "whisper"
     },
     "658411ea-b3f7-11ef-b76b-73a35040f4c5": {
       "expert": "Matt Harmon",
@@ -1056,43 +1066,51 @@
     },
     "661b5e56-b3f7-11ef-b76b-878b31b1a691": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "661b5e56-b3f7-11ef-b76b-878b31b1a691",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-08-29",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "RP Favorites Gaining Steam & Early Rookie Playing Time"
+      "staged_path": "raw/transcripts/reception-perception/2025-08-29-rp-rp-favorites-gaining-steam-early-rookie-playing-time.md",
+      "status": "fetched",
+      "title": "RP Favorites Gaining Steam & Early Rookie Playing Time",
+      "transcript_source": "whisper"
     },
     "663fd3b2-b3f7-11ef-b76b-f7f383a9939c": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "663fd3b2-b3f7-11ef-b76b-f7f383a9939c",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-03",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "2025 NFL Season Bold Predictions!"
+      "staged_path": "raw/transcripts/reception-perception/2025-09-03-rp-2025-nfl-season-bold-predictions.md",
+      "status": "fetched",
+      "title": "2025 NFL Season Bold Predictions!",
+      "transcript_source": "whisper"
     },
     "66630062-b3f7-11ef-b76b-db4ca194231f": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "66630062-b3f7-11ef-b76b-db4ca194231f",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-05",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "News & Early Season Buy or Sell"
+      "staged_path": "raw/transcripts/reception-perception/2025-09-05-rp-news-early-season-buy-or-sell.md",
+      "status": "fetched",
+      "title": "News & Early Season Buy or Sell",
+      "transcript_source": "whisper"
     },
     "66f5417a-b3f7-11ef-b76b-1f2fc19cb029": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "66f5417a-b3f7-11ef-b76b-1f2fc19cb029",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-11",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "49ers' Injuries, Rookie Report Cards & Player Props!"
+      "staged_path": "raw/transcripts/reception-perception/2025-09-11-rp-49ers-injuries-rookie-report-cards-player-props.md",
+      "status": "fetched",
+      "title": "49ers' Injuries, Rookie Report Cards & Player Props!",
+      "transcript_source": "whisper"
     },
     "66fb10ce-fbb1-426c-b18e-8d540b7440d4": {
       "expert": "Chris Harris",
@@ -1126,13 +1144,15 @@
     },
     "67624554-b3f7-11ef-b76b-b7008144b62f": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "67624554-b3f7-11ef-b76b-b7008144b62f",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-09",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "NFL Week 1 Reactions: Fluke or for Real?"
+      "staged_path": "raw/transcripts/reception-perception/2025-09-09-rp-nfl-week-1-reactions-fluke-or-for-real.md",
+      "status": "fetched",
+      "title": "NFL Week 1 Reactions: Fluke or for Real?",
+      "transcript_source": "whisper"
     },
     "6785105c-b3f7-11ef-b76b-43a66f7d6a4f": {
       "expert": "Matt Harmon",
@@ -1742,13 +1762,15 @@
     },
     "84884c79-4745-47fd-9cd2-7957e05250b1": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "84884c79-4745-47fd-9cd2-7957e05250b1",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-09",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Week 2 Waivers & More W1 Film Review"
+      "staged_path": "raw/transcripts/harris-football/2025-09-09-harris-week-2-waivers-more-w1-film-review.md",
+      "status": "fetched",
+      "title": "Week 2 Waivers & More W1 Film Review",
+      "transcript_source": "whisper"
     },
     "862bb65a-e571-11ee-a692-03b8e19ccf2d": {
       "expert": "Matt Harmon",
@@ -1794,13 +1816,15 @@
     },
     "913a6810-38be-40b9-b45f-69d156f04253": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "913a6810-38be-40b9-b45f-69d156f04253",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-05",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Things That Are Freaking Us Out For Week 1 & DALvPHI Review"
+      "staged_path": "raw/transcripts/harris-football/2025-09-05-harris-things-that-are-freaking-us-out-for-week-1-dalvphi-review.md",
+      "status": "fetched",
+      "title": "Things That Are Freaking Us Out For Week 1 & DALvPHI Review",
+      "transcript_source": "whisper"
     },
     "92e5e20a-60f4-40c3-84ad-1a4dc17bd3a5": {
       "expert": "Chris Harris",
@@ -1844,13 +1868,15 @@
     },
     "96ad861b-3785-4a14-b670-d8cf7fba5367": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "96ad861b-3785-4a14-b670-d8cf7fba5367",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-08-29",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Risk Factors For The First Three Rounds & Almanac Update!"
+      "staged_path": "raw/transcripts/harris-football/2025-08-29-harris-risk-factors-for-the-first-three-rounds-almanac-update.md",
+      "status": "fetched",
+      "title": "Risk Factors For The First Three Rounds & Almanac Update!",
+      "transcript_source": "whisper"
     },
     "970ef89d-8c0a-4f02-9a74-dc7de7350490": {
       "expert": "Chris Harris",
@@ -2116,13 +2142,15 @@
     },
     "b6455dfa-63b2-4615-a0e8-c21e24503b41": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "b6455dfa-63b2-4615-a0e8-c21e24503b41",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-04",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Preseason Huggy Awards & Previewing DALvPHI"
+      "staged_path": "raw/transcripts/harris-football/2025-09-04-harris-preseason-huggy-awards-previewing-dalvphi.md",
+      "status": "fetched",
+      "title": "Preseason Huggy Awards & Previewing DALvPHI",
+      "transcript_source": "whisper"
     },
     "b68b0364-8225-48ef-bfc3-348e4371f7ce": {
       "expert": "Chris Harris",
@@ -2646,13 +2674,15 @@
     },
     "c06eff68-4d96-49eb-883c-adb7f29c3409": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "c06eff68-4d96-49eb-883c-adb7f29c3409",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-03",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Week 1 Ranks & Snarkbag"
+      "staged_path": "raw/transcripts/harris-football/2025-09-03-harris-week-1-ranks-snarkbag.md",
+      "status": "fetched",
+      "title": "Week 1 Ranks & Snarkbag",
+      "transcript_source": "whisper"
     },
     "c09a8fb6-f05a-11ee-a49d-6fb7e8413072": {
       "expert": "Matt Harmon",
@@ -3356,13 +3386,15 @@
     },
     "ce590d40-d3a6-43b1-9a84-c73823f77042": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "ce590d40-d3a6-43b1-9a84-c73823f77042",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-08",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Week 1 Film Review - What Really Happened?"
+      "staged_path": "raw/transcripts/harris-football/2025-09-08-harris-week-1-film-review-what-really-happened.md",
+      "status": "fetched",
+      "title": "Week 1 Film Review - What Really Happened?",
+      "transcript_source": "whisper"
     },
     "cf24e30c-83c9-454e-9932-e74425e862e2": {
       "expert": "Chris Harris",
@@ -3376,13 +3408,15 @@
     },
     "cf298980-d7bc-43b4-9cb4-cd422178a1d6": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "cf298980-d7bc-43b4-9cb4-cd422178a1d6",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-08-27",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Handicapping The NFL In 2025 & Cutdown Day"
+      "staged_path": "raw/transcripts/harris-football/2025-08-27-harris-handicapping-the-nfl-in-2025-cutdown-day.md",
+      "status": "fetched",
+      "title": "Handicapping The NFL In 2025 & Cutdown Day",
+      "transcript_source": "whisper"
     },
     "d08e4333-236f-4819-9885-48099172542f": {
       "expert": "Chris Harris",
@@ -3568,13 +3602,15 @@
     },
     "f7b84a06-cbae-4416-b71e-87eeefc87c5b": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "f7b84a06-cbae-4416-b71e-87eeefc87c5b",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-02",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "My Most Drafted Players & Week 1 Waivers"
+      "staged_path": "raw/transcripts/harris-football/2025-09-02-harris-my-most-drafted-players-week-1-waivers.md",
+      "status": "fetched",
+      "title": "My Most Drafted Players & Week 1 Waivers",
+      "transcript_source": "whisper"
     },
     "f845abdb-aa1f-46c7-861b-ebdae4216202": {
       "expert": "Chris Harris",
@@ -5254,11 +5290,13 @@
       "expert": "Matt Waldman",
       "first_seen": "2026-08-01",
       "guid": "https://mattwaldmanrsp.com/?p=51917",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-07-07",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It or F\u2013It 7.7.25: An RSP Cast with Bob Harris and Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2025-07-07-rsp-feel-it-or-fit-7725-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It or F\u2013It 7.7.25: An RSP Cast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=51938": {
       "expert": "Matt Waldman",
@@ -5358,53 +5396,63 @@
     },
     "https://mattwaldmanrsp.com/?p=52132": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "https://mattwaldmanrsp.com/?p=52132",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-08-25",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F\u2013It 8.25.2025: An RSP Podcast with Bob Harris and Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2025-08-25-rsp-feel-it-or-fit-8252025-an-rsp-podcast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F\u2013It 8.25.2025: An RSP Podcast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=52162": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "https://mattwaldmanrsp.com/?p=52162",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-01",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F\u2013It 9.1.2025: An RSP Podcast with Bob Harris and Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2025-09-01-rsp-feel-it-or-fit-912025-an-rsp-podcast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F\u2013It 9.1.2025: An RSP Podcast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=52180": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "https://mattwaldmanrsp.com/?p=52180",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-04",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Top Rookie Receivers & RB Depth Chart Surprises: Going Deep with Brandon Angelo & Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2025-09-04-rsp-top-rookie-receivers-rb-depth-chart-surprises-going-deep-with-brandon-.md",
+      "status": "fetched",
+      "title": "Top Rookie Receivers & RB Depth Chart Surprises: Going Deep with Brandon Angelo & Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=52201": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "https://mattwaldmanrsp.com/?p=52201",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-04",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Sequences, Signal, and the Steelers Offense: RSP Film & Theory with Adam Harstad and Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2025-09-04-rsp-sequences-signal-and-the-steelers-offense-rsp-film-theory-with-adam-ha.md",
+      "status": "fetched",
+      "title": "Sequences, Signal, and the Steelers Offense: RSP Film & Theory with Adam Harstad and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=52206": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-04",
       "guid": "https://mattwaldmanrsp.com/?p=52206",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-04",
       "pub_date": "2025-09-08",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F\u2013It 9.8.2025: An RSP Podcast with Bob Harris and Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2025-09-08-rsp-feel-it-or-fit-982025-an-rsp-podcast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F\u2013It 9.8.2025: An RSP Podcast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=52243": {
       "expert": "Matt Waldman",

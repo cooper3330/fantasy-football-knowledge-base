@@ -115,11 +115,42 @@ def main():
     ap.add_argument("--session")
     ap.add_argument("--agent")
     ap.add_argument("--limit", type=int, default=8)
+    ap.add_argument("--headless", action="store_true",
+                    help="measure top-level SESSION transcripts instead of "
+                         "subagent ones. A `claude -p --agent ingest` run is "
+                         "its own session, not a subagent of anything, so it "
+                         "lands in <project>/<session-id>.jsonl and the normal "
+                         "subagents/ glob never sees it.")
+    ap.add_argument("--since",
+                    help="with --headless, only sessions modified on/after this "
+                         "YYYY-MM-DD. Keeps unrelated interactive sessions out.")
+    ap.add_argument("--min-turns", type=int, default=5,
+                    help="with --headless, skip trivial sessions (default 5)")
     args = ap.parse_args()
 
     root = project_dir()
     if not root.exists():
         sys.exit(f"no transcripts at {root}")
+
+    if args.headless:
+        files = sorted(root.glob("*.jsonl"),
+                       key=lambda p: p.stat().st_mtime, reverse=True)
+        if args.since:
+            import datetime as _dt
+            cut = _dt.datetime.strptime(args.since, "%Y-%m-%d").timestamp()
+            files = [f for f in files if f.stat().st_mtime >= cut]
+        shown = 0
+        for f in files:
+            tot, tools, turns, ctx = analyze(f)
+            if not sum(tot.values()) or turns < args.min_turns:
+                continue
+            report(f, tot, tools, turns, ctx)
+            shown += 1
+            if shown >= args.limit:
+                break
+        print("\ncost units are relative to base input (cache write 1.25x, "
+              "cache read 0.10x, output 5x).")
+        return
 
     dirs = [root / args.session / "subagents"] if args.session else sessions(root)
     if not dirs:

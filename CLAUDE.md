@@ -172,10 +172,21 @@ rediscovering the wiki's contents on every run.
 
 **Rules for orchestrating:**
 
-1. **Strictly sequential — never parallel.** Two reasons: rule 4 requires
-   episode N ingested before N+1, and every agent writes to the same shared
-   files (`index.md`, `log.md`, `SOURCE_CATALOG.md`, `state.json`). Concurrent
-   agents will clobber each other.
+1. **Strictly sequential — never parallel.** Sequential is about *write
+   ordering*, not context isolation; separate agents already have separate
+   contexts however they are scheduled (see "Model and batch size"). Three
+   things break under concurrency, and none of them is fixed by more isolation:
+
+   - Rule 4 requires episode N ingested before N+1, so bullets land in
+     chronological order on the player pages they share.
+   - Two episodes usually touch overlapping player pages. Those pages are
+     edited read-modify-write with no lock, so simultaneous agents silently
+     drop one of the two takes.
+   - `wiki_update.py` is **not** locked (unlike `state_io.py`, which is), so
+     concurrent `--index-set` or `--log-append` calls can interleave and
+     corrupt `index.md` or `log.md`.
+
+   Run N episodes per run by looping the invocation, never by fanning out.
 2. **Verify between each** — run `python3 scripts/verify_integrity.py` and
    confirm the transcript moved to `raw/ingested/`.
 3. **Checkpoint-commit between episodes** so a failure never costs more than one
@@ -196,6 +207,26 @@ Ingestion is the most expensive thing this wiki does. Two settings control it:
   schema this explicit does not need a frontier model. This is the single
   biggest cost lever in the pipeline — do not default to the parent model.
 - **One transcript per agent** (`ingest_manifest.py --count 1`, the default).
+
+**Per *agent*, not per *run*.** These are different limits and only the first
+one is capped. Ingesting several episodes in a single run is fine — and is what
+`run_daily_check.sh` does, `INGEST_PER_RUN` episodes at a time — provided each
+gets its **own agent invocation**. A separate `claude -p` is a separate process
+with a fresh session: no `--continue`, no `--resume`, so it starts with an empty
+context and carries nothing from the episode before it. That is full isolation,
+and it is the thing `--count 3` failed to provide.
+
+The loop has two requirements that are easy to get wrong:
+
+- **Regenerate the manifest every iteration.** Hoisting `ingest_manifest.py`
+  out of the loop re-ingests the same episode N times, and freezes the page
+  inventory — so agent N can't see that agent N-1 just created
+  `wiki/players/Brock Bowers.md` and will create a near-duplicate.
+- **Guard against a stalled queue.** If an agent dies or finishes without
+  setting `status: ingested`, the queue head is unchanged and the next
+  iteration hands the identical transcript to a fresh agent. Unattended, that
+  spends the whole run failing on one poison episode. Compare the head guid
+  before and after and stop the run if it didn't move.
 
 ⚠️ **This reverses the previous "batch 3 per agent" rule, which was wrong.**
 That rule optimized the fixed overhead — schema, page inventory, conventions —
