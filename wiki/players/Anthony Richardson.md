@@ -19,7 +19,10 @@ tags: [player]
 
 - 2024-02-26 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-26]]): floated as a best ball value-stack pairing with [[Justin Fields]] — "more of a stretch" given the durability/sample-size uncertainty than Fields is, but if his rookie-year flashes (before the injury that ended his season) hold up over a full season, Waldman thinks he could be one of fantasy's top-five quarterbacks, in the [[Jalen Hurts]] mold of scoring at a high rate without needing to lead the league in passing yardage.
 
+- 2024-03-04 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-04]]): calls him the class's "lottery ticket" and draws a direct parallel to how hard he pushed [[Jahmyr Gibbs]] in 2023 — expects to pursue Richardson aggressively as an "affordable" late-round QB upside target. Relays that Colts GM Chris Ballard has now publicly corroborated Waldman's own pre-draft read that Richardson was a better passer than his rookie box score suggested, crediting acclimation to the pro offense rather than arm talent as the missing piece. Wants the Colts to actively coach him on absorbing and avoiding hits the way Miami did with Tua Tagovailoa, given how much of his rookie season was lost to injury.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Caleb Williams]]
 - [[Justin Fields]]
+- [[Jahmyr Gibbs]]

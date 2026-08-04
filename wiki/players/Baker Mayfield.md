@@ -20,5 +20,10 @@ tags: [player]
 
 - 2024-02-27 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-02-27]]): points to personnel/scheme reasons behind his strong 2023 beyond his own play — Tristan Wirfs's move from right to left tackle and a strong year from the right tackle spot gave him a much-improved offensive line versus 2022, and [[Mike Evans]]'s expanded route tree (fewer go routes, more quick-developing slants/outs) suited Mayfield's get-the-ball-out-fast style far better than the prior Byron Leftwich/Tom Brady scheme.
 
+- 2024-03-04 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-04]]) [Redraft (Standard)]: rates staying in Tampa Bay "the most likely outcome," bolstered by the Bucs hiring Liam Coen (ASR garbled in the audio as "Lean Cohen"; normalized here) — a Mayfield-approved former Rams assistant from their prior time together. Projects a returning Mayfield as a fringe top-10 fantasy quarterback but warns against drafting him at that price: "you want to draft him in the bottom of the top 15" or lower for value. Comps him as an "upper-end Jeff Garcia" and a Derek Carr/David Carr type who won't take the same sack volume but will still take unnecessary hits by breaking the pocket when he shouldn't have to.
+
+- 2024-03-05 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-05]]): argues [[Mike Evans]]'s re-signing directly benefits Mayfield's own leverage calculus by removing his incentive to test the market — floats hypothetical suitors (Atlanta, Minnesota if Kirk Cousins leaves, Denver under Sean Payton) that Harmon says now "negate" themselves with Evans staying, given how much of Mayfield's 2023 success traced to Evans's expanded route tree. Separately credits new OC Dave Canales as an emerging "quarterback whisperer" for back-to-back reclamation jobs, first Geno Smith and now Mayfield.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
+- [[Mike Evans]]

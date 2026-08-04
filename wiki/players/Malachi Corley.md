@@ -17,5 +17,6 @@ tags: [player]
 - 2024-02-01 — According to [[Brandon Angelo]] ([[Matt Waldman's RSP Cast - 2024-02-01]]): a reinforcing update with more technical specificity — "there's so much more in him than meets the eye" beyond the size-driven [[Deebo Samuel]] (5'10", 215 lbs) comp everyone reaches for on sight. Flags real, already-visible route-running nuance and catch-point work "away from frame," better than the early pre-Senior-Bowl scouting consensus had credited him for.
 
 - 2024-02-29 — According to **James Koh** (co-host — not a tracked expert) on *Reception Perception: The Show*, with [[Matt Harmon]] absent ([[Reception Perception The Show - 2024-02-29]]): flags him among the draft's "freak athletes" — a 5'10"/215 "fire hydrant" who consistently breaks through arm tackles, consistent with the after-catch power comps already logged above.
+- 2024-03-16 — According to [[Matt Waldman]], solo cast ([[Matt Waldman's RSP Cast - 2024-03-16]]): his speed is probably a better mismatch for safeties than for cornerbacks, which shifts his best projection to the slot. Two-way goes from the slot also mean he isn't as reliant on a vast array of stem work and route setups — which is good news, since he currently lacks that repertoire and would need it to become a strong outside starter. Can still contribute early from the slot without mastering it.
 
 ## Related Concepts

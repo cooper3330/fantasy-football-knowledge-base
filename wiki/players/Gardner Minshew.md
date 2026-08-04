@@ -18,6 +18,10 @@ tags: [player]
 **Read:** this is a character/role evaluation, not a fantasy start recommendation
 — neither host makes a starting-lineup call on Minshew.
 
+- 2024-03-12 — According to [[Matt Harmon]] on [[Reception Perception The Show - 2024-03-12]]: ranks him below [[Jacoby Brissett]] among available veteran bridge-QB options for Minnesota, but above [[Joe Flacco]], Jameis Winston (not tracked) and [[Ryan Tannehill]]. Separately, discussing [[Michael Pittman Jr.]]'s 2023 tape, calls Minshew merely "acceptable backup level" for the Colts — someone who ran the RPO game fine but "was trying to give games away at times" and wasn't pushing the ball downfield, pushing back on any read that Minshew "unlocked" the Colts offense.
+
 ## Related Concepts
 - [[Player Development and Coachability]]
 - [[Redraft (Standard)]]
+- [[Jacoby Brissett]]
+- [[Michael Pittman Jr.]]

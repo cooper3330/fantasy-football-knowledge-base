@@ -27,7 +27,36 @@ articulated.
 
 - 2023-12-21 — **Waldman**, same episode: Cordarrelle Patterson as the cycle made visible — the comparison between his 2013 and 2023 usage says more about the league than about the player. Once nickel defenses became standard, teams re-discovered gap and toss concepts against them, and only then did a player with his build and skill set have an obvious job.
 
+- 2024-03-11 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-11]]): reacting to Adam Schefter's "best running back free agent class in history" framing — agrees it's true "on the basis of name recognition" and that real collective talent is still available, but ties its availability directly to how the league now treats running back value/age rather than a talent shortage. Sets the real bar at how many of this year's names can replicate what Curtis Martin did with the Jets in 1998 or Priest Holmes did with the Chiefs in 2001 after changing teams — "a low bar" by pure count of players, but "a higher bar than it actually looks" given how rarely it happens — and says he's betting on at least two doing it. See [[Derrick Henry]] and [[Josh Jacobs]].
+
+- 2024-03-12 — According to [[Matt Harmon]] on [[Reception Perception The Show - 2024-03-12]]: says the [[Christian McCaffrey]] and [[Jahmyr Gibbs]] signings "challenged" his prior that an elite offensive ecosystem (49ers, Lions) makes the back interchangeable — instead, those franchises spent to get premium talent and further weaponize the ecosystem, a model he reads the [[Saquon Barkley]] Eagles deal as chasing at a discount. Separately notes both Philadelphia (Barkley) and Green Bay ([[Josh Jacobs]]) could afford real running-back investment specifically because each has a stable of cheap, productive pass-catchers still on rookie contracts.
+
+- 2024-03-14 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-14]]): reacting
+  to a chaotic 2024 free-agency period — an unexpected explosion in the
+  offensive guard market (Robert Hunt's $100M deal with Carolina, plus Damien
+  Lewis; Landon Dickerson's Eagles extension) and tight end market (Gerald
+  Everett 2yr/$12M, Colby Parkinson 3yr/$22.5M/$15.5M guaranteed) alongside a
+  continued running back crunch. Koh calls the RB market "collusion-y" —
+  "you cannot tell me... Hunter Henry is worth more than Austin Ekeler" — and
+  points to [[Darnell Mooney]]'s $39M Falcons deal (fully-guaranteed portion
+  matching [[Saquon Barkley]]'s $37.8M Eagles deal) as the clearest evidence.
+  Harmon's framing of the mechanism: replacement-level receiver price has
+  risen to "you hit free agency, and you're a guy that should be on the field
+  in 11 personnel... you're going to get $11, $12, $13 million a year,"
+  while a running back has to be a Saquon Barkley-level talent to get the
+  same money, because the WR player pool is deeper before you reach a
+  Barkley-caliber name than the RB pool is.
+
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: flags 2024 free agency as a real, if partial, reversal of the running-back-devaluation narrative — [[Saquon Barkley]]'s three-year, $37M-guaranteed (up to $46M) Eagles deal, plus real starting jobs and money for [[Derrick Henry]] (Baltimore) and [[Josh Jacobs]] (Green Bay), read as evidence "the math works out" for top backs even in a cost-conscious market. Names [[Austin Ekeler]] as the running back most publicly aware of and vocal about the league's undervaluing of the position generally, contrasted with Jacobs and Henry actually landing starter-level paydays this cycle.
+
 ## Related
 - [[Running Back Size and Movement Skills]]
 - [[Scheme vs Talent]]
 - [[Scouting Bias and Player Archetypes]]
+- [[Derrick Henry]]
+- [[Josh Jacobs]]
+- [[Saquon Barkley]]
+- [[Christian McCaffrey]]
+- [[Jahmyr Gibbs]]
+- [[Darnell Mooney]]

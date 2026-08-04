@@ -15,6 +15,7 @@ tags: [player, prospect]
 ## Expert Takes
 
 - 2024-02-01 — According to [[Matt Waldman]] and [[Brandon Angelo]] ([[Matt Waldman's RSP Cast - 2024-02-01]]): a real stock disagreement, flagged as unresolved. Going into Senior Bowl week, outside buzz had him rising as far as a potential late-first-round name. Angelo's own grade is far more conservative — a late Day 3 pick, borderline draftable — and he says explicitly that when the outside hype started building he "watched and waited" rather than moving his own number, because he "didn't see that" on tape. After Senior Bowl week, Angelo says he feels "pretty confident" sticking with his lower grade despite the gap with the industry buzz.
+- 2024-03-16 — According to [[Matt Waldman]], solo cast ([[Matt Waldman's RSP Cast - 2024-03-16]]) (ASR renders his name "Devontae Walker" here; same player): a far more sudden mover than he plays most of the time on tape — the sudden footwork shows up in transitions downfield off a double move or when avoiding a defender in close quarters in the open field. If he applied that suddenness more consistently within his routes, Waldman says he'd be a dangerous route runner.
 
 ## Related Concepts
 - [[Scouting Bias and Player Archetypes]]

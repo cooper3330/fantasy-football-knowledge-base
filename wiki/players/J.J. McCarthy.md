@@ -21,6 +21,13 @@ tags: [player, prospect]
 
 - 2024-02-29 — According to **Kevin Knight** (Falcons reporter, SB Nation's Falcoholic — guest, not a tracked expert) on *Reception Perception: The Show*, with [[Matt Harmon]] absent ([[Reception Perception The Show - 2024-02-29]]): says McCarthy is the only 2024 quarterback prospect likely to rise into the Falcons' range at 8th overall, but that taking him there would signal the team had already struck out on both [[Justin Fields]] and [[Kirk Cousins]] in free agency — a scenario he expects would leave Atlanta fans unhappy.
 
+- 2024-03-04 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-04]]): the "Zach Wilson 2.0" hype cycle has kept intensifying, traced back to Jim Harbaugh (his college coach — not tracked) publicly calling him the draft's best quarterback. Still skeptical of the mania — feels "a whiff of desperation" from the buzz and distrusts the salesmanship framing college coaches bring to pre-draft praise ("he's the same guy who said chicken is a nervous bird... and then changed his mind"). Says McCarthy "could probably crack my top five" if his decision-making evaluation grades out as promising, but currently expects him to land outside it. Calls speculation the Chargers could draft him 5th overall "insane."
+
+- 2024-03-12 — According to [[Matt Harmon]] on [[Reception Perception The Show - 2024-03-12]]: says he "really buys the smoke" that Minnesota has its sights set on McCarthy as [[Kirk Cousins]]'s eventual replacement now that Cousins has signed with Atlanta, seeing why Shanahan-tree offensive minds would like a QB profile like his (pointing to colleague Derek Klassen's — not tracked — scouting work on him), but expects it would require Minnesota to trade up the board to get him.
+
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]], discussing Minnesota's post-[[Kirk Cousins]] quarterback options: "he's okay" but doesn't think McCarthy would leverage [[Justin Jefferson]] vertically as well as [[Michael Penix Jr.]] or [[Jayden Daniels]] would.
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Brock Purdy]]
+- [[Kirk Cousins]]

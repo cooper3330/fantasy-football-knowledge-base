@@ -18,5 +18,22 @@ tags: [player]
 - 2024-01-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-22]]) [Redraft (Standard)]: firms up the free-agency call from two weeks earlier — "he is playing somewhere else next year for sure" — and floats the Atlanta Falcons as a plausible fit (their historical type of receiver) while doubting the front office will actually spend on him.
 - 2024-01-23 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-23]]) [Redraft (Standard)]: independent corroboration from a different analyst — "not a true number two receiver," a "just a guy" rotational piece, with zero receiving yards in five of his last nine games played, closing a stretch where he hasn't played since the Miami game. Notes he's only 24 and has said he's open to returning to Buffalo, but frames Buffalo's receiver room as needing an outside upgrade regardless of what happens with him. Separately floated as a plausible, if unspectacular, veteran add for Houston's thin receiver room — "a good blocker," a clear WR3 who wouldn't threaten [[Nico Collins]] or [[Tank Dell]].
 
+- 2024-03-14 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-14]]): signs a 3-year, $39M deal with Jacksonville (only $11M
+  guaranteed). Confirms the down 2023 charting grade — 7th percentile success
+  rate vs. man coverage, "not good." Doesn't see him as capable of being one
+  of a team's top-two receivers, pointing to Buffalo's struggles when they
+  leaned on him that way. His skill set is narrow but real — nine routes,
+  posts, out routes, stretching the field vertically — which would have made
+  more sense paired with a retained [[Calvin Ridley]] (Davis on low-value X
+  reps, Ridley freed to move around). Instead paired with [[Christian Kirk]]
+  and a limited in-line TE (Evan Ingram, not a tracked page), which Harmon
+  calls a "hyper-specific," bottom-of-the-league receiver room — in the
+  conversation for bottom five — despite the money spent; expects Jacksonville
+  now has to draft a true WR1.
+
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: calls the Jaguars contract (3yr/$39M) evidence of "institutionally stupid" spending — Davis is "what [[Calvin Ridley]] was at his absolute worst, just taller and stronger," a third option who "may catch the ball one out of every three times" when his QB scrambles and finds him deep. Notes he's making more than [[Saquon Barkley]] despite the gap in proven production, and doubts Jacksonville is finished addressing receiver need.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
+- [[Christian Kirk]]
+- [[Calvin Ridley]]

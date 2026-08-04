@@ -18,6 +18,10 @@ tags: [player, prospect]
 
 - 2024-02-29 — According to **Kevin Knight** (Falcons reporter, SB Nation's Falcoholic — guest, not a tracked expert) on *Reception Perception: The Show*, with [[Matt Harmon]] absent ([[Reception Perception The Show - 2024-02-29]]): says Atlanta would be very tempted to take him (or [[Malik Nabers]]) at 8th overall if he falls, given the Falcons' near-empty receiver room outside [[Drake London]]. Notes Mel Kiper's mock had Odunze going 6th to the Giants at the time, but flags a real chance he slides to Atlanta at 8.
 
+- 2024-03-05 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-05]]) [Dynasty]: same landing-spot risk framing as [[Marvin Harrison Jr.]] and [[Malik Nabers]] — flagged as a likely fit for critical-need top-10 teams (Tennessee, Giants, New England), with the same dynasty caution that a weak offensive landing spot could suppress his rookie-year outlook regardless of pre-draft grade.
+
+- 2024-03-16 — According to [[Matt Waldman]], solo cast ([[Matt Waldman's RSP Cast - 2024-03-16]]): when he gets jammed at the line, he's shown he can counter quickly enough to still get into his route. He'll lose some interactions like every receiver does, but the ability to win a route even after the defender earned an early advantage is something a lot of young and veteran receivers alike don't do well — a special quality.
+
 ## Related Concepts
 - [[Reception Perception Methodology]]
 - [[Marvin Harrison Jr.]]

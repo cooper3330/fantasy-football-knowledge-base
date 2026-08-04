@@ -1,6 +1,6 @@
 ---
 type: player
-team: Green Bay Packers
+team: Free Agent (released by Green Bay Packers, March 2024)
 position: RB
 tags: [player]
 ---
@@ -19,6 +19,11 @@ tags: [player]
 - 2024-01-22 — According to [[Matt Waldman]] and **Bob Harris** (co-host — not a tracked expert) ([[Matt Waldman's RSP Cast - 2024-01-22]]) [Redraft (Standard)]: still on both hosts even after the Divisional Round loss — the read is that people "wrote him off too early," missing that his strong finish came on fresher legs after an in-season injury absence. Expects the market to overrate his age and undervalue him relative to that late-season form, a gap Waldman intends to exploit in drafts. A.J. Dillon expected to leave via free agency, which would strengthen Jones's role if he's re-signed.
 - 2024-01-23 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-23]]): independent, strongly positive corroboration — "criminally underrated" for his entire career, closing the season with five straight 100-yard games where "every bit of the production was reflected in the play" behind a good offensive line. Calls Green Bay's offense dependent on him specifically — "I don't think Green Bay's offense works nearly as well" without a good running back driving it. The real caution: age (30s) and a 2023 season that again showed he can't be relied on to stay healthy, with the team's insertion of A.J. Dillon into the lead role during his absence having failed outright. Recommends Green Bay address the RB2 spot in the draft rather than lean on Dillon again.
 
+- 2024-03-12 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) on [[Reception Perception The Show - 2024-03-12]]: reacting to Green Bay releasing him after signing [[Josh Jacobs]] — "it sucks for Aaron Jones," still clearly good when healthy, and reads the Packers' offense as specifically "not the same" without him (contrasted with a non-functional A.J. Dillon-led stretch). But flags the swings in his 2023 game log — five straight 100-yard finishing games sandwiched around stretches of inactivity/low usage — and that at age 30 with his injury history, "you don't typically trend back the other direction" as a runner. Names likely pay-cut friction as the practical cause of the split, and is a little surprised Green Bay didn't push harder to keep him.
+
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: reacting to his signing with Minnesota after Green Bay's release — "still legit," an "awesome" running back who "can do it all," and expects him to make life difficult for his old division-rival Packers. Notes existing Ty Chandler (not tracked) shares are relegated to complementary/handcuff value rather than a real threat to Jones's role barring injury.
+
 ## Related Concepts
 - [[Injury-Agnostic Roster Construction]]
 - [[Redraft (Standard)]]
+- [[Josh Jacobs]]

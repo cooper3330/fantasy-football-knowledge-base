@@ -25,6 +25,8 @@ receivers.
 for his name. Alpha receivers and reliable route runners survive a downgrade;
 receivers whose value is concentrated in one throw type do not.
 
+- 2024-03-12 — According to [[Matt Harmon]] on [[Reception Perception The Show - 2024-03-12]]: groups [[Drake London]] and [[Michael Pittman Jr.]] with [[Terry McLaurin]], [[D.J. Moore]] and Allen Robinson (not tracked) as talented X-receivers whose true quality has been masked by a "carousel" of bad/rotating starting quarterbacks — arguing all are legitimate star-caliber No. 1s whose depressed box-score production is a quarterback problem, not a talent problem, and predicting that [[Kirk Cousins]] specifically should unlock London the way durable, drop-back-competent QB play would for any of them.
+
 ## Related
 - [[Zone vs Man Route Running]]
 - [[Redraft (Standard)]]

@@ -51,6 +51,14 @@ real the gap can be between "good" and elite-tier athleticism — relayed on
   "healthy enough to play at the level you were drafted to play at," relayed
   by Waldman on [[Matt Waldman's RSP Cast - 2024-01-08]] and applied to
   [[Tony Pollard]]. See [[Healthy Enough to Play vs. Healthy Enough to Perform]].
+- **First-hand knowledge of Combine timing equipment.** As a former Big Ten
+  track sprinter and performance trainer, has direct familiarity with the
+  "Zybek" partially-electronic system used to time the 40 at the Combine
+  (electronic start, hand-timed finish) and estimates its standard deviation
+  at 0.24–0.3 seconds — enough that a "true" 4.45 runner could be officially
+  clocked as slow as a 4.69. Relayed by Waldman on
+  [[Matt Waldman's RSP Cast - 2024-03-01]] and applied to
+  [[Quentin Johnston]]. See [[NFL Combine and Pro Day Skepticism]].
 
 ## Track Record Notes
 
@@ -99,3 +107,4 @@ real the gap can be between "good" and elite-tier athleticism — relayed on
 - [[Matt Waldman's RSP Cast - 2024-01-11 (Going Deep - Draft Prospects)]] — *Going Deep*; 2024 draft-class evaluation of [[Blake Corum]], [[Michael Penix Jr.]], [[Keon Coleman]], and [[Ainias Smith]]; extends the pace-control/movement-intellect framework with a new "compensatory skill" mechanism
 - [[Matt Waldman's RSP Cast - 2024-02-01]] — *Going Deep*; a full Senior Bowl/Shrine Game-week episode, live-viewing downgrades on [[Bo Nix]], [[Devontez Walker]] and [[Xavier Legette]], reinforcing updates on [[Ricky Pearsall]], [[Malachi Corley]] and [[Spencer Rattler]], new prospect pages ([[Roman Wilson]], [[Ray Davis]], [[Brendan Rice]], [[Dylan Laube]]), and a personal-background aside (raced [[Tyreek Hill]] as a Big Ten sprinter)
 - [[Matt Waldman's RSP Cast - 2024-02-22]] — *Going Deep*; a full 2024 running-back-class episode, ten new prospect pages ([[Cody Schrader]], [[Kendall Milton]], [[Kimani Vidal]], [[Will Shipley]], [[Rasheen Ali]], [[Jaylen Wright]], [[Dillon Johnson]], [[Trey Benson]], [[Bucky Irving]], [[Marshawn Lloyd]]), a sharpened restatement of [[Pace Control and Movement Intellect]] and [[Prospect Pro-Readiness vs Ceiling]], and a top-five grade on [[Dylan Laube]]
+- [[Matt Waldman's RSP Cast - 2024-03-01]] — not a co-host on this episode (*RSP Film and Theory*, with Adam Harstad); his Combine timing-equipment framework (Zybek standard deviation) relayed by Waldman and applied to [[Quentin Johnston]]

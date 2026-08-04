@@ -16,7 +16,13 @@ tags: [player]
 
 - 2024-02-26 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-26]]): says he's "loved Justin Jefferson's game since LSU," and while he'd take [[Ja'Marr Chase]] "ever so slightly" ahead of him right now in a dynasty startup — purely on Chase's better quarterback certainty — he'd "run to the podium" to grab Jefferson if someone took Chase first. Frames the two as effectively 1-2 with a negligible gap. Notes Jefferson made backup Nick Mullens (not tracked) look serviceable when healthy last season, reinforcing that the QB-agnostic talent read still holds even as the situational edge favors Chase.
 
+- 2024-03-12 — According to [[Matt Harmon]] on [[Reception Perception The Show - 2024-03-12]]: with [[Kirk Cousins]] signing in Atlanta and Minnesota moving to a bridge-veteran-plus-likely-rookie quarterback plan, says simply "I think Justin Jefferson will be fine" regardless of who ends up throwing him the ball — contrasted directly with [[Jordan Addison]], who he expects to suffer more from the downgrade at quarterback.
+
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: admits some irritation that Jefferson won't get [[Kirk Cousins]] after all, having wanted him to stay in Minnesota — but stresses this "doesn't mean bad things" for Jefferson given his talent level, independent of who ends up at quarterback.
+
 ## Related Concepts
 - [[Weak Quarterback Play and Receiver Value]]
 - [[Zone vs Man Route Running]]
 - [[Ja'Marr Chase]]
+- [[Jordan Addison]]
+- [[Kirk Cousins]]

@@ -19,8 +19,16 @@ tags: [player]
 
 - 2024-02-26 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-26]]): grouped with [[Austin Ekeler]] and [[Travis Kelce]] under the same read — their "poor showings" last season likely owed more to health than to skill decline. For Pollard specifically, repeats the lingering workload-management concern, tying it to Dallas's own previously-stated concerns about the same issue with Ezekiel Elliott (not tracked) — a continuation of the [[Healthy Enough to Play vs. Healthy Enough to Perform]] framework already on this page.
 
+- 2024-03-01 — **Adam Harstad** (co-host on *RSP Film and Theory* — not a tracked expert) on [[Matt Waldman's RSP Cast - 2024-03-01]] [Dynasty]: says he was "kind of out" on Pollard heading into 2023 given he was put into an unproven workhorse role, but is "buying back into" him now that the market has swung the other way and assumes he's washed — Pollard was demonstrably productive in a specific complementary role before, and would likely reclaim real value in that role again. Pressure-tested Pollard's own explanation for his down year (an interview, possibly with [[Matt Harmon]], where Pollard said he didn't feel right until the Carolina game) by comparing his production before vs. after that game — found it "exactly the same," undercutting the in-season-recovery narrative. Ranks him third of the "Big Four" free agents, behind [[Josh Jacobs]] and [[Austin Ekeler]].
+- 2024-03-01 — According to [[Matt Waldman]], same episode [Dynasty]: Pollard's age profile still suits his general preference for buying free-agent RBs off a down year, but he ties the case explicitly to role and full recovery from injury rather than health alone — "whether he really bounces back from injury fully and plays to pre-injury level, Tony Pollard is there." Groups him with [[Austin Ekeler]] in the "Column A" receiving-back tier of the free-agent class, as opposed to the bell-cow "Column B" of [[Josh Jacobs]]/[[Derrick Henry]].
+
+- 2024-03-11 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-11]]) [Redraft (Standard)]: predicts he lands with the Philadelphia Eagles in free agency — "totally feeling that" — reasoning the Eagles would get in one player what they'd hoped to get separately from Kenneth Gainwell and DeAndre Swift (both not tracked pages).
+
+- 2024-03-19 — According to [[Matt Waldman]] and **Bob Harris** (co-host — not tracked) on [[Matt Waldman's RSP Cast - 2024-03-19]]: reacting to his signing with Tennessee — a short-term "fuck it" specifically because of what it does to [[Tyjae Spears]]'s workload, not Pollard's own outlook. Reads the contract structure (cheap, likely out after year two) as Tennessee hedging — betting Pollard can handle lead work while keeping Spears as a fallback rather than fully anointing either. Expects Pollard's price to run "a little too costly" relative to Spears, whose value should keep dropping into draft-day bargain range.
+
 ## Related Concepts
 - [[Healthy Enough to Play vs. Healthy Enough to Perform]]
 - [[Redraft (Standard)]]
+- [[Dynasty]]
 - [[Austin Ekeler]]
 - [[Travis Kelce]]

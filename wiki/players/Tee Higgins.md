@@ -18,6 +18,22 @@ tags: [player]
 - 2024-02-19 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-19]]): the franchise-tag question remains unresolved this close to the deadline — Waldman leans toward expecting the tag but explicitly hedges ("who knows, funny things happen"). Notes his dynasty read on [[Ja'Marr Chase]] doesn't hinge on Higgins staying or going either way.
 - 2024-02-27 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-02-27]]): fresh 2023 Reception Perception charting shows a down year — 68.7% success rate vs. man coverage (his lowest since his rookie year), 68.8% vs. press (career low), 73.9% vs. zone (career low), plus a career-low 55% catch rate and 656 yards after back-to-back 1,000-yard seasons. Harmon partly attributes it to playing through injury but won't fully excuse it. Draws a firm talent-tier line: Higgins is "top-20-ish" but not a "transformative" player like [[Tyreek Hill]] or [[A.J. Brown]] were when they forced trades, and has no proof of concept as a true WR1 without [[Ja'Marr Chase]] — more a "vertical throwback X" who wins contested catches than a true X. Koh is surprised Cincinnati didn't push harder for an extension while his value was down rather than tagging him; both expect the Bengals to listen on trade offers (~late-1st/early-2nd capital, Carolina's No. 33 pick floated) but see no realistic path to a Tyreek/A.J. Brown-level trade return.
 
+- 2024-03-07 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-07]]): brief
+  follow-up — expects Higgins to be officially franchise-tagged by
+  Cincinnati (not yet confirmed at recording time) and floats a possible
+  tag-and-trade, without landing on a firm outlook. Reiterates the down 2023
+  season is "excusable" as injury rather than a talent decline. Asked to pick
+  Higgins or [[Nico Collins]] straight-up, Harmon says the public perception
+  of a talent gap between them "hasn't quite caught up" to reality — Collins's
+  2023 season was better than any season either player has had, and Harmon
+  says he's "very tempted" to take Collins right now if forced to choose,
+  while still calling both "great number ones" as outside X receivers.
+
+- 2024-03-11 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-11]]): responds to Higgins requesting a trade from Cincinnati (filed the same day) — "you're not a wide receiver one, T. Higgins, you're fantasy people" saying that label. Grades him a "very good wide receiver two" who should stay in Cincinnati, "his best opportunity to compete," unless he somehow lands with Kansas City (which Waldman doubts, since the Chiefs need a field-stretcher more than a contested-catch/over-the-middle receiver — a role [[Rashee Rice]] already fills). Comps him against Mike Williams (not a tracked page) as the standard he's "aspiring to be" — not as strong a runner after the catch, almost as good at the catch point, maybe not quite as good a route runner — and says Higgins "wants great player money" for what's really WR2-level play.
+- 2024-03-16 — According to [[Matt Waldman]], solo cast on the 2024 WR draft class ([[Matt Waldman's RSP Cast - 2024-03-16]]): a direct message during a tangent on career-span economics — "you're on a team that is going to give you probably the best shot you're going to get in your career to get to the Super Bowl and win it," urging Higgins to stay with Cincinnati and [[Joe Burrow]]/[[Ja'Marr Chase]] rather than chase maximum free-agent money. Acknowledges Higgins deserves good money and likely already has enough for generational wealth if he manages it well, and hopes Higgins won't regret leaving 30 years from now.
+
 ## Related Concepts
 - [[Weak Quarterback Play and Receiver Value]]
 - [[Jake Browning]]
+- [[Reception Perception Methodology]]

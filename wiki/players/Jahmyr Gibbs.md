@@ -21,9 +21,12 @@ tags: [player]
 - 2024-01-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-22]]): a methodology note rather than a new grade — reveals part of how the original pre-draft evaluation formed. Watching Lions RBs coach Scotty Montgomery's pre-draft interactions with Gibbs, "the enthusiasm and the excitement and the way they hit it right off," shaded Waldman's view of the fit positively before the draft even happened — offered as a general evaluation principle (intangibles/relationship fit matter, not just tape) rather than new information about Gibbs's play. See [[Player Development and Coachability]].
 - 2024-01-29 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-29]]): a brief victory-lap callback after Detroit's NFC Championship loss — "some of us were really in on him from the get-go" — paired again with [[David Montgomery]] as a duo that "gives you all the pieces," part of the case that Detroit's core is set up for continued success regardless of coordinator churn.
 
+- 2024-03-12 — According to [[Matt Harmon]] on [[Reception Perception The Show - 2024-03-12]]: pushes back on the pass-catching hype from his rookie year — "we talked about... this guy's going to be a big-time pass catcher in the league... but they just kind of really used him as a running back" — cited alongside [[Saquon Barkley]] as a caution that even highly-touted receiving backs rarely have as much passing-game impact as expected.
+
 ## Related Concepts
 - [[Running Back Size and Movement Skills]]
 - [[Pace Control and Movement Intellect]]
 - [[Bijan Robinson]] — the paired call; the two takes are one argument
 - [[Best Ball]]
 - [[Player Development and Coachability]]
+- [[Saquon Barkley]]

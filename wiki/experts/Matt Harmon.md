@@ -134,8 +134,38 @@ pulled from dedicated rankings segments.
   as a "mis-evaluation" at outside receiver and expects him out of Kansas
   City's plans entirely. Checkable against Moore's actual 2024 usage/roster
   status.
+- **Open, unresolved 2024-03-07 read:** picks [[Nico Collins]] over [[Tee
+  Higgins]] if forced to choose straight-up, arguing the public perceives a
+  larger talent gap than actually exists. Checkable against how each
+  player's 2024 season and next contract play out.
+- **Open, unresolved 2024-03-12 read:** predicts [[Michael Pittman Jr.]] could have a "banner year" in 2024 that puts him in the top-10 wide receiver conversation, entering his age-27 season. Checkable against his 2024 season line.
+- **Open, unresolved 2024-03-07 read:** reads both [[Calvin Ridley]]'s and
+  [[Marquise Brown]]'s down 2023 charting grades as mostly deployment-driven
+  (static X-receiver usage, thin route trees) rather than talent decline —
+  expects both to rebound with better usage. Checkable against their 2024
+  landing spots and roles.
+
+- **Open, unresolved 2024-03-14 read:** reaffirms multi-year below-consensus
+  skepticism on [[Jerry Jeudy]] using freshly charted zone-coverage numbers
+  (68.4%/70.3% the last two years) after his trade to Cleveland — "I think
+  history has proven me to be correct." Directly checkable against Jeudy's
+  2024 season and role in Cleveland's offense.
 
 ## Sources
+- [[Reception Perception The Show - 2024-03-14]] — free-agency reaction show
+  (with James Koh): breaks down the actual [[Diontae Johnson]] trade to
+  Carolina (charted case for why the return was too light), the [[Jerry
+  Jeudy]] trade to Cleveland (below-consensus skepticism reaffirmed by
+  charting), [[Russell Wilson]] signing with Pittsburgh (skeptical of the
+  ceiling, charted [[George Pickens]] fit), and the [[Calvin Ridley]] and
+  [[Gabe Davis]] free-agent signings (Ridley defended on 2023 charting data
+  despite an "out of market" price, Davis's down year confirmed); new pages
+  for [[Elijah Moore]], [[Christian Kirk]], [[Will Levis]] and [[Darnell
+  Mooney]]; extended [[League Trend Cycles and Market Inefficiency]]
+  discussion on 2024 free agency's RB/WR/TE price gaps
+- [[Reception Perception The Show - 2024-03-12]] — free-agency reaction show (with James Koh): [[Kirk Cousins]] to Atlanta and the resulting [[Drake London]] upside case, [[Michael Pittman Jr.]]'s finalized Colts deal and top-10 WR breakout call, [[Saquon Barkley]] to Philadelphia, [[Josh Jacobs]] to Green Bay and the [[Aaron Jones]] release, and Minnesota's post-Cousins QB options ([[J.J. McCarthy]], new page [[Jacoby Brissett]])
+- [[Reception Perception The Show - 2024-03-07]] — free-agency profile breakdown (with James Koh) on [[Calvin Ridley]], [[Marquise Brown]] and [[Tee Higgins]], all read as deployment-driven down years rather than talent decline; closing aside picking [[Nico Collins]] over Higgins if forced to choose straight-up
+- [[Reception Perception The Show - 2024-03-05]] — Mike Evans's finalized Tampa Bay deal (with James Koh); full-season 2023 RP charting confirming his career-best man-coverage year; a league-wide "critical/substantial/justifiable pursuit" wide receiver team-need framework touching two-plus dozen players, new page for [[D.J. Moore]], and continued dynasty landing-spot caution on [[Marvin Harrison Jr.]], [[Malik Nabers]] and [[Rome Odunze]]
 - [[Reception Perception The Show - 2024-01-16]] — Wild Card Weekend recap (with James Koh); extended [[Jordan Love]] praise, [[Tua Tagovailoa]] vs. [[Jared Goff]] ceiling comparison, [[Puka Nacua]]/[[Cooper Kupp]] baton-passing read, introduces the [[Reception Perception Methodology]] concept
 - [[Reception Perception The Show - 2024-01-18]] — early 2024 draft-prospect charting on [[Marvin Harrison Jr.]], [[Malik Nabers]] and [[Rome Odunze]] (with James Koh), plus a Divisional Round preview across all four games; introduces the "stacked board" tier-one grade, applied to [[Ja'Marr Chase]] and [[Drake London]]
 - [[Reception Perception The Show - 2024-01-23]] — Divisional Round recap across all four games (with James Koh); a full breakdown of Green Bay's WR hierarchy ([[Jayden Reed]], [[Dontayvion Wicks]], [[Christian Watson]], [[Romeo Doubs]]), free-agency mechanics for [[Stefon Diggs]]/[[Gabe Davis]]/[[Mike Evans]]/[[Baker Mayfield]], and a public disagreement with [[Matt Waldman]] over [[Brock Purdy]]'s Divisional Round performance

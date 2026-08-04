@@ -17,6 +17,8 @@ tags: [player]
 - 2024-01-04 — **Adam Harstad** (co-host — not a tracked expert), same episode, the competing read: applies a "do the harder thing" heuristic (see [[Role Difficulty and Replaceability]]) to argue Dell's and [[Jordan Addison]]'s production is inflated by a teammate drawing the tougher coverage — in Dell's case, [[Nico Collins]]. His comps: Chris Godwin benefiting from Mike Evans, Torry Holt-era Isaac Bruce, and Anquan Boldin-era Larry Fitzgerald. His conclusion is that Collins is harder to replace than Dell, not that Dell isn't good.
 - 2024-01-11 — According to [[Matt Waldman]] and **Adam Harstad** (co-host — not a tracked expert) ([[Matt Waldman's RSP Cast - 2024-01-11 (Post-Rookie Model)]]) [Dynasty]: lands in the [[Post-Rookie-Year Receiver Model]]'s "fantastic rookie season" bucket alongside Mike Evans, Chris Olave, Terry McLaurin, A.J. Green, Keenan Allen and Julio Jones — a historical range with essentially zero outright busts. Harstad calls the result "pretty much bulletproof." Waldman still ranks Dell below several others in that bucket on the same concerns raised previously — size/durability and [[Nico Collins]] doing more of the harder work in Houston's offense (see [[Role Difficulty and Replaceability]]) — but doesn't dispute the historical read.
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: grouped with [[Nico Collins]] as a quality-but-not-elite Houston receiver — reads reported (denied) Texans interest in adding a top free-agent WR as a sign the front office wants a true difference-making WR1 beyond what Dell and Collins provide, though both should remain startable.
+
 ## Related Concepts
 - [[Role Difficulty and Replaceability]]
 - [[Post-Rookie-Year Receiver Model]]
