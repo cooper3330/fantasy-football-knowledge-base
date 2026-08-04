@@ -195,17 +195,30 @@ Ingestion is the most expensive thing this wiki does. Two settings control it:
 - **Always spawn ingest agents with `model: "sonnet"`.** Extraction against a
   schema this explicit does not need a frontier model. This is the single
   biggest cost lever in the pipeline — do not default to the parent model.
-- **Batch 3 transcripts per agent** (`ingest_manifest.py --count 3`). The
-  fixed overhead — reading the schema, loading the page inventory, learning the
-  conventions — is paid once per *agent*, not once per transcript, so batching
-  amortizes it. Keep batches small enough that the last transcript in a batch
-  still gets a clean context; 3 is the working default, 5 is the ceiling.
+- **One transcript per agent** (`ingest_manifest.py --count 1`, the default).
 
-Batched agents must still finalize each transcript completely (all 8 steps,
-including the move and the state update) before starting the next one in the
-batch. Never let an agent read all three transcripts up front.
+⚠️ **This reverses the previous "batch 3 per agent" rule, which was wrong.**
+That rule optimized the fixed overhead — schema, page inventory, conventions —
+which is real but tiny (~3k tokens). What it missed is that an agent's cost is
+dominated by *context re-sent on every turn*: cost ≈ turns × average context.
+Batching makes both terms worse, because episode 1's transcript and every page
+it touched stay in context for the whole of episodes 2 and 3.
 
-Measured baseline before these settings: **~131k tokens per episode**.
+Measured from agent transcripts (`cache_read + cache_creation + output`):
+
+| Run | Tokens per episode |
+|---|---:|
+| Batched 3/agent, old write path | 25.9M |
+| Single episode, old write path | 14.1M |
+| Single episode, script write path | **9.1M** |
+
+Batching cost **1.8× per episode**. Saving 3k of fixed overhead by spending
+~12M on carried context is a bad trade by four orders of magnitude.
+
+Note that the per-agent totals reported in tool output (~130–190k) are not the
+real figure — they exclude cached input, which is where 90%+ of the cost lives.
+Measure from the transcripts under
+`~/.claude/projects/<project>/<session>/subagents/agent-*.jsonl`.
 
 For each transcript:
 
@@ -221,8 +234,9 @@ For each transcript:
    dated bullet citing the source. **A single episode may touch 10–15 pages.**
 5. Update `wiki/experts/<Expert>.md` with the new source, and any shift in their
    overall stance or known biases.
-6. Update `wiki/sources/SOURCE_CATALOG.md` with a row for the episode.
-7. Update `index.md` (see "Index maintenance"), for **both**:
+6. Update `index.md`, `SOURCE_CATALOG.md` and `log.md` — **never by opening
+   them.** See "Shared files: write through the script" below. Index lines are
+   required for **both**:
    - every page newly created in this ingest, and
    - every existing page whose **headline view materially changed** — an injury,
      a role or depth-chart shift, a big ranking move, a notable reversal. The
@@ -231,11 +245,10 @@ For each transcript:
      gets read during a live draft.
 
    Don't rewrite an index line for a minor corroborating take that doesn't move
-   the headline.
-8. Append to `log.md`: `## [YYYY-MM-DD] ingest | <Show> — <Episode Title>`.
-   Include a one-line note of what materially changed (e.g. "Pearsall knee
-   concern — cratered to ~WR70"), so `log.md` is scannable for *what shifted*,
-   not just *what was processed*.
+   the headline. The log entry is
+   `## [YYYY-MM-DD] ingest | <Show> — <Episode Title>` plus a note of what
+   materially changed (e.g. "Pearsall knee concern — cratered to ~WR70"), so
+   `log.md` is scannable for *what shifted*, not just *what was processed*.
 9. **Finalize, strictly in this order** — the order matters so an interruption
    is always recoverable:
    a. Set the episode's `status` to `ingested` — **use the locked helper, never
@@ -263,6 +276,44 @@ For each transcript:
 
    **Never delete a transcript.** Moving between the two raw trees is the only
    permitted relocation.
+
+### Shared files: write through the script
+
+`index.md`, `log.md` and `wiki/sources/SOURCE_CATALOG.md` are **append targets,
+not reading material**. An ingest agent must never Read, Grep, Edit or Write
+them directly.
+
+The reason is cost. The Edit tool requires reading a file before editing it, so
+appending one line to `log.md` charges you for all of `log.md`. Measured at 25
+episodes ingested, those three files were **~29,800 tokens per episode — about
+half of an episode's entire unique token spend** — purely to append a handful of
+lines. They also grow ~570 tokens *each* per episode: extrapolated across the
+backlog they pass 170k tokens apiece, at which point an agent cannot open them
+at all and ingestion stops working.
+
+`scripts/wiki_update.py` takes only the delta, so the cost is ~zero and stays
+flat however large the files get:
+
+```bash
+# insert-or-replace an index line, keyed on page name (safe to call twice).
+# Routed to the right section automatically from the page's own frontmatter.
+python3 scripts/wiki_update.py --index-set "Jahmyr Gibbs" "RB, DET — Waldman's 2024 RB1 over Bijan on price"
+
+python3 scripts/wiki_update.py --catalog-row 2024-02-26 "Matt Waldman" "<episode>" "<summary page>"
+
+python3 scripts/wiki_update.py --log-append <<'ENTRY'
+## [2024-02-26] ingest | Show — Title
+What materially changed.
+ENTRY
+```
+
+Index summaries are capped at **25 words** and the script rejects longer ones.
+The index is scanned mid-draft and re-read by every query, so a line has to be
+scannable: lead with position/team and the current headline view, and leave the
+detail on the page itself.
+
+Because `--index-set` is keyed on the page name, an index line cannot fork into
+two competing entries — which is what used to make stale index lines possible.
 
 ## Operation: query
 
@@ -300,6 +351,9 @@ A periodic health pass. Check for:
 - **Stale index lines** — an `index.md` summary that no longer matches its page's
   most recent take. Spot-check by comparing each index line against the last
   bullet on the page it points to.
+- **Over-long index lines** — run `python3 scripts/wiki_update.py --check-index`.
+  Entries over 25 words make the index unscannable during a draft and inflate
+  every query that reads it.
 - **Frontmatter drift** — run `python3 scripts/lint_frontmatter.py`. It checks
   every page against its type's schema (see "Page frontmatter"): block present
   and closed, required keys present and non-empty, `type:` matching the folder,

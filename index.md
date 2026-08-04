@@ -84,6 +84,8 @@ for the chronological record of ingests, queries, and lints.
 - [[Daniel Jones]] — QB, NYG — flat "not the answer" per Waldman; expects a two-step Giants succession (a developmental pick first, a real QB1 pick once they're ready to move on) rather than an immediate bench *(2024 takes, stale)*
 - [[Ryan Tannehill]] — QB, TEN — speculative Pittsburgh reunion with former OC Arthur Smith; projected as a Joe-Flacco-style veteran room presence, not a starter bet *(2024 takes, stale)*
 - [[Aaron Rodgers]] — QB, NYJ — both hosts feel it on a return to form post-Achilles; intangible/effort-based case ("too obsessed with the game") rather than tape-based *(2024 takes, stale)*
+- [[Matthew Stafford]] — QB, LAR — Waldman comps his ball placement to 'Mahomes 1.0'; less mobile, more mistake-prone
+- [[Joe Burrow]] — QB, CIN — Waldman 'Goldilocks' on QB7 best ball ADP; top-3 QB talent when healthy
 
 ### Running Backs
 - [[Christian McCaffrey]] — RB, SF — unqualified 2024 1.01 for Waldman again, edging [[CeeDee Lamb]] and [[Tyreek Hill]]; age 28 explicitly dismissed; the "leverage over the field" case; Harmon: even a strong Detroit run defense "isn't stopping that train" in the NFC Championship *(2024 takes, stale)*
@@ -143,10 +145,14 @@ for the chronological record of ingests, queries, and lints.
 - [[Trey Benson]] — RB, Florida State prospect — physical, "nasty" finisher paired with genuine [[Isiah Pacheco]]-caliber acceleration but without Pacheco's unconventional movement signature *(2024 pre-draft takes, stale)*
 - [[Bucky Irving]] — RB, Oregon prospect — a [[Devin Singletary]]-style boom/bust comp; real disagreement between hosts on how close he already is to the "on schedule" discipline that would unlock a "Singletary-plus" outcome *(2024 pre-draft takes, stale)*
 - [[Marshawn Lloyd]] — RB, USC prospect — the episode's clearest bust-risk name; ball security, outside-bounce tendencies, and third-down role questions behind a perception both hosts think is inflated by a handful of highlight plays; Waldman's 50th-percentile outcome is "out of the league in a couple years" *(2024 pre-draft takes, stale)*
+- [[Khalil Herbert]] — RB, CHI — Waldman prefers him over Roschon Johnson as the value side of a Bears RB timeshare
+- [[Roschon Johnson]] — RB, CHI — Waldman: RB35 ADP near his peak-production ceiling; Herbert preferred as the better value
+- [[Javonte Williams]] — RB, DEN — Waldman: 2023 dud likely lingering knee-injury effect, not decline; value play
+- [[Samaje Perine]] — RB, DEN — Waldman: elite YAC receiving back, will complicate a Javonte Williams breakout
 
 ### Wide Receivers
-- [[Justin Jefferson]] — WR, MIN — "one of the best three route runners in the NFL"; backup QB costs him a tier, not a start *(2023 takes, stale)*
-- [[Ja'Marr Chase]] — WR, CIN — QB-proof ("still going to be Ja'Marr Chase"); AC joint injury was the only live question; #1 overall on Harmon's cross-class Reception Perception "stacked board" *(2024 takes, stale)*
+- [[Justin Jefferson]] — WR, MIN — Waldman: 1-2 with Ja'Marr Chase, negligible gap; would take Chase today only for Cincinnati's QB certainty edge
+- [[Ja'Marr Chase]] — WR, CIN — Waldman: locked in almost any scenario if Burrow stays; slight dynasty edge over Justin Jefferson on QB certainty
 - [[Keenan Allen]] — WR, LAC — top-5 WR without speed: beats man *and* zone, plays inside and outside *(2023 takes, stale)*
 - [[Amon-Ra St. Brown]] — WR, DET — same profile as Allen, with play-caller continuity as the tiebreaker; Harmon's #2 overall receiver remaining in the playoffs but #1 by team value ("in a runaway") — now beating press-man as well as zone; entering his contract year, "up for a big payday pretty soon" *(2024 takes, stale)*
 - [[Jameson Williams]] — WR, DET — real but hedged optimism after a big NFC Championship game; Waldman's explicit overdraft warning — "the Gabe Davis factor" — don't price him off one game; Harmon's harder technical critique — "shaky hands," not a "go up and get it" guy, a "splash play dude" whose highlights lean on Ben-Johnson-designed structure (Johnson is now confirmed staying in Detroit) *(2024 takes, stale)*
@@ -200,7 +206,7 @@ for the chronological record of ingests, queries, and lints.
 - [[George Pickens]] — WR, PIT — the headline beneficiary of Pittsburgh hiring Arthur Smith as OC; charted evidence (Drake London's dig/slant usage under Smith vs. Pickens's own under Matt Canada) projects real middle-of-field volume for the first time in his career *(2024 takes, stale)*
 - [[Diontae Johnson]] — WR, PIT — cited as further charted evidence of Matt Canada's middle-of-field neglect (9.4% dig routes in 2022); grouped with Pickens as a likely beneficiary of the Arthur Smith scheme change *(2024 takes, stale)*
 - [[Tyler Lockett]] — WR, SEA — still part of "one of the best three-person WR trios in the NFL," but his roster spot is a real 2024 question under new HC Mike McDonald given his cap hit; floated as a fit to reunite with OC Shane Waldron in Chicago *(2024 takes, stale)*
-- [[Terry McLaurin]] — WR, WAS — a top-15 NFL receiver forced into a pure X role because Washington has no alternative X-caliber receiver on the roster, not because it's his most efficient usage *(2024 takes, stale)*
+- [[Terry McLaurin]] — WR, WAS — Waldman: solid WR2 (not a true WR1), flags genuinely poor hand-catch technique despite the production
 - [[Wan'Dale Robinson]] — WR, NYG — real after-the-catch and contested-catch value; outlook entirely a Giants-QB question *(2024 takes, stale)*
 - [[Ronnie Bell]] — WR, SF — a name to know mostly for injury-contingency reasons behind Aiyuk/Deebo, not his own emergence *(2024 takes, stale)*
 - [[Dontayvion Wicks]] — WR, GB — "turned some heads"; catch-point toughness threatens to bump Doubs or an injury-prone Watson out of the fantasy-relevant mix; Harstad's post-rookie model calls him the single biggest buy in the whole 2023 WR class, and Waldman upgrades him from hold to active trade target; Harmon's #2 pick (behind Reed) for Green Bay's eventual number one *(2024 takes, stale)*
@@ -220,6 +226,9 @@ for the chronological record of ingests, queries, and lints.
 - [[J. Michael Sturdivant]] — WR, UCLA prospect (Cal transfer) — 6'3"/205, high-end traits that "didn't really emerge at the highest level" of production per Waldman; declared, ungraded *(2024 pre-draft takes, stale)*
 - [[Marquise Brown]] — WR, ARI — floated as a hypothetical Kansas City free-agent fit; Harmon rejects it on archetype grounds — "another zone-beating type," not a man-coverage or contested-catch threat *(2024 takes, stale)*
 - [[Skyy Moore]] — WR, KC — Harmon calls his outside-receiver usage a "mis-evaluation" of the player; doesn't expect him in Kansas City's plans and would rather see him traded to restart elsewhere *(2024 takes, stale)*
+- [[A.J. Brown]] — WR, PHI — Waldman: worth a 1st-rounder in best ball; unbothered by WIP-call drama, worries about Eagles' org instead
+- [[DeMarcus Robinson]] — WR, LAR — Waldman: WR99 ADP 'free square'; late-2023 DFS run buildable but temper expectations
+- [[Jahan Dotson]] — WR, WAS — Waldman: skilled WR3/matchup WR2, but unsure new Kingsbury-called offense unlocks him
 
 ### Tight Ends
 - [[T.J. Hockenson]] — TE, MIN — great in zone, positions well in man; TE1 ceiling minus a tier with a backup QB *(2023 takes, stale)*
@@ -258,6 +267,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Post-Rookie-Year Receiver Model]] — Adam Harstad's touchdown-adjusted yards-per-route-run + usage-rate composite for grading rookie WR seasons; historical score buckets from "abandon all hope" to the Beckham/Chase/Jefferson/Brown "big four"; Waldman treats it as one input, not a verdict
 - [[Reception Perception Methodology]] — Matt Harmon's WR charting project: success rate vs. press/man/zone coverage, route-type and alignment splits, 3-game early reads expanding to ~8-game final profiles; cross-class "stacked board" with a top-10-worthy "tier one" grade
 - [[Quarterback Processing and Confidence]] — Waldman's framework for why teams miss on QB evaluations: processing speed under pressure is a confidence/intuition skill, not an academic one; Alex Smith as the cautionary "over-processed" example
+- [[NFL Combine and Pro Day Skepticism]] — Concept — Waldman: combine/pro-day workouts mainly useful for unknown small-school prospects, not blue-chip names; film beats lab metrics
 
 <!-- Claude: one line per concept page with a short definition. -->
 

@@ -19,6 +19,8 @@ tags: [player, prospect]
 - 2023-12-21 — **Both hosts**, same episode, the non-evaluative wrinkle: there was live speculation Harrison might return to Ohio State for a senior season on NIL money. Raised as a scenario that would "dramatically shift what some of these front offices are seeing," not as a prediction. See [[NIL and Player Development]].
 - 2024-01-18 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-01-18]]): first Reception Perception charting look, an explicitly early and non-final 3-game sample ("cannot hold me responsible... this is not the final product"). Estimated 6'4"/205 lb. Praises his release and how he gets in and out of breaks against man coverage for his size, and says his press-coverage success rate through three games is on pace to be the best of the last four draft classes if it holds. Two flagged technique items, both graded "good, not elite": can be a step slow getting out of breaks specifically against zone coverage, and occasionally lets his size create overconfidence at the catch point in contested situations rather than winning cleanly on technique. Explicitly not built like his more slender father, Marvin Harrison Sr. — "a damn pterodactyl out there." Independently corroborates Waldman/Angelo's read that he isn't yet a proven true X against elite man coverage, while agreeing the ceiling case is obvious. See [[Reception Perception Methodology]].
 
+- 2024-02-26 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-26]]), on combine-workout skepticism generally: cites Harrison — who will skip all combine workouts and is also going without an agent — as the correct call for a prospect who's "done all that he needs to do" on film. Argues that gaming a workout (e.g., cutting weight to look faster in a drill that isn't representative of his actual game) would only cost him development time on things that matter more. See [[NFL Combine and Pro Day Skepticism]].
+
 ## Related Concepts
 - [[Prospect Pro-Readiness vs Ceiling]]
 - [[Scouting Bias and Player Archetypes]]
@@ -26,3 +28,4 @@ tags: [player, prospect]
 - [[Dynasty]]
 - [[Reception Perception Methodology]]
 - [[Rome Odunze]]
+- [[NFL Combine and Pro Day Skepticism]]

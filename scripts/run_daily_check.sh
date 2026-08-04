@@ -42,11 +42,11 @@ if [ "${QUEUE:-0}" -gt 0 ]; then
   # diagnostics go to stderr, so this captures only the prompt.
   #
   # --model sonnet is the single biggest cost lever in the pipeline (CLAUDE.md,
-  # "Model and batch size"); --count 3 keeps an unattended run bounded and gives
-  # the last transcript in the batch a clean context.
-  PROMPT="$(/usr/bin/python3 scripts/ingest_manifest.py --count 3 2>/dev/null)"
+  # "Model and batch size"); --count 1 because a batched agent carries each
+  # finished episode's context through the next one -- measured 1.8x per episode.
+  PROMPT="$(/usr/bin/python3 scripts/ingest_manifest.py --count 1 2>/dev/null)"
   {
-    echo "=== $TS: claude -p ingestion ($QUEUE awaiting, taking 3) ==="
+    echo "=== $TS: claude -p ingestion ($QUEUE awaiting, taking 1) ==="
     /Users/kylecooper/.local/bin/claude -p "$PROMPT" \
       --model sonnet \
       --output-format text

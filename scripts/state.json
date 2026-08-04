@@ -3841,8 +3841,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-26",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-02-26-rsp-feel-it-or-fk-it-fantasy-drafts-in-february-the-nfl-combine-and-qb-met.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-02-26-rsp-feel-it-or-fk-it-fantasy-drafts-in-february-the-nfl-combine-and-qb-met.md",
+      "status": "ingested",
       "title": "Feel It Or F@#k It:  Fantasy Drafts in February, the NFL Combine, and QB Metrics with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
     },

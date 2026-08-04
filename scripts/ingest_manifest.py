@@ -10,9 +10,14 @@ once per episode and *grows as the wiki grows*, which is exactly backwards.
 This script computes all of it with zero LLM tokens and inlines it into the
 prompt, so the agent's very first action can be reading its transcript.
 
+Do NOT raise --count above 1. Batching looks cheaper -- it amortizes the fixed
+overhead this script exists to precompute -- but that overhead is ~3k tokens
+while a batched agent carries every finished episode's transcript and pages in
+context through the remaining ones. Measured from agent transcripts, 3-per-agent
+cost 1.8x per episode versus one. See CLAUDE.md "Model and batch size".
+
 Usage:
   ingest_manifest.py                 # prompt for the next transcript
-  ingest_manifest.py --count 3       # one prompt covering the next 3 (cheaper)
   ingest_manifest.py --list          # just show the queue, no prompt
 """
 
@@ -23,6 +28,34 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 STATE = REPO / "scripts" / "state.json"
+
+CORE_SCHEMA = """These are the rules that govern every page you write. They are
+extracted from CLAUDE.md; you do NOT need to open it.
+
+ 1. ATOMIC. One page per entity. No catch-all pages.
+ 2. SOURCED. Every claim cites its source page, with expert + date. Nothing unsourced.
+ 3. OPINION, NOT FACT. Write "According to [[Expert]] ([[Source]], YYYY-MM-DD)
+    [Format]: ..." Never assert a take as settled truth in the wiki's own voice.
+ 4. CHRONOLOGICAL. Bullets in "Expert Takes" run oldest -> newest, so the last
+    bullet is the current view. Insert at the correct date position; never let an
+    older take be written so as to supersede a newer one.
+ 5. APPEND, DON'T OVERWRITE. A contradicting take goes alongside the old one.
+    How opinion shifted is itself the value.
+ 6. IDEMPOTENT. Search for an existing page under synonyms/nicknames before
+    creating one ("CMC" vs "Christian McCaffrey"). Update in place.
+ 7. NORMALIZE NAMES. ASR garbles proper nouns. Resolve to the correct real-world
+    spelling. NEVER create a page under a garbled spelling.
+ 8. DENSE LINKING. [[wikilinks]] for every player, expert, concept and format.
+ 9. DISAGREEMENT IS SIGNAL. Record both takes. Don't pick a winner or average them.
+10. FILE NAMING. Filename = the exact display name used in wikilinks.
+
+FORMAT PRIORITY: [[Best Ball]] > [[Dynasty]] > [[Redraft (Standard)]]. Tag
+format-specific takes `[Best Ball]` / `[Dynasty]` and cross-post to the relevant
+wiki/formats/ page. Don't force a tag onto a general take.
+
+NEVER: modify anything under raw/ (contents are immutable); fabricate takes,
+quotes or stats; merge experts into an unattributed "consensus"; generate your
+own rankings or predictions. You curate what experts said."""
 
 FRONTMATTER = """EVERY page you create or touch must open with a YAML frontmatter block.
 `tags` always contains the page's own type; no required key may be left blank.
@@ -69,10 +102,15 @@ def build_prompt(eps, inv):
     n = len(eps)
     plural = "these transcripts IN ORDER" if n > 1 else "this transcript"
     files = "\n".join(f"  {i}. {e['staged_path']}" for i, e in enumerate(eps, 1))
+    # Only meaningful for a multi-episode prompt, which is no longer the default
+    # (see the module docstring). Emitting it for n == 1 just burns context.
+    ordering = "" if n == 1 else (
+        "PROCESS ONE TRANSCRIPT COMPLETELY BEFORE STARTING THE NEXT. Do not read all\n"
+        "transcripts up front -- finish all 6 steps below for transcript 1 (including the\n"
+        "file move and state.json update), then move on to transcript 2. This keeps each\n"
+        "transcript's context clean and means an interruption loses at most one episode.\n\n")
 
     return f"""You are ingesting {plural} into the Obsidian LLM-wiki at {REPO}.
-
-STEP 0 -- Read {REPO}/CLAUDE.md in full. It is the authoritative schema. Follow it exactly.
 
 TRANSCRIPT{"S" if n > 1 else ""} (process strictly in this order, oldest first):
 {files}
@@ -80,6 +118,9 @@ TRANSCRIPT{"S" if n > 1 else ""} (process strictly in this order, oldest first):
 Each transcript's RSS guid (needed for the state.json update) is in its own front matter.
 
 --- PRE-COMPUTED CONTEXT (do NOT spend tool calls rediscovering this) ---
+
+THE SCHEMA:
+{CORE_SCHEMA}
 
 REQUIRED PAGE FRONTMATTER:
 {FRONTMATTER}
@@ -109,25 +150,44 @@ KEY REMINDERS:
   silently lost.
 - Prefer merging into existing concept pages over proliferating near-duplicates.
 
-PROCESS ONE TRANSCRIPT COMPLETELY BEFORE STARTING THE NEXT. Do not read all
-transcripts up front -- finish all 8 steps below for transcript 1 (including the
-file move and state.json update), then move on to transcript 2. This keeps each
-transcript's context clean and means an interruption loses at most one episode.
+{ordering}!! NEVER OPEN index.md, log.md OR SOURCE_CATALOG.md !!
+Those three files are large and grow with every episode; reading one to append a
+line is the single most expensive mistake you can make here. Do NOT Read, Grep,
+Edit or Write them. Use scripts/wiki_update.py, which needs only your delta:
 
-MUST DO for EACH transcript (per CLAUDE.md ingest steps):
+  # one call per page that is NEW or whose HEADLINE VIEW materially changed
+  # (injury, role/depth-chart shift, big ranking move, notable reversal).
+  # Insert-or-replace, keyed on page name -- safe to call twice. Max 25 words:
+  # lead with position/team and the current view, detail stays on the page.
+  python3 scripts/wiki_update.py --index-set "Jahmyr Gibbs" "RB, DET — Waldman's 2024 RB1 over Bijan on price, not talent"
+
+  python3 scripts/wiki_update.py --catalog-row 2024-02-26 "Matt Waldman" "Feel It Or F@#k It: Feb Drafts" "Matt Waldman's RSP Cast - 2024-02-26"
+
+  python3 scripts/wiki_update.py --log-append <<'ENTRY'
+## [YYYY-MM-DD] ingest | <Show> — <Episode Title>
+<what materially CHANGED -- not just what was processed>
+ENTRY
+
+Do not skip --index-set for a minor corroborating take that doesn't move the
+headline. A stale index line is worse than none: it is what gets read mid-draft.
+
+BE SPARING WITH TOOL CALLS. Every call re-sends your whole context, so call
+count is a direct multiplier on cost. Don't re-read a file you just wrote, don't
+verify an edit that already succeeded, and don't read a page you are creating
+from scratch.
+
+MUST DO for EACH transcript:
  1. Source summary page in wiki/sources/ (SUMMARY only -- never copy transcript text).
  2. Create/update player, concept, format pages with dated attributed bullets in
     correct chronological position.
  3. Update the relevant wiki/experts/ page(s).
- 4. Row in wiki/sources/SOURCE_CATALOG.md.
- 5. Update index.md -- for BOTH new pages AND existing pages whose headline view changed.
- 6. Append to log.md with a note of what materially changed.
- 7. Finalize IN THIS ORDER -- and use the LOCKED helper for state.json, never
+ 4. Catalog row + index lines + log entry, all via wiki_update.py as above.
+ 5. Finalize IN THIS ORDER -- and use the LOCKED helper for state.json, never
     hand-edit it (a transcript drain may be writing the same file concurrently):
       a. python3 scripts/state_io.py --guid "<guid>" --status ingested
       b. mv the transcript to raw/ingested/<show>/     (plain mv, NOT git mv)
       c. python3 scripts/state_io.py --guid "<guid>" --staged-path raw/ingested/<show>/<file>.md
- 8. Run BOTH checks and confirm both are OK before reporting done:
+ 6. Run BOTH checks and confirm both are OK before reporting done:
       python3 scripts/verify_integrity.py
       python3 scripts/lint_frontmatter.py
 
@@ -143,8 +203,11 @@ names normalized, and the verify_integrity output."""
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--count", type=int, default=3,
-                    help="episodes per agent (default 3); amortizes fixed overhead")
+    ap.add_argument("--count", type=int, default=1,
+                    help="episodes per agent (default 1). Do NOT raise this: an "
+                         "agent's cost is turns x context, and a batched agent "
+                         "carries episode 1 through episodes 2-3. Measured at "
+                         "1.8x per episode. See CLAUDE.md 'Model and batch size'.")
     ap.add_argument("--list", action="store_true", help="show the queue only")
     args = ap.parse_args()
 

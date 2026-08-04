@@ -54,6 +54,7 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-02-13 | [[Matt Harmon]] | Chiefs Take Down 49ers for Super Bowl LVIII (w/ James Koh) | [[Reception Perception The Show - 2024-02-13]] |
 | 2024-02-19 | [[Matt Waldman]] | Feel It Or F@#k It: Never Too Early to Draft Edition (w/ Bob Harris) | [[Matt Waldman's RSP Cast - 2024-02-19]] |
 | 2024-02-22 | [[Matt Waldman]] | Going Deep with Brandon Angelo and Matt Waldman: The 2024 RB Class Edition (w/ Brandon Angelo) | [[Matt Waldman's RSP Cast - 2024-02-22]] |
+| 2024-02-26 | [[Matt Waldman]] | Feel It Or F@#k It: Fantasy Drafts in February, the NFL Combine, and QB Metrics | [[Matt Waldman's RSP Cast - 2024-02-26]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

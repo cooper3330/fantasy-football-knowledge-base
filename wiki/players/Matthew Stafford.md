@@ -1,0 +1,20 @@
+---
+type: player
+team: Los Angeles Rams
+position: QB
+tags: [player]
+---
+
+# Matthew Stafford
+
+> ⚠️ Takes below are from February 2024. Team/role are as of that date and
+> are almost certainly stale — treat as historical context until superseded
+> by newer takes.
+
+## Expert Takes
+
+- 2024-02-26 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-26]]), discussing [[DeMarcus Robinson]]'s off-script production: comps Stafford to a "Mahomes 1.0" for arm talent — able to fit throws into "portholes," the kind of tight-window accuracy that lets complementary receivers profit off-script — while noting Stafford is less mobile than [[Patrick Mahomes]] and "a little more mistake-prone."
+
+## Related Concepts
+- [[DeMarcus Robinson]]
+- [[Patrick Mahomes]]

@@ -821,3 +821,6 @@ security is treated as unpredictable rather than a fixed trait.
 
 `python3 scripts/verify_integrity.py` and `python3 scripts/lint_frontmatter.py`
 both clean after this ingest.
+
+## [2024-02-26] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: Fantasy Drafts in February, the NFL Combine, and QB Metrics
+Waldman/Bob Harris (not tracked). Nine new player pages (A.J. Brown, Khalil Herbert, Roschon Johnson, Javonte Williams, Samaje Perine, DeMarcus Robinson, Jahan Dotson, Matthew Stafford, Joe Burrow). New durable concept page NFL Combine and Pro Day Skepticism (combine value concentrated in small-school/unknown prospects, not blue-chips; historical Alex Smith pro-day-gaming anecdote; RAS as secondary reference only). Dynasty edge: Waldman takes Ja'Marr Chase "ever so slightly" over Justin Jefferson today on Burrow's QB certainty. Grouped health-not-decline read on Tony Pollard/Austin Ekeler/Travis Kelce's poor 2023 shows. Terry McLaurin sharpened to "solid WR2, not a true WR1" with a detailed poor-hand-technique critique. Normalized ASR garbles: "Roshon Johnson" -> Roschon Johnson, "Samajay Piran" -> Samaje Perine, "Jahan Dawson" -> Jahan Dotson, "Chad Ryder" -> Chad Reuter (not tracked).
