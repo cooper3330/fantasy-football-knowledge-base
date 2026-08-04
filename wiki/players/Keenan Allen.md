@@ -18,7 +18,6 @@ tags: [player]
 
 - 2024-03-05 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-05]]): the Chargers' cap situation (the NFL's highest wide receiver spend, $76M, entering 2024) is flagged as a real risk to Allen's roster spot, alongside Mike Williams (not a tracked page) — notes Allen "is not a young man" either. If he leaves, the Chargers would be left with a room of just Josh Palmer (not a tracked page) and [[Quentin Johnston]], pushing the team from "substantial" into "critical" wide receiver need.
 
-- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: reacting to his trade to Chicago. Notes 2023 was arguably Allen's best season (108 catches, 1,243 yards, a Chargers franchise record, WR2-or-better over games 2–13) and that he "seems to be at his peak right now for an aging player." Optimistic he sustains it with [[Caleb Williams]] and opposite [[D.J. Moore]] — expects good early rapport — while flagging the standard aging-veteran caveat: the cliff "comes fast and comes suddenly" and could be triggered by a new system/QB forcing him to think twice physically. See [[Aging Curves and Career Longevity]].
 
 ## Related Concepts
 - [[Zone vs Man Route Running]]

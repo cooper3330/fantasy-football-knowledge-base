@@ -24,7 +24,6 @@ tags: [player]
 
 - 2024-03-11 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-11]]) [Redraft (Standard)]: predicts he lands with the Philadelphia Eagles in free agency — "totally feeling that" — reasoning the Eagles would get in one player what they'd hoped to get separately from Kenneth Gainwell and DeAndre Swift (both not tracked pages).
 
-- 2024-03-19 — According to [[Matt Waldman]] and **Bob Harris** (co-host — not tracked) on [[Matt Waldman's RSP Cast - 2024-03-19]]: reacting to his signing with Tennessee — a short-term "fuck it" specifically because of what it does to [[Tyjae Spears]]'s workload, not Pollard's own outlook. Reads the contract structure (cheap, likely out after year two) as Tennessee hedging — betting Pollard can handle lead work while keeping Spears as a fallback rather than fully anointing either. Expects Pollard's price to run "a little too costly" relative to Spears, whose value should keep dropping into draft-day bargain range.
 
 ## Related Concepts
 - [[Healthy Enough to Play vs. Healthy Enough to Perform]]

@@ -25,7 +25,6 @@ tags: [player, prospect]
 
 - 2024-03-12 — According to [[Matt Harmon]] on [[Reception Perception The Show - 2024-03-12]]: says he "really buys the smoke" that Minnesota has its sights set on McCarthy as [[Kirk Cousins]]'s eventual replacement now that Cousins has signed with Atlanta, seeing why Shanahan-tree offensive minds would like a QB profile like his (pointing to colleague Derek Klassen's — not tracked — scouting work on him), but expects it would require Minnesota to trade up the board to get him.
 
-- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]], discussing Minnesota's post-[[Kirk Cousins]] quarterback options: "he's okay" but doesn't think McCarthy would leverage [[Justin Jefferson]] vertically as well as [[Michael Penix Jr.]] or [[Jayden Daniels]] would.
 
 ## Related Concepts
 - [[Dynasty]]

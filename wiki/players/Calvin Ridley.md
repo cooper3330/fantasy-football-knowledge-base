@@ -61,7 +61,6 @@ tags: [player]
   Ridley makes it unlikely they take a receiver at pick 7, "freeing up"
   [[Rome Odunze]] or [[Malik Nabers]] for another landing spot.
 
-- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: calls the finalized Titans deal "a joke" relative to the player — Ridley is "a quality NFL receiver, a good starter," but not a true No. 1 and at the tail end of his prime; doubts he plays into his mid-30s at a high level. See [[Aging Curves and Career Longevity]]. Grades him "kind of a high-end [[Diontae Johnson]]" — a receiver who needs to be couched among real leaders of a receiving corps rather than be its centerpiece — and separately says [[Treylon Burks]] "is not [yet]" that kind of leader, while [[DeAndre Hopkins]] "for sure" is. Floats that Tennessee overpaying Ridley may be a partial course-correction for having let [[A.J. Brown]] go for similar money at a younger age.
 
 ## Related Concepts
 - [[Reception Perception Methodology]]

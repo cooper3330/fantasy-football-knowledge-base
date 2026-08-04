@@ -20,7 +20,6 @@ tags: [player]
 
 - 2024-03-12 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) on [[Reception Perception The Show - 2024-03-12]]: reacting to the finalized [[Kirk Cousins]] signing — expects an uptick in both volume and target quality. Says London's talent profile has no real limitations ("there's nothing where I see... there's a limitation on this guy") and groups him with [[Terry McLaurin]], [[D.J. Moore]] and Allen Robinson (not tracked) as talented X-receivers stuck on bad-quarterback carousels — arguing London is in that same star caliber and projects as a true No. 1 once paired with functional QB play. Calls Cousins especially well-suited to unlock him: Cousins trusts receivers on contested, tight-window throws and loves working the middle of the field on the exact route types (digs, crossers, slants, big posts) where London wins most. Cites Atlanta's WR-starved 2023 offense (209 pass attempts to wide receivers, fewest in the NFL) as the depressed baseline Cousins should lift, and separately flags the receiver depth behind London (Austin Mack, Chris Blair, Josh Ali — none tracked, no meaningful stats) as a real need Atlanta should still address. See [[Weak Quarterback Play and Receiver Value]].
 
-- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: "all in" on London now that [[Kirk Cousins]] has officially signed with Atlanta, grouped with [[Kyle Pitts]] and [[Bijan Robinson]] as the offense's core beneficiaries of the signing.
 
 ## Related Concepts
 - [[Redraft (Standard)]]

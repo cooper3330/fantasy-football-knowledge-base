@@ -21,7 +21,6 @@ tags: [player]
 - 2024-03-01 — **Adam Harstad** (co-host on *RSP Film and Theory* — not a tracked expert) on [[Matt Waldman's RSP Cast - 2024-03-01]] [Dynasty]: ranks Ekeler second of the "Big Four" 2024 free-agent backs (behind [[Josh Jacobs]]), reasoning that receiving work is so disproportionately valuable in fantasy that "he doesn't need to be" 2022 Ekeler to still be valuable, both for an NFL offense and for fantasy purposes.
 - 2024-03-01 — According to [[Matt Waldman]], same episode [Dynasty]: groups Ekeler with [[Tony Pollard]] as "Column A" — the receiving-back tier of the free-agent class, as distinct from the bell-cow "Column B" of [[Josh Jacobs]] and [[Derrick Henry]] — and says an ideal roster build takes one back from each column.
 
-- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: "hate[s] it from a fantasy standpoint" — his cheap two-year, $11M Washington signing (up to $5M year one, $1.5M in likely-unreachable incentives) muddies [[Brian Robinson Jr.]]'s outlook after Robinson "looked so good" last year. Unsure whether Washington plans a passing-down/McKissic-type role or a true 1-2 punch, but expects the ambiguity to be "disappointing for both players unless one gets hurt."
 
 ## Related Concepts
 - [[Redraft (Standard)]]

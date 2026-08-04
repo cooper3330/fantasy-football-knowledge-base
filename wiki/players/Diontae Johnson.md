@@ -42,7 +42,6 @@ tags: [player]
   outside) and DJ Chark (not a tracked page): "if he doesn't catch 100
   receptions in 2024, something bad happened."
 
-- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: more skeptical than [[Matt Harmon]]'s bullish 03-14 read on the same trade — helps Carolina "on paper" from an ability standpoint, but reads Johnson's career tone as "an on-and-off player... a light switch player" who needs a strong veteran presence to lead him rather than being asked to be the focal point of [[Bryce Young]]'s receiving corps himself. Doubts Young provides that veteran anchor, warning Johnson could "feel like a hostage again" under owner David Tepper's known impatience with unproven passing-game infrastructure.
 
 ## Related Concepts
 - [[George Pickens]]

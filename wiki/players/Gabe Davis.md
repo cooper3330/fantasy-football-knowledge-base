@@ -31,7 +31,6 @@ tags: [player]
   conversation for bottom five — despite the money spent; expects Jacksonville
   now has to draft a true WR1.
 
-- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: calls the Jaguars contract (3yr/$39M) evidence of "institutionally stupid" spending — Davis is "what [[Calvin Ridley]] was at his absolute worst, just taller and stronger," a third option who "may catch the ball one out of every three times" when his QB scrambles and finds him deep. Notes he's making more than [[Saquon Barkley]] despite the gap in proven production, and doubts Jacksonville is finished addressing receiver need.
 
 ## Related Concepts
 - [[Redraft (Standard)]]

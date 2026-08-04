@@ -24,7 +24,6 @@ tags: [player]
 
 - 2024-03-08 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-08]]) [Dynasty], solo cast on the full QB class: an efficient mover under pressure who can sidestep or climb and resets his feet well, finding the open man in the middle of the field better than "people characterize" — adds that if Baker Mayfield or [[Kyler Murray]] did this better, both would have had better careers than they've had to this point. Still has concerns about specific middle-of-field throws he got away with at Washington that Waldman doesn't think will work in the NFL, but reads the year-over-year trend as improving — the lapses have gotten "less and less" over time. Floor: "at worst," a low-end starter who can keep his team competitive if the surrounding talent and scheme are strong enough to maximize his strengths and minimize his flaws.
 
-- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: names Penix (with [[Jayden Daniels]]) as the best vertical-thrower fit for Minnesota's [[Justin Jefferson]]/T.J. Hockenson pass catchers among the post-[[Kirk Cousins]] quarterback options discussed, ahead of [[J.J. McCarthy]] and [[Drake Maye]].
 
 ## Related Concepts
 - [[Player Development and Coachability]]

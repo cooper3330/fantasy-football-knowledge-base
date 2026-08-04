@@ -35,7 +35,6 @@ aliases: [Hollywood Brown]
   something" if he stays healthy. See [[Reception Perception Methodology]] and
   [[Scheme vs Talent]].
 
-- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: reacting to his signing with Kansas City — "he actually has a quarterback" (Patrick Mahomes) and a scheme for the first time, having only ever had one or the other in Baltimore/Arizona. Grades him "75 to 80% Tyreek Hill" — lacking Hill's physicality/contact balance but with comparable speed and better hands than his drop reputation suggests, "definitely a high upgrade" over Marquez Valdes-Scantling. Explicitly not calling him a great receiver merely unlocked by system, but "a damn good receiver" who fits the vacated role well.
 
 ## Related Concepts
 - [[Zone vs Man Route Running]]

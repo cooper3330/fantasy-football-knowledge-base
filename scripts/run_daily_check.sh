@@ -149,6 +149,27 @@ fi
     # one poison episode, repeatedly, unattended. Bail instead.
     if [ "$(next_guid)" = "$BEFORE_GUID" ]; then
       echo "!!! queue head unchanged after episode $i (claude rc=$RC) -- stopping run !!!"
+      # A failed agent is rarely a no-op. It typically dies AFTER writing
+      # bullets to 10-40 player pages and BEFORE creating its source page,
+      # catalog row, index lines and log entry -- so the wiki holds takes from
+      # an episode that state.json still calls `fetched`. Re-running then
+      # appends every one of those bullets a second time.
+      #
+      # Detect it: bullets dated to this episode, but no source page for it.
+      EP_DATE="$($PY -c "
+import json, pathlib
+s = json.loads(pathlib.Path('scripts/state.json').read_text())
+print((s['episodes'].get('''$BEFORE_GUID''') or {}).get('pub_date') or '')
+" 2>/dev/null)"
+      if [ -n "$EP_DATE" ]; then
+        TOUCHED="$(grep -rl -- "$EP_DATE" wiki/players wiki/concepts wiki/formats 2>/dev/null | wc -l | tr -d ' ')"
+        HAS_SRC="$(ls wiki/sources/ 2>/dev/null | grep -c -- "$EP_DATE")"
+        if [ "${TOUCHED:-0}" -gt 0 ] && [ "${HAS_SRC:-0}" -eq 0 ]; then
+          echo "!!! PARTIAL WRITE: $TOUCHED page(s) already carry $EP_DATE takes but no"
+          echo "!!! source page exists. Re-running WILL duplicate them. Remove those"
+          echo "!!! bullets (and any pages created solely by this episode) first."
+        fi
+      fi
       break
     fi
   done

@@ -36,7 +36,6 @@ tags: [player]
   the rest — "who cares" about the signing itself; the question is upside,
   not price.
 
-- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: still expects Wilson to open 2024 as Pittsburgh's starter, but sees [[Justin Fields]] as real, not token, competition — floats the Steelers benching Wilson intermittently when Fields is ready rather than committing to a clean incumbent/backup split.
 
 ## Related Concepts
 - [[Jerry Jeudy]]

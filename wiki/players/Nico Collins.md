@@ -20,7 +20,6 @@ tags: [player]
 
 - 2024-03-07 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-07]]), a comparative aside while charting [[Tee Higgins]]: asked to pick Higgins or Collins straight-up, Harmon says the talent gap the public perceives between the two — similar body types, similar outside-X roles — is "negligible" and that Collins's 2023 season was better than any season either player has had, making him "very tempted" to take Collins right now. Notes Collins profiles more as a true X (57.8% of snaps on the line in 2023) than Higgins does.
 
-- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]], asked about Houston's reported (denied) pursuit of a top free-agent receiver: reads it as evidence the Texans see Collins as a strong "big possession-plus" X comparable to Mike Williams/[[Tee Higgins]], projecting roughly 68 targets and ~1,100 yards in a good situation — but not viewing him (or [[Tank Dell]]) as a true elite WR1 requiring no further receiver investment.
 
 ## Related Concepts
 - [[Role Difficulty and Replaceability]]

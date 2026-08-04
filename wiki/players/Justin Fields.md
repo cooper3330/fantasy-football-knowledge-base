@@ -17,7 +17,6 @@ tags: [player]
 
 - 2024-03-04 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-04]]): weighing Pittsburgh's veteran quarterback options (Fields, [[Russell Wilson]], Kenny Pickett, Mason Rudolph), picks Fields as the "ideal" fit — his athletic ability offsets the Steelers' still-unresolved offensive-line problems, and he "fits very well within that culture" as "a worker" and "a young player to grow with," with Pickett kept as a developmental backup. Separately, on Atlanta: still rates Fields the best long-term-upside option there over [[Kirk Cousins]] and [[Baker Mayfield]] — comparing his ceiling to what Sean McVay (coach — out of scope) extracted from Jared Goff — while conceding Cousins offers a more immediate path to contention.
 
-- 2024-03-19 — According to [[Matt Waldman]] and **Bob Harris** (co-host — not tracked) on [[Matt Waldman's RSP Cast - 2024-03-19]]: reacting to the finalized trade to Pittsburgh (a conditional 2025 sixth-round pick) — both "feel it," calling it far better value than what other teams paid for lesser quarterbacks (the Vikings/[[Sam Darnold]]). Waldman: Fields "didn't do too horribly" given Chicago's poor infrastructure (no real offensive coordinator, insufficient O-line protection), and expects Pittsburgh to either give him a full redshirt year behind [[Russell Wilson]] or run an intermittent-benching plan where Fields enters when Wilson struggles — real competition, not just sit-and-learn.
 
 ## Related Concepts
 - [[Desmond Ridder]]

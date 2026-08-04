@@ -48,7 +48,6 @@ articulated.
   same money, because the WR player pool is deeper before you reach a
   Barkley-caliber name than the RB pool is.
 
-- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: flags 2024 free agency as a real, if partial, reversal of the running-back-devaluation narrative — [[Saquon Barkley]]'s three-year, $37M-guaranteed (up to $46M) Eagles deal, plus real starting jobs and money for [[Derrick Henry]] (Baltimore) and [[Josh Jacobs]] (Green Bay), read as evidence "the math works out" for top backs even in a cost-conscious market. Names [[Austin Ekeler]] as the running back most publicly aware of and vocal about the league's undervaluing of the position generally, contrasted with Jacobs and Henry actually landing starter-level paydays this cycle.
 
 ## Related
 - [[Running Back Size and Movement Skills]]
