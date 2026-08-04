@@ -51,6 +51,8 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-02-02 | [[Matt Waldman]] | The NFL Hall of Fame (And Our Picks for the '24 Class) — RSP Film and Theory (w/ Adam Harstad) | [[Matt Waldman's RSP Cast - 2024-02-02]] |
 | 2024-02-05 | [[Matt Waldman]] | Feel It Or F@#k It: 2.5.24 (w/ Bob Harris) | [[Matt Waldman's RSP Cast - 2024-02-05]] |
 | 2024-02-12 | [[Matt Waldman]] | Feel It Or F@#k It Post-Super Bowl Edition (w/ Bob Harris) | [[Matt Waldman's RSP Cast - 2024-02-12]] |
+| 2024-02-13 | [[Matt Harmon]] | Chiefs Take Down 49ers for Super Bowl LVIII (w/ James Koh) | [[Reception Perception The Show - 2024-02-13]] |
+| 2024-02-19 | [[Matt Waldman]] | Feel It Or F@#k It: Never Too Early to Draft Edition (w/ Bob Harris) | [[Matt Waldman's RSP Cast - 2024-02-19]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

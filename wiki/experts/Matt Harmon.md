@@ -115,6 +115,22 @@ pulled from dedicated rankings segments.
   [[Treylon Burks]] bust comp), and [[Ladd McConkey]] (the strongest of the
   three, an early Cooper Kupp mold comp). Directly checkable against all
   three players' rookie seasons and Harmon's own eventual full profiles.
+- **Open, unresolved 2024-02-13 read:** season-closing Super Bowl LVIII grades
+  — [[Brock Purdy]]'s "good, not elite" read holds after the loss, with an
+  explicit archetype comp to [[Jared Goff]]/[[Kirk Cousins]] (new page) and a
+  named growth path (pre/post-snap processing catching up over time) that
+  Harmon says [[Patrick Mahomes]] has already completed; unqualified praise
+  of Mahomes as a result. Both directly checkable against each player's next
+  several seasons.
+- **Open, unresolved 2024-02-13 read:** rejects [[Marquise Brown]] (new page)
+  as a Kansas City free-agent fit at outside receiver on pure archetype
+  grounds — "another zone-beating type" rather than a man-coverage/contested-
+  catch threat. Checkable against whether Kansas City actually signs him and,
+  if so, how that role plays out.
+- **Open, unresolved 2024-02-13 read:** dismisses [[Skyy Moore]] (new page)
+  as a "mis-evaluation" at outside receiver and expects him out of Kansas
+  City's plans entirely. Checkable against Moore's actual 2024 usage/roster
+  status.
 
 ## Sources
 - [[Reception Perception The Show - 2024-01-16]] — Wild Card Weekend recap (with James Koh); extended [[Jordan Love]] praise, [[Tua Tagovailoa]] vs. [[Jared Goff]] ceiling comparison, [[Puka Nacua]]/[[Cooper Kupp]] baton-passing read, introduces the [[Reception Perception Methodology]] concept
@@ -123,3 +139,4 @@ pulled from dedicated rankings segments.
 - [[Reception Perception The Show - 2024-01-25]] — head-coaching carousel roundup (mostly not ingested — no player-role connection) plus Conference Championship breakdown (with James Koh); a five-way ranking of the playoffs' remaining receivers ([[Brandon Aiyuk]], [[Amon-Ra St. Brown]], [[Deebo Samuel]], [[Zay Flowers]], [[Rashee Rice]]) and matchup notes on [[Isiah Pacheco]], [[Jared Goff]] and [[Christian McCaffrey]]
 - [[Reception Perception The Show - 2024-01-30]] — Conference Championship recap (with James Koh) plus several coordinator hires filtered for player relevance; a notably critical [[Lamar Jackson]] read set against Waldman's more forgiving one, scheme-fit optimism for [[Bijan Robinson]]/[[Drake London]] under Atlanta's new OC, a Tampa Bay OC departure that reopens [[Baker Mayfield]]/[[Mike Evans]]/[[Chris Godwin]]'s scheme outlook, a first grade on the Kellen Moore hire for [[Jalen Hurts]], and a new page, [[Bryce Young]]
 - [[Reception Perception The Show - 2024-02-01]] — Arthur Smith to Pittsburgh (with James Koh), a data-backed process-over-results defense with charted route-tree evidence, new pages for [[George Pickens]], [[Najee Harris]], [[Jaylen Warren]] and [[Diontae Johnson]]; resolution of the Ben-Johnson-leaving-Detroit question (he's staying, updating [[Jared Goff]] and [[Jameson Williams]]); Seattle offense notes on [[Tyler Lockett]] and [[Jaxon Smith-Njigba]] under new HC Mike McDonald; early charting on [[Brian Thomas Jr.]], [[Keon Coleman]] and a new page, [[Ladd McConkey]]
+- [[Reception Perception The Show - 2024-02-13]] — Super Bowl LVIII recap and offseason outlook for both rosters (with James Koh); continuation of the [[Brock Purdy]]/[[Patrick Mahomes]] processing-growth comparison, a live confirmation of the [[Deebo Samuel]] man-vs-zone read from Super Bowl tape, Kansas City receiver-room rebuild discussion with new pages for [[George Kittle]], [[Marquise Brown]] and [[Skyy Moore]], and a [[Rashee Rice]]/[[Amon-Ra St. Brown]] rookie-year comp pointer to Harmon's separate YouTube mailbag; final episode of the 2023 season

@@ -14,6 +14,7 @@ tags: [player, prospect]
 ## Expert Takes
 
 - 2024-02-12 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-12]]) [Dynasty]: one of three underrated backs Waldman flags this episode (with [[Dylan Laube]] and [[Daijun Edwards]]), and explicitly the highest-variance of the three — "the most boom-bust... the highest upside, the deepest floor." Injury history is the real risk: an MCL injury cost him most of one season, then an unspecified lower-leg injury cost six games the following year. When healthy, the flash is real — Waldman cites a screen pass against the nation's top-ranked (UCLA) rushing defense in 2023 where he "made seven guys miss in the open field." Good pass catcher with pass-protection skills good enough to project growth into a role player; would need to add weight to profile as a viable NFL committee back.
+- 2024-02-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-22]]) [Dynasty]: names him his own pick for a back who can make a roster as a late-round selection and develop into a reliable reserve — 5'11", 205 lbs, a good receiver with real contact balance. Projects a practice-squad path in year one, developing along the lines of Jeremy McNichols or Salvon Ahmed (neither tracked pages), with a bit more upside as a runner than either of those two showed — possibly a situational third-down back in the mold of Jalen Richard (not a tracked page).
 
 ## Related Concepts
 - [[Dynasty]]

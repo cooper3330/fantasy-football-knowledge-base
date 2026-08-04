@@ -47,6 +47,8 @@ to, historical age curves overvalue older players.
   this page already treats RB rushing-season decline at 27+ as expected
   background rate rather than a red flag on any individual back.
 
+- 2024-02-13 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-02-13]]): a much softer age flag than Waldman's December dismissal of it, applied to [[Christian McCaffrey]] heading into 2025 rather than 2024 — McCaffrey is "entering the era of, the kind of window of running backs where you start to get really nervous." Not a ranking or start/sit call, just the first sign this show is tracking the same age-curve question on him that this page's other entries treat as a population-level pattern for running backs generally.
+
 ## Related
 - [[Dynasty]]
 - [[Scouting Bias and Player Archetypes]]

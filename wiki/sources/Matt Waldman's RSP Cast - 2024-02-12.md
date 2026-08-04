@@ -50,8 +50,8 @@ Achilles-recovery return to form).
 
 Mixed. [[Best Ball]] gets explicit, cited mock-draft ADP data points on
 [[Isiah Pacheco]] and [[Rashee Rice]] (both moving off the same
-last-thing-you-saw recency bias, in opposite directions). [[Redraft
-(Standard)]] covers [[Travis Kelce]], [[Davante Adams]] and [[Kirk Cousins]].
+last-thing-you-saw recency bias, in opposite directions). [[Redraft (Standard)]]
+covers [[Travis Kelce]], [[Davante Adams]] and [[Kirk Cousins]].
 [[Dynasty]] covers the rookie prospects and the [[Daniel Jones]]/[[Aaron Rodgers]] longer-horizon reads.
 
 ## Pages touched

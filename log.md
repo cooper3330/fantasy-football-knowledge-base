@@ -740,3 +740,55 @@ Wired into the places pages get made: the ingest prompt from
 alongside `verify_integrity.py`, and `run_daily_check.sh` runs it post-ingest so
 the unattended path can't drift unnoticed. Also established `aliases` as a legal
 optional key — the right home for the nickname/ASR-variant problem in rule 6.
+
+## [2026-08-04] ingest | Reception Perception: The Show — Chiefs Take Down 49ers for Super Bowl LVIII
+
+Matt Harmon's season-closing episode (with James Koh). Super Bowl LVIII recap
+plus offseason outlook for both rosters — the last episode before the show's
+week off. Nothing here reverses a prior headline view; it mostly deepens two
+existing threads and opens one new one. (1) The [[Brock Purdy]]/[[Patrick Mahomes]]
+processing-growth comparison gets its fullest statement yet — Harmon
+explicitly frames Mahomes as having already completed the pre/post-snap
+processing catch-up that Purdy (comped to [[Jared Goff]]/new page [[Kirk Cousins]])
+still has ahead of him; logged on both player pages and on
+[[Quarterback Processing and Confidence]]. (2) [[Deebo Samuel]]'s man-vs-zone
+weakness gets a live game confirmation independent of Waldman's December read
+— Chiefs press coverage held him to 3-for-33 on 11 targets. (3) New: a San
+Francisco pass-catcher roster crunch flagged for the first time — not all
+three of Deebo, [[Brandon Aiyuk]] and new page [[George Kittle]] survive past
+2024 on the cap sheet — plus a first age-window caveat on [[Christian McCaffrey]]
+for 2025 ([[Aging Curves and Career Longevity]]). Kansas City's
+receiver rebuild produces two more new pages — [[Marquise Brown]] (rejected as
+a fit, "another zone-beating type") and [[Skyy Moore]] (Harmon: outside-WR
+usage was a "mis-evaluation," expects him traded) — plus a second landing-spot
+mention for prospect [[Brian Thomas Jr.]]. [[Rashee Rice]] gets a pointer to a
+separate Harmon YouTube mailbag comparing his rookie year to [[Amon-Ra St. Brown]]'s,
+logged on [[Post-Rookie-Year Receiver Model]].
+
+`python3 scripts/verify_integrity.py` and `python3 scripts/lint_frontmatter.py`
+both clean after this ingest.
+
+## [2026-08-04] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: Never Too Early to Draft Edition (w/ Bob Harris)
+
+The season's first true redraft-cycle episode, a week after the Super Bowl —
+dense with veteran free-agent market calls and the first round of 2024 QB
+prospect verdicts. Nine new player pages: [[Joe Mixon]], [[Alvin Kamara]],
+[[Derek Carr]], [[Justin Fields]], [[Justin Herbert]], [[Rashid Shaheed]],
+[[Russell Wilson]], [[Jerry Jeudy]], [[Courtland Sutton]]. Headline shifts:
+(1) [[Derrick Henry]]'s redraft price keeps sliding earlier — fifth round now,
+a "huge steal" per Waldman, worth a third-round pick on talent alone, with
+Chargers/Dallas/Philadelphia added to his standing Ravens wish-cast. (2)
+[[Caleb Williams]] gets an explicit "hell no" verdict that all three of
+Williams/[[Drake Maye]]/[[Jayden Daniels]] hit their draft capital — only one
+"most likely" does, and it's Williams, with a Jay Cutler/Jeff George bust
+comp attached. (3) [[Michael Penix Jr.]] reverses back to Waldman's top
+outlier-QB pick just three weeks after being downgraded to "journeyman
+starter." (4) [[Baker Mayfield]]'s Tampa OC question resolves (Liam Coen
+hired) but his 2024 outlook is now explicitly conditioned on both
+[[Mike Evans]] and [[Chris Godwin]] staying, with Evans's free-agency
+deadline reportedly already passed. (5) [[Stefon Diggs]] gets Waldman's
+fullest "blip, not a cliff" defense yet, reframing 2023's decline as a
+Buffalo scheme/pecking-order issue rather than an age cliff.
+
+`python3 scripts/verify_integrity.py` and `python3 scripts/lint_frontmatter.py`
+both clean after this ingest.

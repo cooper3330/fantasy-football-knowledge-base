@@ -3279,8 +3279,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-13",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2024-02-13-rp-chiefs-take-down-49ers-for-super-bowl-lviii.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2024-02-13-rp-chiefs-take-down-49ers-for-super-bowl-lviii.md",
+      "status": "ingested",
       "title": "Chiefs Take Down 49ers for Super Bowl LVIII",
       "transcript_source": "whisper"
     },
@@ -3817,8 +3817,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-19",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-02-19-rsp-feel-it-or-fk-it-never-too-early-to-draft-edition-rsp-cast-with-bob-ha.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-02-19-rsp-feel-it-or-fk-it-never-too-early-to-draft-edition-rsp-cast-with-bob-ha.md",
+      "status": "ingested",
       "title": "Feel It Or F@#k It: Never Too Early to Draft Edition RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
     },
