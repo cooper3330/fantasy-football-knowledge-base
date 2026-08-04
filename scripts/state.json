@@ -1661,8 +1661,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-27",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2024-02-27-rp-tee-higgins-mike-evans-marvin-harrison-jr-bieniemy-picks-college-ball.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2024-02-27-rp-tee-higgins-mike-evans-marvin-harrison-jr-bieniemy-picks-college-ball.md",
+      "status": "ingested",
       "title": "Tee Higgins & Mike Evans, Marvin Harrison Jr. & Bieniemy Picks College Ball",
       "transcript_source": "whisper"
     },
