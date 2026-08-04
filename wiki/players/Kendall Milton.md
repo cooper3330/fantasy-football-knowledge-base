@@ -1,0 +1,19 @@
+---
+type: player
+team: Georgia (2024 draft prospect)
+position: RB
+tags: [player, prospect]
+---
+
+# Kendall Milton
+
+> ⚠️ Takes below are from February 2024, pre-draft. He was not yet on an NFL
+> roster at the time of this take — treat as historical scouting context
+> until superseded by newer takes.
+
+## Expert Takes
+
+- 2024-02-22 — According to [[Brandon Angelo]] ([[Matt Waldman's RSP Cast - 2024-02-22]]) [Dynasty]: one of Angelo's mid-to-late-pick names he thinks could become a viable NFL committee contributor. Calls him a genuinely unique size-speed player at roughly 6'1", 220-225 lbs, doing interesting things laterally for a back his size, and says the class hasn't seen his best tape yet. Flags the combine/pro day circuit as the real swing factor for whether his draft stock rises toward an earlier pick or falls to a Day 3/UDFA outcome. [[Matt Waldman]], same episode: had hoped for an Eddie George-caliber talent based on Milton's high-school recruiting profile entering Georgia, and says that hasn't fully manifested on tape at that level — while allowing he understands where Angelo's optimism comes from.
+
+## Related Concepts
+- [[Dynasty]]

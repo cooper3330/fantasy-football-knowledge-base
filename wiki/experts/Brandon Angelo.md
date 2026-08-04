@@ -81,9 +81,21 @@ real the gap can be between "good" and elite-tier athleticism — relayed on
   (Cole Beasley NFL comp) and [[Dylan Laube]] (a small-school pass-catching
   riser). All directly checkable against the 2024 draft and each player's
   rookie season.
+- **2024-02-22** — a full 2024 running-back-class episode, all open. Grades
+  [[Dylan Laube]] a top-five back in the class outright against a public
+  RB15-20 perception. Names [[Cody Schrader]], [[Kendall Milton]],
+  [[Kimani Vidal]], [[Will Shipley]], and [[Rasheen Ali]] as late-round/reserve
+  picks. Names [[Jonathan Brooks]], [[Blake Corum]], [[Jaylen Wright]], and
+  [[Dylan Laube]] as early-round talents regardless of draft slot. Flags
+  [[Bucky Irving]] and especially [[Marshawn Lloyd]] (explicit bust-risk
+  framing on ball security and inflated perception) as names he's cooler on
+  than the market. Independently reaches guest Daniel Harms's prior
+  skepticism on [[Braelon Allen]]'s competitiveness. All directly checkable
+  against the 2024 draft and each player's rookie season.
 
 ## Sources
 - [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]] — *Going Deep*; RB movement skills, pro-readiness vs ceiling, player development
 - [[Matt Waldman's RSP Cast - 2024-01-08]] — not a co-host on this episode; his "healthy enough to play vs. perform" framework relayed by Waldman on [[Tony Pollard]]
 - [[Matt Waldman's RSP Cast - 2024-01-11 (Going Deep - Draft Prospects)]] — *Going Deep*; 2024 draft-class evaluation of [[Blake Corum]], [[Michael Penix Jr.]], [[Keon Coleman]], and [[Ainias Smith]]; extends the pace-control/movement-intellect framework with a new "compensatory skill" mechanism
 - [[Matt Waldman's RSP Cast - 2024-02-01]] — *Going Deep*; a full Senior Bowl/Shrine Game-week episode, live-viewing downgrades on [[Bo Nix]], [[Devontez Walker]] and [[Xavier Legette]], reinforcing updates on [[Ricky Pearsall]], [[Malachi Corley]] and [[Spencer Rattler]], new prospect pages ([[Roman Wilson]], [[Ray Davis]], [[Brendan Rice]], [[Dylan Laube]]), and a personal-background aside (raced [[Tyreek Hill]] as a Big Ten sprinter)
+- [[Matt Waldman's RSP Cast - 2024-02-22]] — *Going Deep*; a full 2024 running-back-class episode, ten new prospect pages ([[Cody Schrader]], [[Kendall Milton]], [[Kimani Vidal]], [[Will Shipley]], [[Rasheen Ali]], [[Jaylen Wright]], [[Dillon Johnson]], [[Trey Benson]], [[Bucky Irving]], [[Marshawn Lloyd]]), a sharpened restatement of [[Pace Control and Movement Intellect]] and [[Prospect Pro-Readiness vs Ceiling]], and a top-five grade on [[Dylan Laube]]

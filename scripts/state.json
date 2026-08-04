@@ -3829,8 +3829,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-22",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-02-22-rsp-going-deep-with-brandon-angelo-and-matt-waldman-the-2024-rb-class-edit.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-02-22-rsp-going-deep-with-brandon-angelo-and-matt-waldman-the-2024-rb-class-edit.md",
+      "status": "ingested",
       "title": "Going Deep with Brandon Angelo and Matt Waldman: The 2024 RB Class Edition",
       "transcript_source": "whisper"
     },

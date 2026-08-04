@@ -792,3 +792,32 @@ Buffalo scheme/pecking-order issue rather than an age cliff.
 
 `python3 scripts/verify_integrity.py` and `python3 scripts/lint_frontmatter.py`
 both clean after this ingest.
+
+## [2026-08-04] ingest | Matt Waldman's RSP Cast — Going Deep with Brandon Angelo and Matt Waldman: The 2024 RB Class Edition
+
+Resumed ingest: a prior agent was killed mid-run by a server error after
+writing dated 2024-02-22 bullets to seven pages ([[Blake Corum]],
+[[Blake Watson]], [[Daijun Edwards]], [[George Holani]], [[Jonathan Brooks]],
+[[Pace Control and Movement Intellect]], [[Prospect Pro-Readiness vs Ceiling]])
+but before creating the source summary page or finalizing state. This pass
+verified those seven bullets were accurate and complete, then finished the
+rest of the episode without duplicating them. A full 2024 running-back-class
+episode — ten new prospect pages ([[Cody Schrader]], [[Kendall Milton]],
+[[Kimani Vidal]], [[Will Shipley]], [[Rasheen Ali]], [[Jaylen Wright]],
+[[Dillon Johnson]], [[Trey Benson]], [[Bucky Irving]], [[Marshawn Lloyd]]).
+Headline shifts: (1) [[Dylan Laube]] jumps from "underrated small-school
+riser" to Angelo's explicit top-5-back-in-class grade, built on real outside/
+boundary receiving skill, with Waldman ranking him almost even with
+[[Blake Corum]]. (2) [[Braelon Allen]] gets a second independent
+competitiveness knock from Angelo plus a "Wisconsin curse" development-runway
+framing from Waldman (Jonathan Taylor/Melvin Gordon precedent, an explicit
+wish for a multi-year [[Derrick Henry]] understudy role, Baltimore as the
+dream fit) — see [[Player Development and Coachability]]. (3) [[Marshawn Lloyd]]
+is the episode's clearest bust-risk case: ball security, outside-bounce
+tendencies, and a perception both hosts think is inflated by a handful of
+Caleb Williams option-pitch highlight plays — logged as a new instance on
+[[Scouting Bias and Player Archetypes]] alongside a general note on why ball
+security is treated as unpredictable rather than a fixed trait.
+
+`python3 scripts/verify_integrity.py` and `python3 scripts/lint_frontmatter.py`
+both clean after this ingest.

@@ -235,6 +235,15 @@ one of his bigger post-draft value calls once his Rams landing spot was known.
   North-Carolina-system risk (see [[Scouting Bias and Player Archetypes]]).
   Directly checkable against Maye's rookie season and beyond.
 
+- **Open prediction (2024-02-22), unresolved at time of writing:** ranks the
+  2024 running back class's early-round-talent-caliber names as [[Blake Corum]]
+  and [[Dylan Laube]] essentially even at the top ("not much difference in
+  score"), [[Jonathan Brooks]] third, with [[Jaylen Wright]] and [[Dillon
+  Johnson]] rated lower than Angelo and most public boards pending ball-security
+  and explosiveness questions resolving. Also grades [[Marshawn Lloyd]]'s
+  50th-percentile outcome as "out of the league in a couple years" despite a
+  99th-percentile physical ceiling. All directly checkable against 2024 draft
+  slot and rookie production.
 - **Open prediction (2024-02-19), unresolved at time of writing:** of the
   three quarterbacks mock drafts consistently slot 1-2-3 ([[Caleb Williams]],
   [[Drake Maye]], [[Jayden Daniels]]), Waldman says "most likely only one"
@@ -275,3 +284,4 @@ one of his bigger post-draft value calls once his Rams landing spot was known.
 - [[Matt Waldman's RSP Cast - 2024-02-05]] — *Feel It or F**k It*, Super Bowl LVIII week (with Bob Harris); seven new pages including [[Kyle Pitts]], [[Brock Bowers]] and [[Desmond Ridder]], reinforcing rookie-QB passes on [[Drake Maye]] and [[Bo Nix]], a Best Ball [[Derrick Henry]] value call, the Arthur Smith/Atlanta scheme mechanism, and a new durable concept page ([[Quarterback Processing and Confidence]]) from Waldman's own "why teams miss on quarterbacks" framework
 - [[Matt Waldman's RSP Cast - 2024-02-12]] — *Feel It or F**k It*, Post-Super Bowl edition (with Bob Harris); Super Bowl LVIII recap ([[Isiah Pacheco]], [[Travis Kelce]], [[Rashee Rice]], [[Patrick Mahomes]] all updated), a Brock Purdy pre-draft-grade validation, three rookie RB names ([[Dylan Laube]], [[Daijun Edwards]], [[George Holani]]), and five veteran-quarterback/receiver free-agency reads ([[Davante Adams]], [[Kirk Cousins]], [[Daniel Jones]], [[Ryan Tannehill]], [[Aaron Rodgers]])
 - [[Matt Waldman's RSP Cast - 2024-02-19]] — *Feel It or F**k It: Never Too Early to Draft Edition* (with Bob Harris), the season's first true redraft-cycle episode; a wide veteran free-agency sweep (new pages [[Joe Mixon]], [[Alvin Kamara]], [[Derek Carr]], [[Justin Fields]], [[Justin Herbert]], [[Rashid Shaheed]], [[Russell Wilson]], [[Jerry Jeudy]], [[Courtland Sutton]]) plus first 2024 QB-prospect verdicts on [[Caleb Williams]], [[Drake Maye]], [[Jayden Daniels]], [[Bo Nix]] and [[Michael Penix Jr.]]
+- [[Matt Waldman's RSP Cast - 2024-02-22]] — *Going Deep* (with Brandon Angelo); a full 2024 running-back-class episode, ten new prospect pages ([[Cody Schrader]], [[Kendall Milton]], [[Kimani Vidal]], [[Will Shipley]], [[Rasheen Ali]], [[Jaylen Wright]], [[Dillon Johnson]], [[Trey Benson]], [[Bucky Irving]], [[Marshawn Lloyd]]), a sharpened restatement of [[Pace Control and Movement Intellect]] and [[Prospect Pro-Readiness vs Ceiling]] aimed at draft prospects, and a closing [[Braelon Allen]] "Wisconsin curse" development-runway case
