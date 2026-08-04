@@ -242,7 +242,7 @@ Robinson, Ekler→Ekeler.
 ## [2026-08-03] lint | Name consistency and dangling links after batch 5-7
 Fixed "Austin Ekler" -> [[Austin Ekeler]] across 10 files. Notable: the error
 originated with the earlier Opus-class single-episode agents; the Sonnet batch
-agent independently produced the correct spelling. Unlinked [[Travis Etienne]]
+agent independently produced the correct spelling. Unlinked the `Travis Etienne` wikilink
 (a conditional passing mention in the Tank Bigsby page, no substantive take —
 per the rule that pages come only from real evaluative takes). Zero dangling
 links, zero duplicate players, chronological order verified.
@@ -527,3 +527,100 @@ updates. (5) [[Ricky Pearsall]] gets independent third-source
 corroboration of the existing Puka-Nacua-comp sleeper case. No ASR
 normalizations required beyond the standing Jameson Williams "Jamison
 Williams" garble, resolved per rule 7.
+
+## [2026-08-03] ingest | Reception Perception: The Show — Conference Championship Review & More Coaching Hires (2024-01-30)
+Fifth [[Matt Harmon]] episode, with co-host **James Koh** (not tracked).
+Conference Championship recap plus several coordinator hires, filtered per
+the low-durability-on-coaching-churn-alone standard: only hires tied to a
+specific player's role were ingested. One new player page: [[Bryce Young]]
+(QB, CAR — extended evaluation: real physical limitations mean an
+accuracy/processing-only path to success, rookie year explicitly not
+treated as a settled verdict given a nonfunctional supporting cast). **What
+materially changed:** (1) [[Lamar Jackson]] gets Harmon's most critical read
+in this wiki yet — 3 turnover-worthy throws, a near-total abandonment of the
+run game (563rd-of-568 games league-wide in design-run rate), an open
+"are playoff losses mounting" question — a harder-nosed counterweight to
+Waldman's more forgiving 2024-01-29 post-game read, while Harmon still calls
+him a top-three QB outright. (2) Atlanta's new OC hire (Zach Robinson, ex-
+Rams) gets graded as a probable scheme unlock for [[Bijan Robinson]]
+(man/gap run fit) and [[Drake London]] (Nacua/Kupp-style in-breaking
+routes), with [[Tyler Allgeier]] expected to stay involved as a
+complementary piece. (3) Tampa Bay loses OC Dave Canales to Carolina's HC
+job — reopens the scheme outlook for [[Baker Mayfield]], [[Mike Evans]]
+(credited for "unleashing" him) and [[Chris Godwin]] (whose 2023 alignment
+misuse Harmon calls "a gigantic mistake," only fixed by Week 14-15). (4)
+Philadelphia's Kellen Moore hire for [[Jalen Hurts]] gets its first actual
+grade — "definitely an upgrade" but "something left to be desired," with a
+specific structural worry about his shotgun-exclusive usage. (5)
+[[Patrick Mahomes]], [[Travis Kelce]], [[Zay Flowers]], [[Rashad Bateman]]
+and [[Jameson Williams]] get reinforcing/corroborating updates — notably
+Bateman played all of 2023 healthy per Harmon, a partial complication of
+Waldman's "always hurt" framing from the prior episode. No new ASR name
+garbles this episode.
+
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — 2024 Sr. Bowl Fallout and Fave Developmental Picks: Going Deep with Brandon Angelo (2024-02-01)
+A dense, prospect-only *Going Deep* episode covering Senior Bowl/Shrine Game
+week — both hosts tracked, no untracked guest this time. Twelve new
+2024-draft-prospect pages: [[Roman Wilson]], [[Devontez Walker]],
+[[Brendan Rice]], [[J. Michael Sturdivant]] (WR); [[Ray Davis]],
+[[Dylan Laube]], [[Deshaun Fenwick]], [[Mario Anderson]] (RB);
+[[Tanner Mordecai]], [[Jack Plummer]], [[Joe Milton III]] (QB); and
+[[Brevyn Spann-Ford]] (TE), the episode's most detailed single breakdown —
+a documented technique-improvement arc from a lost-looking 2022 blocker to
+a competent one by late 2023. **What materially changed:** (1) A genuine
+live disagreement opens on [[Bo Nix]] — Angelo downgrades him hard after
+watching him throw at the Senior Bowl ("Mitch Trubisky syndrome"), landing
+much closer to guest Daniel Harms's prior skepticism than to Waldman's own
+bullish 2024-01-22 read, a real 3-way split. (2) [[Drake Maye]] gets
+Waldman's promised re-watch, and skepticism holds — a new Jake Locker comp
+plus a structural North-Carolina-QB-archetype risk (Trubisky/Howell/Maye)
+flagged independent of individual talent; see
+[[Scouting Bias and Player Archetypes]]. (3) [[J.J. McCarthy]] gets a
+significant new grade, benchmarked explicitly against Will Levis's rookie
+year (both hosts admit they had Levis ungraded pre-draft). (4)
+[[Devontez Walker]] gets a real stock disagreement logged — outside buzz
+near the late first round vs. Angelo's own late-Day-3 grade, which he's
+sticking with. (5) [[Michael Penix Jr.]] gets an updated, medical-contingent
+draft-range call (top-20/25 if he checks out). (6) [[Xavier Legette]] gets
+tempered after live reps looked less dominant than his frame suggested.
+[[Ricky Pearsall]], [[Malachi Corley]] and [[Spencer Rattler]] get
+reinforcing updates. A biographical aside on [[Brandon Angelo]] himself —
+a former Big Ten sprinter who raced [[Tyreek Hill]] twice as a
+high-schooler — is logged on his expert page. ASR note: normalized several
+garbled prospect names ("Dylan Lobby" → [[Dylan Laube]], "Sean Fenwick" →
+[[Deshaun Fenwick]], "Brevin Spanford"/"Reverend Spanford" →
+[[Brevyn Spann-Ford]], "Michael and[erson]" → [[Mario Anderson]], moderate
+confidence); one injured prospect referred to as "Rashan Rashin Ali" could
+not be confidently resolved and was omitted per rule 7 rather than guessed.
+
+## [2026-08-03] ingest | Reception Perception: The Show — Arthur Smith to Pittsburgh, Seahawks Personnel & Senior Bowl Takes (2024-02-01)
+Sixth [[Matt Harmon]] episode, with co-host **James Koh** (not tracked); same
+publish date as the RSP Cast episode above but a different show. Seven new
+pages: [[George Pickens]], [[Diontae Johnson]] (WR, PIT — both charted
+beneficiaries of the Arthur Smith hire), [[Najee Harris]], [[Jaylen Warren]]
+(RB, PIT), [[Ladd McConkey]] (WR, Georgia prospect — the strongest of three
+early-charted 2024 receivers this episode), [[Tyler Lockett]] (WR, SEA) and
+[[Terry McLaurin]] (WR, WAS). **What materially changed:** (1) Arthur
+Smith's hire in Pittsburgh gets this wiki's fullest durable-coaching-move
+case study — Harmon backs a process-over-results defense with actual
+charted route-tree data ([[George Pickens]]'s 7.7%/10.7% dig/slant rate
+under Matt Canada vs. [[Drake London]]'s 16.6%/24.5% under Smith), directly
+projecting more middle-of-field volume for Pickens and Diontae Johnson; see
+[[Scheme vs Talent]]. (2) The standing "what happens once Ben Johnson
+leaves Detroit" question, open since mid-January, is **resolved** — Johnson
+turned down every head-coaching job including Washington and is staying as
+Lions OC — updating [[Jared Goff]] (a sharper "he can't take you much
+further" follow-up plus a Detroit X-receiver need, floating a long-shot
+[[Tee Higgins]] trade scenario) and [[Jameson Williams]] (Harmon's most
+technically critical read yet: "shaky hands," not a "go up and get it"
+guy). (3) Mike McDonald's move from Baltimore DC to Seattle HC reopens
+[[Jaxon Smith-Njigba]]'s role outlook (a "more premier role" floated) and
+puts [[Tyler Lockett]]'s roster spot in real doubt. (4) Early 3-game RP
+charting on [[Brian Thomas Jr.]] and [[Keon Coleman]] (the latter a real
+downgrade, with an explicit Treylon Burks bust comp) plus a new page for
+[[Ladd McConkey]] (previously dismissed only in passing, now the strongest
+of the three). (5) [[Quentin Johnston]] revisited as the standing
+scheme-fit cautionary tale — now described as one of the worst RP rookie
+seasons ever. No new ASR name garbles beyond the standing "Lad
+McConkey"/"Deontay Johnson"/"Jalen Warren" garbles, resolved per rule 7 on
+their respective new pages.

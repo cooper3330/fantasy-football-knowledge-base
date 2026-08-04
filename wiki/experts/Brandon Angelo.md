@@ -22,6 +22,14 @@ Appears primarily on *Going Deep*, the long-form evaluation format, typically
 working through film with Waldman. Frequently drives the analytical argument
 while Waldman supplies scouting-report framing and NFL comps.
 
+A former Big Ten sprinter in his own right — competed at a U.S. junior
+national trials event (the qualifier for Team USA's junior world team) as a
+freshman, racing [[Tyreek Hill]] head-to-head in both the 100m and 200m while
+Hill was still a highly touted high schooler committed to Oklahoma State.
+Lost both races decisively and describes it as a formative lesson in how
+real the gap can be between "good" and elite-tier athleticism — relayed on
+[[Matt Waldman's RSP Cast - 2024-02-01]].
+
 ## Philosophy / Known Biases
 
 - **Mechanism over outcome.** Argues from *why* a trait produces production,
@@ -59,8 +67,23 @@ while Waldman supplies scouting-report framing and NFL comps.
   "gadget player" public perception; [[Michael Penix Jr.]] projected to need
   a multi-year bench runway (Jordan Love comp) given his injury history,
   rather than starting early.
+- **2024-02-01** — first live-Senior-Bowl-viewing calls of the class, all
+  open: downgrades [[Bo Nix]] after watching him actually throw ("Mitch
+  Trubisky syndrome"), landing him at the borderline of contributor/
+  emergency-starter — notably closer to guest Daniel Harms's 2024-01-15
+  skepticism than to Waldman's own bullish read of the same player.
+  Independently grades [[Devontez Walker]] a late Day 3 pick against outside
+  buzz that had him rising as high as the late first round — an explicit,
+  self-described refusal to chase the hype ("I watched and waited... I
+  don't see that"). Tempers [[Xavier Legette]]'s pre-Senior-Bowl DK
+  Metcalf comp after live reps looked "sloppier" and less dominant than
+  his frame suggested. Bullish, lower-risk calls on [[Ricky Pearsall]]
+  (Cole Beasley NFL comp) and [[Dylan Laube]] (a small-school pass-catching
+  riser). All directly checkable against the 2024 draft and each player's
+  rookie season.
 
 ## Sources
 - [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]] — *Going Deep*; RB movement skills, pro-readiness vs ceiling, player development
 - [[Matt Waldman's RSP Cast - 2024-01-08]] — not a co-host on this episode; his "healthy enough to play vs. perform" framework relayed by Waldman on [[Tony Pollard]]
 - [[Matt Waldman's RSP Cast - 2024-01-11 (Going Deep - Draft Prospects)]] — *Going Deep*; 2024 draft-class evaluation of [[Blake Corum]], [[Michael Penix Jr.]], [[Keon Coleman]], and [[Ainias Smith]]; extends the pace-control/movement-intellect framework with a new "compensatory skill" mechanism
+- [[Matt Waldman's RSP Cast - 2024-02-01]] — *Going Deep*; a full Senior Bowl/Shrine Game-week episode, live-viewing downgrades on [[Bo Nix]], [[Devontez Walker]] and [[Xavier Legette]], reinforcing updates on [[Ricky Pearsall]], [[Malachi Corley]] and [[Spencer Rattler]], new prospect pages ([[Roman Wilson]], [[Ray Davis]], [[Brendan Rice]], [[Dylan Laube]]), and a personal-background aside (raced [[Tyreek Hill]] as a Big Ten sprinter)

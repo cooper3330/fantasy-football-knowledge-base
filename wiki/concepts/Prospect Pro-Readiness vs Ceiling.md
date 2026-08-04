@@ -28,6 +28,8 @@ player as he is a prospect."
 
 - 2023-12-21 — **Waldman and Angelo**, same episode, on what pro-readiness looks like from the other side: [[Malik Nabers]]'s year-over-year improvement was "more so just a consistency standpoint — going from inconsistent to consistent." Angelo calls him the most consistent receiver in college football in 2023 and says he should have won the Biletnikoff. Waldman's version: "a massive vocabulary of footwork maneuvers and handwork maneuvers that he applies at a very savvy level for this stage" — i.e. the accumulated technique *is* the pro-readiness.
 
+- 2024-02-01 — [[Matt Waldman]] and [[Brandon Angelo]] on [[Matt Waldman's RSP Cast - 2024-02-01]]: a full episode of worked examples at the extreme ends of the gap. [[Joe Milton III]] is the clearest ceiling-without-readiness case — top-five-pick arm talent paired with a floor of "not draftable at all," where Waldman's explicit prescription is the "Jordan Love treatment": don't play him until the readiness catches up, because rushing an unready high-ceiling arm (his Malik Willis comp) stalls the readiness gap from ever closing. [[Brevyn Spann-Ford]] is the mirror case — modest ceiling, but a readiness gap visibly closing in real time across a single season (2022 to late 2023) as blocking technique and pass-pro comfort caught up to his physical tools, the clearest single-player "watch the light bulb turn on" example in this wiki.
+
 **How to use this:** when a rookie's ADP is built on ceiling language ("best
 prospect in years"), check pro-readiness separately — release work, catch-window
 variety, attack position, and how many alignments he can be trusted in. The two

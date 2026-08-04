@@ -40,6 +40,9 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-01-23 | [[Matt Harmon]] | Some Fun Games in the Divisional Round (w/ James Koh) | [[Reception Perception The Show - 2024-01-23]] |
 | 2024-01-25 | [[Matt Harmon]] | Head Coaching News & Conference Championship Breakdowns (w/ James Koh) | [[Reception Perception The Show - 2024-01-25]] |
 | 2024-01-29 | [[Matt Waldman]] | Feel It Or F@#k It: 1.29.24 (w/ Bob Harris) | [[Matt Waldman's RSP Cast - 2024-01-29]] |
+| 2024-01-30 | [[Matt Harmon]] | Conference Championship Review & More Coaching Hires (w/ James Koh) | [[Reception Perception The Show - 2024-01-30]] |
+| 2024-02-01 | [[Matt Waldman]] | 2024 Sr. Bowl Fallout and Fave Developmental Picks — Going Deep (w/ Brandon Angelo) | [[Matt Waldman's RSP Cast - 2024-02-01]] |
+| 2024-02-01 | [[Matt Harmon]] | Arthur Smith to Pittsburgh, Seahawks Personnel & Senior Bowl Takes (w/ James Koh) | [[Reception Perception The Show - 2024-02-01]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

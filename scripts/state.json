@@ -116,23 +116,27 @@
     },
     "1e92bc55-1014-4534-9e3f-b1a3870ef745": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "1e92bc55-1014-4534-9e3f-b1a3870ef745",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-20",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Safe Players To Draft In 2025"
+      "staged_path": "raw/transcripts/harris-football/2025-08-20-harris-safe-players-to-draft-in-2025.md",
+      "status": "fetched",
+      "title": "Safe Players To Draft In 2025",
+      "transcript_source": "whisper"
     },
     "1f4c814f-3d8d-4b4f-b15d-e174d3f1ff4e": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "1f4c814f-3d8d-4b4f-b15d-e174d3f1ff4e",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-22",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Super-Deep Sleepers Part 2 & Preseason Baggy Awards"
+      "staged_path": "raw/transcripts/harris-football/2025-08-22-harris-super-deep-sleepers-part-2-preseason-baggy-awards.md",
+      "status": "fetched",
+      "title": "Super-Deep Sleepers Part 2 & Preseason Baggy Awards",
+      "transcript_source": "whisper"
     },
     "1l9tkM0xJSw5hv6sG21sAl9wVKsaizev": {
       "expert": "Matt Harmon",
@@ -480,13 +484,15 @@
     },
     "4527ec28-4951-4643-a9bd-33846714e677": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "4527ec28-4951-4643-a9bd-33846714e677",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-19",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Previewing The Rookies For 2025"
+      "staged_path": "raw/transcripts/harris-football/2025-08-19-harris-previewing-the-rookies-for-2025.md",
+      "status": "fetched",
+      "title": "Previewing The Rookies For 2025",
+      "transcript_source": "whisper"
     },
     "46d2611e-5b66-4c65-8b99-ef8acba82147": {
       "expert": "Chris Harris",
@@ -980,13 +986,15 @@
     },
     "653b68aa-b3f7-11ef-b76b-271931511ee4": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "653b68aa-b3f7-11ef-b76b-271931511ee4",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-20",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Daniel Jones Starts, McMillan Hurt & Ranking #2 Receivers"
+      "staged_path": "raw/transcripts/reception-perception/2025-08-20-rp-daniel-jones-starts-mcmillan-hurt-ranking-2-receivers.md",
+      "status": "fetched",
+      "title": "Daniel Jones Starts, McMillan Hurt & Ranking #2 Receivers",
+      "transcript_source": "whisper"
     },
     "6560057a-b3f7-11ef-b76b-576cff712d7e": {
       "expert": "Matt Harmon",
@@ -1036,13 +1044,15 @@
     },
     "65f67b54-b3f7-11ef-b76b-afd3707f338f": {
       "expert": "Matt Harmon",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "65f67b54-b3f7-11ef-b76b-afd3707f338f",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-22",
       "show": "Reception Perception: The Show",
-      "status": "pending",
-      "title": "Ted Nguyen & Dr. Deepak Chona Join!"
+      "staged_path": "raw/transcripts/reception-perception/2025-08-22-rp-ted-nguyen-dr-deepak-chona-join.md",
+      "status": "fetched",
+      "title": "Ted Nguyen & Dr. Deepak Chona Join!",
+      "transcript_source": "whisper"
     },
     "661b5e56-b3f7-11ef-b76b-878b31b1a691": {
       "expert": "Matt Harmon",
@@ -2024,13 +2034,15 @@
     },
     "aa0c23d9-6b5b-4124-92f6-e7c385286903": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "aa0c23d9-6b5b-4124-92f6-e7c385286903",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-25",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Late-Round Players We Love For 2025"
+      "staged_path": "raw/transcripts/harris-football/2025-08-25-harris-late-round-players-we-love-for-2025.md",
+      "status": "fetched",
+      "title": "Late-Round Players We Love For 2025",
+      "transcript_source": "whisper"
     },
     "aa6fac62-5362-48b8-8507-1716872bee50": {
       "expert": "Chris Harris",
@@ -3255,8 +3267,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-01-30",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2024-01-30-rp-conference-championship-review-more-coaching-hires.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2024-01-30-rp-conference-championship-review-more-coaching-hires.md",
+      "status": "ingested",
       "title": "Conference Championship Review & More Coaching Hires",
       "transcript_source": "whisper"
     },
@@ -3279,8 +3291,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-01",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2024-02-01-rp-arthur-smith-to-pittsburgh-seahawks-personnel-senior-bowl-takes.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2024-02-01-rp-arthur-smith-to-pittsburgh-seahawks-personnel-senior-bowl-takes.md",
+      "status": "ingested",
       "title": "Arthur Smith to Pittsburgh, Seahawks Personnel & Senior Bowl Takes",
       "transcript_source": "whisper"
     },
@@ -3454,13 +3466,15 @@
     },
     "db2152d4-c3de-40eb-b149-614ffb0b9ecf": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "db2152d4-c3de-40eb-b149-614ffb0b9ecf",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-21",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Super-Deep Sleepers Part 1"
+      "staged_path": "raw/transcripts/harris-football/2025-08-21-harris-super-deep-sleepers-part-1.md",
+      "status": "fetched",
+      "title": "Super-Deep Sleepers Part 1",
+      "transcript_source": "whisper"
     },
     "dfc8f41a-ad9c-4bae-989e-ce69dee66cdd": {
       "expert": "Chris Harris",
@@ -3564,13 +3578,15 @@
     },
     "f845abdb-aa1f-46c7-861b-ebdae4216202": {
       "expert": "Chris Harris",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "f845abdb-aa1f-46c7-861b-ebdae4216202",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-18",
       "show": "Harris Fantasy Football Podcast",
-      "status": "pending",
-      "title": "Five Busts For 2025"
+      "staged_path": "raw/transcripts/harris-football/2025-08-18-harris-five-busts-for-2025.md",
+      "status": "fetched",
+      "title": "Five Busts For 2025",
+      "transcript_source": "whisper"
     },
     "fbfb999b-3109-4096-8c98-f3a244875d30": {
       "expert": "Chris Harris",
@@ -3753,8 +3769,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-01",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-02-01-rsp-2024-sr-bowl-fallout-and-fave-developmental-picks-going-deep-with-bran.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-02-01-rsp-2024-sr-bowl-fallout-and-fave-developmental-picks-going-deep-with-bran.md",
+      "status": "ingested",
       "title": "2024 Sr. Bowl Fallout and Fave Developmental Picks: Going Deep with Brandon Angelo and Matt Waldman",
       "transcript_source": "whisper"
     },
@@ -5330,13 +5346,15 @@
     },
     "https://mattwaldmanrsp.com/?p=52106": {
       "expert": "Matt Waldman",
-      "first_seen": "2026-08-01",
+      "first_seen": "2026-08-03",
       "guid": "https://mattwaldmanrsp.com/?p=52106",
-      "last_checked": "2026-08-02",
+      "last_checked": "2026-08-03",
       "pub_date": "2025-08-18",
       "show": "Matt Waldman's RSP Cast",
-      "status": "pending",
-      "title": "Feel It Or F\u2013It 8.18.2025: An RSP Podcast with Bob Harris and Matt Waldman"
+      "staged_path": "raw/transcripts/rsp-cast/2025-08-18-rsp-feel-it-or-fit-8182025-an-rsp-podcast-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It Or F\u2013It 8.18.2025: An RSP Podcast with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
     },
     "https://mattwaldmanrsp.com/?p=52132": {
       "expert": "Matt Waldman",

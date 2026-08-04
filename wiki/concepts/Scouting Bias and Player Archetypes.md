@@ -29,6 +29,8 @@ traits — and the evaluation errors that follow.
 
 - 2023-12-21 — [[Brandon Angelo]] (co-host of *Going Deep*) on [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]]: the cleanest statement of the bias in the wiki so far, on [[Marvin Harrison Jr.]] — "I don't think he's as good of a player as he is a prospect." His complaint is about the aura rather than the evaluation: people discuss Harrison "as if he is already there," which prices a projection as a fact. [[Matt Waldman]]'s parallel framing, same episode: his criticisms are "concern relative to the buzz people are giving," not concerns in absolute terms. See [[Prospect Pro-Readiness vs Ceiling]].
 
+- 2024-02-01 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-01]]): a program-level version of the archetype argument, applied to [[Drake Maye]] — North Carolina's system has produced a specific quarterback archetype across multiple recruiting classes (Mitch Trubisky, Sam Howell, Maye — "not too far apart on the same wavelength"), and that archetype/brand of football "has not been successful in the NFL for long periods of time," independent of any one player's individual talent grade. Distinct from the usual version of this bias (mislabeling a player by appearance) — here the label risk is structural, attached to the system a prospect came from rather than to how he looks.
+
 **Why this matters for drafting:** archetype labels leak into ADP. Where a
 player's reputation and measured profile diverge, the reputation is often what
 is priced — which is where value appears.

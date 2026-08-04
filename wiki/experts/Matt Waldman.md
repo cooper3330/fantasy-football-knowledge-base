@@ -213,6 +213,21 @@ one of his bigger post-draft value calls once his Rams landing spot was known.
   optimistic on him — a stated preference for restraint on a hot name, worth
   checking against how the market actually prices him.
 
+- **Self-admitted pre-draft miss on Will Levis (2024-02-01, *Going Deep*),
+  used as a live grading benchmark.** Volunteers, alongside [[Brandon Angelo]] (who says the same thing independently), that he "did not think
+  Will Levis was a draftable player" pre-draft — both graded him near
+  zero. Cited here as a track-record data point because Waldman himself
+  then uses Levis's actual rookie season as the explicit floor/median
+  comp for [[J.J. McCarthy]], effectively grading a new prospect against
+  his own admitted miss rather than pretending the miss didn't happen.
+
+- **Open prediction (2024-02-01), unresolved at time of writing:** revisits
+  [[Drake Maye]] after admitting he may have "sleepwalked" through the
+  initial evaluation, and the rewatch *reinforces* rather than softens the
+  2024-01-22 skepticism — new Jake Locker comp, plus a structural
+  North-Carolina-system risk (see [[Scouting Bias and Player Archetypes]]).
+  Directly checkable against Maye's rookie season and beyond.
+
 ## Sources
 - [[Matt Waldman's RSP Cast - 2023-12-14]] — career longevity / aging curves (with Adam Harstad)
 - [[Matt Waldman's RSP Cast - 2023-12-18]] — *Feel It or F**k It*, Week 15 (with Bob Harris); route-running framework, 2024 RB market, Houston scheme-vs-talent
@@ -226,3 +241,4 @@ one of his bigger post-draft value calls once his Rams landing spot was known.
 - [[Matt Waldman's RSP Cast - 2024-01-15]] — *Feel It or F**k It*, with guest Daniel Harms filling in for Bob Harris; a wide mix of current-NFL takes and 2024 draft prospects, including an unresolved on-air disagreement with the guest over [[Travis Kelce]]'s decline
 - [[Matt Waldman's RSP Cast - 2024-01-22]] — *Feel It or F**k It*, Divisional Round wrap and Conference Championship preview (with Bob Harris); a wide 2024 redraft/dynasty sweep plus Waldman's own first detailed looks at [[Jayden Daniels]], [[J.J. McCarthy]], [[Bo Nix]], [[Drake Maye]] and [[Caleb Williams]], several disagreeing with guest Daniel Harms's 2024-01-15 reads
 - [[Matt Waldman's RSP Cast - 2024-01-29]] — *Feel It or F**k It*, Conference Championship wrap (with Bob Harris); extended [[Lamar Jackson]]/[[Brock Purdy]]/[[Jared Goff]] analysis, new pages [[Patrick Mahomes]] and [[Jalen Hurts]], plus eight Senior Bowl/Shrine Game 2024 prospect quick-hitters
+- [[Matt Waldman's RSP Cast - 2024-02-01]] — *Going Deep* (with Brandon Angelo); a full Senior Bowl/Shrine Game-week episode, twelve new 2024 prospect pages (headlined by an extended [[Brevyn Spann-Ford]] development breakdown and a [[Joe Milton III]] boom/bust arm-talent case), a reinforced [[Drake Maye]] skepticism after a self-described re-watch, and updated reads on [[J.J. McCarthy]], [[Bo Nix]] and [[Michael Penix Jr.]]

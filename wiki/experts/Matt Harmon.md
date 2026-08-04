@@ -85,9 +85,41 @@ pulled from dedicated rankings segments.
   [[Zay Flowers]] #4 (with explicit "superstar tier" future upside),
   [[Rashee Rice]] #5 ("the most limited of these five"). Checkable against
   each player's subsequent career trajectory.
+- **Open, unresolved 2024-01-30 read:** a notably more critical take on
+  [[Lamar Jackson]]'s AFC Championship performance than [[Matt Waldman]]'s the
+  day before — three turnover-worthy throws, an abandoned run game, an open
+  "are playoff losses mounting" question — while still calling him an
+  unhedged top-three quarterback. A direct, on-record recency-adjacent
+  disagreement with Waldman's more forgiving read of the same game, similar
+  in shape to their earlier [[Brock Purdy]] split. Directly checkable.
+- **Open, unresolved 2024-01-30 read:** first graded take on Philadelphia's
+  Kellen Moore hire for [[Jalen Hurts]] — "definitely an upgrade" over Brian
+  Johnson but "something left to be desired," with a specific structural
+  worry about Hurts's near-total shotgun usage. Checkable against how the
+  2024 Eagles offense is actually called.
+- **New page created 2024-01-30:** [[Bryce Young]] — a full rookie-year
+  evaluation with real hedges (bad situation, not necessarily bad talent) but
+  a real physical-limitation floor (below-average arm, undersized, limited
+  elusiveness) that Harmon says leaves accuracy/processing as the only real
+  path to success. Directly checkable against his career arc under new HC
+  Dave Canales.
+- **Open, unresolved 2024-02-01 read:** an explicit, data-backed defense of
+  the Arthur Smith hire in Pittsburgh — process over results, with charted
+  route-tree comparisons ([[George Pickens]] vs. [[Drake London]]) as the
+  supporting evidence. A real outlier take relative to broader public
+  reaction at the time ("the world's foremost and perhaps only Arthur Smith
+  defender"). Directly checkable against the Steelers' 2024 offense.
+- **Open, unresolved 2024-02-01 reads:** early 3-game Reception Perception
+  charting on three more 2024 receiver prospects — [[Brian Thomas Jr.]]
+  (good vs. press, but a heavily concentrated 3-route tree), [[Keon Coleman]] (real separation concerns, ~33rd percentile, an explicit
+  [[Treylon Burks]] bust comp), and [[Ladd McConkey]] (the strongest of the
+  three, an early Cooper Kupp mold comp). Directly checkable against all
+  three players' rookie seasons and Harmon's own eventual full profiles.
 
 ## Sources
 - [[Reception Perception The Show - 2024-01-16]] — Wild Card Weekend recap (with James Koh); extended [[Jordan Love]] praise, [[Tua Tagovailoa]] vs. [[Jared Goff]] ceiling comparison, [[Puka Nacua]]/[[Cooper Kupp]] baton-passing read, introduces the [[Reception Perception Methodology]] concept
 - [[Reception Perception The Show - 2024-01-18]] — early 2024 draft-prospect charting on [[Marvin Harrison Jr.]], [[Malik Nabers]] and [[Rome Odunze]] (with James Koh), plus a Divisional Round preview across all four games; introduces the "stacked board" tier-one grade, applied to [[Ja'Marr Chase]] and [[Drake London]]
 - [[Reception Perception The Show - 2024-01-23]] — Divisional Round recap across all four games (with James Koh); a full breakdown of Green Bay's WR hierarchy ([[Jayden Reed]], [[Dontayvion Wicks]], [[Christian Watson]], [[Romeo Doubs]]), free-agency mechanics for [[Stefon Diggs]]/[[Gabe Davis]]/[[Mike Evans]]/[[Baker Mayfield]], and a public disagreement with [[Matt Waldman]] over [[Brock Purdy]]'s Divisional Round performance
 - [[Reception Perception The Show - 2024-01-25]] — head-coaching carousel roundup (mostly not ingested — no player-role connection) plus Conference Championship breakdown (with James Koh); a five-way ranking of the playoffs' remaining receivers ([[Brandon Aiyuk]], [[Amon-Ra St. Brown]], [[Deebo Samuel]], [[Zay Flowers]], [[Rashee Rice]]) and matchup notes on [[Isiah Pacheco]], [[Jared Goff]] and [[Christian McCaffrey]]
+- [[Reception Perception The Show - 2024-01-30]] — Conference Championship recap (with James Koh) plus several coordinator hires filtered for player relevance; a notably critical [[Lamar Jackson]] read set against Waldman's more forgiving one, scheme-fit optimism for [[Bijan Robinson]]/[[Drake London]] under Atlanta's new OC, a Tampa Bay OC departure that reopens [[Baker Mayfield]]/[[Mike Evans]]/[[Chris Godwin]]'s scheme outlook, a first grade on the Kellen Moore hire for [[Jalen Hurts]], and a new page, [[Bryce Young]]
+- [[Reception Perception The Show - 2024-02-01]] — Arthur Smith to Pittsburgh (with James Koh), a data-backed process-over-results defense with charted route-tree evidence, new pages for [[George Pickens]], [[Najee Harris]], [[Jaylen Warren]] and [[Diontae Johnson]]; resolution of the Ben-Johnson-leaving-Detroit question (he's staying, updating [[Jared Goff]] and [[Jameson Williams]]); Seattle offense notes on [[Tyler Lockett]] and [[Jaxon Smith-Njigba]] under new HC Mike McDonald; early charting on [[Brian Thomas Jr.]], [[Keon Coleman]] and a new page, [[Ladd McConkey]]
