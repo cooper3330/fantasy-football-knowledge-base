@@ -3,12 +3,12 @@
 # shows, oldest first, using local whisper.cpp.
 #
 # This is deliberately SEPARATE from the daily job (run_daily_check.sh), which
-# is capped at --limit 5 so it can never turn into a multi-hour run.
+# is capped at --limit 10 so it can never turn into a multi-hour run.
 #
 # Safe to interrupt: scripts/check_new_episodes.py checkpoints state.json after
 # every single episode, so re-running this picks up exactly where it left off.
 # It does NOT ingest into the wiki and does NOT touch git -- it only stages
-# transcripts into Sources/_inbox/ for later ingestion.
+# transcripts into raw/transcripts/<show>/ for later ingestion.
 #
 # Logs to scripts/logs/daily.log -- the same stream as the scheduled daily job,
 # so all pipeline activity is readable in one place. Drain runs are wrapped in

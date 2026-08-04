@@ -20,7 +20,10 @@ tags: [player]
 - 2024-01-08 — **Bob Harris** (co-host — not a tracked expert) on [[Matt Waldman's RSP Cast - 2024-01-08]]: floats Dallas as a second possible free-agent landing spot alongside [[Tony Pollard]]. Waldman's reply keeps his stated preference for the Ravens fit, while agreeing Dallas "could be a good place for him too."
 - 2024-01-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-22]]) [Redraft (Standard)]: reaffirms the Ravens hope from three weeks earlier — "I think he's got another year left. I hope he lands in Baltimore" — and separately floats a [[Josh Jacobs]]-to-Baltimore scenario as an equally exciting outcome. Either back landing with [[Lamar Jackson]]'s offense is "massive" in his framing.
 
+- 2024-02-05 — **Bob Harris** (co-host — not a tracked expert) on [[Matt Waldman's RSP Cast - 2024-02-05]] [Best Ball]: reports drafting Henry in the seventh round of his first full best-ball mock of the cycle and calls it a market miss — "come on, people, what are we thinking here? He's going somewhere." According to [[Matt Waldman]], same episode: agrees a "course correction" is coming once Henry lands somewhere, and repeats his standing Ravens wish-cast from January, explicit that a Baltimore landing spot is "the ideal" outcome. Both hosts frame him as a real value at a seventh-or-eighth-round best-ball price given he was RB12 in 2023 — "a lottery ticket... who it looks like he can still get something done."
+
 ## Related Concepts
 - [[League Trend Cycles and Market Inefficiency]]
 - [[Running Back Size and Movement Skills]]
 - [[Pace Control and Movement Intellect]]
+- [[Best Ball]]

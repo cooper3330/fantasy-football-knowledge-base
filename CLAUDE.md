@@ -45,6 +45,48 @@ wiki/
 └── _templates/   starting shapes for each page type
 ```
 
+### Page frontmatter
+
+**Every page — without exception — opens with a YAML frontmatter block.** This is
+what makes the vault queryable as data rather than prose: Obsidian tag search and
+Dataview both key off it. A page without frontmatter is invisible to every query
+that isn't full-text search.
+
+Copy the shape from `wiki/_templates/<type>.md`. Required keys by type:
+
+| Location | `type:` | Required keys |
+|---|---|---|
+| `wiki/players/` | `player` | `type`, `team`, `position`, `tags` |
+| `wiki/experts/` | `expert` | `type`, `outlet`, `tags` |
+| `wiki/concepts/` | `concept` | `type`, `tags` |
+| `wiki/formats/` | `format` | `type`, `priority`, `tags` |
+| `wiki/sources/` | `source` | `type`, `expert`, `show`, `episode`, `date`, `guid`, `raw`, `tags` |
+| `wiki/synthesis/` | `synthesis` | `type`, `question`, `formats`, `last_refreshed`, `tags` |
+| `index.md` | `index` | `type`, `tags` |
+| `log.md` | `log` | `type`, `tags` |
+| `wiki/sources/SOURCE_CATALOG.md` | `catalog` | `type`, `tags` |
+
+Rules that apply everywhere:
+
+- `tags` always contains the page's own type as a tag (a `player` page is tagged
+  `[player]`), so `type:` and tag search can never disagree. Add further tags
+  after it: `[player, prospect]`, `[concept, evaluation, scheme]`.
+- `position` is one of `QB` / `RB` / `WR` / `TE`.
+- `date` and `last_refreshed` are `YYYY-MM-DD`.
+- No required key is left blank on a real page. Templates ship blank; pages don't.
+- `aliases` is optional but legal anywhere, and is the right home for the
+  nickname problem in rule 6 — `aliases: [CMC]` on the Christian McCaffrey page.
+
+Verify with:
+
+```bash
+python3 scripts/lint_frontmatter.py
+```
+
+It is report-only by design and has no `--fix`: filling in a missing `team:` or
+`date:` means knowing the source, and inventing one would violate "don't
+fabricate". Fix what it reports by hand.
+
 ---
 
 ## Tracked experts
@@ -258,6 +300,10 @@ A periodic health pass. Check for:
 - **Stale index lines** — an `index.md` summary that no longer matches its page's
   most recent take. Spot-check by comparing each index line against the last
   bullet on the page it points to.
+- **Frontmatter drift** — run `python3 scripts/lint_frontmatter.py`. It checks
+  every page against its type's schema (see "Page frontmatter"): block present
+  and closed, required keys present and non-empty, `type:` matching the folder,
+  base tag present, valid position and date formats.
 - **Raw/state drift** — run `python3 scripts/verify_integrity.py`. It checks that
   every transcript is on disk, in the tree its status implies, referenced by
   state, with no duplicates or orphans.

@@ -96,6 +96,13 @@ one of his bigger post-draft value calls once his Rams landing spot was known.
   the 2022 rookie class as the example — the model favored Watson, and Waldman
   said at the time he still wouldn't trade Watson for Wilson regardless
   (Garrett Wilson is not otherwise tracked in this wiki).
+- **Grades quarterback processing as a confidence/intuition skill, not an
+  academic one.** Stated explicitly (2024-02-05): the position is an
+  "improvisational performance" skill closer to acting or music than to
+  study, and teams overrate testable/academic intelligence while
+  underrating the confidence to release the ball the instant a read
+  resolves. His cautionary example is Alex Smith's over-processing. See
+  [[Quarterback Processing and Confidence]].
 - **Weighs intangibles and relationship fit alongside tape**, not just as a
   tiebreaker. Explicitly credits watching [[Jahmyr Gibbs]]'s pre-draft rapport
   with Lions RBs coach Scotty Montgomery as something that shaded his
@@ -228,6 +235,17 @@ one of his bigger post-draft value calls once his Rams landing spot was known.
   North-Carolina-system risk (see [[Scouting Bias and Player Archetypes]]).
   Directly checkable against Maye's rookie season and beyond.
 
+- **[[Brock Purdy]] pre-draft grade — self-cited external validation (2024-02-12).**
+  Reacting to a Super Bowl-week Jed York report that Kyle Shanahan privately
+  told the 49ers front office "our number three quarterback is our best
+  quarterback" before Purdy's rookie season, Waldman points to his own
+  pre-draft Rookie Scouting Portfolio report on Purdy — supplied directly to
+  Purdy's own quarterback coach before the draft — as having already made
+  that case: not a Year One starter, but clearly more than a "Mr.
+  Irrelevant" (last pick of the draft) value, a "viable starter in the right
+  system." Frames Shanahan's private assessment as independent confirmation
+  of a grade he'd made public over a year earlier.
+
 ## Sources
 - [[Matt Waldman's RSP Cast - 2023-12-14]] — career longevity / aging curves (with Adam Harstad)
 - [[Matt Waldman's RSP Cast - 2023-12-18]] — *Feel It or F**k It*, Week 15 (with Bob Harris); route-running framework, 2024 RB market, Houston scheme-vs-talent
@@ -242,3 +260,6 @@ one of his bigger post-draft value calls once his Rams landing spot was known.
 - [[Matt Waldman's RSP Cast - 2024-01-22]] — *Feel It or F**k It*, Divisional Round wrap and Conference Championship preview (with Bob Harris); a wide 2024 redraft/dynasty sweep plus Waldman's own first detailed looks at [[Jayden Daniels]], [[J.J. McCarthy]], [[Bo Nix]], [[Drake Maye]] and [[Caleb Williams]], several disagreeing with guest Daniel Harms's 2024-01-15 reads
 - [[Matt Waldman's RSP Cast - 2024-01-29]] — *Feel It or F**k It*, Conference Championship wrap (with Bob Harris); extended [[Lamar Jackson]]/[[Brock Purdy]]/[[Jared Goff]] analysis, new pages [[Patrick Mahomes]] and [[Jalen Hurts]], plus eight Senior Bowl/Shrine Game 2024 prospect quick-hitters
 - [[Matt Waldman's RSP Cast - 2024-02-01]] — *Going Deep* (with Brandon Angelo); a full Senior Bowl/Shrine Game-week episode, twelve new 2024 prospect pages (headlined by an extended [[Brevyn Spann-Ford]] development breakdown and a [[Joe Milton III]] boom/bust arm-talent case), a reinforced [[Drake Maye]] skepticism after a self-described re-watch, and updated reads on [[J.J. McCarthy]], [[Bo Nix]] and [[Michael Penix Jr.]]
+- [[Matt Waldman's RSP Cast - 2024-02-02]] — *RSP Film and Theory* (with Adam Harstad); a pure Hall of Fame nominee/institution discussion, no current players — the only wiki-relevant content is two general evaluation frameworks (peak-vs-longevity career valuation, a generalized "transcend the system" test) applied to [[Aging Curves and Career Longevity]] and [[Scheme vs Talent]]
+- [[Matt Waldman's RSP Cast - 2024-02-05]] — *Feel It or F**k It*, Super Bowl LVIII week (with Bob Harris); seven new pages including [[Kyle Pitts]], [[Brock Bowers]] and [[Desmond Ridder]], reinforcing rookie-QB passes on [[Drake Maye]] and [[Bo Nix]], a Best Ball [[Derrick Henry]] value call, the Arthur Smith/Atlanta scheme mechanism, and a new durable concept page ([[Quarterback Processing and Confidence]]) from Waldman's own "why teams miss on quarterbacks" framework
+- [[Matt Waldman's RSP Cast - 2024-02-12]] — *Feel It or F**k It*, Post-Super Bowl edition (with Bob Harris); Super Bowl LVIII recap ([[Isiah Pacheco]], [[Travis Kelce]], [[Rashee Rice]], [[Patrick Mahomes]] all updated), a Brock Purdy pre-draft-grade validation, three rookie RB names ([[Dylan Laube]], [[Daijun Edwards]], [[George Holani]]), and five veteran-quarterback/receiver free-agency reads ([[Davante Adams]], [[Kirk Cousins]], [[Daniel Jones]], [[Ryan Tannehill]], [[Aaron Rodgers]])

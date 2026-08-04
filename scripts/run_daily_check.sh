@@ -26,13 +26,37 @@ TS="$(date '+%Y-%m-%d %H:%M:%S')"
   /usr/bin/python3 scripts/check_new_episodes.py --oldest --limit 10
 } >> "$LOG_DIR/daily.log" 2>&1
 
-if [ -n "$(ls -A Sources/_inbox 2>/dev/null)" ]; then
+# state.json is the authoritative queue, not the directory listing: a transcript
+# on disk under raw/transcripts/ with status already `ingested` would be drift,
+# and verify_integrity.py -- not this job -- is what repairs that.
+QUEUE="$(/usr/bin/python3 -c "
+import json, pathlib
+s = json.loads(pathlib.Path('scripts/state.json').read_text())
+print(sum(1 for v in s['episodes'].values() if v.get('status') == 'fetched'))
+" 2>/dev/null)"
+
+if [ "${QUEUE:-0}" -gt 0 ]; then
+  # ingest_manifest.py builds the whole prompt -- schema pointer, ordering rule,
+  # co-host roster, existing-page inventory, the 8 ingest steps, and the hard
+  # no-git constraint -- so there is nothing to restate inline here. Its
+  # diagnostics go to stderr, so this captures only the prompt.
+  #
+  # --model sonnet is the single biggest cost lever in the pipeline (CLAUDE.md,
+  # "Model and batch size"); --count 3 keeps an unattended run bounded and gives
+  # the last transcript in the batch a clean context.
+  PROMPT="$(/usr/bin/python3 scripts/ingest_manifest.py --count 3 2>/dev/null)"
   {
-    echo "=== $TS: claude -p ingestion ==="
-    /Users/kylecooper/.local/bin/claude -p \
-      "Check Sources/_inbox for staged transcripts and ingest them into the wiki per CLAUDE.md. IMPORTANT: process them strictly in chronological order, oldest episode first (the filenames are date-prefixed, so sorting by filename gives the right order). Expert opinions evolve, so newer takes must be appended after older ones. Do not run any git commands." \
+    echo "=== $TS: claude -p ingestion ($QUEUE awaiting, taking 3) ==="
+    /Users/kylecooper/.local/bin/claude -p "$PROMPT" \
+      --model sonnet \
       --output-format text
+    echo "=== $TS: post-ingest integrity ==="
+    /usr/bin/python3 scripts/verify_integrity.py
+    # Frontmatter is the vault's query layer; an agent that skips it produces
+    # pages that look fine in prose and are invisible to every tag/Dataview
+    # query. Unattended runs have nobody watching, so check it here.
+    /usr/bin/python3 scripts/lint_frontmatter.py
   } >> "$LOG_DIR/daily.log" 2>&1
 else
-  echo "=== $TS: nothing staged, skipping ingestion ===" >> "$LOG_DIR/daily.log"
+  echo "=== $TS: nothing awaiting ingestion, skipping ===" >> "$LOG_DIR/daily.log"
 fi

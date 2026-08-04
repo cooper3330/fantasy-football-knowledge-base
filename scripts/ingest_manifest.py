@@ -18,10 +18,25 @@ Usage:
 
 import argparse
 import json
+import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 STATE = REPO / "scripts" / "state.json"
+
+FRONTMATTER = """EVERY page you create or touch must open with a YAML frontmatter block.
+`tags` always contains the page's own type; no required key may be left blank.
+
+  players/    type: player     + team, position (QB|RB|WR|TE), tags: [player]
+  concepts/   type: concept    + tags: [concept, ...]
+  experts/    type: expert     + outlet, tags: [expert]
+  formats/    type: format     + priority, tags: [format]
+  sources/    type: source     + expert, show, episode, date (YYYY-MM-DD), guid, raw, tags: [source]
+
+Optional anywhere: `aliases: [CMC]` -- use it for nicknames and common ASR
+mangles so the alternate spelling resolves to the canonical page.
+index.md, log.md and SOURCE_CATALOG.md already have theirs; do not strip it when
+appending to them."""
 
 CO_HOSTS = """By show:
 - *Matt Waldman's RSP Cast* -> MATT WALDMAN (tracked). Rotating co-hosts:
@@ -66,6 +81,9 @@ Each transcript's RSS guid (needed for the state.json update) is in its own fron
 
 --- PRE-COMPUTED CONTEXT (do NOT spend tool calls rediscovering this) ---
 
+REQUIRED PAGE FRONTMATTER:
+{FRONTMATTER}
+
 CO-HOST ATTRIBUTION:
 {CO_HOSTS}
 
@@ -109,7 +127,9 @@ MUST DO for EACH transcript (per CLAUDE.md ingest steps):
       a. python3 scripts/state_io.py --guid "<guid>" --status ingested
       b. mv the transcript to raw/ingested/<show>/     (plain mv, NOT git mv)
       c. python3 scripts/state_io.py --guid "<guid>" --staged-path raw/ingested/<show>/<file>.md
- 8. Run `python3 scripts/verify_integrity.py` and confirm OK.
+ 8. Run BOTH checks and confirm both are OK before reporting done:
+      python3 scripts/verify_integrity.py
+      python3 scripts/lint_frontmatter.py
 
 HARD CONSTRAINTS -- these are not style preferences:
 - DO NOT run ANY git command, for any reason. Not `git mv`, not `git add`, not
@@ -142,10 +162,14 @@ def main():
     inv = inventory()
     batch = queue[: args.count]
     print(build_prompt(batch, inv))
-    print(f"\n{'=' * 70}", flush=True)
-    print(f"queue: {len(queue)} awaiting | this prompt covers {len(batch)}")
+    # Footer goes to stderr so callers can pipe stdout straight into an agent:
+    #   claude -p "$(ingest_manifest.py --count 3)" --model sonnet
+    # Without this split the diagnostics land inside the prompt itself.
+    print(f"\n{'=' * 70}", file=sys.stderr)
+    print(f"queue: {len(queue)} awaiting | this prompt covers {len(batch)}",
+          file=sys.stderr)
     print(f"wiki: {len(inv['players'])} players, {len(inv['concepts'])} concepts, "
-          f"{len(inv['sources'])} sources")
+          f"{len(inv['sources'])} sources", file=sys.stderr)
 
 
 if __name__ == "__main__":

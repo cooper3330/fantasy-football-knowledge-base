@@ -47,6 +47,26 @@ price into a player when he changes teams, or when his coordinator does.
 
 - 2024-02-01 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) on [[Reception Perception The Show - 2024-02-01]]: the fullest single case study in this wiki, built entirely around process vs. results. Harmon's explicit framing on Arthur Smith's hire in Pittsburgh: most of the public reaction to Smith is "only thinking about results," not process — his Atlanta failure was fit-for-the-big-chair (decision-making, public conduct), not scheme quality, and his underlying offensive philosophy (heavy volume to a team's best players, route concepts built around the middle of the field) is exactly what modern NFL offenses want. Backed with hard charted evidence rather than just argument: [[George Pickens]] ran dig/slant routes on just 7.7%/10.7% of snaps under Matt Canada in 2022, versus [[Drake London]]'s 16.6%/24.5% under Smith the same year — a direct, numbers-based prediction of what Pickens's route diet should look like once Smith calls plays. Also cites Smith's Tennessee volume-funneling history (Derrick Henry's 300-carry seasons, A.J. Brown/Corey Davis's target concentration) as the mechanism, contingent on a "results" partner — Mike Tomlin, comped to Mike Vrabel's Arthur Smith-in-Tennessee role — who forces the scheme to actually reach the good players. See [[George Pickens]], [[Najee Harris]], [[Jaylen Warren]] and [[Diontae Johnson]].
 
+### A generalized "transcend the system" test, off-topic origin (2024-02-02)
+
+- 2024-02-02 — **Adam Harstad** (Footballguys, guest — not a tracked expert)
+  on [[Matt Waldman's RSP Cast - 2024-02-02]], from an otherwise off-topic
+  Hall of Fame discussion of Andre Johnson (not a tracked player, retired,
+  no page): explicitly names this wiki's own recurring debate — "it's like
+  the Brock Purdy discussion... people will say it's all system, it's all
+  scheme, whatever — you have to be really good to take advantage of that
+  scheme in that system, but also, inarguably, there are tailwinds here
+  helping him." His generalized test for resolving it: did the player
+  **transcend** a weak supporting cast rather than merely benefit from a
+  strong one. Logged here as a reinforcing, cross-era restatement of the
+  same framework applied throughout this page to [[Brock Purdy]],
+  [[C.J. Stroud]], and the Cleveland/Rams cases, not as new evaluative
+  content about any current player.
+
+### Arthur Smith's Atlanta offense, the quarterback-constraint explanation (2024-02-05)
+
+- 2024-02-05 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-05]]): offers the specific mechanism behind Atlanta's underwhelming 2023 passing game, ahead of Arthur Smith's move to Pittsburgh — not a talent or play-calling failure so much as a quarterback constraint. [[Desmond Ridder]] "was so bad at being able to read the field with routes that work dynamically between zones" that Smith reportedly simplified the route concepts to routes that end statically and break back to the quarterback, because routes developing across the field visibly confused Ridder about when to release the ball. States this directly against the fan complaints about [[Bijan Robinson]], [[Drake London]] and [[Kyle Pitts]] not getting used correctly — the offense was simplified *for* the quarterback it had, and Waldman expects "more dynamic offense" for Atlanta's skill talent once/if the Falcons upgrade the position, while separately hoping Pittsburgh (with Mike Tomlin managing him) gives Smith a "make the game plan as dynamic as it can be" mandate. See [[Kyle Pitts]] and [[Desmond Ridder]].
+
 ## Related
 - [[League Trend Cycles and Market Inefficiency]]
 - [[Running Back Size and Movement Skills]]

@@ -1,3 +1,8 @@
+---
+type: log
+tags: [log]
+---
+
 # Operation Log
 
 Append-only chronological record of wiki operations. Newest entries at the
@@ -624,3 +629,114 @@ scheme-fit cautionary tale — now described as one of the worst RP rookie
 seasons ever. No new ASR name garbles beyond the standing "Lad
 McConkey"/"Deontay Johnson"/"Jalen Warren" garbles, resolved per rule 7 on
 their respective new pages.
+
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — The NFL Hall of Fame (And Our Picks for the '24 Class) (2024-02-02)
+*RSP Film and Theory* with co-host Adam Harstad (not tracked). Entire episode
+is a Pro Football Hall of Fame nominee/institution discussion for the Class
+of 2024 — no current NFL players, prospects, or fantasy news, and per the
+DURABILITY JUDGEMENT no player pages were created for any retired candidate
+(Andre Johnson, Fred Taylor, Patrick Willis, Antonio Gates, etc.). **What
+materially changed:** two general evaluation frameworks logged against
+existing concept pages as reinforcing, cross-context restatements — (1)
+Harstad's peak-vs-longevity career-value heuristic (league-average baseline,
+not replacement baseline) plus his RB/middle-linebacker
+shortest-career-most-forgivable wear-and-tear point, added to
+[[Aging Curves and Career Longevity]]; (2) Harstad's generalized "transcend
+the system" test, explicitly self-identified as "the Brock Purdy discussion"
+applied to Andre Johnson, added to [[Scheme vs Talent]]. No player, expert
+stance, or index headline changes. No name garbles requiring normalization —
+all names discussed (Eric Allen, Torry Holt, Andre Johnson, Fred Taylor,
+etc.) are retired players outside this wiki's tracked scope.
+
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: 2.5.24 (2024-02-05)
+*Feel It or F**k It* with **Bob Harris** (not tracked; not [[Chris Harris]]),
+Super Bowl LVIII week. Seven new pages, the most of any episode logged so
+far: [[Brian Robinson Jr.]] and [[Tyjae Spears]] (RB, coaching/personnel-
+change value calls), four tight ends — [[Brycen Hopkins]], [[Pat Freiermuth]], [[Kyle Pitts]], [[Brock Bowers]] (2024 prospect) — and
+[[Desmond Ridder]] (QB, ATL), created because his play is the explicit
+mechanism Waldman uses to explain Atlanta's 2023 passing-game struggles.
+**What materially changed:** (1) Cliff Kingsbury's move to Washington OC
+opens both a positive redraft case for [[Brian Robinson Jr.]] (James Connor/
+Arizona comp) and a new landing-spot risk on [[Caleb Williams]] if Washington
+trades up to 1.01 — "the worst end of Caleb Williams to start his career,"
+more Kyler-Murray-esque than structured. (2) [[Derrick Henry]] gets an
+explicit [Best Ball] ADP value call — 7th/8th round is a market miss on a
+2023 RB12 — plus a repeated Ravens landing-spot wish-cast. (3) The Arthur-
+Smith-to-Pittsburgh case study on [[Scheme vs Talent]] gets its specific
+mechanism: [[Desmond Ridder]]'s inability to read the field dynamically
+forced Atlanta's 2023 offense into simplified, static routes, which Waldman
+argues explains the [[Bijan Robinson]]/[[Drake London]]/[[Kyle Pitts]] usage
+complaints better than a talent or scheme-quality read — and raises a fresh
+usage worry for [[Pat Freiermuth]] in Pittsburgh (an explicit Kyle-Pitts-
+underuse comparison). (4) [[Drake Maye]] and [[Bo Nix]] both get reinforcing,
+more detailed passes on standing reads rather than reversals; Nix's bullish
+update (published after Angelo's 2024-02-01 Senior Bowl downgrade) does not
+address that critique, so the three-way split stands. (5) A new concept page,
+[[Quarterback Processing and Confidence]], captures Waldman's durable "why
+teams miss on quarterbacks" framework (processing as confidence/intuition,
+not academic study; Alex Smith as the cautionary over-processed example) —
+also logged as a new philosophy bullet on the [[Matt Waldman]] expert page.
+(6) [[Pace Control and Movement Intellect]] picks up a reinforcing "teams
+overrate speed" restatement of its existing compensatory-skill mechanism.
+ASR normalizations: "TyJay Spears" → [[Tyjae Spears]], "Brightson"/"Bryson
+Hopkins" → [[Brycen Hopkins]], "Hayward" → Connor Heyward (no page, passing
+mention), "Desmond Ritter" → [[Desmond Ridder]] (also corrected on the
+[[Drake Maye]] page, where this same garble was carried over uncorrected
+from an earlier ingest batch as a Waldman-coined comp name).
+
+## [2026-08-03] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It Post-Super Bowl Edition (2024-02-12)
+*Feel It or F**k It* with **Bob Harris** (not tracked; not [[Chris Harris]]).
+Super Bowl LVIII recap plus a rookie-RB segment and a veteran-QB/WR
+free-agency quick-hitter run. Seven new pages: two 2024 RB prospects
+([[Daijun Edwards]], [[George Holani]]) and five veterans ([[Davante Adams]], [[Kirk Cousins]], [[Daniel Jones]], [[Ryan Tannehill]], [[Aaron Rodgers]]).
+**What materially changed:** (1) [[Isiah Pacheco]]'s two Super Bowl fumbles
+are read by both hosts as a 2024 buying opportunity, not a red flag — Kansas
+City never benched him, a "top-10 running back" call with concrete
+[Best Ball] ADP (round 2-3 turn), explicitly mirroring the Gabe Davis
+last-thing-you-saw bias in the opposite (underrated) direction. (2)
+[[Rashee Rice]] gets the actual Gabe-Davis-effect downgrade instead — a real
+[Best Ball] ADP fall, undrafted deep into Waldman's own current mock,
+"not reliably valuable for top-five-round" picks. (3) [[Travis Kelce]]'s
+diminished role is reframed as a supporting-cast problem, not decline —
+he'd be "a dominant player once again" with one more real KC weapon. (4)
+[[Patrick Mahomes]] gets Waldman's fullest playing-style statement yet, "a
+wiser Brett Favre." (5) [[Dylan Laube]] gets Waldman's own tape-based
+follow-up (not just relayed buzz), confirming the [[Austin Ekeler]] archetype
+comp. (6) The [[Matt Waldman]] expert page picks up a new Track Record Notes
+entry — a Jed York report that Shanahan privately called [[Brock Purdy]] the
+49ers' best QB pre-2022 is cited as validation of Waldman's own pre-draft RSP
+grade, supplied directly to Purdy's QB coach at the time. ASR normalizations:
+"Dajon Edwards" → [[Daijun Edwards]], "Devontae Adams" → [[Davante Adams]]
+(same garble as an unrelated joke in the 2024-02-05 episode, now resolved
+with an actual evaluative take attached).
+
+All three assigned transcripts (2024-02-02, 2024-02-05, 2024-02-12) are now
+fully ingested. `python3 scripts/verify_integrity.py` confirms state and disk
+agree; a wiki-wide grep for split `[[...]]` wikilinks across every file
+touched in this batch came back clean.
+
+## [2026-08-04] lint | YAML frontmatter standardized across all pages
+
+Made frontmatter a checkable standard rather than a convention held only by
+imitation of `wiki/_templates/`.
+
+Audit found the 206 entity pages already fully conformant — 158/158 players with
+`type`/`team`/`position`/`tags`, 22/22 sources with the full 8-key block, no
+placeholder or malformed values anywhere. The gaps were the three maintained
+non-entity files, which had none: `index.md` (now `type: index`), `log.md`
+(`type: log`), and `wiki/sources/SOURCE_CATALOG.md` (`type: catalog`). All 213
+pages now pass.
+
+The larger gap was enforcement: `CLAUDE.md` had never documented frontmatter as a
+requirement, so nothing but pattern-matching kept it consistent. Added a "Page
+frontmatter" section with the required-keys table per type, and added
+`scripts/lint_frontmatter.py` — checks block present and closed, required keys
+present and non-empty, `type:` matching the folder, base tag present in `tags`,
+position in QB/RB/WR/TE, dates as YYYY-MM-DD. Report-only with no `--fix`, since
+repairing a missing `team:` or `date:` would mean inventing it.
+
+Wired into the places pages get made: the ingest prompt from
+`ingest_manifest.py` now inlines the per-type key list and step 8 runs the lint
+alongside `verify_integrity.py`, and `run_daily_check.sh` runs it post-ingest so
+the unattended path can't drift unnoticed. Also established `aliases` as a legal
+optional key — the right home for the nickname/ASR-variant problem in rule 6.
