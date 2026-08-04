@@ -25,12 +25,15 @@
     "   Bash(python3 scripts/state_io.py:*) works because the prefix ends on a",
     "   token boundary. Bash(mv raw/transcripts/:*) silently matches NOTHING,",
     "   because the real argument is raw/transcripts/<show>/<file>.md and the",
-    "   prefix stops mid-token. That failure is silent: the rule looks scoped and",
-    "   simply never fires, which is how the first ingest run had its `mv`",
-    "   blocked. mv therefore cannot be path-scoped and is allowed outright.",
-    "   What bounds it instead: Edit(raw/**) still blocks content changes, and",
-    "   verify_integrity.py detects and repairs any transcript that ends up in",
-    "   the wrong tree."
+    "   prefix stops mid-token -- the rule looks scoped and simply never fires.",
+    "",
+    "3. Edit(raw/**) also refuses a shell `mv` of anything under raw/, not just",
+    "   the Edit/Write tools. Broadening Bash(mv:*) did NOT unblock the ingest",
+    "   finalize step, because the deny is path-based and wins. That is the",
+    "   correct outcome -- it is what makes transcript immutability real rather",
+    "   than advisory -- so the ingest flow no longer moves files itself.",
+    "   verify_integrity.py --fix performs the relocation and syncs staged_path;",
+    "   see CLAUDE.md ingest step 9. mv stays allowed for everything outside raw/."
   ],
 
   "permissions": {

@@ -827,3 +827,6 @@ Waldman/Bob Harris (not tracked). Nine new player pages (A.J. Brown, Khalil Herb
 
 ## [2024-02-27] ingest | Reception Perception: The Show — Tee Higgins & Mike Evans, Marvin Harrison Jr. & Bieniemy Picks College Ball
 Higgins charted to a career-worst 2023 (RP success rates), still tagged/top-20 but no proof as WR1 without Chase. Evans charted to a career-best 2023 under new route tree, ~$18M+/yr free-agent value. Harrison Jr. now skipping combine AND pro day (no agent) — added to index. Harmon gives top-10 grades to Harrison/Nabers/Odunze without ranking them, betting landing spot decides outcomes.
+
+## [2024-02-29] ingest | Reception Perception: The Show — Wide Receiver Prospects & the State of the Falcons
+Harmon absent; James Koh hosted solo with guests Eric Froton (NBC Sports) and Kevin Knight (Falcoholic), neither tracked. New prospect pages: Adonai Mitchell, Xavier Worthy, Ja'Lynn Polk. Falcons context added to Bijan Robinson, Kyle Pitts, Desmond Ridder, Justin Fields, Kirk Cousins, Michael Penix Jr., J.J. McCarthy, Malik Nabers, Rome Odunze. Xavier Legette flagged as group's likeliest bust risk.

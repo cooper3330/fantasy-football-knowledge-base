@@ -19,6 +19,8 @@ tags: [player]
 
 - 2024-02-05 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-05]]): the explicit mechanism Waldman blames for Atlanta's underwhelming 2023 passing game (see [[Scheme vs Talent]] and [[Kyle Pitts]]) — Ridder "was so bad at being able to read the field with routes that work dynamically between zones" that offensive coordinator Arthur Smith reportedly simplified the route concepts to routes that "end statically" and break back toward the quarterback rather than developing across the field, because routes crossing the field visibly confused him about when to let the ball go. States plainly this wasn't just a bad system — "it still didn't work well as a result of that" — and separately floats real skepticism about whether Atlanta keeps him as the starter into 2024.
 
+- 2024-02-29 — According to **James Koh** (co-host — not a tracked expert) on *Reception Perception: The Show*, with [[Matt Harmon]] absent ([[Reception Perception The Show - 2024-02-29]]): says plainly Atlanta has "seen enough" — Ridder "is not the answer at quarterback" — while noting HC Raheem Morris had already publicly suggested Ridder would look better with more talent around him.
+
 ## Related Concepts
 - [[Scheme vs Talent]]
 - [[Kyle Pitts]]

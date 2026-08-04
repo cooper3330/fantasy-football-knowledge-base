@@ -182,11 +182,19 @@ MUST DO for EACH transcript:
     correct chronological position.
  3. Update the relevant wiki/experts/ page(s).
  4. Catalog row + index lines + log entry, all via wiki_update.py as above.
- 5. Finalize IN THIS ORDER -- and use the LOCKED helper for state.json, never
-    hand-edit it (a transcript drain may be writing the same file concurrently):
+ 5. Finalize IN THIS ORDER -- use the locked helpers, never hand-edit
+    state.json (a transcript drain may be writing the same file concurrently):
       a. python3 scripts/state_io.py --guid "<guid>" --status ingested
-      b. mv the transcript to raw/ingested/<show>/     (plain mv, NOT git mv)
-      c. python3 scripts/state_io.py --guid "<guid>" --staged-path raw/ingested/<show>/<file>.md
+      b. python3 scripts/verify_integrity.py --fix
+
+    Step (b) does the relocation: setting the status makes the transcript's
+    position inconsistent with it, and --fix moves the file to
+    raw/ingested/<show>/ and syncs staged_path in one locked operation.
+
+    Do NOT try to `mv` the transcript yourself. raw/ is deny-listed against
+    edits so the whole tree is immutable to you, and a shell mv of a file under
+    it is refused -- correctly, since that same rule is what stops a transcript
+    being altered. --fix is the supported relocation path, not a workaround.
  6. Run BOTH checks and confirm both are OK before reporting done:
       python3 scripts/verify_integrity.py
       python3 scripts/lint_frontmatter.py

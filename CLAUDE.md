@@ -285,17 +285,24 @@ For each transcript:
       ```bash
       python3 scripts/state_io.py --guid "<guid>" --status ingested
       ```
-   b. Move the transcript `raw/transcripts/<show>/<file>` →
-      `raw/ingested/<show>/<file>`.
-   c. Update that episode's `staged_path` to the new location, again via the
-      helper:
+   b. Relocate the transcript and sync `staged_path`, in one operation:
       ```bash
-      python3 scripts/state_io.py --guid "<guid>" --staged-path raw/ingested/<show>/<file>.md
+      python3 scripts/verify_integrity.py --fix
       ```
+      Setting the status in (a) makes the file's position inconsistent with it;
+      `--fix` moves `raw/transcripts/<show>/<file>` → `raw/ingested/<show>/<file>`
+      and updates `staged_path` to match.
 
-   If you are interrupted between these, nothing is lost: the transcript exists
-   in one tree or the other, and `scripts/verify_integrity.py` will detect and
-   repair the mismatch. Run it if anything looks inconsistent:
+   **Agents must not `mv` the transcript themselves.** `raw/**` is deny-listed
+   against edits (`.claude/settings.json`), which is what makes transcript
+   contents immutable in practice rather than only by instruction — and that
+   same rule refuses a shell `mv` of anything under `raw/`. This was found the
+   hard way: two ingest runs had their `mv` blocked and fell back to `--fix`.
+   Rather than weaken the immutability rule to permit a move, `--fix` *is* the
+   supported relocation path. It is idempotent, locked, and self-verifying.
+
+   If you are interrupted mid-finalize, nothing is lost: the transcript exists
+   in one tree or the other, and the same command repairs the mismatch.
 
    ```bash
    python3 scripts/verify_integrity.py          # report

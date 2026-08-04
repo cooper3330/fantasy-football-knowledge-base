@@ -19,6 +19,8 @@ tags: [player, prospect]
 
 - 2024-02-26 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-26]]): still in the "watching again" tier — the "happy accident vs. intentional processing" question about his decision-making from earlier episodes remains open. Directly answers an outside QB-connected contact's question, "is J.J. McCarthy Zach Wilson 2.0," with a qualified yes: a better iteration of what people thought they were getting with Wilson, but cautions the public's excitement is itself also "2.0" — the industry may be overrating him the same way it once overrated Wilson pre-draft. Grades him as having Wilson-like starter potential with fewer overall blind spots, but says the blind spots he does have are still real risk even as they drive his draft price up. Notes Jim Harbaugh's (his college coach — not tracked) public praise helped fuel the buzz, and separately mentions industry chatter comparing the reverse of McCarthy's polarization to how evaluators are now reassessing [[Brock Purdy]] — a player who looked replacement-level on paper but turned out better than his profile suggested.
 
+- 2024-02-29 — According to **Kevin Knight** (Falcons reporter, SB Nation's Falcoholic — guest, not a tracked expert) on *Reception Perception: The Show*, with [[Matt Harmon]] absent ([[Reception Perception The Show - 2024-02-29]]): says McCarthy is the only 2024 quarterback prospect likely to rise into the Falcons' range at 8th overall, but that taking him there would signal the team had already struck out on both [[Justin Fields]] and [[Kirk Cousins]] in free agency — a scenario he expects would leave Atlanta fans unhappy.
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Brock Purdy]]

@@ -17,6 +17,8 @@ tags: [player]
 
 - 2024-02-26 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-26]]): repeats the hope that Minnesota looks closely at re-signing Cousins, since [[Justin Jefferson]] has said he'd like to keep playing with him. Also notes Atlanta remains mentioned as a possible Cousins destination alongside [[Justin Fields]], with most quarterback-seeking teams (Atlanta included) likely to weigh both options.
 
+- 2024-02-29 — According to **Kevin Knight** (Falcons reporter, SB Nation's Falcoholic — guest, not a tracked expert), same episode ([[Reception Perception The Show - 2024-02-29]]): says Cousins "makes a ton of sense" schematically for Atlanta's incoming Zach-Robinson-run, Rams-style offense, but that the front office's stated preference to "go young" at quarterback favors a Justin Fields trade over signing Cousins.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Justin Fields]]

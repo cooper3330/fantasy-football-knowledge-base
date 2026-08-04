@@ -1637,8 +1637,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-02-29",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2024-02-29-rp-wide-receiver-prospects-the-state-of-the-falcons.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2024-02-29-rp-wide-receiver-prospects-the-state-of-the-falcons.md",
+      "status": "ingested",
       "title": "Wide Receiver Prospects & the State of the Falcons",
       "transcript_source": "whisper"
     },

@@ -89,7 +89,7 @@ for the chronological record of ingests, queries, and lints.
 
 ### Running Backs
 - [[Christian McCaffrey]] — RB, SF — unqualified 2024 1.01 for Waldman again, edging [[CeeDee Lamb]] and [[Tyreek Hill]]; age 28 explicitly dismissed; the "leverage over the field" case; Harmon: even a strong Detroit run defense "isn't stopping that train" in the NFC Championship *(2024 takes, stale)*
-- [[Bijan Robinson]] — RB, ATL — Waldman's 2024 table-pounder *because* the market moved to Gibbs; Bob Harris expects top-5; reaffirmed post-Arthur-Smith as a bell-cow workload bet; new OC Zach Robinson (ex-Rams) projected by Harmon as a good man/gap-run scheme fit *(2024 takes, stale)*
+- [[Bijan Robinson]] — RB, ATL — Knight (Falcons reporter): 2023 usage was a play-calling failure, offense 'really close' with him healthy (2024 takes, stale)
 - [[Jahmyr Gibbs]] — RB, DET — Waldman's 2023 call, vindicated (RB9); he then flips off him for 2024 on price, not talent *(2023 takes, stale)*
 - [[James Cook]] — RB, BUF — "elite" question answered yes; fully unleashed in year two, "a real shot" at top-12 value in 2024, floated as the next Ekeler *(2024 takes, stale)*
 - [[Tyler Goodson]] — RB, IND — explosive, natural cutback runner masked by Iowa's scheme; Waldman's long-term Colts preference *(2023 takes, stale)*
@@ -217,7 +217,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Jonathan Mingo]] — WR, CAR — one of only two 2023 rookie WRs to open as a Week 1 starter, but tanked by historically bad Carolina QB play; Waldman revising down hard on coaching-change risk, not talent *(2024 takes, stale)*
 - [[Demario Douglas]] — WR, NE — league-average post-rookie model score held down by zero touchdowns; both hosts think he outplayed a barren Patriots offense; buy in the 4th/5th round, not the 3rd *(2024 takes, stale)*
 - [[Malik Washington]] — WR, Virginia prospect — one of Waldman's favorite under-the-radar 2024 receivers; thick slot build with big-play juice, could start within his first contract *(2024 pre-draft takes, stale)*
-- [[Xavier Legette]] — WR, South Carolina prospect — DK Metcalf comp per industry, Waldman's own range is Alshon Jeffery-to-Metcalf; big, physical, fast enough; tempered after live Senior Bowl reps looked "sloppier," less dominant than his frame suggested per Angelo *(2024 pre-draft takes, stale)*
+- [[Xavier Legette]] — WR, South Carolina (2024 prospect) — elite deep production but Froton flags him group's likeliest bust (2024 takes, stale)
 - [[Malachi Corley]] — WR, Western Kentucky prospect — "already" a sleeper per Waldman; DJ-Moore-lite comp, elite after the catch, real early fantasy relevance if the role grows; Angelo corroborates with more technical detail — real route-running nuance, better catch-point work than the early consensus credited *(2024 pre-draft takes, stale)*
 - [[Javon Baker]] — WR, UCF prospect — Alabama transfer with excellent catch-point skills and a strong release; a 2/1b-type number-one-adjacent ceiling, some bust risk but not a lot *(2024 pre-draft takes, stale)*
 - [[Roman Wilson]] — WR, Michigan prospect — flashed despite a run-heavy offense; one of the best 3 WRs at the Senior Bowl per Angelo, creeping into the top 100 *(2024 pre-draft takes, stale)*
@@ -229,6 +229,9 @@ for the chronological record of ingests, queries, and lints.
 - [[A.J. Brown]] — WR, PHI — Waldman: worth a 1st-rounder in best ball; unbothered by WIP-call drama, worries about Eagles' org instead
 - [[DeMarcus Robinson]] — WR, LAR — Waldman: WR99 ADP 'free square'; late-2023 DFS run buildable but temper expectations
 - [[Jahan Dotson]] — WR, WAS — Waldman: skilled WR3/matchup WR2, but unsure new Kingsbury-called offense unlocks him
+- [[Adonai Mitchell]] — WR, Texas (2024 prospect) — elite deep tracking but thin, weak short/intermediate separation per Froton (2024 takes, stale)
+- [[Xavier Worthy]] — WR, Texas (2024 prospect) — Froton: could lead class in pure combine speed (2024 takes, stale)
+- [[Ja'Lynn Polk]] — WR, Washington (2024 prospect) — NFL-caliber per Froton; Falcons day-two target per Knight (2024 takes, stale)
 
 ### Tight Ends
 - [[T.J. Hockenson]] — TE, MIN — great in zone, positions well in man; TE1 ceiling minus a tier with a backup QB *(2023 takes, stale)*
@@ -238,7 +241,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Luke Musgrave]] — TE, GB — Waldman's pre-draft 7th-ranked TE, now sees as "slightly overrated" relative to teammate Tucker Kraft *(2024 takes, stale)*
 - [[Tucker Kraft]] — TE, GB — the value pick of Green Bay's two rookie tight ends per Waldman — more rugged, more room to grow, and cheaper on his board *(2024 takes, stale)*
 - [[Brevyn Spann-Ford]] — TE, Minnesota prospect — 6'7"/270; looked lost as a blocker in 2022, visibly figured out technique by late 2023 per Waldman; projects as a practice-squad/depth-TE NFL path *(2024 pre-draft takes, stale)*
-- [[Kyle Pitts]] — TE, ATL — both hosts "totally feel it" on a 2024 rebound now that Zach Robinson is OC; Waldman's down-2023 diagnosis is QB-driven (Desmond Ridder's field-reading limits), not a talent decline *(2024 takes, stale)*
+- [[Kyle Pitts]] — TE, ATL — Knight: was never truly healthy in 2023, could rebound if paired with a real QB (2024 takes, stale)
 - [[Pat Freiermuth]] — TE, PIT — real usage-risk flag off the Arthur Smith hire, not a talent knock — "two of three" Steelers TEs will be fine and it's "probably going to be the more athletic two," an explicit Kyle-Pitts-underuse comparison *(2024 takes, stale)*
 - [[Brycen Hopkins]] — TE, LAR — pending free agent, promising but flawed (RAC ability, athletic, but poor blocker with drop issues); Dustin Keller comp; deep-league stash or wait-and-see, not a lead-role bet *(2024 takes, stale)*
 - [[Brock Bowers]] — TE, Georgia prospect — Waldman leaning "feel it" on him becoming the next big rookie-TE fantasy producer; a LaPorta-mold "move tight end" with one real catch-point flaw and blocking to develop; Dalton-Kincaid-outcome comp, not LaPorta/Pitts-level rookie production *(2024 pre-draft takes, stale)*
