@@ -1,0 +1,62 @@
+{
+  "$comment": [
+    "Scoped permissions so ingestion can run unattended -- both a headless",
+    "`claude -p --agent ingest` and the scheduled scripts/run_daily_check.sh,",
+    "which otherwise stalls on its first Bash call with nobody there to approve.",
+    "",
+    "The allow-list is deliberately per-script rather than a blanket",
+    "Bash(python3 scripts/*), so adding a new script is a conscious decision",
+    "rather than something that inherits unattended execution for free.",
+    "",
+    "The deny rules encode CLAUDE.md's hard invariants. deny wins over allow, so",
+    "these hold even if an allow rule is later loosened:",
+    "  - git is forbidden to agents; only the orchestrator commits",
+    "  - raw/ transcript CONTENTS are immutable (mv between the two raw trees is",
+    "    the one permitted change, and is allowed below)",
+    "  - no deletion: transcripts are expensive to re-transcribe",
+    "  - no network: every fact must come from the transcript on disk",
+    "",
+    "File rules use Edit(path) only. A Write(path) rule is inert -- Edit(path)",
+    "is what covers every file-editing tool, Write included."
+  ],
+
+  "permissions": {
+    "allow": [
+      "Read",
+      "Edit",
+      "Write",
+
+      "Bash(python3 scripts/verify_integrity.py:*)",
+      "Bash(python3 scripts/lint_frontmatter.py:*)",
+      "Bash(python3 scripts/wiki_update.py:*)",
+      "Bash(python3 scripts/state_io.py:*)",
+      "Bash(python3 scripts/ingest_manifest.py:*)",
+      "Bash(python3 scripts/agent_cost.py:*)",
+      "Bash(python3 scripts/check_new_episodes.py:*)",
+
+      "Bash(mv raw/transcripts/:*)",
+
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(wc:*)",
+      "Bash(find:*)"
+    ],
+
+    "deny": [
+      "Bash(git:*)",
+      "Bash(rm:*)",
+      "Bash(sudo:*)",
+      "Bash(curl:*)",
+      "Bash(wget:*)",
+      "Bash(ssh:*)",
+      "Bash(npm:*)",
+      "Bash(pip:*)",
+      "Bash(pip3:*)",
+
+      "Edit(raw/**)",
+      "Edit(scripts/state.json)"
+    ]
+  }
+}
