@@ -20,6 +20,8 @@ tags: [player]
 - 2024-03-30 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-30]]: Kincaid's rookie season (675 yards, 73 catches, two TDs) ranked 11th all-time among rookie tight ends, just behind Rob Gronkowski's 2010 campaign — "even as disappointing as it might have been for what he could have been, he was still 11th-best all time." Waldman's diagnosis, restated: Buffalo was too conservative with Kincaid, limiting him to a checkdown/underneath role when he was "elite... as an aerial ball winner up the seam" — "there was no way I was thinking Buffalo would be that conservative." Had Kincaid been used that way, Waldman thinks he'd have joined [[Sam LaPorta]] near the top of the rookie-production list instead of settling for 11th.
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]): if there's nothing behind the scenes changing the plan, Kincaid is Buffalo's wide receiver one or two in the passing game as a tight end. Reiterates Buffalo underused his two best traits as a rookie — run-after-catch ability in the secondary and winning contested catches in the air — instead leaning on flat routes and dump-offs, similar to how the team eased James Cook in as a rookie. Repeats that Kincaid had (per this episode's framing) the 12th-best rookie season ever for a tight end, and worries casual fans who don't follow the RSP will miss that under the [[Sam LaPorta]] buzz. Rejects the "traditional tight end is a limiting factor" framing outright — teams have fielded two productive tight ends before (Patriots and others) — and says it's about role and opportunity, not a hard ceiling.
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Sam LaPorta]]

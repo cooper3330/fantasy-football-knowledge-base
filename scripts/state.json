@@ -2283,8 +2283,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-09",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2024-04-09-rp-roman-wilson-ricky-pearsall-breakdowns.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2024-04-09-rp-roman-wilson-ricky-pearsall-breakdowns.md",
+      "status": "ingested",
       "title": "Roman Wilson & Ricky Pearsall Breakdowns",
       "transcript_source": "whisper"
     },
@@ -2331,8 +2331,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-11",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2024-04-11-rp-adonai-mitchell-free-agent-wrs-remaining.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2024-04-11-rp-adonai-mitchell-free-agent-wrs-remaining.md",
+      "status": "ingested",
       "title": "Adonai Mitchell & Free Agent WR's Remaining",
       "transcript_source": "whisper"
     },
@@ -4135,8 +4135,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-08",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-04-08-rsp-feel-it-or-fk-it-4824-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-04-08-rsp-feel-it-or-fk-it-4824-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "ingested",
       "title": "Feel It Or F@#k It: 4.8.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
     },

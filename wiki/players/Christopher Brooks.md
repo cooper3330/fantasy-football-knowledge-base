@@ -25,6 +25,8 @@ tags: [player]
   Wisconsin, Waldman kept thinking about what Brooks might have done with
   similar draft capital if he'd played in that offense.
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: reiterates Brooks, not Jeff Wilson (not tracked), as Miami's real third back — "I think Christopher Brooks is going to continue to surprise, and he's a free square for me." Repeats the [[Braelon Allen]] comp: watching Allen's Wisconsin tape, Waldman kept wondering what Brooks would have done with Allen's draft capital in that same offense.
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Raheem Mostert]]

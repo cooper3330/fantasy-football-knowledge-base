@@ -67,6 +67,10 @@ price into a player when he changes teams, or when his coordinator does.
 
 - 2024-02-05 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-05]]): offers the specific mechanism behind Atlanta's underwhelming 2023 passing game, ahead of Arthur Smith's move to Pittsburgh — not a talent or play-calling failure so much as a quarterback constraint. [[Desmond Ridder]] "was so bad at being able to read the field with routes that work dynamically between zones" that Smith reportedly simplified the route concepts to routes that end statically and break back to the quarterback, because routes developing across the field visibly confused Ridder about when to release the ball. States this directly against the fan complaints about [[Bijan Robinson]], [[Drake London]] and [[Kyle Pitts]] not getting used correctly — the offense was simplified *for* the quarterback it had, and Waldman expects "more dynamic offense" for Atlanta's skill talent once/if the Falcons upgrade the position, while separately hoping Pittsburgh (with Mike Tomlin managing him) gives Smith a "make the game plan as dynamic as it can be" mandate. See [[Kyle Pitts]] and [[Desmond Ridder]].
 
+### A prospect-level case: Texas's offense masking Adonai Mitchell (2024-04-11)
+
+- 2024-04-11 — According to [[Matt Harmon]] on *Reception Perception: The Show* ([[Reception Perception The Show - 2024-04-11]]): argues Texas's 2023 offense actively suppressed [[Adonai Mitchell]]'s production profile — shaky quarterback play, layered RPOs and half-field reads left him with clips of well-run, open routes that were simply never thrown to, which Harmon says he has saved specifically to break down on video. Frames the fix as scheme/quarterback-dependent rather than talent-dependent: names Kansas City or Buffalo as ideal landing spots because an aggressive, patient quarterback (Patrick Mahomes or Josh Allen) is the type of passer who would actually reward Mitchell's downfield route-winning on tape.
+
 ## Related
 - [[League Trend Cycles and Market Inefficiency]]
 - [[Running Back Size and Movement Skills]]

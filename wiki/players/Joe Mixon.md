@@ -15,6 +15,8 @@ tags: [player]
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: "loves" Mixon's landing spot in Houston now that the trade is official — argues public perception of Mixon's off-field reputation gets conflated with his on-field play, and that his breakaway-rate criticism (Cincinnati's stated reason for moving on) matters less than his still-present burst and efficient-yardage ability. Calls him a complete, do-it-all back — a terrific pass receiver — who should benefit from a real passing attack around [[C.J. Stroud]].
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: going around RB17-21 in early best balls, calls it a great value — expects the volume to be there in Houston's passing attack regardless of his breakaway-run-rate criticism, "give him enough chances and he's going to be fine."
+
 ## Related Concepts
 - [[Tony Pollard]]
 - [[C.J. Stroud]]

@@ -21,6 +21,8 @@ tags: [player]
 - 2024-01-23 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-23]]) [Dynasty]: reaffirms the top-10-quarterback framing after the Divisional Round loss to San Francisco — "the very Favrian interception at the end be damned," Harmon calls Love's play over the back half of the season great and says "we feel like he can be a top-10 quarterback." Credits the organization's approach of letting Love and the young receiver corps develop together rather than importing a stopgap veteran.
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: feeling it at QB9 in early best-ball ADP — still a bargain on the back half of the top 10, with a real path to top-five QB production if [[Christian Watson]] stays healthy and plays like he did late last season, and [[Jayden Reed]]/[[Dontayvion Wicks]] mature alongside the tight ends. Ties this to organizational competency: Green Bay letting a four-time MVP walk and trusting a young receiver corps to develop with a young quarterback (citing GM Brian Gutekunst's stated plan) reflects front-office confidence, not just a talent bet. Notes all of Green Bay's receivers remain cheap relative to their upside — [[Jayden Reed]] going as only a WR3 despite a strong stretch-run finish, [[Dontayvion Wicks]] going as a WR90-ish "free square."
+
 ## Related Concepts
 - [[Player Development and Coachability]]
 - [[Dynasty]]

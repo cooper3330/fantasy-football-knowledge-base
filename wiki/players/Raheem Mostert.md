@@ -17,6 +17,8 @@ tags: [player]
 - 2024-01-01 — According to [[Matt Waldman]], same episode [Redraft (Standard)]: corroborates as a value running back two for 2024, "maybe even lower" — expects Mostert to cede more early-down work to Achane and settle into a complementary role similar to what Jeff Wilson Jr. held in 2023.
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: Miami's $9M extension through 2025 confirms Mostert will play a central role in 2024, complicating [[De'Von Achane]]'s touch outlook. Says his week-to-week role "is up and down for him and it's gonna remain up and down for him to an extent" — but volume is a big deal for RBs, and Waldman has personally won leagues sitting on cheap Mostert shares (round 8, RB27 ADP this cycle) until the volume opportunity showed up.
+
 ## Related Concepts
 - [[Injury-Agnostic Roster Construction]]
 - [[Best Ball]]

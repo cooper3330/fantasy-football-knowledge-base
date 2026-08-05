@@ -78,6 +78,9 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-04-01 | [[Matt Waldman]] | Feel It Or F@#k It: 4.1.24: An RSP Cast with Bob Harris and Matt Waldman | [[Feel It Or F@#k It - 2024-04-01]] |
 | 2024-04-02 | [[Matt Harmon]] | Brian Thomas Jr. & Ladd McConkey Profiles | [[Reception Perception The Show - 2024-04-02]] |
 | 2024-04-04 | [[Matt Harmon]] | Stefon Diggs is a Texan & Keon Coleman Breakdown | [[Reception Perception The Show - 2024-04-04]] |
+| 2024-04-08 | [[Matt Waldman]] | Feel It Or F@#k It: 4.8.24 | [[Feel It Or F@#k It - 2024-04-08]] |
+| 2024-04-09 | [[Matt Harmon]] | Roman Wilson & Ricky Pearsall Breakdowns | [[Reception Perception The Show - 2024-04-09]] |
+| 2024-04-11 | [[Matt Harmon]] | Adonai Mitchell & Free Agent WR's Remaining | [[Reception Perception The Show - 2024-04-11]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

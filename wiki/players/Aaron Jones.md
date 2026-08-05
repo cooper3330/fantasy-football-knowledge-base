@@ -25,6 +25,8 @@ tags: [player]
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: on signing with divisional-rival Minnesota, still calls him "a legit awesome running back" who "can do it all" — floats the Packers "getting a taste of their own medicine" watching Jones run against them. Reads it as bad news for Ty Chandler's (not a tracked page) redraft value beyond a complementary/injury-insurance role.
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: still a terrific back going around RB18 in early best balls, but wary — floats a scenario where Jones lands in a heavy-checkdown-volume role similar to [[DeAndre Swift]]'s 2022 Detroit year, becoming a streaky RB1 whose value depends heavily on timing (whether the volume surge comes early and gets taken away, or comes late after a slow start). Would still take the chance in some leagues given his versatility, but is wary of the boom/bust volume pattern specifically.
+
 ## Related Concepts
 - [[Injury-Agnostic Roster Construction]]
 - [[Redraft (Standard)]]

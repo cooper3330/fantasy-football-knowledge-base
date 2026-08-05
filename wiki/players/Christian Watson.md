@@ -19,6 +19,8 @@ tags: [player]
 - 2024-01-23 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-23]]): a real, specific knock on the true-WR1 case for the first time in this wiki — asked to make the argument for Watson as a number-one receiver "without mentioning height" or speed, Harmon says he can't: "I've got nothing here." Reads as a real downgrade relative to [[Jayden Reed]] and [[Dontayvion Wicks]], both of whom get a route-running-based case for the role that Watson doesn't. Notes he "needs to develop his route tree" and had no impact in the Divisional Round loss to San Francisco.
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: going as only a WR4 currently, a real value; Waldman ties [[Jordan Love]]'s upside to Watson staying healthy and playing like he did late in 2023.
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Best Ball]]

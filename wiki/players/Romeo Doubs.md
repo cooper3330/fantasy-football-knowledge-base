@@ -19,6 +19,8 @@ tags: [player]
 - 2024-01-23 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-23]]): the clearest fourth-place ranking yet among Green Bay's four — "scrappy," doesn't have great hands and will misplay things at times, but runs good routes and is a "pretty good vertical player." Notes he had the best postseason of the four when [[Jayden Reed]], [[Dontayvion Wicks]] and [[Christian Watson]] are weighed against health/potential, going for 140 yards against Dallas — good enough to be a solid WR4 in the room, not a path to more.
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: currently going as only a WR4, one of several cheap values in Green Bay's receiver room that Waldman ties to [[Jordan Love]]'s QB9 best-ball bargain price.
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Best Ball]]

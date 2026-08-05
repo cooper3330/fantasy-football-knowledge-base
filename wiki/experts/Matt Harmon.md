@@ -51,6 +51,8 @@ pulled from dedicated rankings segments.
 
 ## Track Record Notes
 
+- **Open, unresolved 2024-04-11 read:** finished full-sample Reception Perception profile on draft prospect [[Adonai Mitchell]] — a true X-receiver alignment profile (82.8% of snaps on the line, highest charted this cycle) with strong man/press success rates but a weak zone-coverage grade, an aggressive [[DeAndre Hopkins]]-at-his-peak player comp, and explicit pushback on "lazy"/loafing narratives as scheme/coaching artifacts rather than a true effort read. Directly checkable against Mitchell's draft slot and rookie season.
+
 - **Open, unresolved 2024-03-28 read:** in a top-10 mock-draft exercise, gives
   [[Marvin Harrison Jr.]] the "slight edge" as class WR1 in an Arizona-specific
   fit case — a notable wobble back toward Harrison just two days after his
@@ -201,7 +203,11 @@ pulled from dedicated rankings segments.
   hits," all of whom became big slot receivers) to support the read. Directly
   checkable against Coleman's draft slot and rookie-year role.
 
+- **Open, unresolved 2024-04-09 read:** finished full-sample Reception Perception profiles on [[Roman Wilson]] and [[Ricky Pearsall]] — notably lower than consensus on Wilson (below-20th-percentile man/zone scores, an early Day 3 grade below [[Puka Nacua]]'s and [[Tank Dell]]'s prospect profiles) and notably higher than consensus on Pearsall (87th-percentile vs. man, rated above [[Jordan Addison]]'s prior-class profile, a Round 2-3 grade). Directly checkable against both players' rookie seasons.
+
 ## Sources
+- [[Reception Perception The Show - 2024-04-11]] — finished full-sample Reception Perception profile on draft prospect [[Adonai Mitchell]] (true X-receiver alignment profile, strong man/press vs. weak zone splits, aggressive [[DeAndre Hopkins]] comp, cautious [[George Pickens]] comp, pushback on "lazy" narratives), plus a contrasting note on [[Xavier Worthy]]'s tape; free-agent WR buy/sell segment covering [[Odell Beckham Jr.]], [[Hunter Renfrow]], [[Rashee Rice]]/[[Marquise Brown]] role speculation, [[Michael Gallup]], [[Tyler Boyd]], [[D.J. Chark]] and [[Marquez Valdes-Scantling]]
+- [[Reception Perception The Show - 2024-04-09]] — finished full-sample Reception Perception profiles on [[Roman Wilson]] (below-consensus, least-favorite-charted-so-far read) and [[Ricky Pearsall]] (above-consensus, one of Harmon's favorite non-top-3 prospects to chart); big-picture discussion of the 2024 receiver class's unusual depth without many clear "number ones" outside the top three
 - [[Reception Perception The Show - 2024-04-04]] — emergency episode reacting
   to Buffalo trading [[Stefon Diggs]] to Houston (charted decline read,
   Houston/Buffalo team-building fallout, [[Josh Allen]]/Diggs relationship

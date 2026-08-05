@@ -20,6 +20,8 @@ tags: [player]
 - 2024-03-19 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-19]]): reacting to Buffalo's signing of [[Curtis Samuel]] — pushes back on the idea the two overlap, calling Shakir more of a get-the-ball-in-space YAC slot piece versus Samuel's dig/out/corner route tree, and expects Shakir could see more outside reps to let Samuel work some slot snaps as well, giving Buffalo positional flexibility it lacked before.
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]): thinks he could wind up as Buffalo's number two or three receiver, and that the team's presumed rookie WR pick "might not work out year one," leaving Shakir as a massive bargain. Describes him as a "less physical Heinz Ward with more downfield speed and dynamic movement" — a good route runner, excellent after the catch, tough at the catch point. Notes Buffalo has been slow to trust rookies (citing the same pattern with [[James Cook]] and [[Dalton Kincaid]]), but that whenever Shakir is on the field, Josh Allen targets him on difficult veteran-caliber throws (cites a tight third-down window against Pittsburgh) rather than the low-difficulty schemed-open looks a rookie like Quentin Johnston (not tracked) gets — reads that as a sign of quarterback trust outpacing coaching-staff trust. "I loved him and I'm still all over him because nothing on the field has shown me otherwise."
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Stefon Diggs]]

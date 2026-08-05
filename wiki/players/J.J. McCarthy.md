@@ -33,6 +33,8 @@ tags: [player, prospect]
 - 2024-04-01 — According to [[Matt Waldman]] on *Feel It or F@#k It* ([[Feel It Or F@#k It - 2024-04-01]]), naming him his hardest player to evaluate this year: decision-making shows both high-end flashes (perfectly timed reads) and clear lows, concentrated specifically in the "black zone" (deep in his own territory) and "green zone" (inside the opponent's five) — the situational, low-margin-for-error areas coaches drill hardest. His biggest errors come there: holding the ball too long, forcing throws he shouldn't. Contrasts him with Zach Wilson and Mitchell Trubisky (not tracked), who had "invariably" low situational football with only easy highlight-reel throws as their highs — McCarthy at least shows some of the harder, more complex plays too. Open questions before the draft: can he throw accurately beyond the intermediate range, and how much of the limited deep-ball sample is Michigan's run-heavy scheme (40.4% run rate, 117th of 133 teams per Football Guys) versus the player himself — the deep-range accuracy he did show wasn't good even within that small sample.
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]): asked directly whether McCarthy would have a better shot than [[Drake Maye]] at succeeding as a first-year starter, says yes — McCarthy's pocket movement and management are "a lot better in certain respects" than Maye's, even though Maye is the more athletic, tougher big-arm prospect. If forced to start one Day 1, "that's the guy I'd rather have," while reiterating he doesn't want either thrust into a starting role immediately.
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Brock Purdy]]

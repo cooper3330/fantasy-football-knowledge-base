@@ -32,6 +32,8 @@ tags: [player]
 - 2024-04-01 — According to [[Matt Waldman]] on *Feel It or F@#k It* ([[Feel It Or F@#k It - 2024-04-01]]), on whether Chicago can screw him up: "yes," probably, since it's true of "all these quarterbacks" — but says Williams is the one 2024 quarterback he's most confident could withstand mishandling, given how the Bears added [[Keenan Allen]] and Gerald Everett, hired Shane Waldron as OC, and moved on from Luke Getsy — reads it as the organization learning from its mistakes with [[Justin Fields]], though the real test will be in-game management and patience on the field.
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]): a detailed pocket-movement contrast with [[Drake Maye]] responding to a fan question about whether the two are really that different — when Williams moves outside the pocket "it's with a purpose," reacting to real pressure rather than inviting it, and he stays efficient and can climb the pocket, keeping his eyes downfield, the same way Baker Mayfield climbs a pocket. Highlight-reel scrambling makes him look panicked, "but that's not the case" — the movement is a last resort used only when actually forced into it, unlike Maye who resorts to escaping unnecessarily more often.
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Drake Maye]]

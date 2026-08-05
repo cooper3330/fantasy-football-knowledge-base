@@ -20,6 +20,8 @@ tags: [player, prospect]
 
 - 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: calls Miami "a great fit" for Worthy post-pro-day, comping his long-term potential to Isaac Bruce/DeSean Jackson — not just a gadget piece, since he runs quality routes and makes tough plays, though he could be started as a gadget weapon early and developed outward. Frames [[Tyreek Hill]] as an ideal same-room mentor specifically because Hill can credibly tell Worthy he can't lean on speed alone.
 
+- 2024-04-11 — According to [[Matt Harmon]] on *Reception Perception: The Show* ([[Reception Perception The Show - 2024-04-11]]): charted back-to-back with Texas teammate [[Adonai Mitchell]] in the same disliked, gimmicky Texas offense — a "not fun" experience given shaky QB play and half-field-read route jogging he declined to chart as legitimate routes. Expects Worthy's finished route chart will not be skewed downfield the way Mitchell's is — calls him more of a "layup receiver" by comparison, run underneath more often as a proven, well-regarded college player rather than because he's viewed as the better prospect.
+
 ## Related Concepts
 - [[Dynasty]]
 - [[NFL Combine and Pro Day Skepticism]]

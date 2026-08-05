@@ -30,6 +30,8 @@ tags: [player]
   receiver," well ahead of [[Courtland Sutton]] and [[Christian Kirk]] in that
   grouping.
 
+- 2024-04-11 — According to [[Matt Harmon]] on *Reception Perception: The Show* ([[Reception Perception The Show - 2024-04-11]]): used as Harmon's own "cautious" player comp for prospect [[Adonai Mitchell]] — flags Pickens as a receiver he's "one foot in, one foot out" on because of inconsistency/volatility in the short-to-intermediate area, though notes that trait was also present, if underrated, in Pickens's own pre-draft profile. Separately, in the same episode's free-agent buy/sell segment, cautions against projecting Pickens for a specific target share in Pittsburgh's Arthur Smith/[[Russell Wilson]]/[[Justin Fields]] offense — notes an Arthur Smith-led passing attack has burned this kind of projection before ("with a better receiver," referencing [[Drake London]]).
+
 ## Related Concepts
 - [[Scheme vs Talent]]
 - [[Mike Williams]]

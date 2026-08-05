@@ -23,6 +23,8 @@ tags: [player]
 - 2024-01-23 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-23]]) [Dynasty]: the strongest ceiling call yet — asked directly whether Reed can grow into an [[Amon-Ra St. Brown]]-style role (primary inside receiver, powerful at the catch point, real juice after the catch), Harmon says yes: "quite crispy" as a route runner, with legitimate man-coverage-beating ability that graded out in college and in his Reception Perception rookie profile. Wants to see him used outside more rather than pigeonholed into rub-route/schemed-open looks. Calls him the receiver with the best odds of the group to become Green Bay's true number one, with [[Dontayvion Wicks]] the only other real candidate.
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: currently the priciest of Green Bay's receiver corps, going as high as WR3 in early best balls — but still dirt cheap relative to a strong 2023 stretch run (was arguably the team's WR1 down the stretch), and Waldman says he'll have "many, many shares."
+
 ## Related Concepts
 - [[Zone vs Man Route Running]]
 - [[Post-Rookie-Year Receiver Model]]

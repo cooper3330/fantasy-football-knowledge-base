@@ -45,6 +45,8 @@ tags: [player, prospect]
   split between the two even after full profiles were live.
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]), reacting to [[Rome Odunze]] visiting the Cardinals: reads Harrison as physically and stylistically closer to the DeAndre Hopkins/Larry Fitzgerald archetype — a "super great player" who does what he does very well but is more limited overall (lacking great top-end speed) compared to Odunze's more complete, Davante-Adams-type skill set.
+
 ## Related Concepts
 - [[Prospect Pro-Readiness vs Ceiling]]
 - [[Scouting Bias and Player Archetypes]]

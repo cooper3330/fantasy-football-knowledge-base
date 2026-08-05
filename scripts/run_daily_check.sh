@@ -96,30 +96,11 @@ print(eps[0].get('guid', '') if eps else '')
 # agent that got far enough to write its source page and then died still leaves a
 # partial write, and the source page made it look finished. If state says
 # `fetched`, NOTHING in wiki/ should reference the episode.
+# See scripts/partial_write_check.py -- the detection rules and the two ways
+# they have previously been wrong are documented there. Exit 2 = partial write.
 partial_write() {
-  local guid="$1" pdate src touched
-  # Only meaningful for an episode state still calls `fetched`. Content in the
-  # wiki for an `ingested` episode is the expected outcome, not damage -- assert
-  # that here rather than relying on the caller only ever passing the queue head.
-  pdate="$($PY -c "
-import json, pathlib
-s = json.loads(pathlib.Path('scripts/state.json').read_text())
-e = s['episodes'].get('''$guid''') or {}
-print(e.get('pub_date') or '' if e.get('status') == 'fetched' else '')
-" 2>/dev/null)"
-  [ -z "$pdate" ] && return 1
-  src="$(grep -rl -- "$guid" wiki/sources/ 2>/dev/null | wc -l | tr -d ' ')"
-  touched="$(grep -rl -- "$pdate" wiki/players wiki/concepts wiki/formats wiki/experts 2>/dev/null | wc -l | tr -d ' ')"
-  if [ "${src:-0}" -gt 0 ] || [ "${touched:-0}" -gt 0 ]; then
-    echo "!!! PARTIAL WRITE for $guid ($pdate):"
-    echo "!!!   $src source page(s) carry the guid; $touched page(s) cite the date."
-    echo "!!! state.json still says 'fetched', so re-ingesting WILL duplicate them."
-    echo "!!! Roll back that episode's writes before retrying."
-    echo "!!! (Another show publishing on $pdate can make the date count a false"
-    echo "!!!  positive; the guid count is unambiguous.)"
-    return 0
-  fi
-  return 1
+  $PY scripts/partial_write_check.py --guid "$1"
+  [ $? -eq 2 ]
 }
 
 QUEUE="$(queue_depth)"

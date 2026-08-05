@@ -900,3 +900,12 @@ Harmon's finished full-sample profiles supersede early 2024-02-01 reads: Brian T
 
 ## [2024-04-04] ingest | Reception Perception: The Show — Stefon Diggs is a Texan & Keon Coleman Breakdown
 Diggs traded BUF->HOU; Harmon's charting shows real downfield-separation decline (not injury-driven), diminished underneath role behind Collins/Dell. New page Josh Allen. Tank Dell durability risk flagged. Full Keon Coleman breakdown: bad man-coverage charting, Day 2 not Rd 1 grade; new historical study added to Reception Perception Methodology / Scouting Bias and Player Archetypes; GPS-vs-40 note added to NFL Combine and Pro Day Skepticism.
+
+## [2024-04-08] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: 4.8.24
+New pages: Drake Maye vs. McCarthy/Williams pocket-movement takes (Maye page existed, updated), Travis Etienne Jr., Trevor Lawrence, Dalton Schultz. Headline shifts: C.J. Stroud rising with 3 startable WRs after Diggs trade; Josh Jacobs into top-10 RBs at Green Bay; Jordan Love a QB9 Best Ball bargain; Dalton Kincaid/Khalil Shakir bargain reads in Buffalo; Diggs flagged as Houston's biggest age-cliff gamble.
+
+## [2024-04-09] ingest | Reception Perception: The Show — Roman Wilson & Ricky Pearsall Breakdowns
+Full-sample RP profiles: Harmon well below consensus on Roman Wilson (weak man/zone separation, early Day 3 grade); well above consensus on Ricky Pearsall (87th pct vs man, rated above Jordan Addison's profile).
+
+## [2024-04-11] ingest | Reception Perception: The Show — Adonai Mitchell & Free Agent WR's Remaining
+Adonai Mitchell full RP profile (true X, strong man/press vs. weak zone, DeAndre Hopkins/George Pickens comps); new pages D.J. Chark, Hunter Renfrow, Tyler Boyd, Marquez Valdes-Scantling; free-agent WR buy/sell touched Beckham, Rice, Marquise Brown, Gallup.

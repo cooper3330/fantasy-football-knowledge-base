@@ -28,6 +28,8 @@ tags: [player]
 - 2024-04-04 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-04-04]]), reacting to Houston trading for [[Stefon Diggs]]: with Diggs now likely playing a slightly-diminished, more underneath/flanker role, Harmon thinks Collins — "a pure X" — could still lead the Texans in targets over Diggs, though says the target distribution among Collins, Diggs and [[Tank Dell]] "could go any which way" and calls the trio collectively the best receiver group in the NFL alongside TE [[Dalton Schultz]]. Notes some of the best plays in Houston's 2023 offense came from Collins and Dell working dagger/over-route combinations, and floats Diggs rotating in on backside curl/comeback routes off those same concepts.
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: going at the tail end of round one in early best balls, which Waldman calls "uncomfortably high" even while acknowledging the aggressive-projection logic behind it — hasn't seen him drafted outside the second round in 30-plus best balls. Calls him the "safest" of the Houston WR trio (with [[Tank Dell]] and [[Stefon Diggs]]) specifically because he's the youngest, though drafters will likely have to pay a premium for that safety.
+
 ## Related Concepts
 - [[Role Difficulty and Replaceability]]
 - [[Best Ball]]

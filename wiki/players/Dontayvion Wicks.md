@@ -20,6 +20,8 @@ tags: [player]
 - 2024-01-23 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-23]]) [Dynasty]: independent third-source corroboration of the buy thesis — the traits needed to be a true number-one receiver ("based on the way he ran routes this year from the outside") are present in a way Harmon explicitly says they aren't for [[Christian Watson]], making Wicks the second-best bet (behind [[Jayden Reed]]) to become Green Bay's number one. Also praised for blocking effort in the run game against San Francisco — "he was blocking his ass off."
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: going as roughly WR90 in early best balls, calling him "a free square" — reiterates plans for many shares given the price relative to his standing in [[Jordan Love]]'s crowded but cheap Green Bay receiver room.
+
 ## Related Concepts
 - [[Post-Rookie-Year Receiver Model]]
 - [[Dynasty]]

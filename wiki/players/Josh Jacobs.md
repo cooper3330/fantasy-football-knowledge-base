@@ -28,6 +28,8 @@ tags: [player]
 - 2024-03-19 — According to [[Matt Waldman]] and **Bob Harris** (co-host — not a tracked expert) on [[Matt Waldman's RSP Cast - 2024-03-19]]: both fully "feel" the finalized move to Green Bay, calling it one of the best fits of this free-agent cycle — helped further by the Packers releasing [[Aaron Jones]] and bringing back only complementary A.J. Dillon (not a tracked page). Waldman: Jacobs is "a pro's pro," a do-it-all back who can run gap or zone and is a much better receiver than his box-score totals suggest to anyone who "never watched Alabama tape" — expects the receiving numbers to climb now that he isn't sharing touches with Jones.
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]): expects Jacobs to move well inside the top 10 of his RB rankings now that he's a Packer, even with A.J. Dillon (not tracked) still on the roster — "such a good pass receiver," an all-around back on an offense that will open things up for him, facing NFC North defenses Waldman doesn't rate highly at this point. Cites Matt LaFleur's scheme and stated plan to use Jacobs as a receiver out of the backfield as what "sealed the deal."
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Derrick Henry]]

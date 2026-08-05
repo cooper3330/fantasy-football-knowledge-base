@@ -25,6 +25,8 @@ tags: [player]
 - 2024-04-04 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-04-04]]), reacting to Houston trading for [[Stefon Diggs]]: flags real durability risk before assuming Dell is a lock for target volume — he's "170 pounds" and coming off a serious injury, having absorbed several massive hits in his rookie year; Harmon says "injury optimism generally is the worst bet you can make" and specifically distrusts offseason Instagram workout-video reassurances. Argues Houston likely wouldn't have made the Diggs trade at all if the team were fully confident Dell would return as a set-it-and-forget-it top receiver. Still calls all three of Dell/[[Nico Collins]]/Diggs great players and says target distribution among them "could go any which way" in 2024.
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: with Dell going late third/early fourth round in early best balls, calls him the best value and cheapest of the Houston WR trio (with [[Nico Collins]] and [[Stefon Diggs]]) at that price — the "Bob Harris method" pick of the three.
+
 ## Related Concepts
 - [[Role Difficulty and Replaceability]]
 - [[Best Ball]]

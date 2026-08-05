@@ -23,6 +23,8 @@ tags: [player]
 - 2024-04-04 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-04-04]]), on Houston's trade for [[Stefon Diggs]]: calls the resulting receiver trio ([[Nico Collins]], [[Tank Dell]], Diggs) an "embarrassment of riches" and arguably the best in the NFL alongside [[Dalton Schultz]] at tight end, entering Stroud's second year on his rookie contract. Reaffirms that everything from Stroud's rookie season showed he could join the sport's elite QB tier, though notes he's still "not better than Josh Allen right now."
 
 
+- 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: moving up in his rankings after the [[Stefon Diggs]] trade — with three startable wide receivers now in the base offense ([[Nico Collins]], [[Tank Dell]], Diggs), Houston has the kind of top-24-caliber-across-the-board stability Waldman looks for in a top-five quarterback, comparable to [[Joe Burrow]] with Boyd/Higgins/Chase or [[Kirk Cousins]] with Hockenson/Jefferson/Addison.
+
 ## Related Concepts
 - [[Jared Goff]]
 - [[Best Ball]]
