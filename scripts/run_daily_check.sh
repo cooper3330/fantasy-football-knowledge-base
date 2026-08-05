@@ -31,6 +31,16 @@ INGEST_MODEL="${INGEST_MODEL:-claude-sonnet-5}"
 # tokens at 5x base input, and they compound: every turn re-reads them.
 INGEST_EFFORT="${INGEST_EFFORT:-medium}"
 
+# legacy: one agent reads the transcript AND writes the wiki across ~66 turns.
+# extract: the agent emits a JSON plan (phase A) and apply_ingest.py writes it
+# for zero tokens (phase B). See docs/ingest-v2-plan.md.
+#
+# Default stays `legacy` until extract is validated on real episodes; flipping
+# back is one env var, which is the point of keeping both paths alive.
+INGEST_MODE="${INGEST_MODE:-legacy}"
+PLAN_DIR="${PLAN_DIR:-scripts/logs/plans}"
+mkdir -p "$PLAN_DIR"
+
 # Per-episode wall-clock ceiling, seconds. Episodes run ~10-20 min; an hour
 # means something is wrong, not slow.
 EPISODE_TIMEOUT="${EPISODE_TIMEOUT:-3600}"
@@ -130,9 +140,18 @@ fi
     #   2. It inlines the current page inventory. Episode N-1 may have just
     #      created "Brock Bowers"; agent N has to see that to update it rather
     #      than create a near-duplicate page.
-    PROMPT="$($PY scripts/ingest_manifest.py --count 1 2>/dev/null)"
+    if [ "$INGEST_MODE" = "extract" ]; then
+      PLAN="$PLAN_DIR/plan-$i-$$.json"
+      rm -f "$PLAN"
+      PROMPT="$($PY scripts/ingest_manifest.py --count 1 --mode extract \
+                    --plan-out "$PLAN" 2>/dev/null)"
+      AGENT="extract"
+    else
+      PROMPT="$($PY scripts/ingest_manifest.py --count 1 2>/dev/null)"
+      AGENT="ingest"
+    fi
 
-    echo "--- [$i/$INGEST_PER_RUN] $BEFORE_GUID ---"
+    echo "--- [$i/$INGEST_PER_RUN] $BEFORE_GUID ($INGEST_MODE) ---"
 
     # A fresh process per episode. This is what makes the isolation real: no
     # --continue and no --resume, so each agent starts with an empty context
@@ -150,7 +169,7 @@ fi
     # prompt that will never come. Without this the job blocks indefinitely
     # and the next day's run finds it still holding the queue.
     "$CLAUDE_BIN" -p "$PROMPT" \
-      --agent ingest \
+      --agent "$AGENT" \
       --model "$INGEST_MODEL" \
       --effort "$INGEST_EFFORT" \
       --output-format text &
@@ -170,6 +189,18 @@ fi
     WPID=$!
     wait "$CPID"; RC=$?
     wait "$WPID" 2>/dev/null
+
+    # Phase B. The agent only produced a plan; this is what writes the wiki.
+    # apply_ingest.py validates the whole plan before touching anything, so a
+    # bad plan costs the extraction and nothing else.
+    if [ "$INGEST_MODE" = "extract" ]; then
+      if [ ! -f "$PLAN" ]; then
+        echo "!!! no plan at $PLAN (claude rc=$RC) -- nothing was written !!!"
+      else
+        $PY scripts/apply_ingest.py "$PLAN" || \
+          echo "!!! apply_ingest rejected the plan (see above); nothing written !!!"
+      fi
+    fi
 
     # Verify BETWEEN episodes, not just at the end: a corrupt state or a
     # half-moved transcript should stop the run, not be compounded by two more
