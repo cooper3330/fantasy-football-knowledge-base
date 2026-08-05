@@ -20,6 +20,7 @@ tags: [player]
 
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: admits some irritation that Jefferson won't get "the most ideal of outcomes" now that [[Kirk Cousins]] has officially left Minnesota for Atlanta, though he notes that doesn't necessarily mean bad things for a player this good.
+- 2024-04-16 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-04-16]]) [Dynasty]: calls [[Justin Jefferson]] deserving of a market-altering extension (likely ~$30-35M/year) given his historic per-game production (98 yds/game, 68% career catch rate, 31 TDs in 60 games), and pegs the holdup as a negotiation over guaranteed money rather than any doubt about his value.
 
 
 ## Related Concepts

@@ -18,8 +18,10 @@ tags: [player]
 - 2024-02-13 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-02-13]]): a quiet Super Bowl LVIII box score (6 targets, 3 catches, 49 yards) attributed to the Chiefs defense choosing to live with him beating them on a couple of in-breakers against a safety rather than let [[Deebo Samuel]] work against linebackers in space. In the offseason-outlook segment, calls him "woefully underpaid" on a fifth-year option paying $14 million, floats Kansas City as a hypothetical trade suitor ("I'd call San Francisco, see what's up with Brandon Aiyuk") while doubting he's realistically available given San Francisco's contender window, and flags him as one leg of an approaching roster crunch — not all three of Aiyuk, [[Deebo Samuel]] and George Kittle survive on the roster past 2024 given the cap picture.
 
 - 2024-04-15 — According to [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]]: with Aiyuk's camp pushing for a new contract (not formally requesting a trade) and Aiyuk unfollowing the 49ers on social media, names Buffalo as his top non-49ers fit — a team needing a full route-tree runner with after-catch skills to complement [[Stefon Diggs]]'s departure — followed by Carolina (lead receiver alongside [[Diontae Johnson]] as the complement) and New England (bare receiver room behind Kendrick Bourne, not a tracked page).
+- 2024-04-16 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-04-16]]) [Dynasty]: ranks [[Brandon Aiyuk]] as his dynasty WR8, calling him a top-8-to-10 receiver overall who comps as part-[[Keenan Allen]]/part-[[DeAndre Hopkins]] based on 2022 RP success-rate data; amid trade rumors (his agent denied a formal demand), argues San Francisco must prioritize re-signing him as the offense's premier X-receiver press-coverage beater rather than doubling down on [[Deebo Samuel]] and [[George Kittle]].
 
 
 ## Related Concepts
 - [[Zone vs Man Route Running]]
 - [[Best Ball]]
+- [[Role Difficulty and Replaceability]]

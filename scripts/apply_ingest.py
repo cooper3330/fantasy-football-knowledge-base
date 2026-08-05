@@ -40,6 +40,35 @@ VALID_KINDS = ("player", "concept", "format")
 POSITIONS = ("QB", "RB", "WR", "TE")
 
 
+# Filename-hostile characters. A colon is the one that actually shows up: shows
+# are titled "Reception Perception: The Show", and an agent naming the source page
+# after the show verbatim produces a filename that macOS renders with a slash and
+# that diverges from the five existing pages for the same show. Deterministic to
+# fix, so it is fixed rather than rejected -- same reasoning as stamping the date.
+FS_UNSAFE = {":": "", "/": "-", "\\": "-", "|": "-", "*": "", "?": "", '"': "'",
+             "<": "", ">": ""}
+
+
+def normalize_source_page(name):
+    for bad, good in FS_UNSAFE.items():
+        name = name.replace(bad, good)
+    return " ".join(name.split())
+
+
+def normalize(plan):
+    """Rewrite the plan in place where the fix is mechanical. Returns notes."""
+    notes = []
+    raw = ((plan.get("source") or {}).get("page") or "").strip()
+    clean = normalize_source_page(raw)
+    if raw and clean != raw:
+        # Replace across the whole plan, not just source.page: the bullets cite
+        # this name as a wikilink and would otherwise point at a file that does
+        # not exist.
+        plan.update(json.loads(json.dumps(plan).replace(raw, clean)))
+        notes.append(f"source page name {raw!r} -> {clean!r}")
+    return notes
+
+
 def validate(plan):
     """Every problem with the plan, as a list. Empty list means safe to apply."""
     errs = []
@@ -197,6 +226,8 @@ def main():
     except json.JSONDecodeError as e:
         sys.exit(f"error: {args.plan} is not valid JSON: {e}")
 
+    for note in normalize(plan):
+        print(f"normalized: {note}")
     errs, ep = validate(plan)
     if errs:
         print(f"plan REJECTED -- {len(errs)} problem(s), nothing written:\n")

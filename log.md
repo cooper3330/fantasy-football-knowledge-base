@@ -915,3 +915,6 @@ New concept page Coach Killer Prospects: Drake Maye, J.J. McCarthy and Jayden Da
 
 ## [2024-04-15] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: 4.15.24 (with Bob Harris)
 Tee Higgins dropped his Bengals trade request (staying in 2024). New page Trey Lance (Cowboys backup QB outlook). Bryce Young upgraded to real 2024 upside (O-line, Diontae Johnson, Dave Canales). Geno Smith downgraded from "wins in a cakewalk" to genuine competition with Sam Howell/Ryan Grubb. Also touched: Tony Pollard/Tyjae Spears (Titans 1A/1B), C.J. Stroud (QB1 pushback), Joe Burrow (best-ball value), Brandon Aiyuk/CeeDee Lamb (contract situations), Tua Tagovailoa, Michael Penix Jr./Aidan O'Connell/Gardner Minshew (Raiders QB competition), Diontae Johnson/Adam Thielen, A.J. Brown/DeVonta Smith (Eagles extension context).
+
+## [2024-04-16] ingest | Reception Perception: The Show — Big News for Big Names & Xavier Worthy Breakdown
+Aiyuk pegged as Harmon's dynasty WR8 and a must-re-sign X-receiver; DeVonta Smith's rookie-year film cited as proof of true-WR1 status alongside his new extension; Rashee Rice's felony charges tied to Chiefs reportedly prioritizing WR early in the draft; extensive Xavier Worthy prospect breakdown -- graded priority 2nd-round talent (not Round 1) due to press-coverage, contested-catch and drop-rate red flags despite record 4.21 combine speed.

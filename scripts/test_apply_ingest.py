@@ -141,6 +141,21 @@ for label, plan in REJECT:
           r.returncode == 2 and snapshot() == before,
           f"rc={r.returncode}\n{r.stdout}{r.stderr}")
 
+# --- source page name normalization ----------------------------------------
+build()
+colon = good_plan()
+colon["source"]["page"] = "Test: Source - 2024-05-01"
+for pg in colon["pages"]:
+    pg["bullet"] = pg["bullet"].replace("[[Test Source - 2024-05-01]]",
+                                        "[[Test: Source - 2024-05-01]]")
+r = run(colon)
+check("colon stripped from source page name",
+      r.returncode == 0 and (ROOT / "wiki" / "sources" / "Test Source - 2024-05-01.md").exists(),
+      f"rc={r.returncode}\n{r.stdout}{r.stderr}")
+check("citations rewritten to the normalized name",
+      "[[Test Source - 2024-05-01]]" in (ROOT / "wiki" / "players" / "Existing.md").read_text()
+      and "[[Test:" not in (ROOT / "wiki" / "players" / "Existing.md").read_text())
+
 # --- dry run writes nothing -------------------------------------------------
 build()
 before = snapshot()

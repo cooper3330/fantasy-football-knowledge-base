@@ -46,6 +46,7 @@ tags: [player, prospect]
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]), reacting to Odunze visiting the Cardinals: likes the idea that Arizona could move down and back up to land Odunze instead of [[Marvin Harrison Jr.]] — sees Odunze as more of a complete, Davante-Adams-type receiver who can play all three alignments, while grading Harrison as closer to the DeAndre Hopkins/Larry Fitzgerald archetype (great at what he does but a more limited overall skill set given his lack of great top-end speed).
 
 - 2024-04-11 — According to [[Matt Harmon]] on *Reception Perception: The Show* ([[Reception Perception The Show - 2024-04-11]]), pushing back on co-host James Koh's Big 12-discount framing for [[Adonai Mitchell]]: says he pushed back on similar "discount his success rate because he played in the Pac-12" chatter around Odunze, calling it "jumping the shark" — distinct from his genuine Big 12-specific skepticism about Texas/TCU/Oklahoma-style offenses.
+- 2024-04-16 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-04-16]]) [Dynasty]: in a hypothetical Bills trade-up scenario, gives [[Rome Odunze]] a base-case comp of Allen Robinson and an aggressive-case comp of Davante Adams, calling him a potential generational X-receiver worth surrendering multiple future first-round picks for.
 
 
 ## Related Concepts

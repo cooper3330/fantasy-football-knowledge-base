@@ -2295,8 +2295,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-16",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2024-04-16-rp-big-news-for-big-names-xavier-worthy-breakdown.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2024-04-16-rp-big-news-for-big-names-xavier-worthy-breakdown.md",
+      "status": "ingested",
       "title": "Big News for Big Names & Xavier Worthy Breakdown",
       "transcript_source": "whisper"
     },

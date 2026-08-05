@@ -197,7 +197,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Keenan Allen]] — WR, CHI — traded from LAC; Harmon: role-narrowed not declining, elite on layup routes, great high-low fit w/ D.J. Moore
 - [[Amon-Ra St. Brown]] — WR, DET — same profile as Allen, with play-caller continuity as the tiebreaker; Harmon's #2 overall receiver remaining in the playoffs but #1 by team value ("in a runaway") — now beating press-man as well as zone; entering his contract year, "up for a big payday pretty soon" *(2024 takes, stale)*
 - [[Jameson Williams]] — WR, DET — real but hedged optimism after a big NFC Championship game; Waldman's explicit overdraft warning — "the Gabe Davis factor" — don't price him off one game; Harmon's harder technical critique — "shaky hands," not a "go up and get it" guy, a "splash play dude" whose highlights lean on Ben-Johnson-designed structure (Johnson is now confirmed staying in Detroit) *(2024 takes, stale)*
-- [[Brandon Aiyuk]] — WR, SF — best route runner in San Francisco and a WR1 bet at a bargain price; Harmon's #1 overall of the playoffs' remaining receivers, expects a 100-yard NFC Championship against Detroit's league-worst secondary; "woefully underpaid" on his fifth-year option per Harmon, who floats a hypothetical trade inquiry and flags him as one leg of a coming SF pass-catcher roster crunch (Aiyuk/Deebo/Kittle can't all stay past 2024) *(2024 takes, stale)*
+- [[Brandon Aiyuk]] — WR, SF — Harmon's dynasty WR8; must-re-sign X-receiver, not just a Deebo/Kittle scheme piece
 - [[Tee Higgins]] — WR, CIN — dropped trade request; Waldman feels he stays a Bengal in 2024, best Super Bowl shot with Burrow
 - [[Jordan Addison]] — WR, MIN — rotation promotion missed by box-score watchers; Waldman's #2 2023 rookie WR, "a better version of Devonta Smith"; ceiling is a Minnesota-QB question *(2024 takes, stale)*
 - [[Jayden Reed]] — WR, GB — Allen/St. Brown route-running mold *with* speed; Waldman wouldn't trade him for any other 2023 rookie WR, Diggs upside/Coles floor; Harmon's pick as the Green Bay receiver with the best odds to become a true number one, capable of an Amon-Ra St. Brown-style role *(2024 takes, stale)*
@@ -238,7 +238,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Josh Downs]] — WR, IND — "certainly going to be worthwhile" once Anthony Richardson is back and healthy *(2024 takes, stale)*
 - [[Marvin Mims Jr.]] — WR, DEN -- rookie film 'a disaster...nonfunctional,' RP data poor (2024-03-28, stale watch)
 - [[Jalen Hyatt]] — WR, NYG — Waldman "a little more convinced" despite a bad Giants QB situation *(2024 takes, stale)*
-- [[Rashee Rice]] — WR, KC — Waldman's self-admitted biggest 2023 rookie-WR pre-draft miss (had him 44th, late-4th-round value); Harstad's post-rookie model now scores him in the same tier as Reed/Flowers with real Tyreek Hill-level upside, though the manufactured/scheme-inflated-role downside case (Matt Harmon agrees) is equally live; Harmon's #5 (last) of the playoffs' remaining receivers — "very good" but capped at a Cooper-Kupp-archetype ceiling; Waldman's "notable exception" to GM Brett Veach's weak WR-drafting history, hoping KC adds a proven FA weapon around him; post-Super-Bowl real ADP downgrade — explicit "Gabe Davis effect," undrafted deep into Waldman's own mock — "not reliably valuable for top-five-round" picks *(2024 takes, stale)*
+- [[Rashee Rice]] — WR, KC — facing felony charges from a crash; Chiefs reportedly leaning offense early in 2024 draft as a result
 - [[Davante Adams]] — WR, LV — feeling it on staying in Vegas now that Luke Getsy (his old Packers OC) is the new OC; falling ADP (late 2nd round) framed as an explicit buy, "regardless of quarterback" *(2024 takes, stale)*
 - [[Gabe Davis]] — WR, JAX (signed FA) - 3yr/$39M; Harmon: was 7th percentile vs man in 2023, pairs into a bottom-5 WR room
 - [[Khalil Shakir]] — WR, BUF — Waldman: could be Bills' #2/3 WR, bargain, earns Josh Allen's trust on tough throws
@@ -271,7 +271,7 @@ for the chronological record of ingests, queries, and lints.
 - [[DeMarcus Robinson]] — WR, LAR — Waldman: WR99 ADP 'free square'; late-2023 DFS run buildable but temper expectations
 - [[Jahan Dotson]] — WR, WAS — Waldman: skilled WR3/matchup WR2, but unsure new Kingsbury-called offense unlocks him
 - [[Adonai Mitchell]] — WR prospect (2024 draft) — Harmon's finished RP profile: true X, strong man/press, weak zone; DeAndre Hopkins comp (2024 pre-draft, stale)
-- [[Xavier Worthy]] — WR prospect - record combine 40, but Waldman flags ball-fighting flaw; projects speed-complement WR2 not true X
+- [[Xavier Worthy]] — WR, prospect (Texas) — 4.21 combine speed; Harmon grades a priority 2nd-rounder, not RD1, citing press-coverage/contested-catch/drop concerns
 - [[Ja'Lynn Polk]] — WR, Washington (2024 prospect) — NFL-caliber per Froton; Falcons day-two target per Knight (2024 takes, stale)
 - [[Michael Pittman Jr.]] — WR, IND — team-friendly deal; Harmon calls him a true, underrated WR1, eyes top-10 breakout in 2024
 - [[D.J. Moore]] — WR, CHI — Harmon: versatile vertical/man-beating X, ideal high-low duo w/ new teammate Keenan Allen for rookie QB
