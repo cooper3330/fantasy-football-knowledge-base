@@ -28,14 +28,27 @@ removes the "stale index line" failure mode in CLAUDE.md's lint list -- the one
 that matters most, because during a live draft the index line is often all that
 gets read.
 
+--page-append extends the same idea to the pages themselves, which is where the
+cost actually was. Measured across 12 agents: 46k tokens per episode of wiki page
+reads, purely to find out where a bullet goes. Every one of those reads then sat
+in context for the rest of the run and was re-reasoned over on every later turn.
+
+Placing a bullet is not a judgement call -- "Expert Takes" is date-ordered, so the
+position is a function of the date. So is creating a page from its template. The
+agent supplies the take; this places it.
+
 Usage:
   wiki_update.py --index-set "Jahmyr Gibbs" "RB, DET — Waldman's 2024 RB1 over Bijan"
   wiki_update.py --catalog-row 2024-02-26 "Matt Waldman" "Feel It Or F@#k It" "Matt Waldman's RSP Cast - 2024-02-26"
   wiki_update.py --log-append < entry.md        # or heredoc
   wiki_update.py --check-index                  # report over-long index lines
+  wiki_update.py --page-append player "Keon Coleman" 2024-04-16 "According to [[...]]: ..." \\
+                 --frontmatter '{"team": "BUF", "position": "WR"}' \\
+                 --related "Scouting Bias and Player Archetypes"
 """
 
 import argparse
+import json
 import re
 import sys
 from pathlib import Path
@@ -188,6 +201,147 @@ def check_index():
     return 1
 
 
+# --- page bodies -----------------------------------------------------------
+
+KIND_DIR = {"player": "players", "concept": "concepts",
+            "format": "formats", "expert": "experts"}
+# Required frontmatter per kind, for pages this script creates.
+KIND_REQUIRED = {"player": ("team", "position"), "concept": (), "format": ("priority",)}
+TAKES = "## Expert Takes"
+RELATED = {"player": "## Related Concepts", "concept": "## Related",
+           "format": "## Related"}
+DATED = re.compile(r"^-\s*(\d{4}-\d{2}-\d{2})")
+# Concept pages group takes under dated ### subsections rather than a flat list,
+# so those count as ordering anchors too.
+DATED_SUB = re.compile(r"^###\s.*?(\d{4}-\d{2}-\d{2})")
+
+
+def page_path(kind, name):
+    if kind not in KIND_DIR:
+        sys.exit(f"error: unknown kind {kind!r}; expected one of {sorted(KIND_DIR)}")
+    return REPO / "wiki" / KIND_DIR[kind] / f"{name}.md"
+
+
+def _section(lines, heading):
+    """(start, end) line indices of a '## ' section body, excluding the heading."""
+    try:
+        start = next(i for i, l in enumerate(lines) if l.strip() == heading)
+    except StopIteration:
+        return None, None
+    end = len(lines)
+    for i in range(start + 1, len(lines)):
+        if lines[i].startswith("## "):
+            end = i
+            break
+    return start + 1, end
+
+
+def _create_page(kind, name, path, fm):
+    tpl = REPO / "wiki" / "_templates" / f"{kind}.md"
+    if not tpl.exists():
+        sys.exit(f"error: no template for kind {kind!r} and {path.relative_to(REPO)} "
+                 f"does not exist. Create the page by hand first.")
+    missing = [k for k in KIND_REQUIRED.get(kind, ()) if not (fm or {}).get(k)]
+    if missing:
+        sys.exit(f"error: {name} is a new {kind} page; frontmatter {missing} "
+                 f"required and not supplied. Leaving a required key blank would "
+                 f"make the page invisible to every tag/Dataview query.")
+    out = []
+    for line in tpl.read_text(encoding="utf-8").split("\n"):
+        key = line.split(":", 1)[0].strip() if ":" in line else None
+        if key and key in (fm or {}) and line.startswith(f"{key}:"):
+            out.append(f"{key}: {fm[key]}")
+        elif line.startswith("# {{"):
+            out.append(f"# {name}")
+        elif line.strip() == "-":       # template's empty placeholder bullet
+            continue
+        else:
+            out.append(line)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text("\n".join(out), encoding="utf-8")
+    return True
+
+
+def page_append(kind, name, date, bullet, fm=None, related=()):
+    """Insert a dated bullet into 'Expert Takes' at its chronological position.
+
+    Placing a bullet is a function of its date, not a judgement -- which is why
+    this does not need an LLM and why rule 4 becomes unbreakable once the date is
+    stamped here rather than typed by an agent.
+    """
+    path = page_path(kind, name)
+    created = False
+    if not path.exists():
+        created = _create_page(kind, name, path, fm)
+
+    line = f"- {date} — {bullet.strip()}"
+    text = path.read_text(encoding="utf-8")
+    if line in text:
+        print(f"page: {name} already has this bullet, nothing to do")
+        return created
+    lines = text.split("\n")
+
+    start, end = _section(lines, TAKES)
+    if start is None:
+        sys.exit(f"error: {path.relative_to(REPO)} has no {TAKES!r} section")
+
+    # Anchors are the dated elements already in the section. Each runs until the
+    # next anchor, so inserting *before* the first later-dated anchor puts the new
+    # bullet after everything older -- correct for a flat list and for concept
+    # pages whose takes sit under dated ### subsections.
+    insert = None
+    for i in range(start, end):
+        m = DATED.match(lines[i]) or DATED_SUB.match(lines[i])
+        if m and m.group(1) > date:
+            insert = i
+            break
+    if insert is None:
+        insert = end
+        while insert > start and not lines[insert - 1].strip():
+            insert -= 1          # don't strand the bullet after trailing blanks
+
+    lines.insert(insert, line)
+
+    rel_heading = RELATED.get(kind)
+    if related and rel_heading:
+        rs, re_ = _section(lines, rel_heading)
+        if rs is not None:
+            have = {l.strip() for l in lines[rs:re_]}
+            new = [f"- [[{r}]]" for r in related if f"- [[{r}]]" not in have]
+            if new:
+                at = re_
+                while at > rs and not lines[at - 1].strip():
+                    at -= 1
+                lines[at:at] = new
+
+    path.write_text("\n".join(lines), encoding="utf-8")
+    where = "created" if created else "updated"
+    print(f"page: {where} {kind}/{name} — bullet inserted at line {insert + 1}")
+    return created
+
+
+def expert_source(expert, source_page, note):
+    """Prepend a source to an expert page. That section runs newest-first."""
+    path = page_path("expert", expert)
+    if not path.exists():
+        sys.exit(f"error: no expert page {expert!r}. Tracked experts only -- a "
+                 f"guest's view is attributed inline, never given an expert page.")
+    line = f"- [[{source_page}]] — {note.strip()}"
+    text = path.read_text(encoding="utf-8")
+    if f"- [[{source_page}]]" in text:
+        print(f"expert: {expert} already lists {source_page}, nothing to do")
+        return
+    lines = text.split("\n")
+    start, end = _section(lines, "## Sources")
+    if start is None:
+        sys.exit(f"error: {path.relative_to(REPO)} has no '## Sources' section")
+    while start < end and not lines[start].strip():
+        start += 1
+    lines.insert(start, line)
+    path.write_text("\n".join(lines), encoding="utf-8")
+    print(f"expert: {expert} — added {source_page}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--index-set", nargs=2, metavar=("PAGE", "SUMMARY"))
@@ -196,6 +350,14 @@ def main():
     ap.add_argument("--log-append", action="store_true",
                     help="append the log entry supplied on stdin")
     ap.add_argument("--check-index", action="store_true")
+    ap.add_argument("--page-append", nargs=4, metavar=("KIND", "NAME", "DATE", "BULLET"),
+                    help="insert a dated bullet into a page's Expert Takes at its "
+                         "chronological position, creating the page if needed")
+    ap.add_argument("--frontmatter", metavar="JSON",
+                    help="with --page-append: frontmatter for a page being created")
+    ap.add_argument("--related", action="append", default=[],
+                    help="with --page-append: add a wikilink to the Related section")
+    ap.add_argument("--expert-source", nargs=3, metavar=("EXPERT", "SOURCE_PAGE", "NOTE"))
     args = ap.parse_args()
 
     if args.index_set:
@@ -204,9 +366,18 @@ def main():
         catalog_row(*args.catalog_row)
     if args.log_append:
         log_append(sys.stdin.read())
+    if args.page_append:
+        kind, name, date, bullet = args.page_append
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", date):
+            sys.exit(f"error: date must be YYYY-MM-DD, got {date!r}")
+        fm = json.loads(args.frontmatter) if args.frontmatter else None
+        page_append(kind, name, date, bullet, fm, args.related)
+    if args.expert_source:
+        expert_source(*args.expert_source)
     if args.check_index:
         return check_index()
-    if not any((args.index_set, args.catalog_row, args.log_append, args.check_index)):
+    if not any((args.index_set, args.catalog_row, args.log_append, args.check_index,
+                args.page_append, args.expert_source)):
         ap.print_help()
     return 0
 
