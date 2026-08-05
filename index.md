@@ -50,7 +50,7 @@ for the chronological record of ingests, queries, and lints.
 ### Quarterbacks
 - [[Jake Browning]] — QB, CIN — streamable low-end QB1 on his 2023 run; strong middle-of-field/timing thrower, no off-platform deep ball *(2023 takes, stale)*
 - [[Baker Mayfield]] — QB, TB — both hosts now bullish on a Tampa re-sign; "Pro Bowl level Jeff Garcia" season, mature version of his rookie-year traits; Harmon more skeptical — "streaky," career ceiling "lower than the 20th-best QB," but agrees he should stay in Tampa Bay rather than face a 7th head coach; new OC Liam Coen (a Mayfield-approved former Rams assistant) resolves the Dave-Canales-departure question, but Waldman's "totally feeling it" 2024 outlook is explicitly conditioned on Mike Evans and Chris Godwin both staying too *(2024 takes, stale)*
-- [[Justin Fields]] — QB, CHI — Waldman's best-outcome pick is Atlanta or Pittsburgh once Chicago moves on for Caleb Williams; more sophisticated coverage-reading decision-maker than Desmond Ridder was in Atlanta's 2023 offense *(2024 takes, stale)*
+- [[Justin Fields]] — QB, PIT — traded from CHI for a conditional 6th; Harmon/Koh split on whether return was too low
 - [[Derek Carr]] — QB, NO — 2023's rough start traced to left tackle Trevor Penning's play, not Carr himself; strong finish once protection was fixed (3+ TD games in 5 of 6 late-season outings); cheap streaming/QB2 value if the Saints add a receiver *(2024 takes, stale)*
 - [[Justin Herbert]] — QB, LAC — Waldman's history-based case that new OC Greg Roman/HC Jim Harbaugh won't cap him despite their run-heavy reputation; projects a more efficient "dink and dunk" ~3,300-3,500 yards, 30+ TD ceiling that specifically benefits Keenan Allen *(2024 takes, stale)*
 - [[Russell Wilson]] — QB, PIT (signed FA) - Harmon skeptical of real impact; missed Jeudy deep in DEN, doubts top-20 QB ceiling
@@ -79,14 +79,14 @@ for the chronological record of ingests, queries, and lints.
 - [[Tanner Mordecai]] — QB, Wisconsin prospect (SMU/Oklahoma transfer) — rocky transfer-year tape, rebounded late vs. LSU; Waldman's grade is future backup of value, not a starter *(2024 pre-draft takes, stale)*
 - [[Jack Plummer]] — QB, Louisville prospect — accuracy is the whole story per Waldman: "if he had the accuracy, he would probably be a top-five quarterback in this class" *(2024 pre-draft takes, stale)*
 - [[Joe Milton III]] — QB, Tennessee prospect — the class's clearest boom/bust arm-talent case; top-five-pick ceiling, out-of-the-league floor; Malik Willis comp, explicit "Jordan Love treatment" recommended by Waldman *(2024 pre-draft takes, stale)*
-- [[Desmond Ridder]] — QB, ATL — the mechanism Waldman blames for Atlanta's 2023 passing-game struggles: couldn't read the field dynamically between zones, forcing Arthur Smith into a simplified, static route scheme; real doubt he keeps the 2024 starting job *(2024 takes, stale)*
+- [[Desmond Ridder]] — QB, ARI — traded from Atlanta for Rondale Moore after Falcons signed Kirk Cousins
 - [[Kirk Cousins]] — QB, ATL — signed 4yr/$180M; 36, coming off Achilles tear, but Falcons best/only QB option
 - [[Daniel Jones]] — QB, NYG — flat "not the answer" per Waldman; expects a two-step Giants succession (a developmental pick first, a real QB1 pick once they're ready to move on) rather than an immediate bench *(2024 takes, stale)*
 - [[Ryan Tannehill]] — QB, TEN — speculative Pittsburgh reunion with former OC Arthur Smith; projected as a Joe-Flacco-style veteran room presence, not a starter bet *(2024 takes, stale)*
 - [[Aaron Rodgers]] — QB, NYJ — both hosts feel it on a return to form post-Achilles; intangible/effort-based case ("too obsessed with the game") rather than tape-based *(2024 takes, stale)*
 - [[Matthew Stafford]] — QB, LAR — Waldman comps his ball placement to 'Mahomes 1.0'; less mobile, more mistake-prone
 - [[Joe Burrow]] — QB, CIN — Waldman 'Goldilocks' on QB7 best ball ADP; top-3 QB talent when healthy
-- [[Kenny Pickett]] — QB, PIT — Wilson signed over him; Waldman: only a slight competition chance, Steelers protecting his trade value (2024, stale)
+- [[Kenny Pickett]] — QB, PHI — Traded to Philadelphia as Jalen Hurts's backup; pressure-processing concerns limited his Pittsburgh ceiling per Waldman.
 - [[Austin Reed]] — QB, West Florida — Waldman: aggressive Stafford/Warner-flavored arm, likely journeyman prospect
 - [[Brennan Armstrong]] — QB, NC State — Waldman: lefty, developmental-league grade, needs to unlock arm talent
 - [[Carter Bradley]] — QB, South Alabama — Waldman: mechanics need work, overreacts to pressure, dev-league grade
@@ -100,6 +100,11 @@ for the chronological record of ingests, queries, and lints.
 - [[Deshaun Watson]] — QB, CLE — Waldman 'open to' bounce-back after improved late-2023 spurts, ahead of Jeudy trade addition (2024, stale)
 - [[Jacoby Brissett]] — QB, WAS (FA) — Harmon's top pick as Minnesota's veteran bridge QB post-Cousins
 - [[Will Levis]] — QB, TEN - Harmon: Titans spending on weapons (Ridley) to properly evaluate him; unsure McCarthy is real upgrade
+- [[Sam Darnold]] — QB, MIN — Signs with Minnesota; Waldman rejects any Baker Mayfield redemption framing, calls him 'a placeholder for somebody else at best.'
+- [[Sam Howell]] — QB, SEA — Trades to Seattle to push Geno Smith; Waldman expects Smith to keep the job into midseason at least.
+- [[Aidan O'Connell]] — QB, LV — Waldman: real arm talent, hasn't proven long-term starter; Minshew signing is a hedge, not a benching
+- [[Geno Smith]] — QB, SEA — Waldman: wins the Howell competition 'in a cakewalk' at best, but perceived shakier under pressure than he is
+- [[Zach Wilson]] — QB, NYJ — Waldman: Baker-Mayfield-style redemption in range if he matures; could be out of league in years
 
 ### Running Backs
 - [[Christian McCaffrey]] — RB, SF — unqualified 2024 1.01 for Waldman again, edging [[CeeDee Lamb]] and [[Tyreek Hill]]; age 28 explicitly dismissed; the "leverage over the field" case; Harmon: even a strong Detroit run defense "isn't stopping that train" in the NFC Championship *(2024 takes, stale)*
@@ -109,9 +114,9 @@ for the chronological record of ingests, queries, and lints.
 - [[Tyler Goodson]] — RB, IND — explosive, natural cutback runner masked by Iowa's scheme; Waldman's long-term Colts preference *(2023 takes, stale)*
 - [[Trey Sermon]] — RB, IND — competent one-week fill-in, nothing beyond it; Howard/Williams comp *(2023 takes, stale)*
 - [[Devin Singletary]] — RB, HOU — had taken the job outright from Dameon Pierce in December 2023, but Waldman reverses: no longer Houston's presumptive 2024 starter, expects a free-agent RB (Jacobs or Henry) to take over; a rough Divisional Round game (9 carries, 22 yards) reinforces the need for an upgrade, though Harmon notes it followed a genuinely strong late-season stretch *(2024 takes, stale)*
-- [[Saquon Barkley]] — RB, PHI — signed 3yr/$46.75M; skepticism on pass-game upside, praised in a healthy ecosystem
-- [[Derrick Henry]] — RB, TEN (FA) — highest upside/highest risk of Big Four; Harstad: RYOE flat 21-23, no real decline, just lighter role
-- [[Joe Mixon]] — RB, CIN — expected to be moved on from by Cincinnati; Waldman's ideal fit is Dallas, offering the explosion/power/receiving package fans hoped Tony Pollard would provide *(2024 takes, stale)*
+- [[Saquon Barkley]] — RB, PHI — Signs with Philadelphia (not Waldman's predicted Houston); expects lead role, 'vengeance tour' upside on a loaded offensive line.
+- [[Derrick Henry]] — RB, BAL — Signs with Baltimore, Waldman's happiest move of free agency; 2023 speed data shows no decline, heavy Best Ball shares.
+- [[Joe Mixon]] — RB, HOU — Traded from Cincinnati; Waldman likes the fit with C.J. Stroud, downplays breakaway-rate criticism as overblown.
 - [[Alvin Kamara]] — RB, NO — cap-squeeze uncertainty in New Orleans, but a weeks-4-17 top-4 fantasy back when playing; a Shanahan-tree scheme (new OC Klint Kubiak) could extend his effective range *(2024 takes, stale)*
 - [[Breece Hall]] — RB, NYJ — "averts one disaster at a time"; processes fast but not two steps ahead, and Waldman still expects big-time yardage with a better line *(2023 takes, stale)*
 - [[Nick Chubb]] — RB, CLE — the big back who beats the size rule; best ever at re-accelerating post-contact, "Hall of Fame caliber talent," 2023 knee injury the live question *(2023 takes, stale)*
@@ -122,14 +127,14 @@ for the chronological record of ingests, queries, and lints.
 - [[Raheem Mostert]] — RB, MIA — the cheap half of Miami's committee; both hosts value him as a 2024 RB2, expect more work to shift to Achane *(2024 takes, stale)*
 - [[James Connor]] — RB, ARI — both hosts hanging on for 2024; "toast" skepticism reframed as a second-contract finance story, not a talent decline; Michael Carter cuts into but doesn't replace him *(2024 takes, stale)*
 - [[Aaron Jones]] — RB, Free Agent — released by GB after Jacobs signing; still good healthy, but 30 and injury-prone
-- [[Zamir White]] — RB, LV — the industry's hottest 2024 sleeper name per Waldman, who flags his own overhype risk; tied to Antonio Pierce keeping his job; a clear RB2 behind a Jacobs-elsewhere RB1 ceiling *(2024 takes, stale)*
+- [[Zamir White]] — RB, LV — Inherits lead role as Josh Jacobs leaves for Green Bay; Alexander Mattison signing is depth, not a real threat.
 - [[Tank Bigsby]] — RB, JAX — overrated by "about a round and a half" pre-draft per Waldman; costly drops, indecisive runner; opportunity would still get him 1,000 yards *(2024 takes, stale)*
 - [[Kendre Miller]] — RB, NO — Waldman's preferred dynasty stash over Bigsby, on opportunity alone *(2024 takes, stale)*
 - [[Chase Brown]] — RB, CIN — "I love Chase Brown"; Waldman's other preferred dynasty stash over Bigsby *(2024 takes, stale)*
-- [[Tony Pollard]] — RB, DAL (pending FA) — Waldman predicts Eagles landing spot, replacing Gainwell/Swift roles in one player (2024, stale)
+- [[Tony Pollard]] — RB, TEN — Signs with Tennessee on a hedge-y deal; Waldman calls him 'the shiny object,' drops Tyjae Spears's redraft value further.
 - [[Michael Carter]] — RB, ARI — "a pretty damn good back" who should cut into James Connor's 2024 workload, receiving skills underused so far *(2024 takes, stale)*
-- [[Austin Ekeler]] — RB, LAC (FA) — Harstad's #2 FA RB bet; receiving value holds even diminished
-- [[Josh Jacobs]] — RB, GB — signed with Packers, youth edge over since-released Aaron Jones
+- [[Austin Ekeler]] — RB, WASH — Signs cheap 2-yr deal; Waldman reads it as a complementary/McKissick-type role, bad news for Brian Robinson Jr.'s workload split.
+- [[Josh Jacobs]] — RB, GB — Signs with Green Bay after Aaron Jones's release; Waldman calls him a do-it-all 'pro's pro,' underrated as a receiver.
 - [[Najee Harris]] — RB, PIT — both hosts "intrigued" by his backfield outlook under new OC Arthur Smith's volume-funneling scheme; no explicit split from [[Jaylen Warren]] projected yet *(2024 takes, stale)*
 - [[Jaylen Warren]] — RB, PIT — intriguing complementary piece under new OC Arthur Smith, but explicitly tempered — "if you were waiting for a full-on revival, I don't think we're going to get that" *(2024 takes, stale)*
 - [[Jordan Mason]] — RB, SF — Waldman's preferred McCaffrey-injury contingency over Elijah Mitchell, on versatility and price *(2024 takes, stale)*
@@ -164,11 +169,28 @@ for the chronological record of ingests, queries, and lints.
 - [[Javonte Williams]] — RB, DEN — Waldman: 2023 dud likely lingering knee-injury effect, not decline; value play
 - [[Samaje Perine]] — RB, DEN — Waldman: elite YAC receiving back, will complicate a Javonte Williams breakout
 - [[Rachaad White]] — RB, TB — Waldman buying into repeat WR1-level fantasy output on volume/receiving with Evans, Mayfield back (2024, stale)
+- [[DeAndre Swift]] — RB, CHI — Signs 3yr/$8M with Chicago; Waldman expects part-time, mid-range production, not a bell-cow workload, behind Caleb Williams.
+- [[Alexander Mattison]] — RB, LV — Signs as Zamir White's backup; Waldman defends his zero-TD 2023 as a Minnesota QB/red-zone issue, not a talent flaw.
+- [[Zach Moss]] — RB, CIN — Signs post-Joe Mixon; pairs with Chase Brown as a solid 1-2 punch per Waldman, contingent on Joe Burrow's health.
+- [[Aidan Robbins]] — RB, BYU (2024 prospect) — Waldman: strong downhill gap runner, needs to press deeper to fit zone schemes too
+- [[Audric Estime]] — RB, Notre Dame (2024 prospect) — Waldman: 40 time (4.58-4.71) below starter speed but more than good enough to contribute
+- [[Isaac Guerendo]] — RB, Louisville (2024 prospect) — Waldman: hidden-gem-or-non-star either/or; feature-back frame, competent tackle-breaker
+- [[Isaiah Davis]] — RB, South Dakota State (2024 prospect) — Waldman: strong man-coverage route runner, needs more decisive vision as a runner
+- [[Jalen White]] — RB, Georgia Southern (2024 prospect) — Waldman: solid short-yardage gap runner, decision-making/leverage reads are the issue
+- [[Jase McClellan]] — RB, Alabama (2024 prospect) — Waldman: sharp cutter, a competent runner; unclear if that means a competent NFL starter
+- [[Montrell Johnson]] — RB, Florida (2024 prospect) — Waldman: good leverage reader/gap runner, misses third-level lanes bouncing to open backers
+- [[Tyrone Tracy Jr.]] — RB, Purdue (2024 prospect) — Waldman: elusive WR convert, developmental upside, still learning the running back position
+- [[Miyan Williams]] — RB, Ohio State (2024 prospect) — Waldman: smart, physical; ceiling of a Peyton-Barber-type committee back
+- [[Frank Gore Jr.]] — RB, Southern Miss (2024 prospect) — Waldman: smart cutback runner, must prove he can transcend size like Devin Singletary
+- [[Emani Bailey]] — RB, TCU (2024 prospect) — Waldman: inconsistent gap reads, too tight or too wide; needs better control/vision
+- [[Dylan McDuffie]] — RB, Kansas (2024 prospect) — Waldman: willing tight-crease runner, Raheem-Mostert-lite burst without the blink-of-an-eye separation
+- [[Michael Wiley]] — RB, Arizona (2024 prospect) — Waldman: needs better leverage attacking defenders, same early issue Jahmyr Gibbs had
+- [[Gus Edwards]] — RB, LAC — Waldman: underrated best-ball value on Greg Roman history, 13 TDs, could figure prominently
 
 ### Wide Receivers
 - [[Justin Jefferson]] — WR, MIN — Waldman: 1-2 with Ja'Marr Chase, negligible gap; would take Chase today only for Cincinnati's QB certainty edge
 - [[Ja'Marr Chase]] — WR, CIN — Waldman: locked in almost any scenario if Burrow stays; slight dynasty edge over Justin Jefferson on QB certainty
-- [[Keenan Allen]] — WR, LAC — top-5 WR without speed: beats man *and* zone, plays inside and outside *(2023 takes, stale)*
+- [[Keenan Allen]] — WR, CHI — traded from LAC; Harmon: role-narrowed not declining, elite on layup routes, great high-low fit w/ D.J. Moore
 - [[Amon-Ra St. Brown]] — WR, DET — same profile as Allen, with play-caller continuity as the tiebreaker; Harmon's #2 overall receiver remaining in the playoffs but #1 by team value ("in a runaway") — now beating press-man as well as zone; entering his contract year, "up for a big payday pretty soon" *(2024 takes, stale)*
 - [[Jameson Williams]] — WR, DET — real but hedged optimism after a big NFC Championship game; Waldman's explicit overdraft warning — "the Gabe Davis factor" — don't price him off one game; Harmon's harder technical critique — "shaky hands," not a "go up and get it" guy, a "splash play dude" whose highlights lean on Ben-Johnson-designed structure (Johnson is now confirmed staying in Detroit) *(2024 takes, stale)*
 - [[Brandon Aiyuk]] — WR, SF — best route runner in San Francisco and a WR1 bet at a bargain price; Harmon's #1 overall of the playoffs' remaining receivers, expects a 100-yard NFC Championship against Detroit's league-worst secondary; "woefully underpaid" on his fifth-year option per Harmon, who floats a hypothetical trade inquiry and flags him as one leg of a coming SF pass-catcher roster crunch (Aiyuk/Deebo/Kittle can't all stay past 2024) *(2024 takes, stale)*
@@ -183,9 +205,9 @@ for the chronological record of ingests, queries, and lints.
 - [[DeAndre Hopkins]] — WR, TEN — the "old man game" archetype; experts split on how much tail is left *(2023 takes, stale)*
 - [[Adam Thielen]] — WR, CAR — reputation as a possession receiver misreads a genuinely elite athletic profile *(2023 takes, stale)*
 - [[Deebo Samuel]] — WR, SF — elite vs zone and as a gadget runner, "not remotely as good" vs man; his value may not survive a team change; Harmon's #3 overall receiver remaining in the playoffs, "a true game wrecker" hard to rank against traditional route runners; Super Bowl LVIII was a live confirmation on tape — pressed all game, held to 3-for-33 on 11 targets — and he's flagged as one leg of a coming SF pass-catcher roster crunch (Aiyuk/Deebo/Kittle can't all stay past 2024) *(2024 takes, stale)*
-- [[Malik Nabers]] — WR prospect (LSU) — top-10 dynasty landing-spot risk if Patriots/Giants/Titans land him (Harmon 3/5)
-- [[Marvin Harrison Jr.]] — WR prospect (Ohio State) — top-10 dynasty landing-spot risk if Patriots/Giants/Titans land him (Harmon 3/5)
-- [[Rome Odunze]] — WR prospect (Washington) — top-10 dynasty landing-spot risk if Patriots/Giants/Titans land him (Harmon 3/5)
+- [[Malik Nabers]] — WR, LSU prospect — Harmon's full profile: tier one but WR3 of trio, elite after-catch, flagged zone-coverage weakness (46th pctl)
+- [[Marvin Harrison Jr.]] — WR, OSU prospect — Harmon's full RP profile: tier one, elite vs. doubles; torn between him and Odunze for WR1
+- [[Rome Odunze]] — WR, Washington prospect — Harmon's full profile: full-green route tree, argues closer to WR1 than consensus WR3; Davante Adams comp
 - [[Keon Coleman]] — WR, Florida State prospect — genuinely athletic but not elite-tier; catch-point skills "borderline otherworldly"; outcome hinges on landing in a timing-based passing scheme or risks a Courtland-Sutton-style outside-only pigeonhole; Harmon's early charting is more skeptical still — real separation issues, ~33rd percentile, a direct Treylon Burks bust comp *(2024 pre-draft takes, stale)*
 - [[Ainias Smith]] — WR/RB, Texas A&M prospect — both hosts' sleeper, "miscast as a gadget"; clean catch-point technique the real gadget archetypes lack; risk is a permanent gimmick-role typecast *(2024 pre-draft takes, stale)*
 - [[Michael Gallup]] — WR, DAL — Harms is out on a 2024 rebound; doesn't create separation as an X, may not even be in Dallas, projects a Chris-Conley-style "good player, not fantasy relevant" career *(2024 takes, stale)*
@@ -197,13 +219,13 @@ for the chronological record of ingests, queries, and lints.
 - [[Tyreek Hill]] — WR, MIA — 3rd in Waldman's 2024 top tier, but Bob Harris's personal #2 as "an old-school wide receiver one" *(2024 takes, stale)*
 - [[Mike Evans]] — WR, TB — re-signed 2yr/$52M; 2023 was career-best charted season, 2022 dip was scheme not decline (Harmon 3/5)
 - [[Rashid Shaheed]] — WR, NO — "WR4 with WR3 upside," a good Best Ball play; Waldman skeptical New Orleans sees him as more than a speed-role piece unless a coach says otherwise in camp *(2024 takes, stale)*
-- [[Jerry Jeudy]] — WR, CLE (from DEN) - Harmon reaffirms skepticism: bad vs zone (68-70%), better as flanker than slot; WR3 not WR2
+- [[Jerry Jeudy]] — WR, CLE — Harmon's official RP profile: plateaued/worsened vs zone (8th %ile), better fit at flanker than slot
 - [[Courtland Sutton]] — WR, DEN — "always thought was overrated" per Waldman; not a great route runner, "throw him five balls for him to catch three" *(2024 takes, stale)*
 - [[Chris Godwin]] — WR, TB — Waldman's strongest Bucs-receiver praise in the wiki: a Pro-Bowl-level, all-alignment "complete skill-set guy," Gronkowski-versatility comp; health/age the only live question; Harmon's retrospective — Tampa's 2023 move of him to a primarily outside role was "a gigantic mistake" not fixed until Week 14-15 — is now more relevant with OC Dave Canales (who fixed it) leaving for Carolina's HC job *(2024 takes, stale)*
 - [[Rashad Bateman]] — WR, BAL — "a super value play" if cheap per Waldman; limited by Andrews/Likely both being non-blocking tight ends; career-long availability question ("always hurt" per Waldman) though he made it through the full 2023 season healthy per Harmon, who still stops short of calling him a proven "key contributor" without the Ravens adding more around him *(2024 takes, stale)*
 - [[Stefon Diggs]] — WR, BUF — Bob Harris's instant no; Waldman sees 2024 value if he falls to the 2nd/3rd-round turn, with a Gabe Davis-shaped caution; Harmon flags real role dilution; Waldman senses unspecified off-field smoke after the Divisional Round loss; Harmon's specific theory — an unreported oblique/back injury behind a steep 2nd-half production collapse — with $32M in dead cap ruling out a cut, restructure or trade the likely paths *(2024 takes, stale)*
 - [[Cooper Kupp]] — WR, LAR — not hung up, but Puka Nacua's emergence caps his ceiling; "days of being that true alpha... are over, draft accordingly"; Harmon puts it at a "50/50 shot" that repeated ankle injuries have permanently sapped his explosiveness rather than a one-year dip, and RP charting now has Nacua separating better vs. man *(2024 takes, stale)*
-- [[Quentin Johnston]] — WR, LAC (2024 takes, stale) — Angelo/Waldman: 40-time measurement error likely saved his draft stock money
+- [[Quentin Johnston]] — WR, LAC — post-Allen trade, Harmon/Koh call Chargers' Palmer/Johnston duo among NFL's worst
 - [[Jaxon Smith-Njigba]] — WR, SEA — Waldman's #1 2023 rookie WR despite thin volume; built as the season went on; new HC Mike McDonald reportedly wants to move him into "a more premier role," with [[Tyler Lockett]]'s roster spot now in doubt *(2024 takes, stale)*
 - [[Zay Flowers]] — WR, BAL — in Waldman's top rookie WR tier but more boom/bust, entirely on how much Lamar Jackson's offense trusts him; the earlier "don't trade London for Flowers" debate is now resolved in London's favor after the full season; Harmon's #4 remaining playoff receiver with real "superstar tier" upside language, but a tough outside-alignment matchup vs. Kansas City's AFC Championship secondary *(2024 takes, stale)*
 - [[Puka Nacua]] — WR, LAR — Waldman's #3 2023 rookie WR, #1 by pure production; Harstad's post-rookie model scores his rookie year the single best in its 2006-2023 sample, expanding the "big four" to a "big five"; long-term outlook tied to Stafford's remaining runway *(2024 takes, stale)*
@@ -239,7 +261,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Devontez Walker]] — WR, North Carolina prospect — a real stock disagreement: outside buzz has him as high as late Round 1, Angelo's own grade is late Day 3 and he's sticking with it *(2024 pre-draft takes, stale)*
 - [[Brendan Rice]] — WR, USC prospect — solidified as a late Day 2/Day 3 pick per Angelo through Senior Bowl week *(2024 pre-draft takes, stale)*
 - [[J. Michael Sturdivant]] — WR, UCLA prospect (Cal transfer) — 6'3"/205, high-end traits that "didn't really emerge at the highest level" of production per Waldman; declared, ungraded *(2024 pre-draft takes, stale)*
-- [[Marquise Brown]] — WR, ARI — Harmon: career-worst 2023, injury + Cardinals' X-only usage on a non-press-beater (2024, stale)
+- [[Marquise Brown]] — WR, KC — Harmon: zone-beater signed on 'Mahomes discount,' man coverage in decline (59% in 2023)
 - [[Skyy Moore]] — WR, KC — Harmon calls his outside-receiver usage a "mis-evaluation" of the player; doesn't expect him in Kansas City's plans and would rather see him traded to restart elsewhere *(2024 takes, stale)*
 - [[A.J. Brown]] — WR, PHI — Waldman: worth a 1st-rounder in best ball; unbothered by WIP-call drama, worries about Eagles' org instead
 - [[DeMarcus Robinson]] — WR, LAR — Waldman: WR99 ADP 'free square'; late-2023 DFS run buildable but temper expectations
@@ -248,14 +270,14 @@ for the chronological record of ingests, queries, and lints.
 - [[Xavier Worthy]] — WR prospect - record combine 40, but Waldman flags ball-fighting flaw; projects speed-complement WR2 not true X
 - [[Ja'Lynn Polk]] — WR, Washington (2024 prospect) — NFL-caliber per Froton; Falcons day-two target per Knight (2024 takes, stale)
 - [[Michael Pittman Jr.]] — WR, IND — team-friendly deal; Harmon calls him a true, underrated WR1, eyes top-10 breakout in 2024
-- [[D.J. Moore]] — WR, CHI — 'stone cold baller,' all-pro 2023; Bears a critical-need WR team behind him per Harmon (3/5)
+- [[D.J. Moore]] — WR, CHI — Harmon: versatile vertical/man-beating X, ideal high-low duo w/ new teammate Keenan Allen for rookie QB
 - [[Calvin Ridley]] — WR, TEN (signed FA) - 4yr/$92M; Harmon: overpay but still elite separator, good fit off Titans static-X usage
-- [[Mike Williams]] — WR, LAC — Waldman: catch-point near Higgins, more physical after catch; real cap-cut/trade candidate but can't stay healthy (2024, stale)
+- [[Mike Williams]] — WR, NYJ — signed to pair with Garrett Wilson; Harmon: frees up Wilson if healthy, but availability a real risk
 - [[Tyler Harrell]] — WR, deep sleeper (Miami) — Waldman: elite play speed, 'as fast as Xavier Worthy' but unproven, injury-plagued (2024 prospect, stale)
 - [[Amari Cooper]] — WR, CLE — Waldman: secure top target post-Jeudy trade, 'ain't going anywhere,' upgrade over Sutton for Watson (2024, stale)
 - [[Elijah Moore]] — WR, CLE - Harmon: good player, best in slot/off-ball; beats press/zone better than Jeudy, projects WR3
 - [[Christian Kirk]] — WR, JAX - Harmon: best receiver on Jaguars roster, slot-mostly; now in a bottom-5 receiver room
-- [[Darnell Mooney]] — WR, ATL (signed FA) - $39M deal exemplifies WR-over-RB market pricing gap; Harmon likes fit with Drake London
+- [[Darnell Mooney]] — WR, ATL — Harmon projects vertical-slot/flanker role (60-40 split), a WR3-caliber 'a 3'
 - [[Anthony Gould]] — WR, Oregon State (2024 prospect) — Waldman: sub-package contributor early, needs man-coverage refinement to start
 - [[Bub Means]] — WR, Pittsburgh (2024 prospect) — Waldman: open-field skills, ceiling of a starting split end one day
 - [[Jalen McMillan]] — WR, Washington (2024 prospect) — Waldman: enough skill for early starting-lineup role with right fit
@@ -266,6 +288,12 @@ for the chronological record of ingests, queries, and lints.
 - [[Luke McCaffrey]] — WR, Rice (2024 prospect) — Waldman: Christian McCaffrey's brother, patient open-field runner, needs route polish
 - [[Ryan Flournoy]] — WR, Southeast Missouri State (2024 prospect) — Waldman: NFL athlete, contributor-vs-reserve hinges on releases/breaks
 - [[Xavier Weaver]] — WR, Colorado (2024 prospect) — Waldman: Jordan Addison starter kit, route game a starting-caliber foundation
+- [[Michael Thomas]] — WR, FA — Speculative Miami fit floated by Waldman as a 'great fit' if healthy; still worth a cheap late-round flier.
+- [[Curtis Samuel]] — WR, BUF — Harmon: consistently ~75%+ vs man for 4 yrs, QB-suppressed stats, breakout buy reuniting w/ Joe Brady
+- [[Rondale Moore]] — WR, ATL — Harmon: 'not a real receiver,' pure gadget/motion piece after trade for Desmond Ridder
+- [[Garrett Wilson]] — WR, NYJ — Harmon: prefers slot work, pushed to perimeter in 2023 for lack of X options; Williams addition should free him up
+- [[Odell Beckham Jr.]] — WR, unsigned FA (Mar 2024) — Miami offered contract; usage confusingly declined in Baltimore; Harmon skeptical of full-time player again
+- [[Xavier Gipson]] — WR, NYJ — Harmon 'really intrigued,' thinks he can play; eyed for bigger slot role in 2024
 
 ### Tight Ends
 - [[T.J. Hockenson]] — TE, MIN — great in zone, positions well in man; TE1 ceiling minus a tier with a backup QB *(2023 takes, stale)*
@@ -281,6 +309,9 @@ for the chronological record of ingests, queries, and lints.
 - [[Brock Bowers]] — TE, Georgia prospect — Waldman leaning "feel it" on him becoming the next big rookie-TE fantasy producer; a LaPorta-mold "move tight end" with one real catch-point flaw and blocking to develop; Dalton-Kincaid-outcome comp, not LaPorta/Pitts-level rookie production *(2024 pre-draft takes, stale)*
 - [[George Kittle]] — TE, SF — quiet Super Bowl LVIII box score plus a brief locker-room injury scare; career-best yards-per-target season in 2023; flagged as one leg of a coming SF pass-catcher roster crunch (Aiyuk/Deebo/Kittle can't all stay past 2024) per Harmon *(2024 takes, stale)*
 - [[David Njoku]] — TE, CLE — Waldman: still TE8 value post-Jeudy trade, retains Browns #2 role behind Amari Cooper on Watson tie (2024, stale)
+- [[Ja'Tavion Sanders]] — TE, Texas prospect — Waldman's late-round best-ball TE flyer, 'aspiring David Njoku starter kit'
+- [[Ben Sinnott]] — TE, Kansas State prospect — Waldman's top-3-5 TE in 2024 class, bulldozer runner with contact balance
+- [[Jack Westover]] — TE, Washington prospect — Waldman: walk-on who catches everything, projects zone/fullback role
 
 <!-- Claude: maintain grouped by position (QB / RB / WR / TE), each with a
      one-line summary. See CLAUDE.md "Index maintenance". -->

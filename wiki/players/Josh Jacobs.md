@@ -25,6 +25,8 @@ tags: [player]
 - 2024-03-12 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) on [[Reception Perception The Show - 2024-03-12]]: on his move to Green Bay — likes it for the Packers given Jacobs's relative youth (turning 26) versus the since-released [[Aaron Jones]] (turning 30), while flagging his 2023 workload/production collapse (340 attempts/1,650 yards in 2022 down to 233 attempts/805 yards in 2023) as largely a product of the Raiders' non-competitive, post-McDaniels context rather than a talent decline. Says it's still unclear whether he'll be a good scheme fit in Matt LaFleur's system.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] and **Bob Harris** (co-host — not a tracked expert) on [[Matt Waldman's RSP Cast - 2024-03-19]]: both fully "feel" the finalized move to Green Bay, calling it one of the best fits of this free-agent cycle — helped further by the Packers releasing [[Aaron Jones]] and bringing back only complementary A.J. Dillon (not a tracked page). Waldman: Jacobs is "a pro's pro," a do-it-all back who can run gap or zone and is a much better receiver than his box-score totals suggest to anyone who "never watched Alabama tape" — expects the receiving numbers to climb now that he isn't sharing touches with Jones.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Derrick Henry]]

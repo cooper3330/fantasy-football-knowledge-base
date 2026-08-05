@@ -27,6 +27,9 @@ receivers whose value is concentrated in one throw type do not.
 
 - 2024-03-12 — According to [[Matt Harmon]] on [[Reception Perception The Show - 2024-03-12]]: groups [[Drake London]] and [[Michael Pittman Jr.]] with [[Terry McLaurin]], [[D.J. Moore]] and Allen Robinson (not tracked) as talented X-receivers whose true quality has been masked by a "carousel" of bad/rotating starting quarterbacks — arguing all are legitimate star-caliber No. 1s whose depressed box-score production is a quarterback problem, not a talent problem, and predicting that [[Kirk Cousins]] specifically should unlock London the way durable, drop-back-competent QB play would for any of them.
 
+- 2024-03-19 — According to [[Matt Harmon]] on [[Reception Perception The Show - 2024-03-19]]: applies the framework to [[Curtis Samuel]]'s career-long charting profile (a consistent ~75%+ success rate vs. man coverage across four seasons, roughly 80th percentile) despite him never posting a 900-yard season — attributes the box-score/talent gap directly to the quality of his surrounding offenses and quarterbacks (Kyle Allen in 2019, a crowded/disorganized Washington passing game under Eric Bieniemi in 2023), contrasted with his one clearly good situation (Joe Brady's 2020 Carolina offense, his best statistical year) as proof the talent was constant and the QB/scheme was the variable.
+
 ## Related
 - [[Zone vs Man Route Running]]
 - [[Redraft (Standard)]]
+- [[Curtis Samuel]]

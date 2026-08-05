@@ -26,7 +26,12 @@ tags: [player, prospect]
 - 2024-03-12 — According to [[Matt Harmon]] on [[Reception Perception The Show - 2024-03-12]]: says he "really buys the smoke" that Minnesota has its sights set on McCarthy as [[Kirk Cousins]]'s eventual replacement now that Cousins has signed with Atlanta, seeing why Shanahan-tree offensive minds would like a QB profile like his (pointing to colleague Derek Klassen's — not tracked — scouting work on him), but expects it would require Minnesota to trade up the board to get him.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: on Minnesota's post-Cousins quarterback options, rates him merely "okay" and doubts he'd leverage [[Justin Jefferson]] vertically as well as [[Michael Penix Jr.]] or [[Jayden Daniels]] would.
+
+- 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: in a hypothetical-GM exercise on drafting quarterbacks, picks [[Michael Penix Jr.]] over McCarthy explicitly — "I would rather have Penix, who's less athletic at this point... who's more accurate" — arguing McCarthy's "nice footwork" and athleticism matter less than surrounding pass protection and receivers who can erase his catch-radius inaccuracies, neither of which McCarthy is guaranteed to get.
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Brock Purdy]]
 - [[Kirk Cousins]]
+- [[Michael Penix Jr.]]

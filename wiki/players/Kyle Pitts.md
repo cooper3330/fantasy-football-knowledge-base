@@ -18,6 +18,8 @@ tags: [player]
 - 2024-02-29 — According to **Kevin Knight** (Falcons reporter, SB Nation's Falcoholic — guest, not a tracked expert) on *Reception Perception: The Show*, with [[Matt Harmon]] absent ([[Reception Perception The Show - 2024-02-29]]): says Pitts "was never really healthy last year" and could take real pressure off a thin receiver room in 2024 if he's finally healthy and paired with a quarterback able to get him the ball.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: flags his own *Fantasy Notebook* (Footballguys) research on [[Kirk Cousins]] — over 27% of Cousins's career targets have gone to the tight end, and he's "carried some tight ends to great heights" — as the case for a real Pitts rebound now that the signing is official; still "feeling" the move as a plus for Pitts.
+
 ## Related Concepts
 - [[Scheme vs Talent]]
 - [[Pat Freiermuth]] — the same Arthur Smith TE-usage caution, applied to his new team

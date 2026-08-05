@@ -24,6 +24,8 @@ tags: [player]
 - 2024-03-12 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) on [[Reception Perception The Show - 2024-03-12]]: reacting to the finalized deal (4 years, $180M, $45M/year, $100M guaranteed) — dubs him the "bag king" but flags real risk: turns 36 this season coming off a late-October Achilles tear, with genuine doubt he's ready for Week 1. Expects a "grown-up offense" boost for [[Drake London]] once he's on the field, tied to new OC Zach Robinson's Rams-schemed system and Cousins's familiarity with new HC Raheem Morris from their Washington days — calls Cousins "the only guy on the market" who had shown, over multiple seasons, above-replacement-level QB play, making this Atlanta's only real option at the position this offseason.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: still "feeling" the finalized move to Atlanta — argues Cousins "cures all the foul" on that offense given the good offensive line and strong ground game already in place (headlined by "future All-Pro" [[Bijan Robinson]]), and that Cousins can finally give the Falcons a quarterback who reads the full field, delivers on time and manipulates coverage. Downplays the Achilles/age worry after seeing his offseason workout videos ("looked pretty good"), noting recovery outcomes from that injury have generally improved with the technology. Points to his own *Fantasy Notebook* research (Footballguys) that 27%+ of Cousins's career targets have gone to the tight end and that he's "carried some tight ends to great heights" as the basis for expecting a real [[Kyle Pitts]] boost.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Justin Fields]]

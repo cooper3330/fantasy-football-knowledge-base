@@ -15,5 +15,9 @@ tags: [player]
 
 - 2024-01-04 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-04]]): "I love Chase Brown" — prefers stashing him over [[Tank Bigsby]] on a dynasty bench, self-described as "a sucker for developmental types" even though he acknowledges that archetype has a low hit rate overall.
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: pairs him with new addition [[Zach Moss]] as Cincinnati's post-[[Joe Mixon]] backfield, with Brown specifically bringing "the speed element" the team wanted more of.
+
 ## Related Concepts
 - [[Dynasty]]
+- [[Zach Moss]]
+- [[Joe Mixon]]

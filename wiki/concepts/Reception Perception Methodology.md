@@ -32,6 +32,8 @@ methodology.
 
 - 2024-03-12 — According to [[Matt Harmon]] on [[Reception Perception The Show - 2024-03-12]]: applies three straight seasons of charted data to [[Michael Pittman Jr.]] — success rate vs. man coverage of 74.3%/74.2%/74.8% across 2021-2023, over 80% vs. zone and press each year, and a 2023 route tree that was 61.4% slants/curls/digs (12.8% digs, 20% curls, 28.6% slants) — as evidence his production ceiling is capped by quarterback play rather than talent, comparing his usage profile to a "Bud Light version" of peak Michael Thomas (not tracked) with the New Orleans Saints.
 
+- 2024-03-19 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-19]]): puts an explicit percentile calibration on the man-coverage success-rate scores for the first time on air — any charted success rate vs. man coverage above roughly 75% pushes a receiver into "the 80th percentile," a threshold he says separates merely good charted receivers from extremely good ones. Applied live to [[Keenan Allen]] (dig/curl/slant/flat scores in the 83-93% range) and [[Curtis Samuel]] (a career-long ~75%+ success rate vs. man).
+
 ## Related
 - [[Matt Harmon]]
 - [[Zone vs Man Route Running]]
@@ -40,3 +42,5 @@ methodology.
 - [[Malik Nabers]]
 - [[Rome Odunze]]
 - [[Michael Pittman Jr.]]
+- [[Keenan Allen]]
+- [[Curtis Samuel]]

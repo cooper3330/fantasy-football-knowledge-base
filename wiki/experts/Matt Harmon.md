@@ -150,8 +150,35 @@ pulled from dedicated rankings segments.
   (68.4%/70.3% the last two years) after his trade to Cleveland — "I think
   history has proven me to be correct." Directly checkable against Jeudy's
   2024 season and role in Cleveland's offense.
+- **Open, unresolved 2024-03-21 read:** projects [[Marquise Brown]] as a
+  flanker/slot hybrid rather than a true X in Kansas City, calling the KC
+  signing a "Patrick Mahomes discount" prove-it deal. Checkable against
+  Brown's actual 2024 alignment and target volume.
+- **Open, unresolved 2024-03-21 read:** on Cleveland's receiver room, says he
+  isn't sure how it "all sorts itself out beyond [[Amari Cooper]] and [[David
+  Njoku]]," casting [[Jerry Jeudy]], [[Elijah Moore]] and [[Cedric Tillman]]
+  as unreliable supporting pieces contingent on [[Deshaun Watson]]. Checkable
+  against Cleveland's actual 2024 receiver usage.
+- **Open, unresolved 2024-03-21 read:** calls [[Rondale Moore]] "not a real
+  receiver," a pure gadget/motion piece, after his trade to Atlanta for
+  [[Desmond Ridder]]. Checkable against Moore's 2024 role and target share.
+- **Open, unresolved 2024-03-26 read:** finished 8-game Reception Perception
+  profiles on all three top-tier 2024 receiver prospects — now leans toward
+  [[Rome Odunze]] over [[Marvin Harrison Jr.]] as his personal WR1 of the
+  class (a break from public consensus, which has Odunze third), and keeps
+  [[Malik Nabers]] third of the trio on a flagged zone-coverage weakness.
+  Reaffirms all three as tier-one, top-10-worthy grades. Directly checkable
+  against all three players' rookie seasons.
 
 ## Sources
+- [[Reception Perception The Show - 2024-03-26]] — full-profile drop show
+  (with James Koh): finished [[Marvin Harrison Jr.]], [[Rome Odunze]] and
+  [[Malik Nabers]] Reception Perception profiles go live, with Harmon now
+  leaning toward Odunze as his class WR1 over Harrison; free-agency notes on
+  the Jets signing [[Mike Williams]] to pair with [[Garrett Wilson]] (new
+  page), plus new pages for [[Xavier Gipson]] and [[Odell Beckham Jr.]]
+- [[Reception Perception The Show - 2024-03-21]] — free-agency reaction show (with James Koh): [[Marquise Brown]]'s finalized Kansas City signing (role/scheme fit, man-coverage decline by year), the official [[Jerry Jeudy]] Reception Perception profile (zone-coverage plateau, flanker-vs-slot debate, Cleveland "distressed asset" WR room skepticism), Minnesota's trade-up for an extra 2024 first-round pick and rookie-QB timeline speculation, the [[Desmond Ridder]]-for-[[Rondale Moore]] trade, and Atlanta's receiver-room rebuild ([[Drake London]], [[Darnell Mooney]], Rondale Moore)
+- [[Reception Perception The Show - 2024-03-19]] — weekend receiver-news reaction show (with James Koh), the first episode fully dedicated to just two stories: [[Keenan Allen]]'s trade to Chicago (charted case that he's a role-adjusted, not declining, player, paired with [[D.J. Moore]]) and [[Curtis Samuel]]'s free-agent signing with Buffalo (career-long charted man-coverage data used to argue his production has been QB/scheme-suppressed, not talent-limited); new page for Curtis Samuel; explicit man-coverage percentile calibration (75%+ ≈ 80th percentile) added to [[Reception Perception Methodology]]; briefer team-context notes on [[Justin Herbert]]/[[Quentin Johnston]], [[Justin Fields]]'s trade to Pittsburgh, [[Mike Williams]]/[[George Pickens]] archetype overlap, [[Khalil Shakir]]/[[Stefon Diggs]], and pushback on "stock down" dynasty overreactions to [[Nico Collins]]/[[Tank Dell]]
 - [[Reception Perception The Show - 2024-03-14]] — free-agency reaction show
   (with James Koh): breaks down the actual [[Diontae Johnson]] trade to
   Carolina (charted case for why the return was too light), the [[Jerry

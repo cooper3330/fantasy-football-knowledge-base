@@ -857,3 +857,28 @@ Diontae Johnson traded PIT→CAR (light return, Harmon: fleeced); Jerry Jeudy tr
 
 ## [2024-03-16] ingest | Matt Waldman's RSP Cast — 2024 NFL Draft WR Class A-Z: Matt Waldman's RSP Solo Cast
 Full A-Z sweep of the 2024 WR draft class (54 prospects). Updated 20 existing prospect/veteran pages (Adonai Mitchell, Ainias Smith, Brendan Rice, Brian Thomas Jr., Devontez Walker, Ja'Lynn Polk, Javon Baker, Jaxon Smith-Njigba, Keon Coleman, Ladd McConkey, Malachi Corley, Malik Nabers, Malik Washington, Marvin Harrison Jr., Ricky Pearsall, Roman Wilson, Rome Odunze, Troy Franklin, Xavier Legette, Xavier Worthy, Tee Higgins). Created 10 new prospect pages (Anthony Gould, Bub Means, Jalen McMillan, Jermaine Burton, Johnny Wilson, Joshua Cephus, Kobe Hudson, Luke McCaffrey, Ryan Flournoy, Xavier Weaver). Added receiver career-longevity data (13% of 2008-17 draftees reach 3+ yrs top-36 production) to Aging Curves and Career Longevity, and a grading-tiers/scheme-fit worked example to Prospect Pro-Readiness vs Ceiling. No headline reversals — mostly new/corroborating scouting detail.
+
+## [2024-03-19] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: 3.19.24
+Free-agency reaction week: Fields (PIT), Pickett (PHI), Keenan Allen (CHI), Diontae Johnson (CAR) trades finalized; Henry (BAL), Barkley (PHI, reversing Waldman's own Houston prediction), Jacobs (GB), Mixon (HOU), Ekeler (WASH), Pollard (TEN), Cousins (ATL) signings finalized. New pages: DeAndre Swift, Sam Darnold, Sam Howell, Alexander Madison, Zach Moss, Michael Thomas.
+
+## [2024-03-19] ingest | Reception Perception: The Show — Weekend Receiver News: Keenan Allen Joins Bears & Bills Add Curtis Samuel
+New page: Curtis Samuel (BUF signing, charted case his production is QB-suppressed not talent-limited). Keenan Allen traded to Chicago, paired with D.J. Moore — Harmon's charted read: role-narrowed, not declining. Justin Fields traded to Pittsburgh for a 6th; hosts split on value. Chargers' post-trade WR room (Palmer/Johnston) called among NFL's worst.
+
+## [2024-03-21] ingest | Reception Perception: The Show — Marquise Brown to KC, Jerry Jeudy Charting & New Falcons WR Room
+Marquise Brown signs 1yr/$7M with KC — Harmon: zone-beater ("Mahomes discount"), man coverage declining year over year (73.6%→62.6%→59%), projected flanker/slot. Jerry Jeudy's official RP profile confirms zone-coverage plateau/decline (8th percentile) — Harmon argues flanker fit over slot; skeptical of Cleveland's "distressed asset" WR strategy. Desmond Ridder traded ATL→ARI for Rondale Moore (new page: "not a real receiver," gadget player) after Falcons signed Kirk Cousins. Falcons WR room: Drake London X-receiver evaluation, Darnell Mooney projected vertical-slot/flanker role.
+
+## [2024-03-23] ingest | Matt Waldman's RSP Cast — 2024 RSP RB A-W Solo Cast
+Waldman's annual RB-class hit-rate framework (1-3 sustained starters per class is normal) drives an explicit dynasty rookie-draft recommendation to prioritize WR/QB over RB and trade for veteran backs later (logged to Dynasty). Updated 19 existing 2024 RB prospect pages with fresh scouting detail (no headline reversals); created 13 new prospect pages (Aidan Robbins, Audric Estime, Isaac Guerendo, Isaiah Davis, Jalen White, Jase McClellan, Montrell Johnson, Tyrone Tracy Jr., Miyan Williams, Frank Gore Jr., Emani Bailey, Dylan McDuffie, Michael Wiley). Names normalized: Aiden Robinson/Robbins -> Aidan Robbins; Audrick Estime -> Audric Estime; Isaac Garendo -> Isaac Guerendo; Jason McClellan -> Jase McClellan; Myan Williams -> Miyan Williams; Amani Bailey -> Emani Bailey; Dylan Lobby -> Dylan Laube; Dylan Johnson -> Dillon Johnson (existing page, reconfirmed).
+
+## [2024-03-25] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: 3.25.24
+New pages: Ja'Tavion Sanders (TE, ASR "Getavian Sanders"), Aidan O'Connell, Geno Smith, Gus Edwards, Ben Sinnott (ASR "Ben Sanat"), Jack Westover, Zach Wilson. Waldman prefers Michael Penix Jr. over J.J. McCarthy and Drake Maye for Washington/New England; reaffirms Penix/Caleb Williams as the class's top-two QBs. Giants roster-construction critique (should've paid Saquon Barkley, not Daniel Jones). Gus Edwards flagged as underrated best-ball value on Greg Roman scheme history.
+
+## [2024-03-26] ingest | Reception Perception: The Show — Breaking Down the Top 3 Wide Receiver Prospects
+Full RP profiles for Marvin Harrison Jr., Rome Odunze and Malik Nabers go live; Harmon now leans Odunze as his class WR1 over Harrison, keeps Nabers third on zone-coverage concerns. Mike Williams signs with Jets to pair with Garrett Wilson. New pages: Garrett Wilson, Odell Beckham Jr., Xavier Gipson.
+
+## [2026-08-04] lint | post-ingest cleanup of 2024-03-01..2024-03-19 batch
+Renamed "Alexander Madison" -> [[Alexander Mattison]] (ASR garble, rule 7) and
+fixed all 5 referring pages plus both index lines; recorded the garble as an
+alias so it resolves instead of being recreated. Removed the partial write left
+by the session-limit failure on the 2024-03-19 RSP episode (7 orphan pages, 35
+bullets) before re-ingesting it cleanly.

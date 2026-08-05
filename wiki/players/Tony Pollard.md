@@ -25,9 +25,12 @@ tags: [player]
 - 2024-03-11 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-11]]) [Redraft (Standard)]: predicts he lands with the Philadelphia Eagles in free agency — "totally feeling that" — reasoning the Eagles would get in one player what they'd hoped to get separately from Kenneth Gainwell and DeAndre Swift (both not tracked pages).
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: reacts to the finalized Tennessee signing as "short-term fuck it" for [[Tyjae Spears]]'s redraft value, but reads the contract structure (with a likely out in year two or three) as Tennessee hedging rather than fully committing to Pollard as the starter — if Pollard struggles or gets hurt, Spears is still positioned to take over. Calls Pollard "the shiny object" who may end up priced too high for what he actually provides. Separately flags Bill Callahan (new Titans assistant, HC Brian Callahan's father) as the real story to watch, crediting him as one of the league's best offensive-line minds.
+
 ## Related Concepts
 - [[Healthy Enough to Play vs. Healthy Enough to Perform]]
 - [[Redraft (Standard)]]
 - [[Dynasty]]
 - [[Austin Ekeler]]
 - [[Travis Kelce]]
+- [[Tyjae Spears]]

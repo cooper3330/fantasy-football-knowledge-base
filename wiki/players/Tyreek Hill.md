@@ -16,5 +16,8 @@ tags: [player]
 - 2024-01-01 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-01]]) [Redraft (Standard)]: ranks Hill third overall for 2024 among a three-way debate with [[Christian McCaffrey]] and [[CeeDee Lamb]], though he stresses "there's no wrong answer" among the three.
 - 2024-01-01 — **Bob Harris** (co-host — not a tracked expert), same episode: would rank Hill above Lamb (second overall behind McCaffrey) despite being the oldest of the three — calls him "an old-school wide receiver one" who plays all three receiver alignments at an elite level, does "the dirty work," and wins after the catch. Notes Hill was on a record-breaking pace at one point in 2023 before a minor injury cost him a game, and argues his crossing routes out of the slot are as hard to stop as Davante Adams's goal-line bubble screens were in Green Bay.
 
+- 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: notes Hill has talked publicly about a retirement timeline — "the end of next year or something" — and casts him as the ideal veteran mentor for incoming rookie [[Xavier Worthy]], specifically because Hill's own speed-plus-technique game gives him credibility to tell a younger burner not to lean on pure speed.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
+- [[Xavier Worthy]]

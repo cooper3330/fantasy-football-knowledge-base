@@ -25,8 +25,16 @@ tags: [player]
 - 2024-03-08 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-08]]) [Dynasty], solo cast on the full QB class: an efficient mover under pressure who can sidestep or climb and resets his feet well, finding the open man in the middle of the field better than "people characterize" — adds that if Baker Mayfield or [[Kyler Murray]] did this better, both would have had better careers than they've had to this point. Still has concerns about specific middle-of-field throws he got away with at Washington that Waldman doesn't think will work in the NFL, but reads the year-over-year trend as improving — the lapses have gotten "less and less" over time. Floor: "at worst," a low-end starter who can keep his team competitive if the surrounding talent and scheme are strong enough to maximize his strengths and minimize his flaws.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: names Penix, alongside [[Jayden Daniels]], as giving [[Justin Jefferson]] and [[T.J. Hockenson]] the best vertical-throwing fit among Minnesota's realistic post-[[Kirk Cousins]] quarterback options — likely available "a little later" in the draft than [[Drake Maye]].
+
+- 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: in a Washington-picks-second discussion, restates him as one of two true top quarterbacks in the class alongside [[Caleb Williams]] — "probably the best thrower, pure thrower," with more pocket toughness, movement and field vision than he's given credit for, pushing back again on the "not a hard worker" / "not pro-style" rumor-based criticisms that dog quarterbacks like him (draws the same pattern to [[Lamar Jackson]]'s pre-draft treatment). Doesn't expect Washington to trade down to take him — skeptical the front office's "new and improved" media narrative reflects real organizational change yet — but floats him as realistically available "around later in the second round" if Washington instead takes a quarterback at 1.02. Separately, in a hypothetical-GM exercise, says he'd rather build around Penix than reach for [[J.J. McCarthy]]'s athletic ceiling, given Penix's better accuracy and the fact Waldman would actually surround him with real receivers rather than "guys you could have gotten at Big Lots."
+
+- 2024-03-26 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-26]]), discussing [[Rome Odunze]]'s contested-catch numbers: calls Penix a "1995, perfect quarterback" archetype — a pure pocket thrower who can sit back and launch it if you build a wall in front of him — but worries that modern NFL defenses demand off-platform, move-the-pocket throwing, and that Penix's accuracy and ball placement "fall apart" when asked for it. Cites the Michigan national-title game as the swing example, reading Odunze as open or facing only half-separation rather than genuinely well covered on the contested throws in that game.
+
 ## Related Concepts
 - [[Player Development and Coachability]]
 - [[Dynasty]]
 - [[Justin Jefferson]]
 - [[Kyler Murray]]
+- [[J.J. McCarthy]]
+- [[Drake Maye]]

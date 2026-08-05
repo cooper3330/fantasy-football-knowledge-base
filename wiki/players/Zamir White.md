@@ -19,5 +19,9 @@ tags: [player]
 - 2024-01-08 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-08]]) [Redraft (Standard)]: directly compared to [[Josh Jacobs]] as a free agent, Waldman still takes Jacobs as the better back. His 2024 read on White: a running back two if Las Vegas keeps Antonio Pierce and things stay stable, versus a likely top-five running back for Jacobs if he leaves for a good situation elsewhere.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: calls [[Josh Jacobs]]'s departure to Green Bay "the ideal move" for both Jacobs and White, who inherits the Las Vegas backfield. Reads free-agent addition [[Alexander Mattison]] as depth, not a real threat to White's workload — expects a "buff," hard, straight-line runner with a little wiggle, a promising pass protector but not a real receiving threat, who can still get the job done as Las Vegas's lead back after a heavy-usage 2023. Notes the Raiders, under new HC Antonio Pierce and new OC Luke Getsy (with [[Gardner Minshew]] at quarterback), project as run-heavy regardless of Getsy's public statements, and flags a mid-round rookie back as real competition to watch for behind White/Madison.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
+- [[Alexander Mattison]]
+- [[Josh Jacobs]]

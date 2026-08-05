@@ -19,6 +19,10 @@ tags: [player, prospect]
 - 2024-03-08 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-08]]) [Dynasty], solo cast on the full QB class: flags his processing of coverage on multi-read progressions as the big debate point — lacked timing and patience with too many routes based on the coverage, and repeatedly turned away from a spot just as the receiver came open. Calls it "comically tragic timing," the same issue Dak Prescott had at Mississippi State, and thinks Daniels needs a scheme with surrounding talent that lets him find early success on quick decisions and gradually build confidence with progression reads — not necessarily easy without an experienced infrastructure like the one Prescott had in Dallas, or bench time like [[Jordan Love]] got behind Aaron Rodgers. If Daniels earns the playing time to develop those skills, or his team gives him training wheels (less than [[Lamar Jackson]] needed in Baltimore), Waldman thinks he has the tools and accuracy to become a competent NFL starter — "and may even be a very good fantasy option because of his running upside."
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: grouped with [[Michael Penix Jr.]] as the vertical-throwing fits Minnesota's [[Justin Jefferson]]/[[T.J. Hockenson]] pass game would benefit from most among the post-[[Kirk Cousins]] quarterback options being discussed.
+
+- 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: floats him as a possible New England trade-back target at No. 3 if the Patriots decide to pass on [[Drake Maye]] — seeing Daniels as the more athletic, pocket-mobile quarterback fit for a team that wants to spread the ball around.
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Lamar Jackson]]

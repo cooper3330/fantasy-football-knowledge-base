@@ -22,6 +22,9 @@ tags: [player]
 
 - 2024-03-05 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-05]]): sorted into Buffalo's "critical need" wide receiver bucket. Debate over roster security — one host calls it "an absolute slam dunk" Diggs (now 30, "a bit of a mercurial guy") stays on the roster, since trading him wouldn't create cap relief given the dead-cap hit; puts it at "99.3%" he's on the roster in 2024. Regardless of Diggs's status, flags Buffalo as needing a true outside WR2, with this draft class (loaded with outside-caliber receivers, unlike the prior slot-heavy class) as an ideal fit — floats a rookie who could match [[Khalil Shakir]]'s target volume while also threatening from outside.
 
+- 2024-03-19 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-19]]), reacting to Buffalo's [[Curtis Samuel]] signing: reaffirm Diggs as a "great player, elite receiver, A-tier separator" at the top of Buffalo's receiver room, and frame the years of thin depth behind him (converted return men like Isaiah McKenzie and Deonte Harty playing real snaps) as the specific gap Samuel now fills as a genuine second/third receiving option.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Khalil Shakir]]
+- [[Curtis Samuel]]

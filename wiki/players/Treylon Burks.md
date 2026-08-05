@@ -21,6 +21,8 @@ tags: [player]
   [[Brandon Angelo]]'s more pessimistic 2024-01-11 downgrade rather than the
   earlier "talent to be mined" framing.
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: in the same [[Calvin Ridley]] discussion, agrees Burks is not yet a leader of Tennessee's receiving corps.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Dynasty]]

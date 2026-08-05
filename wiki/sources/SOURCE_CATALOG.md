@@ -66,6 +66,12 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-03-12 | [[Matt Harmon]] | Hot Start in Free Agency: Kirk Cousins, Michael Pittman, Saquon Barkley & Josh Jacobs | [[Reception Perception The Show - 2024-03-12]] |
 | 2024-03-14 | [[Matt Harmon]] | Free Agency Continued: Breaking Calvin Ridley News, Diontae, Russ, Jeudy & Gabe Davis | [[Reception Perception The Show - 2024-03-14]] |
 | 2024-03-16 | [[Matt Waldman]] | 2024 NFL Draft WR Class A-Z: Matt Waldman's RSP Solo Cast | [[Matt Waldman's RSP Cast - 2024-03-16]] |
+| 2024-03-19 | [[Matt Waldman]] | Feel It Or F@#k It: 3.19.24 | [[Matt Waldman's RSP Cast - 2024-03-19]] |
+| 2024-03-19 | [[Matt Harmon]] | Weekend Receiver News: Keenan Allen Joins Bears & Bills Add Curtis Samuel | [[Reception Perception The Show - 2024-03-19]] |
+| 2024-03-21 | [[Matt Harmon]] | Marquise Brown to KC, Jerry Jeudy Charting & New Falcons WR Room | [[Reception Perception The Show - 2024-03-21]] |
+| 2024-03-23 | [[Matt Waldman]] | 2024 RSP RB A-W Solo Cast | [[Matt Waldman's RSP Cast - 2024-03-23]] |
+| 2024-03-25 | [[Matt Waldman]] | Feel It Or F@#k It: 3.25.24 | [[Matt Waldman's RSP Cast - 2024-03-25]] |
+| 2024-03-26 | [[Matt Harmon]] | Breaking Down the Top 3 Wide Receiver Prospects | [[Reception Perception The Show - 2024-03-26]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

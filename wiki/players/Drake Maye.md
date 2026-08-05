@@ -24,8 +24,14 @@ tags: [player]
 - 2024-03-08 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-08]]) [Dynasty], solo cast on the full QB class, the most detailed critique yet: gaps identifying and acting on favorable leverage between receivers and coverage; difficulty spotting linebackers dropping post-snap; squeezes targets into tight man-coverage windows where the defender already has the advantage before the ball is thrown; and is one to two beats late delivering to wide-open receivers because he keeps double-checking other options against flooded zones. Illustrates with a charting detail: it took six full games of charting before Waldman saw Maye's first intentional throwaway. On the plus side: decision-making qualities during his initial drop, works progressions sideline-to-sideline with some timeliness, flashes leverage-advantage recognition and can layer the ball well. Verdict, framed through [[Quarterback Processing and Confidence]] — the identification is often there, but the confidence to close the gap between identification and action isn't, the same failure mode Waldman's flagged before in Kenny Pickett and [[Desmond Ridder]]: "I don't think he's the number two quarterback in this draft, and I don't think he is remotely the next safest quarterback in this class." Could still become a competent-to-good decision-maker paired with good physical tools, but carries real bust risk if it doesn't develop.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: in the same Minnesota-fit conversation, grants he's "tough" against pressure but otherwise reads closer to [[Sam Darnold]] than to a true difference-maker — floats that if a team is betting Maye becomes what Darnold could have been, that's the real signal of the plan, while reiterating he sees Maye as much closer to what Darnold has actually shown than to his ceiling.
+
+- 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: discussing Washington's No. 2 pick, says flatly "I don't think Drake May is the best rookie fit for any team that wants to take someone in the first round" — reads Washington's best fit as [[Michael Penix Jr.]] instead, someone he sees as more accurate and better at finding the open man even if graded as less mobile/tough on paper. On New England at No. 3, floats a smokescreen scenario where the Patriots trade back rather than take Maye, preferring a more mobile pocket passer like [[Jayden Daniels]] if it means re-tooling their offense around a different quarterback archetype entirely.
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Scouting Bias and Player Archetypes]]
 - [[Desmond Ridder]]
 - [[Quarterback Processing and Confidence]]
+- [[Michael Penix Jr.]]
+- [[Jayden Daniels]]

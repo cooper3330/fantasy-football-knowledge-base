@@ -138,7 +138,8 @@ the relevant `wiki/formats/` page. Don't force a tag on general takes.
 7. **Normalize proper nouns.** Transcripts are ASR output and garble names —
    observed: "Malik neighbors" (Nabers), "Romo Dunze" (Rome Odunze), "Jameer
    Gibbs" (Jahmyr Gibbs), "Debo Samuel" (Deebo Samuel), "Dijon Stribling"
-   (De'Zhaun Stribling), "about Wall" (Matt Waldman). Always resolve to the
+   (De'Zhaun Stribling), "about Wall" (Matt Waldman), "Alexander Madison"
+   (Alexander Mattison). Always resolve to the
    correct real-world spelling before creating or updating a page. **Never
    create a page under a garbled spelling.**
 8. **Dense linking.** `[[wikilinks]]` for every player, expert, concept, and

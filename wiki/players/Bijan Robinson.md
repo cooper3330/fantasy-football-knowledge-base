@@ -23,6 +23,8 @@ tags: [player]
 - 2024-02-29 — According to **Kevin Knight** (Falcons reporter, SB Nation's Falcoholic — guest, not a tracked expert) on *Reception Perception: The Show*, with [[Matt Harmon]] absent ([[Reception Perception The Show - 2024-02-29]]): says Atlanta's 2023 running game got worse, not better, after drafting Robinson to be a workhorse, and pins it on play-calling rather than the player, citing a specific game where the staff abandoned an early outside-zone run that had worked. Calls the offense "really, really close" with Bijan, [[Drake London]] and [[Kyle Pitts]] already in place if Atlanta fixes quarterback and receiver depth.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: calls him a "future All-Pro" while breaking down why the finalized [[Kirk Cousins]] signing helps the whole Atlanta offense, including the run game Robinson anchors.
+
 ## Related Concepts
 - [[Jahmyr Gibbs]] — the paired call; the two takes are one argument
 - [[Player Development and Coachability]]

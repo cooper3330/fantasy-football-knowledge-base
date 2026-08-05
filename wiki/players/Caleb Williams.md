@@ -23,9 +23,16 @@ tags: [player]
 
 - 2024-03-08 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-08]]) [Dynasty], solo cast covering the full QB class: reaffirms Williams as this class's only true dynasty priority pick — "if you're going to take Caleb Williams, he's the top priority pick... I don't think there's a one-two answer" — and the only 2024 quarterback he'd trust as a Day 1 starter without a redshirt runway: "safe enough to put on the field... begin to thrive over time." Acknowledges real careless-decision-making flashes (cites the Notre Dame game) and a tendency to lean on arm talent in college, but credits him for visibly learning from mistakes within and across games. Restates the Aaron Rodgers — not Patrick Mahomes — stylistic comp: both throw well off unconventional platforms, but Mahomes's is rooted in his baseball background, where Rodgers's (and Williams's) is not. Says Williams is more conceptually advanced than [[Justin Fields]] and should have an easier time in Chicago even under a "ham-handed" development approach — but separately volunteers he'd personally rather see the Bears keep Fields as their QB and trade the No. 1 pick for more draft capital, if that were on the table.
 
+- 2024-03-19 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-19]]), reacting to Chicago trading for [[Keenan Allen]] to pair with [[D.J. Moore]]: says he can't recall a recent rookie quarterback (Williams presumed, pre-draft at the time) getting paired with a receiver duo this good, calling it a strong situational bump for whoever Chicago ultimately starts at 1.01.
+
+- 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: reaffirms Williams and [[Michael Penix Jr.]] as "the two top quarterbacks in this class," restated while discussing Washington's plans at 1.02.
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Anthony Richardson]]
+- [[Michael Penix Jr.]]
+- [[Keenan Allen]]
+- [[D.J. Moore]]
 - [[Kyler Murray]]
 - [[Justin Fields]]
 - [[Quarterback Processing and Confidence]]

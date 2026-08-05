@@ -20,8 +20,11 @@ tags: [player]
 
 - 2024-03-12 — According to [[Matt Harmon]] on [[Reception Perception The Show - 2024-03-12]]: ranks him below [[Jacoby Brissett]] among available veteran bridge-QB options for Minnesota, but above [[Joe Flacco]], Jameis Winston (not tracked) and [[Ryan Tannehill]]. Separately, discussing [[Michael Pittman Jr.]]'s 2023 tape, calls Minshew merely "acceptable backup level" for the Colts — someone who ran the RPO game fine but "was trying to give games away at times" and wasn't pushing the ball downfield, pushing back on any read that Minshew "unlocked" the Colts offense.
 
+- 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: on Las Vegas signing Minshew to push [[Aidan O'Connell]] — thinks Minshew is "probably the best backup in the league," someone who can move around in the pocket even without O'Connell's arm strength, and reads the Raiders' public "O'Connell deserves a chance" framing (Antonio Pierce) as coach-speak rather than a real vote of confidence in Minshew as a starter-caliber option; expects the Raiders still draft a quarterback to develop.
+
 ## Related Concepts
 - [[Player Development and Coachability]]
 - [[Redraft (Standard)]]
 - [[Jacoby Brissett]]
 - [[Michael Pittman Jr.]]
+- [[Aidan O'Connell]]

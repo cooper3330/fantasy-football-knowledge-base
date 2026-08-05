@@ -22,8 +22,11 @@ tags: [player]
 - 2024-03-01 — According to [[Matt Waldman]], same episode [Dynasty]: groups Ekeler with [[Tony Pollard]] as "Column A" — the receiving-back tier of the free-agent class, as distinct from the bell-cow "Column B" of [[Josh Jacobs]] and [[Derrick Henry]] — and says an ideal roster build takes one back from each column.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: "hates" Ekeler's move to Washington from a fantasy standpoint given how good [[Brian Robinson Jr.]] looked in 2023 — reads Ekeler's cheap two-year, $11M deal ($5M year one, up to $1.5M in likely-unreachable incentives) as a market signal he's viewed as a complementary piece (a McKissick-type role) rather than a true lead back, and expects the split to be "disappointing for both players unless one gets hurt."
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Tony Pollard]]
 - [[Travis Kelce]]
 - [[Dynasty]]
+- [[Brian Robinson Jr.]]

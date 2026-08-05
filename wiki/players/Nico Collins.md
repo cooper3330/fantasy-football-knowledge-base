@@ -21,7 +21,13 @@ tags: [player]
 - 2024-03-07 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-07]]), a comparative aside while charting [[Tee Higgins]]: asked to pick Higgins or Collins straight-up, Harmon says the talent gap the public perceives between the two — similar body types, similar outside-X roles — is "negligible" and that Collins's 2023 season was better than any season either player has had, making him "very tempted" to take Collins right now. Notes Collins profiles more as a true X (57.8% of snaps on the line in 2023) than Higgins does.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: pushing back on speculation that Houston's reported (unconfirmed) interest in a top free-agent receiver like [[Keenan Allen]] signals doubt in Collins and [[Tank Dell]] — agrees the front office likely doesn't view either as a true elite No. 1, projecting Collins in the roughly 68-target, ~1,100-yard range (a "big possession-plus receiver" comp to [[Mike Williams]]/Tee Higgins) rather than a true alpha, even off a strong 2023.
+
+- 2024-03-19 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-19]]): pushes back on a "dynasty bros" reading that Houston's reported trade interest in [[Keenan Allen]] signals stock-down news for Collins — argues Allen would have played a different, more slot-specific role than Collins (or [[Tank Dell]]), and that adding a veteran receiver is unremarkable for a team where essentially three receivers play nearly every snap; not read as negative news for Collins's outlook.
+
 ## Related Concepts
 - [[Role Difficulty and Replaceability]]
 - [[C.J. Stroud]]
+- [[Tank Dell]]
 - [[Reception Perception Methodology]]
+- [[Keenan Allen]]

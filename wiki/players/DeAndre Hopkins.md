@@ -23,6 +23,9 @@ tags: [player]
   part of the case for why Tennessee needed to add [[Calvin Ridley]] rather
   than run the offense through Hopkins and not much else.
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: unlike [[Diontae Johnson]] or [[Calvin Ridley]], agrees Hopkins "is for sure" already a leader of a receiving corps.
+
 ## Related Concepts
 - [[Aging Curves and Career Longevity]]
 - [[Calvin Ridley]]
+- [[Diontae Johnson]]

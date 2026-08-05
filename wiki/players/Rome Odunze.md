@@ -22,7 +22,12 @@ tags: [player, prospect]
 
 - 2024-03-16 — According to [[Matt Waldman]], solo cast ([[Matt Waldman's RSP Cast - 2024-03-16]]): when he gets jammed at the line, he's shown he can counter quickly enough to still get into his route. He'll lose some interactions like every receiver does, but the ability to win a route even after the defender earned an early advantage is something a lot of young and veteran receivers alike don't do well — a special quality.
 
+- 2024-03-26 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-26]]) [Dynasty]: full profile now live, and the episode's headline take — argues Odunze should be viewed as closer to WR1 than the public-consensus WR3, "not even close" to WR4. Took 84% of sampled snaps outside, on the line of scrimmage 67.4% of the time; posted an above-average success rate on every charted route type, a "full green" route tree Harmon had previously only seen approached by [[Chris Olave]] and [[Garrett Wilson]]. Success rates: 76.2% (87th percentile) vs. man, 92nd percentile vs. press, 83.5% vs. zone. Zero drops over the 8-game sample, 88.9% contested-catch rate — attributes the high contested-target volume to quarterback [[Michael Penix Jr.]] trusting him in tight windows rather than an inability to separate, the same pattern he cites for [[Terry McLaurin]] and [[Drake London]], contrasted with a genuine catch-point mess like [[Quentin Johnston]]. Player comp: [[Davante Adams]] — says "probably my number one-ranked receiver of the last four draft classes" is a real possibility. Notes Daniel Jeremiah and Nate Tice (not tracked) also have him WR2 on film, while JJ Zachariason's (not tracked) statistical model has him WR3; pushes back on "dynasty community" chatter tiering [[Marvin Harrison Jr.]]/[[Malik Nabers]] above him, arguing all three belong in the same tier. Flags the Chargers, Giants, Falcons, Bears and Jets (picks 5-10) as plausible landing spots, with Tennessee likely out after trading for [[Calvin Ridley]].
+
 ## Related Concepts
 - [[Reception Perception Methodology]]
 - [[Marvin Harrison Jr.]]
 - [[Malik Nabers]]
+- [[Garrett Wilson]]
+- [[Davante Adams]]
+- [[Michael Penix Jr.]]

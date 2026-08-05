@@ -22,10 +22,16 @@ tags: [player]
 - 2024-03-12 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) on [[Reception Perception The Show - 2024-03-12]] [Redraft (Standard)]: reacting to his three-year, $46.75M Eagles deal ($26M guaranteed, beating the value of two franchise tags) — says the [[Christian McCaffrey]] and [[Jahmyr Gibbs]] signings challenged his own prior that plugging any back into an elite ecosystem (49ers, Lions) is enough; instead, those teams sought premium talent to weaponize the ecosystem, and reads the Eagles' Barkley deal as their "dollar store" version of the same strategy after cycling through Miles Sanders and D'Andre Swift. Likes the fit given Philadelphia's line (even post-[[Jason Kelce]] retirement) and [[Jalen Hurts]]'s rushing lanes, but is skeptical of the pass-game upside some project opposite A.J. Brown/DeVonta Smith — "he's not, like, a difference-making pass catcher. He's not CMC" — drawing the same conclusion from [[Jahmyr Gibbs]]'s underwhelming receiving role in Detroit as a caution that most backs don't move the needle as receivers the way hoped. Still calls him "an absolute difference-maker" in a healthy offensive ecosystem when not battling injury.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] and **Bob Harris** (co-host — not a tracked expert) on [[Matt Waldman's RSP Cast - 2024-03-19]]: reacts to the actual signing with Philadelphia — not the Houston landing spot Waldman had predicted on 2024-03-11 — "feeling" it strongly regardless. Expects Barkley to get the vast majority of Philadelphia's backfield work given the money ($37-46M, 3 years, effectively closer to a 2-year deal in practice) and the volume the Eagles already funneled to running backs (roughly 90% of targets under Jalen Hurts). Calls [[DeAndre Swift]] "a good three tiers below" Barkley in ability, so an Eagles line that got real production out of Swift should elevate Barkley further. Floats a "vengeance tour" narrative — a great, if not always mature decision-maker on the field, playing an NFC East rival with something to prove — as the kind of story worth buying into this year specifically.
+
+- 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: revisits the Giants' choice to pay [[Daniel Jones]] rather than Barkley — "they should have paid Saquon Barkley," arguing a cheaper second- or third-round quarterback could have filled Jones's seat, and that New York "may regret" letting Barkley walk "a couple times a year."
+
 ## Related Concepts
 - [[Running Back Size and Movement Skills]]
+- [[DeAndre Swift]]
 - [[Pace Control and Movement Intellect]]
 - [[Dynasty]]
 - [[C.J. Stroud]]
 - [[Jalen Hurts]]
 - [[League Trend Cycles and Market Inefficiency]]
+- [[Daniel Jones]]

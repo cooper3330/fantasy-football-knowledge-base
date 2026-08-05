@@ -26,6 +26,8 @@ tags: [player, prospect]
 - 2024-03-05 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-05]]) [Dynasty]: flagged during a league-wide wide receiver need breakdown as carrying real landing-spot risk — named among the top-10 picks facing "critical need" wide receiver teams (Tennessee, New York Giants, New England), with an explicit warning to dynasty managers "nervous about landing spots" that a Patriots or Giants landing would suppress his outlook versus a stronger offensive situation.
 - 2024-03-16 — According to [[Matt Waldman]], solo cast on the 2024 WR class A-Z ([[Matt Waldman's RSP Cast - 2024-03-16]]): plays at both a high rate of speed and a high rate of control simultaneously — a combination few NFL veterans with top-shelf athletic ability ever develop. There are other pros who execute with speed and efficiency, but they lack Nabers's acceleration, movement, and play-point toughness together.
 
+- 2024-03-26 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-26]]) [Dynasty]: full profile now live; still grades him tier one but keeps him third of the trio, calling him "the rawest technician" of the three — needs to sharpen leverage and route-stacking discipline against zone downfield. Plays 50.3% slot / 49.7% outside. Elite after the catch: broke tackles on 20.5% of in-space plays (highest of the last four classes; closest comps [[Garrett Wilson]] and Kadarius Toney, not a tracked page, at 19%), in space on 13.9% of routes, brought down on first contact only 48.7% of the time. Man coverage 74.4% success (78th percentile); press coverage 72.1% (72nd percentile — "fine," not a red flag). Zone coverage is the real concern: 78.6% success, only the 46th percentile, partly a function of a downfield-heavy route mix (just 11.4% slants, 3.2% flat, 3.9% screens) similar to [[Ja'Marr Chase]]'s college profile. Player comps: [[Garrett Wilson]] (Nabers is the better after-catch player; Wilson was the better zone-coverage prospect) and [[D.J. Moore]] (Moore was a poor-success-rate rookie vs. man — 52.7% — who developed roughly 10 points a year into an elite man-beater; floats Nabers as a similar "slow burn" case, though notes Moore was already slightly better than Nabers against zone as a prospect). Repeats the same dynasty landing-spot caution as [[Marvin Harrison Jr.]] and [[Rome Odunze]].
+
 ## Related Concepts
 - [[Prospect Pro-Readiness vs Ceiling]]
 - [[Pace Control and Movement Intellect]]
@@ -33,3 +35,5 @@ tags: [player, prospect]
 - [[Dynasty]]
 - [[Reception Perception Methodology]]
 - [[Rome Odunze]]
+- [[Garrett Wilson]]
+- [[D.J. Moore]]

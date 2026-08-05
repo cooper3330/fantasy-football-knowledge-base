@@ -17,6 +17,9 @@ tags: [player]
 - 2024-01-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-22]]) [Redraft (Standard)]: the strongest version of this call yet — Shakir "looks like a more consistently valuable piece of an offense" than both [[Gabe Davis]] and, "in this moment," [[Stefon Diggs]], on proven playmaking and the ability to get open consistently. Explicitly expects him to start in 2024, with the only real uncertainty being Buffalo's coaching staff (no head-coach firing expected, but OC Joe Brady has drawn head-coaching interest elsewhere).
 - 2024-01-23 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-01-23]]) [Redraft (Standard)]: independent corroboration — "reliable," a player Harmon says he was rooting for an opportunity for coming out of college off a strong Reception Perception profile, who looked like he might be getting iced out of the rotation (behind Deontay Harty and Trent Sherfield) before earning real playing time late in the year. Calls him "a good slot receiver," not a superstar, but already "a good football player" and part of Buffalo's offensive future alongside [[Dalton Kincaid]].
 
+- 2024-03-19 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-19]]): reacting to Buffalo's signing of [[Curtis Samuel]] — pushes back on the idea the two overlap, calling Shakir more of a get-the-ball-in-space YAC slot piece versus Samuel's dig/out/corner route tree, and expects Shakir could see more outside reps to let Samuel work some slot snaps as well, giving Buffalo positional flexibility it lacked before.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Stefon Diggs]]
+- [[Curtis Samuel]]

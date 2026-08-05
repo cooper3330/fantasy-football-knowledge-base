@@ -18,7 +18,13 @@ tags: [player]
 - 2024-01-11 — According to [[Matt Waldman]] and **Adam Harstad** (co-host — not a tracked expert) ([[Matt Waldman's RSP Cast - 2024-01-11 (Post-Rookie Model)]]) [Dynasty]: lands in the [[Post-Rookie-Year Receiver Model]]'s "fantastic rookie season" bucket alongside Mike Evans, Chris Olave, Terry McLaurin, A.J. Green, Keenan Allen and Julio Jones — a historical range with essentially zero outright busts. Harstad calls the result "pretty much bulletproof." Waldman still ranks Dell below several others in that bucket on the same concerns raised previously — size/durability and [[Nico Collins]] doing more of the harder work in Houston's offense (see [[Role Difficulty and Replaceability]]) — but doesn't dispute the historical read.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: grouped with [[Nico Collins]] as quality-but-not-true-No.-1 options for Houston — thinks the team could end up "overpaying" for what the two of them provide relative to adding a genuine top receiver, while still projecting both as startable in 2024.
+
+- 2024-03-19 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-19]]): same pushback as applied to [[Nico Collins]] — Houston's reported interest in free agent [[Keenan Allen]] isn't read as a stock-down signal for Dell, since Allen's slot-specific role wouldn't have overlapped much with Dell's; expects Houston could still add a receiver on Day 2 of the draft without it meaningfully changing Dell's outlook.
+
 ## Related Concepts
 - [[Role Difficulty and Replaceability]]
 - [[Post-Rookie-Year Receiver Model]]
+- [[Nico Collins]]
 - [[Dynasty]]
+- [[Keenan Allen]]

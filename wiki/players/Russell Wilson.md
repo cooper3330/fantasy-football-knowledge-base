@@ -37,9 +37,12 @@ tags: [player]
   not price.
 
 
+- 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: reacting to reports Wilson is "in the pole position" over [[Justin Fields]] in Pittsburgh rather than a settled starter — says it doesn't change his opinion. Wilson is "one play away from being a two-time Super Bowl-winning quarterback," so the team is giving him deserved credit as the established veteran, but he still has to prove he can rebound from his last two years in Denver; notes every quarterback situation should be a real competition except for a handful of established stars.
+
 ## Related Concepts
 - [[Jerry Jeudy]]
 - [[Courtland Sutton]]
 - [[George Pickens]]
 - [[Kenny Pickett]]
 - [[Deshaun Watson]]
+- [[Justin Fields]]

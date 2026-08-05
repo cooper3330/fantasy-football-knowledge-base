@@ -19,6 +19,8 @@ tags: [player]
 - 2024-03-12 — According to [[Matt Harmon]] on [[Reception Perception The Show - 2024-03-12]]: with [[Kirk Cousins]] signing in Atlanta and Minnesota moving to a bridge-veteran-plus-likely-rookie quarterback plan, says simply "I think Justin Jefferson will be fine" regardless of who ends up throwing him the ball — contrasted directly with [[Jordan Addison]], who he expects to suffer more from the downgrade at quarterback.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: admits some irritation that Jefferson won't get "the most ideal of outcomes" now that [[Kirk Cousins]] has officially left Minnesota for Atlanta, though he notes that doesn't necessarily mean bad things for a player this good.
+
 ## Related Concepts
 - [[Weak Quarterback Play and Receiver Value]]
 - [[Zone vs Man Route Running]]

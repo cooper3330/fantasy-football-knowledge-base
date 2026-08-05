@@ -28,6 +28,8 @@ tags: [player]
 - 2024-03-01 — According to [[Matt Waldman]] and **Adam Harstad**, same episode [Dynasty]: from a pure fantasy-value standpoint both rank Henry fourth of the four (behind Jacobs, Ekeler, Pollard); from an NFL-team-building standpoint Waldman says he'd flip the order and put Henry first. Waldman's "Column A / Column B" framing: Ekeler and Pollard are the receiving-back column, Jacobs and Henry the bell-cow column — an ideal roster construction takes one from each.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] and **Bob Harris** (co-host — not a tracked expert) on [[Matt Waldman's RSP Cast - 2024-03-19]] [Best Ball]: the standing Ravens wish-cast finally comes true, and both hosts call it the happiest move of the free-agency cycle. Waldman cites his own 2023 tape review (posted to X/Twitter) and 2023 speed data — 7th-fastest tracked time in the NFL, one of his best breakaway-run rates — as proof "this guy hasn't lost anything" beyond playing behind a mediocre Tennessee line; expects a good offensive line plus [[Lamar Jackson]]'s extra man in the box, less early-down RPO work, and real value as a screen/swing-pass option behind Jackson's play-action. Still ranks him outside the RB1 range in ADP terms but says that's a market inefficiency to exploit — "the king has not been deposed" — and plans heavy [[Best Ball]] exposure.
+
 ## Related Concepts
 - [[League Trend Cycles and Market Inefficiency]]
 - [[Running Back Size and Movement Skills]]

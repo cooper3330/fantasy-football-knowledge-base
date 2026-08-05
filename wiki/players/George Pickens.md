@@ -20,8 +20,11 @@ tags: [player]
 
 - 2024-03-14 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-14]]): more detail on the charted profile now that [[Russell Wilson]] has signed. Rookie-year success rate vs. zone coverage was a concerning 68% — below the ~70% floor Harmon wants from a starting X receiver — but success rate vs. press was a strong 72.4%, showing real ability to beat press at the line. Overall verdict is deliberately in the middle of the "Pickens truther" vs. "he secretly sucks" debate: an explosive but not always technically sound player, still inconsistent in separation, with some contested-catch numbers inflated by highlight bias. Currently "a really good starting X receiver" when locked in, but volatile both in production and as a person. On the Wilson fit: sees real stylistic overlap, comparing Pickens to the vertical X receivers Wilson has had success with (DK Metcalf, not a tracked page, and [[Courtland Sutton]]) — "somewhere in the middle" of that mold, not quite Metcalf but "definitely better than Courtland Sutton" in Harmon's opinion. Notes Wilson posted a 121.5 passer rating on throws 10+ air yards to receivers last year (3rd-best in the NFL, behind only Kirk Cousins and Dak Prescott), largely built on Sutton's slant-and-go-ball role — if Pickens can fill that same role in Pittsburgh, "Pickens could absolutely go crazy," especially in touchdowns, "but we'll see."
 
+- 2024-03-19 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-19]]), an aside while discussing free-agent [[Mike Williams]]'s meeting with Pittsburgh: calls the fit redundant with Pickens — same contested-catch, X-receiver archetype and route diet — while noting Pickens has "a little bit better separation than people give him credit for."
+
 ## Related Concepts
 - [[Scheme vs Talent]]
+- [[Mike Williams]]
 - [[Drake London]] — the direct route-tree comp
 - [[Player Development and Coachability]]
 - [[Russell Wilson]]

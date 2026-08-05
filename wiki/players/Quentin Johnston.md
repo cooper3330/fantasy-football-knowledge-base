@@ -22,8 +22,13 @@ tags: [player]
 
 - 2024-03-05 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-05]]): revisited while debating whether the Chargers belong in the "critical" or "substantial" wide receiver need bucket — called "a stone cold disaster" as a first-round pick, noting the Chargers are (for now) the NFL's highest spender at wide receiver ($76M) with arguably its worst receiver room, and pins the miss partly on the previous coaching regime: "you probably just lit that pick on fire."
 
+- 2024-03-19 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-19]]), after the Keenan Allen trade left the Chargers with a Josh Palmer (not a tracked page)/Johnston starting duo: called it, off the top of the head, likely the worst starting receiver duo in the NFL — debated only against the Giants' Darius Slayton/Wan'Dale Robinson pairing before concluding the Chargers duo is still worse.
+
+- 2024-03-26 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-26]]), while discussing [[Rome Odunze]]'s contested-catch profile: cites Johnston as the counterexample of a big receiver who wasn't good at the catch point — reads it as more of a technique problem (a "mess technically," not a real technician) than a soft-hands or physical issue.
+
 ## Related Concepts
 - [[Scouting Bias and Player Archetypes]]
+- [[Justin Herbert]]
 - [[Post-Rookie-Year Receiver Model]]
 - [[NFL Combine and Pro Day Skepticism]]
 - [[Dynasty]]

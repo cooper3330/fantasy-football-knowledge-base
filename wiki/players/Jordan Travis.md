@@ -15,5 +15,8 @@ tags: [player, prospect]
 
 - 2024-03-08 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-08]]): "I like this kid." An aggressive, confident thrower into tight windows who trusts his receivers to make athletic plays and is effective moving off structure — accurate in the intermediate and vertical game after moving away from pressure, and manipulates defenders with his eyes and body positioning off drops to set up scheme plays and progression reads. If he matures as a decision-maker, Waldman thinks he could "transcend reserve status" and become a playmaking journeyman starter — extending his tenure if he builds the kind of rapport with a primary receiver that he had with [[Keon Coleman]] at FSU. His stylistic mashup comp: Jeff Blake, Case Keenum and Jeff Garcia.
 
+- 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: restates the take as a favorite "off the radar" name, projecting a "top-flight NFL reserve journeyman starter" ceiling in a [[Gardner Minshew]] mold — a little more mobile and with a little better arm — with the same Jeff Blake/Jeff Garcia stylistic mashup comp as his 2024-03-08 grade, once he acclimates to an NFL offense.
+
 ## Related Concepts
 - [[Quarterback Processing and Confidence]]
+- [[Gardner Minshew]]

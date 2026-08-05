@@ -43,6 +43,8 @@ tags: [player]
   receptions in 2024, something bad happened."
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: skeptical Johnson himself can be the alpha [[Bryce Young]] needs to lean on — "he's an on-and-off player, he's a light switch player," the type who needs a strong veteran presence around him rather than being expected to provide it himself. Worries Carolina's front office (owner David Tepper) will be too quick to "rip the duct tape off" and micromanage if things don't click immediately. Frames [[Bryce Young]] as needing to be that stabilizing "duct tape" himself but isn't sure he's there yet.
+
 ## Related Concepts
 - [[George Pickens]]
 - [[Scheme vs Talent]]

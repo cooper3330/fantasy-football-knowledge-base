@@ -17,6 +17,8 @@ tags: [player]
 - 2024-01-29 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-29]]): reinforces the availability read post-AFC-Championship in three words — "Rashad Bateman, always hurt" — cited as one of the reasons Baltimore's receiver room outside [[Lamar Jackson]] himself was gutted all season, alongside Odell Beckham Jr.'s part-time role and Mark Andrews's own injury absence.
 - 2024-01-30 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-30]]): a mixed update — made it through the full season healthy, which is genuinely notable given the availability concern, and "I love the flashes I saw from him." But stops short of calling him a proven key contributor for 2024 without the Ravens adding more around him in the receiver room.
 
+- 2024-03-26 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-26]]): says Baltimore's staff still values Bateman as a starting outside receiver and doesn't expect them to use a first-round pick on a receiver as a result, though the team has shown interest in free agent Michael Gallup (not a tracked page) as complementary X depth.
+
 ## Related Concepts
 - [[Best Ball]]
 - [[Lamar Jackson]]

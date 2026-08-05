@@ -22,6 +22,8 @@ tags: [player]
 - 2024-03-12 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) on [[Reception Perception The Show - 2024-03-12]]: reacting to Green Bay releasing him after signing [[Josh Jacobs]] — "it sucks for Aaron Jones," still clearly good when healthy, and reads the Packers' offense as specifically "not the same" without him (contrasted with a non-functional A.J. Dillon-led stretch). But flags the swings in his 2023 game log — five straight 100-yard finishing games sandwiched around stretches of inactivity/low usage — and that at age 30 with his injury history, "you don't typically trend back the other direction" as a runner. Names likely pay-cut friction as the practical cause of the split, and is a little surprised Green Bay didn't push harder to keep him.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: on signing with divisional-rival Minnesota, still calls him "a legit awesome running back" who "can do it all" — floats the Packers "getting a taste of their own medicine" watching Jones run against them. Reads it as bad news for Ty Chandler's (not a tracked page) redraft value beyond a complementary/injury-insurance role.
+
 ## Related Concepts
 - [[Injury-Agnostic Roster Construction]]
 - [[Redraft (Standard)]]

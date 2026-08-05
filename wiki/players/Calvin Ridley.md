@@ -62,9 +62,13 @@ tags: [player]
   [[Rome Odunze]] or [[Malik Nabers]] for another landing spot.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: calls the Tennessee contract "a joke" relative to the player — a quality starting NFL receiver, but not a true No. 1, more a "high-end [[Diontae Johnson]]" who needs to be couched among actual leaders of a receiving corps rather than being the corps leader himself. Doubts he plays into his mid-30s at a high level. Floats a theory connecting the deal to Tennessee's earlier decision to move on from [[A.J. Brown]] under a previous coordinator — reads the Ridley splurge as a "people-pleasing," "two steps forward, one step back" overcorrection typical of the organization. Separately agrees [[Treylon Burks]] is not yet a leader of that receiving corps, while granting [[DeAndre Hopkins]] already is one.
+
 ## Related Concepts
 - [[Reception Perception Methodology]]
 - [[Scheme vs Talent]]
 - [[Bryce Young]]
+- [[Treylon Burks]]
+- [[DeAndre Hopkins]]
 - [[DeAndre Hopkins]]
 - [[Will Levis]]

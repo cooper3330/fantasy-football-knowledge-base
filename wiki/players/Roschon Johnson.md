@@ -17,6 +17,9 @@ aliases: [Roshon Johnson]
 
 - 2024-02-26 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-26]]): at his current Underdog best ball ADP of RB35, Waldman thinks that price is probably close to Johnson's peak-production ceiling for 2024. Credits his tackle-breaking ability and receiving chops, but downgrades the practical receiving impact — expects the pass-catching flashes to show up "once a week or once every other week" rather than at the highlight-reel rate fans assume from seeing the same few plays looped on social media. Prefers backfield-mate [[Khalil Herbert]] as the better value at the position given Herbert's superior explosiveness and instincts, and expects both backs to be underpriced as a tandem because the position group's efficiency projection is muddied by Chicago's still-unresolved rookie-quarterback situation. [Best Ball]
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]] [Best Ball]: notes he's "a little less dialed in" on Johnson relative to [[Khalil Herbert]] following Chicago's addition of [[DeAndre Swift]], but still views him as the cheaper of the two backs (RB37 vs. RB41 on Underdog prior to the move) and floats Herbert, not Johnson, as the more likely trade chip if the team consolidates the backfield.
+
 ## Related Concepts
 - [[Khalil Herbert]]
 - [[Best Ball]]
+- [[DeAndre Swift]]

@@ -16,6 +16,8 @@ tags: [player]
 - 2024-03-11 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-11]]): with [[Russell Wilson]] now signed in Pittsburgh, still "feeling it" that Pickett has a slight chance to win the starting job — mainly if Wilson "is toast." Expects the Steelers to stage a real-looking competition regardless, reading their public "he can be salvaged" language as protecting Pickett's trade value rather than praising him as a starter (praising him outright would undercut what they could get back in a trade). Restates the pressure-processing diagnosis from March 4, and reiterates a good-backup/journeyman ceiling with some chance for more.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] and **Bob Harris** (co-host — not a tracked expert) on [[Matt Waldman's RSP Cast - 2024-03-19]]: Pickett is dealt to Philadelphia, where he "enters the backup phase of his career" as a locked-in number two behind Jalen Hurts. Reads Pittsburgh's move as consistent with the Mike Tomlin "volunteers, not hostages" line — per local reporting (Jerry Dulac) that Pickett didn't want to dress last year following ankle surgery and didn't want to compete once [[Russell Wilson]] arrived.
+
 ## Related Concepts
 - [[Justin Fields]]
 - [[Kirk Cousins]]

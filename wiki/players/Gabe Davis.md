@@ -32,7 +32,10 @@ tags: [player]
   now has to draft a true WR1.
 
 
+- 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: on the finalized Jacksonville deal (3 years, $39M) — calls him roughly what [[Calvin Ridley]] was "at his absolute worst," just taller, stronger and a better blocker: a third option who can win downfield when the quarterback scrambles but only "catches the ball one out of every three times" when schemed open. Flags the contract as a market-inefficiency red flag rather than praise — Davis making more than [[Saquon Barkley]] "tells you how institutionally stupid things have gotten." Doubts Jacksonville is done addressing receiver.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Christian Kirk]]
 - [[Calvin Ridley]]
+- [[Saquon Barkley]]
