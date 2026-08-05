@@ -245,8 +245,8 @@ CO-HOST ATTRIBUTION:
 EXISTING CONCEPT PAGES -- merge into these rather than creating near-duplicates:
 {inv_concepts}
 
-EXISTING PLAYER PAGES -- if a player is on this list the page already exists, so
-OMIT `frontmatter` for them. Never create a variant spelling of a page here:
+EXISTING PLAYER PAGES -- these already exist, so your bullet updates them rather
+than creating anything. Never write a variant spelling of a name on this list:
 {inv_players}
 
 --- END PRE-COMPUTED CONTEXT ---
@@ -287,8 +287,12 @@ tells you which, so getting these right first time saves a retry:
   rule 2, and it is also what lets a half-applied episode be detected later, so
   the applier rejects any bullet missing it.
 - `kind` is one of player | concept | format.
-- `frontmatter` is REQUIRED for a page that does not exist yet, and ignored for
-  one that does. Players need team + position (QB|RB|WR|TE).
+- ALWAYS include `frontmatter` on every player page entry -- team + position
+  (QB|RB|WR|TE). It is used when the page is new and ignored when it already
+  exists, so including it is always safe and omitting it is fatal: a page you
+  believed existed but doesn't gets the whole plan rejected. Don't try to
+  remember which is which. Same for concepts (no required keys) and formats
+  (`priority`).
 - ONE entry per page. If an episode says three things about a player, write ONE
   bullet covering all three, not three entries.
 - `index` is OPTIONAL. Include it only when the page is NEW or its HEADLINE view

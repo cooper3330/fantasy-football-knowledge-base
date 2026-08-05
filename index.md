@@ -218,7 +218,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Brian Thomas Jr.]] — WR, LSU prospect (2024 takes, stale) — Harmon's tier-two, WR4 in class; median outcome a vertical WR2, faster Tee Higgins
 - [[Ladd McConkey]] — WR, Georgia prospect (2024 takes, stale) — Harmon full profile: elite RAS, flanker not slot, Tyler Lockett comp, weak vs press
 - [[Ricky Pearsall]] — WR prospect (2024 draft) — Harmon's RP profile: above-consensus, 87th pct vs man, better than Addison's profile (2024 takes, stale)
-- [[Troy Franklin]] — WR, Oregon prospect — real speed and a growing route feel, but "disappears with physicality"; range spans a Jordan-Addison-style hit to a marginal role player *(2024 pre-draft takes, stale)*
+- [[Troy Franklin]] — WR — Harmon: Round 2, NFL-ready lid-lifting Z/flanker with elite zone/curl success but concerning drops (2024 predraft take, stale)
 - [[CeeDee Lamb]] — WR, DAL — Bob Harris's pick for 2024 #1 overall over McCaffrey; Waldman ranks him 2nd *(2024 takes, stale)*
 - [[Tyreek Hill]] — WR, MIA — 3rd in Waldman's 2024 top tier, but Bob Harris's personal #2 as "an old-school wide receiver one" *(2024 takes, stale)*
 - [[Mike Evans]] — WR, TB — re-signed 2yr/$52M; 2023 was career-best charted season, 2022 dip was scheme not decline (Harmon 3/5)
@@ -258,7 +258,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Jonathan Mingo]] — WR, CAR — one of only two 2023 rookie WRs to open as a Week 1 starter, but tanked by historically bad Carolina QB play; Waldman revising down hard on coaching-change risk, not talent *(2024 takes, stale)*
 - [[Demario Douglas]] — WR, NE — league-average post-rookie model score held down by zero touchdowns; both hosts think he outplayed a barren Patriots offense; buy in the 4th/5th round, not the 3rd *(2024 takes, stale)*
 - [[Malik Washington]] — WR, UVA (2024 prospect) — Angelo's flag pick, day-one slot starter; Waldman's top-12 WR of class (2024, stale)
-- [[Xavier Legette]] — WR, South Carolina (2024 prospect) — elite deep production but Froton flags him group's likeliest bust (2024 takes, stale)
+- [[Xavier Legette]] — WR — Harmon: high-ceiling/low-floor Round 2 talent, best deployed Deebo-style vs. press/man limitations (2024 predraft take, stale)
 - [[Malachi Corley]] — WR, Western Kentucky prospect — "already" a sleeper per Waldman; DJ-Moore-lite comp, elite after the catch, real early fantasy relevance if the role grows; Angelo corroborates with more technical detail — real route-running nuance, better catch-point work than the early consensus credited *(2024 pre-draft takes, stale)*
 - [[Javon Baker]] — WR, UCF (2024 prospect) -- Waldman/Angelo fave; 3-level game, catch-point limb dexterity, physicality
 - [[Roman Wilson]] — WR prospect (2024 draft) — Harmon's RP profile: least favorite charted, weak man/zone scores, early Day 3 grade (2024 takes, stale)

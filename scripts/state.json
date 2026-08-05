@@ -2343,8 +2343,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-18",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2024-04-18-rp-xavier-legette-troy-franklin-breakdowns.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2024-04-18-rp-xavier-legette-troy-franklin-breakdowns.md",
+      "status": "ingested",
       "title": "Xavier Legette & Troy Franklin Breakdowns",
       "transcript_source": "whisper"
     },

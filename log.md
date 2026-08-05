@@ -918,3 +918,6 @@ Tee Higgins dropped his Bengals trade request (staying in 2024). New page Trey L
 
 ## [2024-04-16] ingest | Reception Perception: The Show — Big News for Big Names & Xavier Worthy Breakdown
 Aiyuk pegged as Harmon's dynasty WR8 and a must-re-sign X-receiver; DeVonta Smith's rookie-year film cited as proof of true-WR1 status alongside his new extension; Rashee Rice's felony charges tied to Chiefs reportedly prioritizing WR early in the draft; extensive Xavier Worthy prospect breakdown -- graded priority 2nd-round talent (not Round 1) due to press-coverage, contested-catch and drop-rate red flags despite record 4.21 combine speed.
+
+## [2024-04-18] ingest | Reception Perception: The Show — Xavier Legette & Troy Franklin Breakdowns
+New RP profiles added evaluative depth on 2024 WR prospects Xavier Legette (Round 2, Deebo/Alshon-hybrid deployment, higher ceiling/lower floor) and Troy Franklin (Round 2, Jordan Addison-style lid-lifter role, drop concerns); corroborating comparative RP data also added to Keon Coleman and Jordan Addison pages.

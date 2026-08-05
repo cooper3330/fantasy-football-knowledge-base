@@ -84,6 +84,7 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-04-11 | [[Matt Waldman]] | Going Deep with Brandon Angelo and Matt Waldman: Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes | [[Matt Waldman's RSP Cast - 2024-04-11 (Going Deep - Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes)]] |
 | 2024-04-15 | [[Matt Waldman]] | Feel It Or F@#k It: 4.15.24: An RSP Cast with Bob Harris and Matt Waldman | [[Feel It Or F@#k It - 2024-04-15]] |
 | 2024-04-16 | [[Matt Harmon]] | Big News for Big Names & Xavier Worthy Breakdown | [[Reception Perception The Show - 2024-04-16]] |
+| 2024-04-18 | [[Matt Harmon]] | Xavier Legette & Troy Franklin Breakdowns | [[Reception Perception The Show - 2024-04-18]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |
