@@ -70,9 +70,9 @@ def good_plan(**over):
                    "show": "Matt Waldman's RSP Cast", "episode": "Test Episode",
                    "body": "## Summary\nStuff happened.\n"},
         "pages": [
-            {"name": "Existing", "kind": "player", "bullet": "a new take",
+            {"name": "Existing", "kind": "player", "bullet": "According to [[Matt Waldman]] ([[Test Source - 2024-05-01]]): a new take",
              "index": "WR, KC — headline view"},
-            {"name": "Fresh", "kind": "player", "bullet": "first take",
+            {"name": "Fresh", "kind": "player", "bullet": "According to [[Matt Waldman]] ([[Test Source - 2024-05-01]]): first take",
              "frontmatter": {"team": "BUF", "position": "WR"},
              "related": ["Some Concept"]},
         ],
@@ -113,20 +113,25 @@ REJECT = [
     ("unknown guid", good_plan(guid="nope")),
     ("already-ingested episode", good_plan(guid="done-guid")),
     ("new page missing frontmatter", good_plan(pages=[
-        {"name": "NoFm", "kind": "player", "bullet": "take"}])),
+        {"name": "NoFm", "kind": "player", "bullet": "take ([[Test Source - 2024-05-01]])"}])),
     ("bad position", good_plan(pages=[
-        {"name": "BadPos", "kind": "player", "bullet": "t",
+        {"name": "BadPos", "kind": "player", "bullet": "t ([[Test Source - 2024-05-01]])",
          "frontmatter": {"team": "KC", "position": "FB"}}])),
     ("over-long index line", good_plan(pages=[
-        {"name": "Existing", "kind": "player", "bullet": "t",
+        {"name": "Existing", "kind": "player", "bullet": "t ([[Test Source - 2024-05-01]])",
          "index": " ".join(["word"] * 26)}])),
     ("duplicate page entries", good_plan(pages=[
-        {"name": "Existing", "kind": "player", "bullet": "one"},
-        {"name": "Existing", "kind": "player", "bullet": "two"}])),
+        {"name": "Existing", "kind": "player", "bullet": "one ([[Test Source - 2024-05-01]])"},
+        {"name": "Existing", "kind": "player", "bullet": "two ([[Test Source - 2024-05-01]])"}])),
     ("untracked expert", good_plan(experts=[{"name": "Bob Harris"}])),
-    ("bad kind", good_plan(pages=[{"name": "X", "kind": "team", "bullet": "t"}])),
+    ("bad kind", good_plan(pages=[{"name": "X", "kind": "team", "bullet": "t ([[Test Source - 2024-05-01]])"}])),
     ("empty pages list", good_plan(pages=[])),
     ("missing log", good_plan(log="")),
+    ("bullet without source citation", good_plan(pages=[
+        {"name": "Existing", "kind": "player", "bullet": "uncited take"}])),
+    ("bullet with its own date prefix", good_plan(pages=[
+        {"name": "Existing", "kind": "player",
+         "bullet": "2024-05-01 — According to [[Matt Waldman]] ([[Test Source - 2024-05-01]]): x"}])),
 ]
 for label, plan in REJECT:
     build()
@@ -158,7 +163,7 @@ if src.exists():
 
 existing = (ROOT / "wiki" / "players" / "Existing.md").read_text()
 check("bullet appended with script-stamped date",
-      f"- {DATE} — a new take" in existing, existing)
+      f"- {DATE} — According to [[Matt Waldman]] ([[Test Source - 2024-05-01]]): a new take" in existing, existing)
 check("bullet ordered after the older one",
       existing.index("2024-01-01") < existing.index(DATE))
 

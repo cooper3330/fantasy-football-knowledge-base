@@ -209,6 +209,114 @@ Report concisely: pages created, pages updated/merged, what materially changed,
 names normalized, and the verify_integrity output."""
 
 
+def build_extract_prompt(ep, inv, plan_out):
+    """Phase A of ingest v2 -- see docs/ingest-v2-plan.md.
+
+    The agent reads the transcript and emits ONE plan file. It writes no wiki
+    pages, runs no scripts and finalizes nothing; scripts/apply_ingest.py does
+    all of that for zero tokens. Cost is turns x context, and this collapses ~66
+    turns of interleaved read/edit into a handful.
+    """
+    inv_players = ", ".join(inv["players"]) or "(none yet)"
+    inv_concepts = "\n".join(f"  - {c}" for c in inv["concepts"]) or "  (none yet)"
+    return f"""Read one podcast transcript and produce ONE JSON plan describing every
+wiki change it justifies. You do not edit the wiki -- a script applies your plan.
+
+TRANSCRIPT: {ep['staged_path']}
+GUID:       {ep['guid']}
+DATE:       {ep.get('pub_date')}
+WRITE YOUR PLAN TO: {plan_out}
+
+Read the transcript, then Write the plan. That is the whole job. Do not create or
+edit any wiki page, do not run any script, do not touch state.json, do not move
+the transcript -- apply_ingest.py does all of it after you exit.
+
+--- PRE-COMPUTED CONTEXT (do NOT spend tool calls rediscovering this) ---
+
+THE SCHEMA:
+{CORE_SCHEMA}
+
+REQUIRED PAGE FRONTMATTER:
+{FRONTMATTER}
+
+CO-HOST ATTRIBUTION:
+{CO_HOSTS}
+
+EXISTING CONCEPT PAGES -- merge into these rather than creating near-duplicates:
+{inv_concepts}
+
+EXISTING PLAYER PAGES -- if a player is on this list the page already exists, so
+OMIT `frontmatter` for them. Never create a variant spelling of a page here:
+{inv_players}
+
+--- END PRE-COMPUTED CONTEXT ---
+
+PLAN FORMAT -- valid JSON, exactly these keys:
+
+{{
+  "guid": "{ep['guid']}",
+  "source": {{
+    "page": "<Show> - {ep.get('pub_date')}",
+    "expert": "<the TRACKED expert whose show this is>",
+    "show": "<show name>",
+    "episode": "<episode title>",
+    "body": "## Summary\\n<what was covered, who spoke>\\n\\n## Pages touched\\n<wikilinks>\\n\\n## Not given pages\\n<passing mentions, so nothing is silently lost>"
+  }},
+  "pages": [
+    {{
+      "name": "Keon Coleman",
+      "kind": "player",
+      "frontmatter": {{"team": "BUF", "position": "WR"}},
+      "bullet": "According to [[Matt Waldman]] ([[<the source.page value above>]]) [Dynasty]: ...",
+      "related": ["Scouting Bias and Player Archetypes"],
+      "index": "WR, BUF — boom/bust outside; needs an anticipatory QB"
+    }}
+  ],
+  "experts": [{{"name": "Matt Waldman", "note": "<one line on this episode>"}}],
+  "log": "<what materially CHANGED -- not a list of what was processed>"
+}}
+
+RULES FOR THE PLAN -- the applier rejects the whole plan if any is broken, and
+tells you which, so getting these right first time saves a retry:
+
+- DO NOT put a date in `bullet`. The script stamps every bullet with {ep.get('pub_date')}
+  and inserts it at the correct chronological position. Start the bullet at
+  "According to ..." -- no leading "- ", no date, no em dash.
+- EVERY bullet must cite the source page as a wikilink -- `([[<your source.page
+  value>]])` -- in the usual position, right after the expert's name. This is
+  rule 2, and it is also what lets a half-applied episode be detected later, so
+  the applier rejects any bullet missing it.
+- `kind` is one of player | concept | format.
+- `frontmatter` is REQUIRED for a page that does not exist yet, and ignored for
+  one that does. Players need team + position (QB|RB|WR|TE).
+- ONE entry per page. If an episode says three things about a player, write ONE
+  bullet covering all three, not three entries.
+- `index` is OPTIONAL. Include it only when the page is NEW or its HEADLINE view
+  materially moved (injury, role/depth-chart shift, big ranking move, reversal).
+  Max 25 words, lead with position/team. Omit it for a minor corroborating take.
+- `experts` lists only TRACKED experts. A guest's or untracked co-host's view is
+  attributed inline in the bullet, never given an expert page.
+- Create a player page ONLY for a substantive evaluative take. Catalogue passing
+  mentions under "## Not given pages" in the source body.
+
+KEY REMINDERS:
+- Whisper ASR: no speaker labels (infer from context), drifting capitalization
+  (cosmetic), frequently garbled proper nouns. Normalize EVERY name to its correct
+  real-world spelling. Never write a garbled ASR spelling into the plan.
+- These are older episodes; it is now August 2026. Note staleness in the `index`
+  line where it matters, e.g. "(2024 takes, stale)".
+- Quote and attribute faithfully. Never fabricate a take, quote or stat. Where
+  experts disagree, record both in the bullet -- don't pick a winner.
+
+BE SPARING WITH TOOL CALLS. Every call re-sends your whole context. You should
+need one Read for the transcript and one Write for the plan. You may Read an
+existing wiki page if you genuinely need its current stance, but you do not need
+to read one to place a bullet -- the script handles ordering.
+
+NEVER: run a git command; modify anything under raw/; open index.md, log.md or
+SOURCE_CATALOG.md."""
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--count", type=int, default=1,
@@ -217,6 +325,11 @@ def main():
                          "carries episode 1 through episodes 2-3. Measured at "
                          "1.8x per episode. See CLAUDE.md 'Model and batch size'.")
     ap.add_argument("--list", action="store_true", help="show the queue only")
+    ap.add_argument("--mode", choices=["legacy", "extract"], default="legacy",
+                    help="legacy: the agent writes the wiki itself. extract: the "
+                         "agent emits a plan and apply_ingest.py writes it "
+                         "(ingest v2 -- see docs/ingest-v2-plan.md)")
+    ap.add_argument("--plan-out", help="with --mode extract: where the agent writes its plan")
     args = ap.parse_args()
 
     queue = load_queue()
@@ -232,7 +345,14 @@ def main():
 
     inv = inventory()
     batch = queue[: args.count]
-    print(build_prompt(batch, inv))
+    if args.mode == "extract":
+        if args.count != 1:
+            sys.exit("error: --mode extract handles one episode per agent")
+        if not args.plan_out:
+            sys.exit("error: --mode extract requires --plan-out")
+        print(build_extract_prompt(batch[0], inv, args.plan_out))
+    else:
+        print(build_prompt(batch, inv))
     # Footer goes to stderr so callers can pipe stdout straight into an agent:
     #   claude -p "$(ingest_manifest.py --count 3)" --model sonnet
     # Without this split the diagnostics land inside the prompt itself.

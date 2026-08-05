@@ -25,6 +25,7 @@ scripts/partial_write_check.py detects and scripts/rollback_partial.py undoes.
 
 import argparse
 import json
+import re
 import subprocess
 import sys
 from pathlib import Path
@@ -84,7 +85,20 @@ def validate(plan):
     for i, p in enumerate(pages):
         where = f"pages[{i}]"
         name = need(p, "name", where)
-        need(p, "bullet", where)
+        bullet = need(p, "bullet", where)
+        # Rule 2: every claim cites its source page. It is also load-bearing for
+        # partial_write_check.py, which decides whether a dated mention belongs to
+        # a known episode by resolving exactly this wikilink.
+        if bullet and src.get("page") and f"[[{src['page']}]]" not in bullet:
+            errs.append(f"{where}: bullet does not cite [[{src['page']}]]")
+        # Anchored to the start on purpose: a bullet may legitimately mention a
+        # date mid-sentence when cross-referencing an earlier take. What is wrong
+        # is the agent formatting its own bullet prefix.
+        if bullet and re.match(r"\s*(-\s*)?\d{4}-\d{2}-\d{2}\s*[—-]", bullet):
+            errs.append(f"{where}: bullet carries its own date prefix; the applier "
+                        f"stamps {ep.get('pub_date')} and orders it")
+        elif bullet and bullet.lstrip().startswith("- "):
+            errs.append(f"{where}: bullet must not start with '- '")
         kind = p.get("kind")
         if kind not in VALID_KINDS:
             errs.append(f"{where}: kind {kind!r} not in {VALID_KINDS}")
