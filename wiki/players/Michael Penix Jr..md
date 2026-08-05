@@ -35,6 +35,8 @@ tags: [player]
 
 - 2024-04-01 — According to [[Matt Waldman]] on *Feel It or F@#k It* ([[Feel It Or F@#k It - 2024-04-01]]): "a lot" feeling it — wouldn't want him starting as a rookie, but if he can get a half-to-three-quarters-year runway on the bench before playing, thinks "he'd wind up being one of the best quarterbacks in this class." The two ACL tears in the same knee plus a throwing-shoulder injury will scare some teams off, and Waldman doesn't expect him to get "the Carson [Wentz] treatment" despite strong combine buzz. Pushes back on criticism of his pocket comfort — on tape he was efficient moving away from pressure, sidestepping or climbing and resetting his feet rather than drifting into it, and is a good decision-maker and leverage reader; calls him maybe the best vertical/sideline pinpoint thrower in this and recent classes. Names a team with heavy draft capital but needs beyond just quarterback (floats New England, without claiming inside information) as an ideal fit to let him sit, and separately flags Minnesota — with [[Justin Jefferson]] and teammate [[Jordan Addison]] — as the landing spot Waldman would most want to see, while doubting the Vikings will actually do it.
 
+- 2024-04-15 — According to [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]] [Dynasty]: "feeling" a Las Vegas landing spot — reads the Raiders' history of chasing a deep vertical passing game (the "ghost of Al Davis") as a real scheme fit for Penix, calling him probably the best vertical/boundary passer in this class, paired with [[Davante Adams]] as an immediate upgrade at receiver. Notes real reported team interest, including from the Raiders per Hondo Carpenter (SI.com Raiders reporter, not tracked) relaying that Antonio Pierce insists [[Aidan O'Connell]] gets the first shot to start — but says his own best-ball rooms are already drafting [[Gardner Minshew]] ahead of O'Connell as the bridge option.
+
 ## Related Concepts
 - [[Player Development and Coachability]]
 - [[Dynasty]]
@@ -42,3 +44,6 @@ tags: [player]
 - [[Kyler Murray]]
 - [[J.J. McCarthy]]
 - [[Drake Maye]]
+- [[Davante Adams]]
+- [[Aidan O'Connell]]
+- [[Gardner Minshew]]

@@ -17,5 +17,9 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: on the incoming [[Diontae Johnson]] trade, says Young needs weapons who are leaders in their own right and can model that for a young quarterback — cites [[Brock Purdy]] and, to a degree, Jared Goff (coach/system context, not a tracked page) as examples of a strong surrounding cast accelerating a QB's growth — but doesn't think Johnson is that type of leader, so Young himself will need to be the stabilizing "duct tape" for a mercurial receiver room, uncertain he's there yet.
 
+- 2024-04-15 — According to [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]] [Dynasty]: doing heavy Superflex drafting this cycle and finding more "hive mind" consensus at quarterback than in past years, which pushes him to value Young's job security on the way down draft boards. Feeling real upside: Carolina revamped the interior offensive line with two new starting guards, added veteran [[Diontae Johnson]], and hired Dave Canales, whose track record (most recently rehabilitating [[Baker Mayfield]] in Tampa Bay) has been kind to quarterbacks. Frames 2023 as effectively a lost rookie year that shouldn't be held against him — "if you put Joe Burrow in that situation with that offensive line, we would have been talking about" the same criticisms — and argues for giving Young at least two years before judging. Takes him later in single-QB drafts.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
+- [[Dynasty]]
+- [[Diontae Johnson]]

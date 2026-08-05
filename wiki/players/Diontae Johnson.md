@@ -54,6 +54,8 @@ tags: [player]
   (Amon-Ra St. Brown, [[Zay Flowers]], [[Drake London]]), Harmon ranks Johnson
   fourth of the four.
 
+- 2024-04-15 — According to [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]] [Best Ball]: with Johnson going around WR40 in early best balls, calls it a value price alongside [[Adam Thielen]] (going around a WR5-6-tier price) — the logic being that if you think [[Bryce Young]] isn't worth drafting, then his receivers aren't either, and that's "discount time" if you're willing to bet on Young's 2024 improvement.
+
 ## Related Concepts
 - [[George Pickens]]
 - [[Scheme vs Talent]]
@@ -62,3 +64,4 @@ tags: [player]
 - [[Jonathan Mingo]]
 - [[Zay Flowers]]
 - [[Drake London]]
+- [[Best Ball]]

@@ -48,41 +48,43 @@ def frontmatter_value(text, key):
     return ""
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--guid", required=True)
-    ap.add_argument("--quiet", action="store_true")
-    args = ap.parse_args()
+def analyze(guid):
+    """What the wiki holds for `guid` while state still calls it `fetched`.
 
+    Returns None when the question does not apply (unknown episode, or one
+    already ingested -- content for those is the expected outcome, not damage).
+    Otherwise a dict with the episode's date, the source pages that belong to it,
+    and the content pages whose dated mentions nothing else explains.
+
+    scripts/rollback_partial.py consumes this too, deliberately: two copies of
+    "which pages did this episode touch" that drift apart is precisely the bug
+    that produced the misses documented above.
+    """
     state = json.loads((REPO / "scripts" / "state.json").read_text())
-    ep = state["episodes"].get(args.guid) or {}
-    # Content in the wiki for an already-ingested episode is the expected
-    # outcome, not damage. Only `fetched` can be partial.
+    ep = state["episodes"].get(guid) or {}
     if ep.get("status") != "fetched":
-        return 0
+        return None
     pdate = ep.get("pub_date") or ""
     if not pdate:
-        return 0
+        return None
 
-    findings = []
-
-    # Source pages, mapped to the episode they belong to. A source page carrying
-    # OUR guid is proof on its own -- that is failure mode (1) above.
-    accounted = set()
+    # Source pages, mapped to the episode they belong to. One carrying OUR guid
+    # is proof on its own -- that is failure mode (1) above.
+    ours, accounted = [], set()
     for p in sorted(SOURCES.glob("*.md")):
         if p.name == "SOURCE_CATALOG.md":
             continue
         text = p.read_text(errors="ignore")
         sguid = frontmatter_value(text, "guid")
-        if sguid == args.guid:
-            findings.append(f"source page belongs to this episode: {p.relative_to(REPO)}")
+        if sguid == guid:
+            ours.append(p)
         elif frontmatter_value(text, "date") == pdate and sguid:
             # Same date, different episode -- this is what legitimately explains
             # bullets dated pdate.
             accounted.add(p.stem)
 
-    # Pages dated to this episode that cannot be explained by another episode's
-    # source page are unexplained.
+    # Pages dated to this episode that another episode's source page cannot
+    # explain are unexplained.
     #
     # Resolution is PAGE-level, not line-level. Line-level was tried and cries
     # wolf: a section heading can carry the date with no citation, and a bullet's
@@ -90,6 +92,7 @@ def main():
     # itself. Both look like dangling citations line-by-line and are fine in
     # context. If a page links the same-date source page of a different episode
     # anywhere, its mentions of that date are accounted for.
+    unaccounted = []
     for sub in CONTENT:
         for p in sorted((REPO / "wiki" / sub).rglob("*.md")):
             text = p.read_text(errors="ignore")
@@ -98,22 +101,40 @@ def main():
             if set(WIKILINK.findall(text)) & accounted:
                 continue
             lines = [i for i, l in enumerate(text.splitlines(), 1) if pdate in l]
-            findings.append(
-                f"{p.relative_to(REPO)} cites {pdate} on line(s) "
-                f"{','.join(map(str, lines[:5]))} with no source page for another episode"
-            )
+            unaccounted.append((p, lines))
 
+    return {"pdate": pdate, "ours": ours, "unaccounted": unaccounted,
+            "accounted": accounted}
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--guid", required=True)
+    ap.add_argument("--quiet", action="store_true")
+    args = ap.parse_args()
+
+    r = analyze(args.guid)
+    if r is None:
+        return 0
+
+    findings = [f"source page belongs to this episode: {p.relative_to(REPO)}"
+                for p in r["ours"]]
+    findings += [f"{p.relative_to(REPO)} cites {r['pdate']} on line(s) "
+                 f"{','.join(map(str, lines[:5]))} with no source page for "
+                 f"another episode" for p, lines in r["unaccounted"]]
     if not findings:
         return 0
 
     if not args.quiet:
-        print(f"!!! PARTIAL WRITE for {args.guid} ({pdate}) -- {len(findings)} finding(s):")
+        print(f"!!! PARTIAL WRITE for {args.guid} ({r['pdate']}) -- "
+              f"{len(findings)} finding(s):")
         for f in findings[:15]:
             print(f"!!!   {f}")
         if len(findings) > 15:
             print(f"!!!   ... and {len(findings) - 15} more")
         print("!!! state.json still says 'fetched', so re-ingesting WILL duplicate")
-        print("!!! these. Roll back the episode's writes before retrying.")
+        print("!!! these. Roll back with:")
+        print(f"!!!   python3 scripts/rollback_partial.py --guid '{args.guid}'")
     return 2
 
 

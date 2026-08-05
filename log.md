@@ -909,3 +909,9 @@ Full-sample RP profiles: Harmon well below consensus on Roman Wilson (weak man/z
 
 ## [2024-04-11] ingest | Reception Perception: The Show — Adonai Mitchell & Free Agent WR's Remaining
 Adonai Mitchell full RP profile (true X, strong man/press vs. weak zone, DeAndre Hopkins/George Pickens comps); new pages D.J. Chark, Hunter Renfrow, Tyler Boyd, Marquez Valdes-Scantling; free-agent WR buy/sell touched Beckham, Rice, Marquise Brown, Gallup.
+
+## [2024-04-11] ingest | Matt Waldman's RSP Cast — Going Deep with Brandon Angelo and Matt Waldman: Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes
+New concept page Coach Killer Prospects: Drake Maye, J.J. McCarthy and Jayden Daniels all named 2024 coach-killer QB candidates. New pages DeVonta Smith, Javon Baker, Marshawn Lloyd, Jonathan Brooks, Keon Coleman index refresh with high-end career-outcome comps (Troy Franklin/DJ Chark, Xavier Worthy/DeSean Jackson, Keon Coleman/Tee Higgins & Anquan Boldin). Small-school-vs-big-school RB draft-capital bias (Kimani Vidal vs Marshawn Lloyd).
+
+## [2024-04-15] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: 4.15.24 (with Bob Harris)
+Tee Higgins dropped his Bengals trade request (staying in 2024). New page Trey Lance (Cowboys backup QB outlook). Bryce Young upgraded to real 2024 upside (O-line, Diontae Johnson, Dave Canales). Geno Smith downgraded from "wins in a cakewalk" to genuine competition with Sam Howell/Ryan Grubb. Also touched: Tony Pollard/Tyjae Spears (Titans 1A/1B), C.J. Stroud (QB1 pushback), Joe Burrow (best-ball value), Brandon Aiyuk/CeeDee Lamb (contract situations), Tua Tagovailoa, Michael Penix Jr./Aidan O'Connell/Gardner Minshew (Raiders QB competition), Diontae Johnson/Adam Thielen, A.J. Brown/DeVonta Smith (Eagles extension context).

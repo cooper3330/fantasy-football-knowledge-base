@@ -30,6 +30,7 @@ tags: [player]
 
 - 2024-04-11 — According to [[Matt Harmon]] on *Reception Perception: The Show* ([[Reception Perception The Show - 2024-04-11]]): pushes back on the volume of fantasy takes about Rice's legal situation (a marijuana-possession issue tied to his hit-and-run case) before any suspension is known, arguing there's no fantasy-relevant read to make yet. On role: given his collegiate profile, wonders whether Kansas City's coaching staff might build out more of a package for him outside next season, since so much of his college and 2023 rookie work came in the slot (48% inside / 50% outside snaps in 2023) — draws a alignment (not usage) parallel to how [[Tyreek Hill]]'s snaps were more 50/50 outside/inside than perceived. Co-host James Koh is more cautious, not wanting to load him up with more outside/press-man responsibility than his rookie tape actually showed.
 
+
 ## Related Concepts
 - [[Role Difficulty and Replaceability]]
 - [[Post-Rookie-Year Receiver Model]]

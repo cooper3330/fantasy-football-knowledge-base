@@ -23,6 +23,8 @@ tags: [player, prospect]
 
 - 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: floats him as a possible New England trade-back target at No. 3 if the Patriots decide to pass on [[Drake Maye]] — seeing Daniels as the more athletic, pocket-mobile quarterback fit for a team that wants to spread the ball around.
 
+- 2024-04-11 — According to [[Matt Waldman]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-04-11 (Going Deep - Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes)]]): adds Daniels to his "coach killer" candidate list (see [[Coach Killer Prospects]]) — pushes back on an automatic [[Lamar Jackson]] parallel, arguing Jackson was actually the best pure pocket passer in that class on tape and got an unnecessarily long "baby step" runway in Baltimore; worries the league will either rush Daniels expecting fast processing he doesn't yet have, or over-correct and stair-step him so long he never sheds the label. On tape: flashes multi-read progressions but is consistently "a half-beat too late" recognizing when a route has cleared and a hitch would spring it open — the same issue Waldman has flagged in [[Dak Prescott]] at Mississippi State. Calls him a more limited runner than Jackson, closer to a Marcus Mariota outcome (not tracked). Reads Washington (established receivers, room to sit) as a much better fit than New England (weapon-starved, will rush him). [[Brandon Angelo]], same episode: notes Daniels's loaded 2023 LSU receiving corps — [[Malik Nabers]] and [[Brian Thomas Jr.]] — created a "perfect storm" that could mask timing issues either way, since neither receiver needed pinpoint timing to win (Nabers on YAC, Thomas on separation).
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Lamar Jackson]]

@@ -33,8 +33,12 @@ tags: [player]
   functional NFL unit." Floated as a fringe trade candidate the team likely
   couldn't get more than a sixth-round pick for.
 
+- 2024-04-15 — According to [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]] [Best Ball]: says he personally drafted Thielen at the end of drafts last year and it worked out — Thielen was a fantasy WR1 through Weeks 12-13 despite [[Bryce Young]] posting some of the worst rookie-QB numbers in league history, before tailing off. Cites it as evidence of upside value in both Thielen and [[Diontae Johnson]] at their current ADPs if Young takes a step forward.
+
 ## Related Concepts
 - [[Scouting Bias and Player Archetypes]]
 - [[Aging Curves and Career Longevity]]
 - [[Diontae Johnson]]
 - [[Jonathan Mingo]]
+- [[Bryce Young]]
+- [[Best Ball]]

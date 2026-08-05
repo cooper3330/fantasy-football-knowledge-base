@@ -25,6 +25,8 @@ tags: [player]
 
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: moving up in his rankings after the [[Stefon Diggs]] trade — with three startable wide receivers now in the base offense ([[Nico Collins]], [[Tank Dell]], Diggs), Houston has the kind of top-24-caliber-across-the-board stability Waldman looks for in a top-five quarterback, comparable to [[Joe Burrow]] with Boyd/Higgins/Chase or [[Kirk Cousins]] with Hockenson/Jefferson/Addison.
 
+- 2024-04-15 — According to [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]]: on chatter naming him dynasty QB1 after the [[Stefon Diggs]] trade, "feeling" the idea he's now firmly top-5 and arguably top-3, but "f\*\*k" a definitive QB1 claim — too many quarterbacks (Mahomes, [[Josh Allen]], [[Jalen Hurts]], [[Lamar Jackson]], arguably [[Joe Burrow]]) have a real claim to the top spot depending on preferred skill set.
+
 ## Related Concepts
 - [[Jared Goff]]
 - [[Best Ball]]

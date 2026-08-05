@@ -17,5 +17,10 @@ tags: [player]
 - 2024-01-01 — According to [[Matt Waldman]], same episode: ranks Lamb #2 overall for 2024, behind McCaffrey and ahead of Hill — "it's between McCaffrey and Lamb" as the real question at the top of the board, with no specific film mechanism given beyond the ranking itself.
 - 2024-01-16 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-16]]): on the Wild Card blowout loss to Green Bay, cautions against reading the box score (17 targets, 9 catches, 110 yards) at face value — "ignore the box score... it was just ridiculous at the end," most of the production coming with the game already decided rather than reflecting genuine offensive rhythm.
 
+- 2024-04-15 — According to [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]]: with Lamb skipping voluntary sessions and due only $17.9M against a Cowboys cap already carrying a $55M Dak Prescott dead-cap charge, calls the contract situation "slight" concern at the very top of drafts — enough that he'd still take [[Justin Jefferson]], [[Ja'Marr Chase]] or [[Tyreek Hill]] over Lamb until it's resolved. Reaffirms Lamb as a top-five talent who can look "unstoppable" on Mike McCarthy's over-the-middle route concepts, and groups him with Chase and Jefferson as three of the league's most complete receivers.
+
+
 ## Related Concepts
 - [[Redraft (Standard)]]
+- [[Justin Jefferson]]
+- [[DeVonta Smith]]

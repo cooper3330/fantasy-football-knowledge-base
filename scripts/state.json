@@ -4147,8 +4147,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-11",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-04-11-rsp-going-deep-with-brandon-angelo-and-matt-waldman-fave-evals-coach-kille.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-04-11-rsp-going-deep-with-brandon-angelo-and-matt-waldman-fave-evals-coach-kille.md",
+      "status": "ingested",
       "title": "Going Deep with Brandon Angelo and Matt Waldman: Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes",
       "transcript_source": "whisper"
     },
@@ -4159,8 +4159,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-15",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-04-15-rsp-feel-it-or-fk-it-41524-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-04-15-rsp-feel-it-or-fk-it-41524-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "ingested",
       "title": "Feel It Or F@#k It: 4.15.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
     },

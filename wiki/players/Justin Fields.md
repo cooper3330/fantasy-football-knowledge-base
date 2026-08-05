@@ -24,6 +24,8 @@ tags: [player]
 
 - 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: on the same Pittsburgh pole-position report, frames Fields as being given real time to win the job rather than facing an all-or-nothing competition — losing the competition early wouldn't mean the team is "jettisoning" him, since he's competing against a proven, quality NFL quarterback in [[Russell Wilson]] regardless of Wilson's recent performances.
 
+- 2024-04-11 — According to [[Brandon Angelo]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-04-11 (Going Deep - Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes)]]), cited retrospectively as an example while discussing "coach killer" scenarios: pairing Fields with then-Bears HC Matt Nagy's Andy Reid-style passing scheme "made no sense" for a quarterback who needed a more run-driven, intricate development plan — Mitch Trubisky (not tracked) similarly struggled under Nagy's system until OC Bill Lazor shifted to 12-personnel, run-heavy football built around Dave Montgomery (not tracked) and the offense clicked. See [[Coach Killer Prospects]].
+
 ## Related Concepts
 - [[Desmond Ridder]]
 - [[Russell Wilson]]

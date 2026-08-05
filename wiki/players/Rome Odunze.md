@@ -47,6 +47,7 @@ tags: [player, prospect]
 
 - 2024-04-11 — According to [[Matt Harmon]] on *Reception Perception: The Show* ([[Reception Perception The Show - 2024-04-11]]), pushing back on co-host James Koh's Big 12-discount framing for [[Adonai Mitchell]]: says he pushed back on similar "discount his success rate because he played in the Pac-12" chatter around Odunze, calling it "jumping the shark" — distinct from his genuine Big 12-specific skepticism about Texas/TCU/Oklahoma-style offenses.
 
+
 ## Related Concepts
 - [[Reception Perception Methodology]]
 - [[Marvin Harrison Jr.]]

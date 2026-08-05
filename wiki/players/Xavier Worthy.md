@@ -22,7 +22,15 @@ tags: [player, prospect]
 
 - 2024-04-11 — According to [[Matt Harmon]] on *Reception Perception: The Show* ([[Reception Perception The Show - 2024-04-11]]): charted back-to-back with Texas teammate [[Adonai Mitchell]] in the same disliked, gimmicky Texas offense — a "not fun" experience given shaky QB play and half-field-read route jogging he declined to chart as legitimate routes. Expects Worthy's finished route chart will not be skewed downfield the way Mitchell's is — calls him more of a "layup receiver" by comparison, run underneath more often as a proven, well-regarded college player rather than because he's viewed as the better prospect.
 
+- 2024-04-11 — According to [[Brandon Angelo]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-04-11 (Going Deep - Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes)]]), naming a high-end career-outcome comp: DeSean Jackson (not tracked) — grades Worthy high enough to be a game-wrecking No. 1 option who operates on all three levels, offering more after the catch and as a middle-of-the-field crosser than his speed-only reputation suggests, plus real punt-return value; sees him fitting the modern receiver mold ("more Devonta Smith than Julio Jones") if he lands in a vertical passing offense. Flags Texas QB Quinn Ewers's slow, limited multi-read processing as directly costing Worthy easy separation looks on tape. [[Matt Waldman]], same episode, independently lands on the same DeSean Jackson-tier ceiling and adds a second comp, Isaac Bruce (not tracked), for the contested-catch/physicality-despite-size profile — consistent with his earlier Bruce/Jackson framing on this page.
+
+
 ## Related Concepts
 - [[Dynasty]]
 - [[NFL Combine and Pro Day Skepticism]]
 - [[Tyreek Hill]]
+- [[Scouting Bias and Player Archetypes]]
+- [[DeVonta Smith]]
+- [[Zay Flowers]]
+- [[Josh Downs]]
+- [[Tank Dell]]

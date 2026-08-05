@@ -21,9 +21,11 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: admits some irritation that Jefferson won't get "the most ideal of outcomes" now that [[Kirk Cousins]] has officially left Minnesota for Atlanta, though he notes that doesn't necessarily mean bad things for a player this good.
 
+
 ## Related Concepts
 - [[Weak Quarterback Play and Receiver Value]]
 - [[Zone vs Man Route Running]]
 - [[Ja'Marr Chase]]
 - [[Jordan Addison]]
 - [[Kirk Cousins]]
+- [[DeVonta Smith]]

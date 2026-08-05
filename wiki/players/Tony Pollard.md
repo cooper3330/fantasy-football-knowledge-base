@@ -27,6 +27,8 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: reacts to the finalized Tennessee signing as "short-term fuck it" for [[Tyjae Spears]]'s redraft value, but reads the contract structure (with a likely out in year two or three) as Tennessee hedging rather than fully committing to Pollard as the starter — if Pollard struggles or gets hurt, Spears is still positioned to take over. Calls Pollard "the shiny object" who may end up priced too high for what he actually provides. Separately flags Bill Callahan (new Titans assistant, HC Brian Callahan's father) as the real story to watch, crediting him as one of the league's best offensive-line minds.
 
+- 2024-04-15 — According to [[Matt Waldman]] and **Bob Harris** (co-host — not a tracked expert) on [[Feel It Or F@#k It - 2024-04-15]] [Best Ball]: reacting to new Titans OC Nick Holz calling Pollard and [[Tyjae Spears]] "interchangeable, 1A/1B," Harris hopes the news depresses Pollard's best-ball ADP (currently RB22) without inflating Spears too much, preferring Spears as the better pass protector, an equal-or-better receiver, and a slightly better between-the-tackles runner. Waldman says he holds few shares of either back at current price and likes other players better at their respective cost points, but still credits Pollard's per-touch efficiency when used correctly — his breakaway run rate and top-end speed have been "impressive."
+
 ## Related Concepts
 - [[Healthy Enough to Play vs. Healthy Enough to Perform]]
 - [[Redraft (Standard)]]

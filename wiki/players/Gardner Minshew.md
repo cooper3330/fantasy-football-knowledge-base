@@ -22,9 +22,12 @@ tags: [player]
 
 - 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: on Las Vegas signing Minshew to push [[Aidan O'Connell]] — thinks Minshew is "probably the best backup in the league," someone who can move around in the pocket even without O'Connell's arm strength, and reads the Raiders' public "O'Connell deserves a chance" framing (Antonio Pierce) as coach-speak rather than a real vote of confidence in Minshew as a starter-caliber option; expects the Raiders still draft a quarterback to develop.
 
+- 2024-04-15 — According to [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]]: restates him as "the best backup in the league" from a floor-and-coaching standpoint — not just capable of playing like a starter but a de facto coach in Las Vegas's quarterback room (he wanted to be a coach) who can help mentor rookie [[Michael Penix Jr.]]. Notes his own best-ball rooms are drafting Minshew ahead of [[Aidan O'Connell]] for the Raiders' QB2 job.
+
 ## Related Concepts
 - [[Player Development and Coachability]]
 - [[Redraft (Standard)]]
 - [[Jacoby Brissett]]
 - [[Michael Pittman Jr.]]
 - [[Aidan O'Connell]]
+- [[Michael Penix Jr.]]

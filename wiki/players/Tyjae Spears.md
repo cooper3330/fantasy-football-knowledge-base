@@ -19,6 +19,8 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: [[Tony Pollard]]'s signing is "short-term fuck it" for Spears's redraft value, which he expects to keep dropping — but calls Spears a buy-low, "Bob Harris value special" for later in drafts, since the Pollard deal reads as insurance rather than a full commitment away from Spears if he outplays Pollard.
 
+- 2024-04-15 — According to **Bob Harris** (co-host — not a tracked expert) and [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]] [Best Ball]: with new Titans OC Nick Holz calling Spears and [[Tony Pollard]] "interchangeable, 1A/1B," Harris takes Spears "as the bargain" — better pass protector, equal-or-better receiver, slightly better inside runner — while Waldman holds few shares of either back at current prices and prefers other value at the same cost.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Tony Pollard]]
