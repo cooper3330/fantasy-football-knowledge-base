@@ -72,6 +72,12 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-03-23 | [[Matt Waldman]] | 2024 RSP RB A-W Solo Cast | [[Matt Waldman's RSP Cast - 2024-03-23]] |
 | 2024-03-25 | [[Matt Waldman]] | Feel It Or F@#k It: 3.25.24 | [[Matt Waldman's RSP Cast - 2024-03-25]] |
 | 2024-03-26 | [[Matt Harmon]] | Breaking Down the Top 3 Wide Receiver Prospects | [[Reception Perception The Show - 2024-03-26]] |
+| 2024-03-28 | [[Matt Waldman]] | Going Deep with Brandon Angelo and Matt Waldman: If We Were NFL GMs | [[Matt Waldman's RSP Cast - 2024-03-28 (Going Deep - If We Were NFL GMs)]] |
+| 2024-03-28 | [[Matt Harmon]] | The Worst Wide Receiver Depth Charts Out There | [[Reception Perception The Show - 2024-03-28]] |
+| 2024-03-30 | [[Matt Waldman]] | 2024 RSP TE A-Z Solo Cast | [[Matt Waldman's RSP Cast - 2024-03-30]] |
+| 2024-04-01 | [[Matt Waldman]] | Feel It Or F@#k It: 4.1.24: An RSP Cast with Bob Harris and Matt Waldman | [[Feel It Or F@#k It - 2024-04-01]] |
+| 2024-04-02 | [[Matt Harmon]] | Brian Thomas Jr. & Ladd McConkey Profiles | [[Reception Perception The Show - 2024-04-02]] |
+| 2024-04-04 | [[Matt Harmon]] | Stefon Diggs is a Texan & Keon Coleman Breakdown | [[Reception Perception The Show - 2024-04-04]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

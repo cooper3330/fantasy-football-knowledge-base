@@ -30,8 +30,12 @@ tags: [player, prospect]
 
 - 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: in a hypothetical-GM exercise on drafting quarterbacks, picks [[Michael Penix Jr.]] over McCarthy explicitly — "I would rather have Penix, who's less athletic at this point... who's more accurate" — arguing McCarthy's "nice footwork" and athleticism matter less than surrounding pass protection and receivers who can erase his catch-radius inaccuracies, neither of which McCarthy is guaranteed to get.
 
+- 2024-04-01 — According to [[Matt Waldman]] on *Feel It or F@#k It* ([[Feel It Or F@#k It - 2024-04-01]]), naming him his hardest player to evaluate this year: decision-making shows both high-end flashes (perfectly timed reads) and clear lows, concentrated specifically in the "black zone" (deep in his own territory) and "green zone" (inside the opponent's five) — the situational, low-margin-for-error areas coaches drill hardest. His biggest errors come there: holding the ball too long, forcing throws he shouldn't. Contrasts him with Zach Wilson and Mitchell Trubisky (not tracked), who had "invariably" low situational football with only easy highlight-reel throws as their highs — McCarthy at least shows some of the harder, more complex plays too. Open questions before the draft: can he throw accurately beyond the intermediate range, and how much of the limited deep-ball sample is Michigan's run-heavy scheme (40.4% run rate, 117th of 133 teams per Football Guys) versus the player himself — the deep-range accuracy he did show wasn't good even within that small sample.
+
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Brock Purdy]]
 - [[Kirk Cousins]]
 - [[Michael Penix Jr.]]
+- [[Drake Maye]]

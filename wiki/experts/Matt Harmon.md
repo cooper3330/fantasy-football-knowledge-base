@@ -51,6 +51,17 @@ pulled from dedicated rankings segments.
 
 ## Track Record Notes
 
+- **Open, unresolved 2024-03-28 read:** in a top-10 mock-draft exercise, gives
+  [[Marvin Harrison Jr.]] the "slight edge" as class WR1 in an Arizona-specific
+  fit case — a notable wobble back toward Harrison just two days after his
+  2024-03-26 full-profile lean toward [[Rome Odunze]]; both remain tier-one,
+  with the hosts still genuinely split. Directly checkable against both
+  players' rookie seasons.
+- **Open, unresolved 2024-03-28 read:** flat disagreement with co-host James
+  Koh over whether [[Keenan Allen]] or [[D.J. Moore]] would lead a rookie
+  [[Caleb Williams]]-led Bears offense in targets through six games if Chicago
+  drafts a receiver at 9. Checkable against 2024 Chicago target splits.
+
 - **Open, unresolved 2024-01-16 read:** ranks [[Jordan Love]] inside a tier
   he'd take over [[Dak Prescott]], Trevor Lawrence and Jalen Hurts given age
   and contract, while still slotting him just below Justin Herbert/Joe
@@ -170,7 +181,55 @@ pulled from dedicated rankings segments.
   Reaffirms all three as tier-one, top-10-worthy grades. Directly checkable
   against all three players' rookie seasons.
 
+- **New page created 2024-04-04:** [[Josh Allen]] — commentary on his aggressive,
+  off-script, receiver-trusting downfield style specifically as it elevated
+  [[Stefon Diggs]] (and vice versa) in Buffalo; not a full evaluation.
+- **Open, unresolved 2024-04-04 read:** an emergency reaction episode call
+  that Buffalo's trade of [[Stefon Diggs]] to Houston is a mistake for
+  Buffalo's team-building ("baffled") but a "slam dunk"/"home run" for
+  Houston; also predicts [[Nico Collins]] could out-target Diggs in Houston's
+  2024 offense. Directly checkable against both teams' 2024 seasons.
+- **Open, unresolved 2024-04-04 read:** finished Reception Perception charting
+  on [[Stefon Diggs]]'s 2023 season shows a real (not cliff-level) decline
+  concentrated in downfield separation, contradicting the popular
+  second-half-injury theory. Directly checkable against Diggs's 2024 season
+  in Houston.
+- **Open, unresolved 2024-04-04 read:** a skeptical, data-heavy full-sample
+  charting grade on [[Keon Coleman]] (20th percentile vs. man, 59th vs. zone)
+  paired with a Day 2 rather than Round 1 draft-value ceiling, using a new
+  historical study of 32 poor-college-separator prospects (only 5 "inarguable
+  hits," all of whom became big slot receivers) to support the read. Directly
+  checkable against Coleman's draft slot and rookie-year role.
+
 ## Sources
+- [[Reception Perception The Show - 2024-04-04]] — emergency episode reacting
+  to Buffalo trading [[Stefon Diggs]] to Houston (charted decline read,
+  Houston/Buffalo team-building fallout, [[Josh Allen]]/Diggs relationship
+  retrospective, [[Nico Collins]]/[[Tank Dell]] target-share speculation,
+  new page for [[Josh Allen]]); plus a full Reception Perception breakdown of
+  draft prospect [[Keon Coleman]] (detailed charting data, a new historical
+  study of poor-college-separator prospects added to
+  [[Reception Perception Methodology]] and [[Scouting Bias and Player Archetypes]],
+  GPS-vs-40-time skepticism added to [[NFL Combine and Pro Day Skepticism]],
+  archetype comps to [[Treylon Burks]], [[Jonathan Mingo]], [[Amon-Ra St. Brown]],
+  [[Cooper Kupp]] and [[Rashee Rice]])
+- [[Reception Perception The Show - 2024-04-02]] — finished full-sample
+  Reception Perception profiles on [[Brian Thomas Jr.]] and [[Ladd McConkey]],
+  superseding both players' early 3-game reads from 2024-02-01; grades Thomas
+  a clear tier-two prospect (4th in class) with a "faster [[Tee Higgins]]"
+  median outcome, and rates McConkey close to Thomas in overall class rank
+  despite the very different archetypes
+- [[Reception Perception The Show - 2024-03-28]] — worst-receiver-room ranking
+  exercise (with James Koh): four "disaster" rooms (Giants, Chargers, Patriots,
+  Cardinals), three "disaster-adjacent" rooms (Steelers, Broncos, Jaguars) and
+  a "fragile" tier (Ravens, Lions, Panthers, Falcons, plus Saints/Jets
+  discussed), with new pages for [[Greg Dortch]], [[Darius Slayton]],
+  [[Zay Jones]], [[Josh Palmer]] and [[Allen Lazard]]; extensive top-10
+  landing-spot scenarios for [[Marvin Harrison Jr.]], [[Rome Odunze]] and
+  [[Malik Nabers]], including a Bears fit built on a [[D.J. Moore]]/[[Keenan Allen]]
+  target-share disagreement between the hosts, and PFF-adjacent explosive-play
+  stats used to argue for Odunze as the class's most explosive downfield
+  prospect
 - [[Reception Perception The Show - 2024-03-26]] — full-profile drop show
   (with James Koh): finished [[Marvin Harrison Jr.]], [[Rome Odunze]] and
   [[Malik Nabers]] Reception Perception profiles go live, with Harmon now

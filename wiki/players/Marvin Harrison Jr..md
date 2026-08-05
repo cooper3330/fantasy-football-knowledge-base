@@ -30,6 +30,21 @@ tags: [player, prospect]
 
 - 2024-03-26 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-26]]) [Dynasty]: full profile now live; declines to call him a clear-cut No. 1, framing him and [[Malik Nabers]] as "very different" prospect types rather than one being flatly better — Harrison a "pure vertical X receiver" (78.9% of sampled snaps outside/on the line) versus Nabers's slot-heavy explosiveness. Career-high 16.8% double-coverage rate, the highest in Harmon's four-plus-class database, with a 70% success rate beating those doubles — also the best mark among doubled players. Success rates: 83rd percentile vs. man, 87th percentile vs. press (pushes back on public criticism of his press-coverage tape), 80th percentile vs. zone; 85.2% on slants, 82% on corners, 62% on nines. Compares him to [[Ja'Marr Chase]] as the last true No. 1-X-receiver prospect and says Harrison's profile is "a little bit better" coming in as a separator/technician. Grades him tier one and is genuinely torn between ranking Harrison or [[Rome Odunze]] as his class WR1, with "a damn good chance" he lands on Odunze.
 
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]): in a
+  discussion of top-10 landing spots, gives Harrison the "slight edge" as the
+  draft class's number-one receiver specifically for Arizona — "the evaluation
+  is so clean... he's a legitimate difference maker from day one." Projects
+  him paired with [[Trey McBride]] and [[Michael Wilson]] in an Arizona passing
+  game that "now has something." Discusses moving him inside off pure X reps
+  on occasion (given his size/separation traits) while sliding [[Michael Wilson]]
+  into the X role — a reversal of how the previous staff misused [[Marquise Brown]]
+  running in-breaking/slant routes not suited to his game. Notes: this "slight
+  edge to Harrison" call runs counter to Harmon's 2024-03-26 full-profile lean
+  toward [[Rome Odunze]] as his personal class WR1 — the hosts remain genuinely
+  split between the two even after full profiles were live.
+
+
 ## Related Concepts
 - [[Prospect Pro-Readiness vs Ceiling]]
 - [[Scouting Bias and Player Archetypes]]
@@ -38,3 +53,5 @@ tags: [player, prospect]
 - [[Reception Perception Methodology]]
 - [[Rome Odunze]]
 - [[NFL Combine and Pro Day Skepticism]]
+- [[Michael Wilson]]
+- [[Trey McBride]]

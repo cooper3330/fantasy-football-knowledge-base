@@ -34,8 +34,17 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: on the finalized Jacksonville deal (3 years, $39M) — calls him roughly what [[Calvin Ridley]] was "at his absolute worst," just taller, stronger and a better blocker: a third option who can win downfield when the quarterback scrambles but only "catches the ball one out of every three times" when schemed open. Flags the contract as a market-inefficiency red flag rather than praise — Davis making more than [[Saquon Barkley]] "tells you how institutionally stupid things have gotten." Doubts Jacksonville is done addressing receiver.
 
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]): reaffirms
+  he's "a passable outside guy" who "can be a starting outside receiver in the
+  league... not a guy you want being your second most targeted player, but he
+  could be your three." Grouped with [[Zay Jones]] as functional-but-limited
+  outside options who can't by themselves lift Jacksonville out of its
+  bottom-tier receiver room.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Christian Kirk]]
 - [[Calvin Ridley]]
 - [[Saquon Barkley]]
+- [[Zay Jones]]

@@ -24,7 +24,9 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: on signing with divisional-rival Minnesota, still calls him "a legit awesome running back" who "can do it all" — floats the Packers "getting a taste of their own medicine" watching Jones run against them. Reads it as bad news for Ty Chandler's (not a tracked page) redraft value beyond a complementary/injury-insurance role.
 
+
 ## Related Concepts
 - [[Injury-Agnostic Roster Construction]]
 - [[Redraft (Standard)]]
+- [[Best Ball]]
 - [[Josh Jacobs]]

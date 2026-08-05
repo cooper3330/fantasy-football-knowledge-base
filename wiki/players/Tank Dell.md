@@ -22,9 +22,14 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-19]]): same pushback as applied to [[Nico Collins]] — Houston's reported interest in free agent [[Keenan Allen]] isn't read as a stock-down signal for Dell, since Allen's slot-specific role wouldn't have overlapped much with Dell's; expects Houston could still add a receiver on Day 2 of the draft without it meaningfully changing Dell's outlook.
 
+- 2024-04-04 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-04-04]]), reacting to Houston trading for [[Stefon Diggs]]: flags real durability risk before assuming Dell is a lock for target volume — he's "170 pounds" and coming off a serious injury, having absorbed several massive hits in his rookie year; Harmon says "injury optimism generally is the worst bet you can make" and specifically distrusts offseason Instagram workout-video reassurances. Argues Houston likely wouldn't have made the Diggs trade at all if the team were fully confident Dell would return as a set-it-and-forget-it top receiver. Still calls all three of Dell/[[Nico Collins]]/Diggs great players and says target distribution among them "could go any which way" in 2024.
+
+
 ## Related Concepts
 - [[Role Difficulty and Replaceability]]
+- [[Best Ball]]
 - [[Post-Rookie-Year Receiver Model]]
 - [[Nico Collins]]
 - [[Dynasty]]
 - [[Keenan Allen]]
+- [[Stefon Diggs]]

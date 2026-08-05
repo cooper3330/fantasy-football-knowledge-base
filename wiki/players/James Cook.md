@@ -21,7 +21,9 @@ tags: [player]
 
 - 2024-01-08 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-08]]) [Redraft (Standard)]: "a real shot" at top-12 running back value in 2024 (finished 2023 around RB14-15 in points per game, top-10 in total points). Credits Buffalo's usage pattern for the delayed breakout — cautious as a rookie ("put a governor on him"), fully unleashed in year two despite flirting with Damien Harris and a midseason Leonard Fournette addition — and repeats the "next Austin Ekeler" framing. Flags his outlook as partly tied to OC Joe Brady's return, which appeared likely as of this taping.
 
+
 ## Related Concepts
 - [[Redraft (Standard)]]
+- [[Best Ball]]
 - [[Running Back Size and Movement Skills]]
 - [[Pace Control and Movement Intellect]]

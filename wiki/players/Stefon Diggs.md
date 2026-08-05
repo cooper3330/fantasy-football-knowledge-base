@@ -1,15 +1,15 @@
 ---
 type: player
-team: Buffalo Bills
+team: Houston Texans
 position: WR
 tags: [player]
 ---
 
 # Stefon Diggs
 
-> ⚠️ Takes below are from early January 2024. Team/role are as of that date and
-> are almost certainly stale — treat as historical context until superseded by
-> newer takes.
+> ⚠️ Takes below run through early April 2024 (the trade to Houston). Team/role
+> are as of that date and are almost certainly stale — treat as historical
+> context until superseded by newer takes.
 
 ## Expert Takes
 
@@ -24,7 +24,14 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-19]]), reacting to Buffalo's [[Curtis Samuel]] signing: reaffirm Diggs as a "great player, elite receiver, A-tier separator" at the top of Buffalo's receiver room, and frame the years of thin depth behind him (converted return men like Isaiah McKenzie and Deonte Harty playing real snaps) as the specific gap Samuel now fills as a genuine second/third receiving option.
 
+- 2024-04-04 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-04-04]]), reacting to Buffalo trading Diggs to Houston for a future 2nd-round pick (Buffalo eating a ~$31M dead-cap hit): Harmon is "baffled" by the trade from a Buffalo team-building standpoint, comparing it unfavorably to Kansas City's QB-over-receivers formula ("this isn't Patrick Mahomes and Andy Reid"), but calls it an outright "slam dunk"/"home run" for Houston. Says his still-in-progress 2023 Reception Perception charting (not yet fully finished at time of taping) shows a real decline, not a cliff — still top-tier short/underneath (46.4% of his charted routes were curls or slants, with strong success rates there), but a clear downfield separation drop, most visible on 9-routes/corners: per Next Gen Stats, his passer rating when targeted 20+ air yards fell from 3rd-best in the NFL in 2022 to 66th of 70 qualifying receivers in 2023 (36.2 rating, 1 TD/3 INT), with EPA/target dropping to 47th of 70. Explicitly rules out an unreported second-half injury as the explanation — Diggs "didn't take the bait" when asked directly after the Super Bowl and attributed it to the coordinator/scheme change — and Harmon says his own charting shows no first-half/second-half split, just opponent-quality variance and some near-miss deep connections with Josh Allen. Projects Houston's plan is a veteran "separation route runner" to complete the room (souped-up Robert Woods-style underneath/flanker role, likely to rotate with [[Tank Dell]] between slot and flanker), not a true X; expects [[Nico Collins]] could still lead the Texans in targets over Diggs given the shift, though says target distribution among Diggs/Collins/Tank Dell "could go any which way." On Buffalo's receiver room post-trade: calls it a legitimate entrant in the "worst receiver rooms in the NFL" conversation even accounting for [[Curtis Samuel]] and [[Khalil Shakir]], and floats Buffalo aggressively trading up in the draft for a receiver (names [[Rome Odunze]], [[Malik Nabers]], [[Marvin Harrison Jr.]], [[Brian Thomas Jr.]] and [[Adonai Mitchell]] as speculative targets) as a real possibility given the extra 2025 second-rounder from this deal. See [[Josh Allen]].
+
+
 ## Related Concepts
 - [[Redraft (Standard)]]
+- [[Best Ball]]
 - [[Khalil Shakir]]
 - [[Curtis Samuel]]
+- [[Nico Collins]]
+- [[Tank Dell]]
+- [[Josh Allen]]

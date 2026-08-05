@@ -204,9 +204,13 @@ rediscovering the wiki's contents on every run.
 
 Ingestion is the most expensive thing this wiki does. Two settings control it:
 
-- **Always spawn ingest agents with `model: "sonnet"`.** Extraction against a
-  schema this explicit does not need a frontier model. This is the single
-  biggest cost lever in the pipeline — do not default to the parent model.
+- **Always spawn ingest agents with `model: "claude-sonnet-5"`, `effort: medium`.**
+  Extraction against a schema this explicit does not need a frontier model, and
+  the prompt already names every step, so it is not reasoning-heavy either.
+  Model is the single biggest cost lever in the pipeline and effort is the
+  second — do not default to the parent model. Pin the full model ID rather than
+  the `sonnet` alias: the alias tracks the latest Sonnet, so a release would
+  silently change ingest cost and output shape mid-backlog.
 - **One transcript per agent** (`ingest_manifest.py --count 1`, the default).
 
 **Per *agent*, not per *run*.** These are different limits and only the first

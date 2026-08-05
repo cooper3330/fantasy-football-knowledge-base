@@ -45,9 +45,20 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: skeptical Johnson himself can be the alpha [[Bryce Young]] needs to lean on — "he's an on-and-off player, he's a light switch player," the type who needs a strong veteran presence around him rather than being expected to provide it himself. Worries Carolina's front office (owner David Tepper) will be too quick to "rip the duct tape off" and micromanage if things don't click immediately. Frames [[Bryce Young]] as needing to be that stabilizing "duct tape" himself but isn't sure he's there yet.
 
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]): the swing
+  addition that lifts Carolina's receiver room out of the "disaster" tier and
+  into merely "fragile" — asked directly whether Carolina would be in the
+  disaster group without him, both hosts agree "oh yeah... they're in
+  disaster." Still, when stacked against the other three "fragile"-tier WR1s
+  (Amon-Ra St. Brown, [[Zay Flowers]], [[Drake London]]), Harmon ranks Johnson
+  fourth of the four.
+
 ## Related Concepts
 - [[George Pickens]]
 - [[Scheme vs Talent]]
 - [[Bryce Young]]
 - [[Adam Thielen]]
 - [[Jonathan Mingo]]
+- [[Zay Flowers]]
+- [[Drake London]]

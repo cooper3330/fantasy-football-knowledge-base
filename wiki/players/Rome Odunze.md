@@ -24,10 +24,33 @@ tags: [player, prospect]
 
 - 2024-03-26 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-26]]) [Dynasty]: full profile now live, and the episode's headline take — argues Odunze should be viewed as closer to WR1 than the public-consensus WR3, "not even close" to WR4. Took 84% of sampled snaps outside, on the line of scrimmage 67.4% of the time; posted an above-average success rate on every charted route type, a "full green" route tree Harmon had previously only seen approached by [[Chris Olave]] and [[Garrett Wilson]]. Success rates: 76.2% (87th percentile) vs. man, 92nd percentile vs. press, 83.5% vs. zone. Zero drops over the 8-game sample, 88.9% contested-catch rate — attributes the high contested-target volume to quarterback [[Michael Penix Jr.]] trusting him in tight windows rather than an inability to separate, the same pattern he cites for [[Terry McLaurin]] and [[Drake London]], contrasted with a genuine catch-point mess like [[Quentin Johnston]]. Player comp: [[Davante Adams]] — says "probably my number one-ranked receiver of the last four draft classes" is a real possibility. Notes Daniel Jeremiah and Nate Tice (not tracked) also have him WR2 on film, while JJ Zachariason's (not tracked) statistical model has him WR3; pushes back on "dynasty community" chatter tiering [[Marvin Harrison Jr.]]/[[Malik Nabers]] above him, arguing all three belong in the same tier. Flags the Chargers, Giants, Falcons, Bears and Jets (picks 5-10) as plausible landing spots, with Tennessee likely out after trading for [[Calvin Ridley]].
 
+- 2024-03-28 — According to [[Brandon Angelo]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-03-28 (Going Deep - If We Were NFL GMs)]]), discussing the Chargers' No. 5 pick: while Angelo grades [[Malik Nabers]] as his highest-graded receiver in the cycle overall, he thinks Odunze specifically fits [[Justin Herbert]] "like a glove" as a true three-level X, since Herbert has never had a consistent X-receiver option ([[Mike Williams]] often injured and more of a one-level player).
+
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]): continued
+  momentum toward Odunze as the class's WR1 — cites PFF-adjacent explosive-play
+  data (analysts Arjun Menon and John Kosco, not tracked): over the last two
+  college seasons Odunze posted 72 explosive (15+ yard) plays at a 43.1% rate —
+  more than both [[Marvin Harrison Jr.]] (68 plays, 47.2%) and [[Malik Nabers]]
+  (66 plays, 40.9%) in raw count, ahead of Troy Franklin (not a tracked page,
+  42.3%). Long-term prospect comparison vs. [[Drake London]]: while London "is
+  who he's been" as a proven NFL player, the hosts say Odunze's prospect
+  profile grades slightly better and give him the "easy" edge on generating
+  explosive downfield plays specifically — the trait Harmon calls "what makes
+  special players special." On landing spot: for the Bears at 9, would slot in
+  as a true X alongside [[D.J. Moore]] and [[Keenan Allen]], immediately making
+  Chicago's a top-tier receiver room; for the Falcons, projects an "all in"
+  scenario pairing him with [[Drake London]] and [[Kirk Cousins]].
+
+
 ## Related Concepts
 - [[Reception Perception Methodology]]
+- [[Marvin Harrison Jr.]]
 - [[Marvin Harrison Jr.]]
 - [[Malik Nabers]]
 - [[Garrett Wilson]]
 - [[Davante Adams]]
 - [[Michael Penix Jr.]]
+- [[Drake London]]
+- [[D.J. Moore]]
+- [[Keenan Allen]]

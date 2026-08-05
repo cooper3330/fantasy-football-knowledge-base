@@ -26,9 +26,17 @@ tags: [player]
 
 - 2024-03-26 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-26]]), while discussing [[Rome Odunze]]'s contested-catch profile: cites Johnston as the counterexample of a big receiver who wasn't good at the catch point — reads it as more of a technique problem (a "mess technically," not a real technician) than a soft-hands or physical issue.
 
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]): named
+  (paired with [[Josh Palmer]]) as the single worst receiver room in the NFL,
+  even ahead of the Giants, Patriots and Cardinals — "I don't know how you can
+  have any optimism about Quentin Johnston based off his rookie season film,"
+  though not ruled out entirely ("maybe he turns it around").
+
 ## Related Concepts
 - [[Scouting Bias and Player Archetypes]]
 - [[Justin Herbert]]
 - [[Post-Rookie-Year Receiver Model]]
 - [[NFL Combine and Pro Day Skepticism]]
 - [[Dynasty]]
+- [[Josh Palmer]]

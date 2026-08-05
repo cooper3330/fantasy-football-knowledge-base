@@ -25,9 +25,14 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-19]]): pushes back on a "dynasty bros" reading that Houston's reported trade interest in [[Keenan Allen]] signals stock-down news for Collins — argues Allen would have played a different, more slot-specific role than Collins (or [[Tank Dell]]), and that adding a veteran receiver is unremarkable for a team where essentially three receivers play nearly every snap; not read as negative news for Collins's outlook.
 
+- 2024-04-04 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-04-04]]), reacting to Houston trading for [[Stefon Diggs]]: with Diggs now likely playing a slightly-diminished, more underneath/flanker role, Harmon thinks Collins — "a pure X" — could still lead the Texans in targets over Diggs, though says the target distribution among Collins, Diggs and [[Tank Dell]] "could go any which way" and calls the trio collectively the best receiver group in the NFL alongside TE [[Dalton Schultz]]. Notes some of the best plays in Houston's 2023 offense came from Collins and Dell working dagger/over-route combinations, and floats Diggs rotating in on backside curl/comeback routes off those same concepts.
+
+
 ## Related Concepts
 - [[Role Difficulty and Replaceability]]
+- [[Best Ball]]
 - [[C.J. Stroud]]
 - [[Tank Dell]]
 - [[Reception Perception Methodology]]
 - [[Keenan Allen]]
+- [[Stefon Diggs]]

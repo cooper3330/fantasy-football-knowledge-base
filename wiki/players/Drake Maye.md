@@ -28,6 +28,9 @@ tags: [player]
 
 - 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: discussing Washington's No. 2 pick, says flatly "I don't think Drake May is the best rookie fit for any team that wants to take someone in the first round" — reads Washington's best fit as [[Michael Penix Jr.]] instead, someone he sees as more accurate and better at finding the open man even if graded as less mobile/tough on paper. On New England at No. 3, floats a smokescreen scenario where the Patriots trade back rather than take Maye, preferring a more mobile pocket passer like [[Jayden Daniels]] if it means re-tooling their offense around a different quarterback archetype entirely.
 
+- 2024-03-28 — According to [[Matt Waldman]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-03-28 (Going Deep - If We Were NFL GMs)]]): qualifies his own do-not-draft list — if he's a GM whose bosses want the rookie quarterback starting this year or next, "there is no way I am putting Drake May on my draft board." Calls him "the quintessential robo quarterback" — checks every physical/pedigree box (prominent program, prolific yardage, requisite completion percentage, big frame, big arm) but is missing the harder-to-coach situational skills: pinpoint placement/accuracy, confidently and accurately processing coverage, late pre-snap/early post-snap diagnosis, sensing edge pressure specifically (distinct from handling hits, which he's fine at), and efficient pocket management — drifts outside and loses his linemen's leverage. Reiterates the Jordan Love developmental comp: can see a path to him being a good starter, but only with real bench time to get acclimated to the NFL before those weaknesses get exposed. [[Brandon Angelo]], same episode, agrees and adds the explicit contrast with [[Caleb Williams]]: Williams can carry a game's tempo and flow on day one; Maye can't yet, which Angelo calls the biggest difference between the two prospects.
+
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Scouting Bias and Player Archetypes]]
@@ -35,3 +38,5 @@ tags: [player]
 - [[Quarterback Processing and Confidence]]
 - [[Michael Penix Jr.]]
 - [[Jayden Daniels]]
+- [[Caleb Williams]]
+- [[J.J. McCarthy]]

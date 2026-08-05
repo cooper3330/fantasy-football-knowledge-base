@@ -17,5 +17,10 @@ tags: [player]
 
 - 2024-01-08 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-08]]) [Redraft (Standard)]: yes, a top-5 tight end for 2024 — argues Buffalo's offense has room for three top-15/20-caliber producers between Kincaid, [[Khalil Shakir]] and [[James Cook]]. Notes Kincaid getting more intermediate targets (20-40 yard gains) over the final weeks of 2023 after Buffalo "steadfastly refused" to throw him anything past 10 yards for the first half of the season, and says he wouldn't be surprised if Kincaid challenges [[Sam LaPorta]] for the second-year tight end production lead. Explicitly rejects the "Dawson Knox blocks Kincaid's role" framing as reducing a multi-variable offense to a single variable.
 
+- 2024-03-30 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-30]]: Kincaid's rookie season (675 yards, 73 catches, two TDs) ranked 11th all-time among rookie tight ends, just behind Rob Gronkowski's 2010 campaign — "even as disappointing as it might have been for what he could have been, he was still 11th-best all time." Waldman's diagnosis, restated: Buffalo was too conservative with Kincaid, limiting him to a checkdown/underneath role when he was "elite... as an aerial ball winner up the seam" — "there was no way I was thinking Buffalo would be that conservative." Had Kincaid been used that way, Waldman thinks he'd have joined [[Sam LaPorta]] near the top of the rookie-production list instead of settling for 11th.
+
+
 ## Related Concepts
 - [[Dynasty]]
+- [[Sam LaPorta]]
+- [[James Cook]]

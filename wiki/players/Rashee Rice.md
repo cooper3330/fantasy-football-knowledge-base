@@ -26,8 +26,11 @@ tags: [player]
 
 - 2024-03-05 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-05]]): Kansas City still sorted into the "critical need" wide receiver bucket despite Rice's play — "Rashee Rice is a great player, but they need somebody" who can play X and beat man-press coverage on the outside, which Harmon says isn't Rice's game based on his rookie-year film. Frames him as a good complementary starter who needs a true outside receiver added alongside him, not a replacement for him.
 
+- 2024-04-04 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-04-04]]), in a historical study of poor college-separation prospects who became NFL hits (offered as context for [[Keon Coleman]]'s profile): names Rice one of only five "inarguable hits" — alongside [[Amon-Ra St. Brown]], [[Cooper Kupp]], Tyler Boyd and Juju Smith-Schuster — out of 32 charted prospects who finished below the 35th percentile in two of three main Reception Perception coverage metrics (success rate vs. man/zone/press) across the last several draft classes. Notes Rice's SMU tape looked "completely different" from a vertical X receiver to an off-the-ball "layup" slot receiver once Kansas City moved him inside, and relays that Rice told Harmon at Super Bowl media night the slot plan was laid out by Andy Reid's staff as soon as he was drafted. See [[Reception Perception Methodology]].
+
 ## Related Concepts
 - [[Role Difficulty and Replaceability]]
 - [[Post-Rookie-Year Receiver Model]]
 - [[Dynasty]]
 - [[Best Ball]]
+- [[Keon Coleman]]

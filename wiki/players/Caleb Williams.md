@@ -27,8 +27,15 @@ tags: [player]
 
 - 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: reaffirms Williams and [[Michael Penix Jr.]] as "the two top quarterbacks in this class," restated while discussing Washington's plans at 1.02.
 
+- 2024-03-28 — According to [[Brandon Angelo]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-03-28 (Going Deep - If We Were NFL GMs)]]): his other "problem solver" pick alongside [[Blake Corum]] — praises his ability to "work on script even when it's off script," marrying his natural movement style with what works within structure. Contrasts 2023 tape (protection was inconsistent, forcing "Superman moments" on nearly every play) with a cleaner 2022 in a more stable offense, and says his biggest qualm is that he sometimes tries to be Superman when being "Clark Kent" would be fine — but calls him one of the most naturally gifted, flow-reading athletes in the class.
+
+- 2024-04-01 — According to [[Matt Waldman]] on *Feel It or F@#k It* ([[Feel It Or F@#k It - 2024-04-01]]), on whether Chicago can screw him up: "yes," probably, since it's true of "all these quarterbacks" — but says Williams is the one 2024 quarterback he's most confident could withstand mishandling, given how the Bears added [[Keenan Allen]] and Gerald Everett, hired Shane Waldron as OC, and moved on from Luke Getsy — reads it as the organization learning from its mistakes with [[Justin Fields]], though the real test will be in-game management and patience on the field.
+
+
 ## Related Concepts
 - [[Dynasty]]
+- [[Drake Maye]]
+- [[Blake Corum]]
 - [[Anthony Richardson]]
 - [[Michael Penix Jr.]]
 - [[Keenan Allen]]

@@ -19,7 +19,10 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-19]]): reacting to Buffalo's signing of [[Curtis Samuel]] — pushes back on the idea the two overlap, calling Shakir more of a get-the-ball-in-space YAC slot piece versus Samuel's dig/out/corner route tree, and expects Shakir could see more outside reps to let Samuel work some slot snaps as well, giving Buffalo positional flexibility it lacked before.
 
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Stefon Diggs]]
 - [[Curtis Samuel]]
+- [[James Cook]]
+- [[Dalton Kincaid]]

@@ -20,6 +20,8 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: flags his own *Fantasy Notebook* (Footballguys) research on [[Kirk Cousins]] — over 27% of Cousins's career targets have gone to the tight end, and he's "carried some tight ends to great heights" — as the case for a real Pitts rebound now that the signing is official; still "feeling" the move as a plus for Pitts.
 
+- 2024-03-30 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-30]]: restates that Pitts's rookie season ranked 4th all-time among rookie tight ends in PPR scoring, despite Atlanta trading Julio Jones and Calvin Ridley taking a leave of absence during that season — the lack of surrounding talent limited Pitts to one touchdown but didn't stop him from being the first rookie tight end since Mike Ditka to gain 1,000 yards.
+
 ## Related Concepts
 - [[Scheme vs Talent]]
 - [[Pat Freiermuth]] — the same Arthur Smith TE-usage caution, applied to his new team

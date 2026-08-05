@@ -22,6 +22,14 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-19]]), an aside while discussing free-agent [[Mike Williams]]'s meeting with Pittsburgh: calls the fit redundant with Pickens — same contested-catch, X-receiver archetype and route diet — while noting Pickens has "a little bit better separation than people give him credit for."
 
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]), ranking
+  the Steelers/Broncos/Jaguars "disaster-adjacent" tier: rates Pickens first of
+  the three "disaster-adjacent" WR1s — "if Pickens is your number one
+  receiver, I think that's fine... he's a tier above solid starting outside
+  receiver," well ahead of [[Courtland Sutton]] and [[Christian Kirk]] in that
+  grouping.
+
 ## Related Concepts
 - [[Scheme vs Talent]]
 - [[Mike Williams]]
@@ -29,3 +37,4 @@ tags: [player]
 - [[Player Development and Coachability]]
 - [[Russell Wilson]]
 - [[Courtland Sutton]]
+- [[Christian Kirk]]

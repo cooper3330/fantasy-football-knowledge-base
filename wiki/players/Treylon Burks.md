@@ -23,7 +23,10 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: in the same [[Calvin Ridley]] discussion, agrees Burks is not yet a leader of Tennessee's receiving corps.
 
+- 2024-04-04 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-04-04]]), discussing [[Keon Coleman]]'s prospect profile: revisits his own pre-draft evaluation of Burks as a big-slot-only receiver (a Juju Smith-Schuster archetype, not "the next A.J. Brown") — notes he was "lower on consensus" on Burks at the time and that being proven right is partly luck, since Tennessee miscast him at X rather than using him in the slot; the analysis could have looked equally correct with a different outcome had he landed elsewhere. Says that if healthy and given a Cincinnati-style role (DeAndre Hopkins as the X, Calvin Ridley as flanker), Burks "should" be the Titans' big slot receiver — comping the role to Tyler Boyd's in Cincinnati's offense — and would have expected him to succeed in that usage. Rates Keon Coleman a worse prospect than Burks overall.
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Dynasty]]
 - [[Calvin Ridley]]
+- [[Keon Coleman]]

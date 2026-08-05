@@ -17,7 +17,15 @@ tags: [player]
 - 2024-01-11 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-11 (Post-Rookie Model)]]) [Dynasty]: scores near the bottom of Adam Harstad's [[Post-Rookie-Year Receiver Model]], and Waldman concedes he was "overrated" pre-draft — the tape didn't show enough beyond a vertical/perimeter deep-threat role, and he's at risk of getting stuck with a Ted Ginn Jr.-style label that limits week-to-week fantasy floor. Still worth a free add off waivers; frames him as the classic [[Best Ball]] longshot who can spike a game when the matchup and play design line up, more than a weekly redraft option.
 - 2024-01-11 — **Adam Harstad** (co-host — not a tracked expert), same episode: puts Hyatt in the bottom five of the class by model score, alongside [[Quentin Johnston]], Xavier Hutchinson (unresolved ASR — see [[Matt Waldman's RSP Cast - 2024-01-11 (Post-Rookie Model)]]), [[Cedric Tillman]] and [[Tyler Scott]] — notes all five split time behind multiple starting quarterbacks as a possible confound. Historically this score range has produced almost no fantasy-relevant starters (Jordy Nelson is the outlier).
 
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]): still an
+  "incomplete grade" — Harmon says he's "not that high" on him and that his
+  rookie year was "about what I expected," profiling as a developmental
+  outside speed receiver. Floated as a clear-out/motion complement if the
+  Giants draft [[Malik Nabers]] to work the middle of the field underneath him.
+
 ## Related Concepts
 - [[Post-Rookie-Year Receiver Model]]
 - [[Dynasty]]
 - [[Best Ball]]
+- [[Malik Nabers]]

@@ -39,9 +39,17 @@ traits — and the evaluation errors that follow.
 
 - 2024-03-21 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-21]]): applied to [[Marquise Brown]]'s KC signing — "I don't want to typecast guys because of size... I don't want to assume, oh, this size, whatever, like he won't be able to do this." Notes size does show up in Brown's game in specific, measurable ways (broken down on first contact often, below-65% success rate vs. press every charted season) rather than as a blanket verdict on his ability, distinguishing a size-driven trait limitation from a size-driven archetype label.
 
+- 2024-03-28 — [[Matt Waldman]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-03-28 (Going Deep - If We Were NFL GMs)]]): applies the hyper-athletic-bust pattern to two 2024 "do not draft" receivers, [[Adonai Mitchell]] and [[Devontez Walker]] — elite testers whose lack of consistent route intent/detail is the actual risk, not their athletic grade. Historical precedent cited: Denzel Mims and Terrace Marshall Jr. (neither tracked), hyper-athletic receivers who never developed a mature enough NFL skill set. Waldman's framing: he can "go on for days" listing hyper-athletic receivers who haven't panned out for exactly this reason.
+
+- 2024-04-04 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-04-04]]): applied to [[Keon Coleman]], names Jonathan Mingo and [[Treylon Burks]] as the "glaring examples" of the risk in the "poor college separator" archetype — a coaching staff sees a big, physical ball winner and simply plugs him in outside as an X, which historically has not worked for this profile; the path to hitting requires a staff willing to move the player into the slot instead (his historical hit-rate study above formalizes this). Also makes a broader point about outcome-based "binary right/wrong" draft analysis being misleading — his lower-than-consensus pre-draft grade on Burks looked "right" in hindsight only because Tennessee played him at X; the same evaluation could have looked equally sound with Burks miscast correctly as a slot receiver and succeeding, since the underlying analysis (limited separator, needs a slot role) would have been identical either way.
+
 **Why this matters for drafting:** archetype labels leak into ADP. Where a
 player's reputation and measured profile diverge, the reputation is often what
 is priced — which is where value appears.
 
 ## Related
 - [[Aging Curves and Career Longevity]]
+- [[Reception Perception Methodology]]
+- [[Keon Coleman]]
+- [[Treylon Burks]]
+- [[Jonathan Mingo]]

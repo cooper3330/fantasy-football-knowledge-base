@@ -18,6 +18,7 @@ tags: [player]
 - 2024-01-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-22]]) [Best Ball]: still finds a role in the crowded receiver room — reads coverage well and is "pretty adept at finding open spots" in zone. No change to his position as the receiver most at risk of losing role share if Wicks keeps developing.
 - 2024-01-23 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-23]]): the clearest fourth-place ranking yet among Green Bay's four — "scrappy," doesn't have great hands and will misplay things at times, but runs good routes and is a "pretty good vertical player." Notes he had the best postseason of the four when [[Jayden Reed]], [[Dontayvion Wicks]] and [[Christian Watson]] are weighed against health/potential, going for 140 yards against Dallas — good enough to be a solid WR4 in the room, not a path to more.
 
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Best Ball]]

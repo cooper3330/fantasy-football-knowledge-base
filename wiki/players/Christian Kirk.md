@@ -25,5 +25,21 @@ tags: [player]
   despite the money spent, leaves Jacksonville's receiver room in the
   conversation for one of the worst — arguably bottom-five — in the league.
 
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]): ranked
+  between [[George Pickens]] and [[Courtland Sutton]] in the "disaster-adjacent"
+  tier, but flagged as the shakiest team situation of the three — "it is much
+  more difficult to run your offense through the slot," and Jacksonville's
+  outside options ([[Zay Jones]], [[Gabe Davis]]) are "passable" but not enough
+  to lift the passing game, so the offense is effectively forced through Kirk.
+  Notes 2023's Kirk-vs-[[Calvin Ridley]] target competition as illustrative:
+  when Ridley was healthy Kirk had big primetime games while Ridley
+  disappeared, which Harmon reads as "this offense sucks," not evidence Kirk
+  is the alpha of Jacksonville's passing game. Flags Jones's age as a real risk
+  to Kirk's supporting cast.
+
 ## Related Concepts
 - [[League Trend Cycles and Market Inefficiency]]
+- [[George Pickens]]
+- [[Courtland Sutton]]
+- [[Zay Jones]]

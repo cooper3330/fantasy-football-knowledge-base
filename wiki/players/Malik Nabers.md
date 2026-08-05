@@ -28,6 +28,21 @@ tags: [player, prospect]
 
 - 2024-03-26 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-26]]) [Dynasty]: full profile now live; still grades him tier one but keeps him third of the trio, calling him "the rawest technician" of the three — needs to sharpen leverage and route-stacking discipline against zone downfield. Plays 50.3% slot / 49.7% outside. Elite after the catch: broke tackles on 20.5% of in-space plays (highest of the last four classes; closest comps [[Garrett Wilson]] and Kadarius Toney, not a tracked page, at 19%), in space on 13.9% of routes, brought down on first contact only 48.7% of the time. Man coverage 74.4% success (78th percentile); press coverage 72.1% (72nd percentile — "fine," not a red flag). Zone coverage is the real concern: 78.6% success, only the 46th percentile, partly a function of a downfield-heavy route mix (just 11.4% slants, 3.2% flat, 3.9% screens) similar to [[Ja'Marr Chase]]'s college profile. Player comps: [[Garrett Wilson]] (Nabers is the better after-catch player; Wilson was the better zone-coverage prospect) and [[D.J. Moore]] (Moore was a poor-success-rate rookie vs. man — 52.7% — who developed roughly 10 points a year into an elite man-beater; floats Nabers as a similar "slow burn" case, though notes Moore was already slightly better than Nabers against zone as a prospect). Repeats the same dynasty landing-spot caution as [[Marvin Harrison Jr.]] and [[Rome Odunze]].
 
+- 2024-03-28 — According to [[Brandon Angelo]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-03-28 (Going Deep - If We Were NFL GMs)]]): reaffirms Nabers as his highest-graded receiver of the 2024 cycle overall, discussing the Chargers' No. 5 pick — but in a pure scheme-fit comparison against [[Rome Odunze]] for [[Justin Herbert]] specifically, says Odunze "is like a glove" as the three-level X fit Herbert has never had.
+
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]): explored as
+  the ideal Giants landing spot of the top three — called "the least
+  quarterback-proof" (not literally, but "least screwed by quarterback play")
+  because his role (get the ball in his hands quickly, work short/intermediate
+  over the middle) doesn't depend on [[Daniel Jones]] or the Giants coaching
+  staff doing much beyond scheming him easy completions; floated as
+  co-existing with [[Rome Odunze]] or [[Darius Slayton]] on the outside and
+  [[Jalen Hyatt]] as a clear-out complement in that offense. In the pure
+  explosive-play PFF-adjacent stat cited (Arjun Menon, not tracked), Nabers
+  posted 66 explosive plays (40.9% rate) over the last two years — fewer than
+  both [[Rome Odunze]] (72, 43.1%) and [[Marvin Harrison Jr.]] (68, 47.2%).
+
 ## Related Concepts
 - [[Prospect Pro-Readiness vs Ceiling]]
 - [[Pace Control and Movement Intellect]]
@@ -37,3 +52,5 @@ tags: [player, prospect]
 - [[Rome Odunze]]
 - [[Garrett Wilson]]
 - [[D.J. Moore]]
+- [[Darius Slayton]]
+- [[Jalen Hyatt]]

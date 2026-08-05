@@ -34,6 +34,8 @@ methodology.
 
 - 2024-03-19 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-19]]): puts an explicit percentile calibration on the man-coverage success-rate scores for the first time on air — any charted success rate vs. man coverage above roughly 75% pushes a receiver into "the 80th percentile," a threshold he says separates merely good charted receivers from extremely good ones. Applied live to [[Keenan Allen]] (dig/curl/slant/flat scores in the 83-93% range) and [[Curtis Samuel]] (a career-long ~75%+ success rate vs. man).
 
+- 2024-04-04 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-04-04]]): a historical validation study of the methodology itself, sparked by a Discord member (J.P. Bennett). Looking back across charted prospects from the 2016-2018 and last four draft classes (~100 total), Harmon found 32 players who finished below the 35th percentile in two of the three main coverage metrics (success rate vs. man/zone/press) in college. Of those 32, only 9 (28%) had "moments" in the league, and only 5 (15%) are "inarguable hits": [[Amon-Ra St. Brown]], [[Cooper Kupp]], [[Rashee Rice]], Tyler Boyd and Juju Smith-Schuster (neither Boyd nor Smith-Schuster tracked in this wiki). Harmon's read: RP is "pretty damn accurate" at the NFL level once charted, but its college-level signal is weaker because of the gap in competition/coaching level, and college non-separators specifically need a "big slot" role transition to hit — every one of the five hits made that move. Applied directly to [[Keon Coleman]]'s 2024 prospect profile. See [[Scouting Bias and Player Archetypes]].
+
 ## Related
 - [[Matt Harmon]]
 - [[Zone vs Man Route Running]]
@@ -44,3 +46,7 @@ methodology.
 - [[Michael Pittman Jr.]]
 - [[Keenan Allen]]
 - [[Curtis Samuel]]
+- [[Keon Coleman]]
+- [[Amon-Ra St. Brown]]
+- [[Cooper Kupp]]
+- [[Rashee Rice]]

@@ -20,7 +20,12 @@ tags: [player]
 - 2024-01-22 — According to [[Matt Waldman]] and **Bob Harris** (co-host — not a tracked expert) ([[Matt Waldman's RSP Cast - 2024-01-22]]) [Dynasty]: addressing Love's costly late interception in the Divisional Round loss to San Francisco — explicitly refuses to let one "Utah State Jordan Love" moment define him, framing it as first-year-starter growing pains under playoff pressure rather than a level regression. Cites Green Bay's confidence dating back to letting Aaron Rodgers go and GM Brian Gutekunst's June comments about trusting a young receiver corps to grow with Love as evidence the front office knew what it had. States Love was "top five" in QB production over the final month of the season, with passing numbers comparable to [[Lamar Jackson]]'s over the same span. Explicit value call: doesn't expect Love to rise into the true elite QB tier, but expects him to be a hot commodity anyway and plans to target him as a value pick — warns the industry may overcorrect off one bad closing-game play the same way it overpaid for [[Gabe Davis]] off one good game two years earlier.
 - 2024-01-23 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-23]]) [Dynasty]: reaffirms the top-10-quarterback framing after the Divisional Round loss to San Francisco — "the very Favrian interception at the end be damned," Harmon calls Love's play over the back half of the season great and says "we feel like he can be a top-10 quarterback." Credits the organization's approach of letting Love and the young receiver corps develop together rather than importing a stopgap veteran.
 
+
 ## Related Concepts
 - [[Player Development and Coachability]]
 - [[Dynasty]]
+- [[Best Ball]]
 - [[Dak Prescott]]
+- [[Christian Watson]]
+- [[Jayden Reed]]
+- [[Dontayvion Wicks]]

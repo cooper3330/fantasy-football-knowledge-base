@@ -19,6 +19,17 @@ tags: [player]
 
 - 2024-03-26 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-26]]): says Baltimore's staff still values Bateman as a starting outside receiver and doesn't expect them to use a first-round pick on a receiver as a result, though the team has shown interest in free agent Michael Gallup (not a tracked page) as complementary X depth.
 
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]): Harmon
+  ranks Baltimore's "fragile" group ahead of the Falcons and Panthers largely
+  on his own bias toward Bateman, admitting it up front — "people are going to
+  hate me for this... that's my Bateman bias." Still "the candle is lit" for
+  him as a starting outside receiver, with some rough moments to start 2023
+  but improved play as a possession receiver as the season went on. Considers
+  the receiver room (Bateman plus Zay Flowers and Nelson Agholor, not a
+  tracked page) thin on paper behind that hope.
+
 ## Related Concepts
 - [[Best Ball]]
 - [[Lamar Jackson]]
+- [[Zay Flowers]]

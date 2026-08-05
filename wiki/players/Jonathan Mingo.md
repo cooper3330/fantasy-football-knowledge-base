@@ -23,9 +23,25 @@ tags: [player]
   find him a role alongside newly added [[Diontae Johnson]] and a likely
   drafted receiver, or simply moves on from him.
 
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]): a firmly
+  negative update on his rookie-year flanker/outside usage — his 2023 film
+  playing off the ball was "as bad" as the other disaster-level rookie
+  receivers discussed in the episode, only marginally ahead of [[Quentin Johnston]]
+  and [[Marvin Mims Jr.]]. Harmon doesn't think he can consistently beat man
+  or press coverage on the outside, and argues his only functional role is the
+  "power slot" job [[Adam Thielen]] currently holds — direct disagreement with
+  a suggestion (from co-host James Koh) that Mingo could play a flanker role
+  off the ball. Ranked behind [[Adam Thielen]] as a "number two" for Carolina.
+
+- 2024-04-04 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-04-04]]), discussing [[Keon Coleman]]'s prospect profile: reiterates Mingo, like Coleman, fits the "poor college separator who needs to become a big slot receiver" archetype, but rates Coleman a better overall prospect than Mingo was a year earlier — Coleman shows more contested-catch ability and after-the-catch juice than Mingo did.
+
 ## Related Concepts
 - [[Post-Rookie-Year Receiver Model]]
 - [[Weak Quarterback Play and Receiver Value]]
 - [[Dynasty]]
 - [[Adam Thielen]]
 - [[Diontae Johnson]]
+- [[Quentin Johnston]]
+- [[Marvin Mims Jr.]]
+- [[Keon Coleman]]

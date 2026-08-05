@@ -45,6 +45,8 @@ first — see [[Matt Waldman's RSP Cast - 2023-12-21 (Pacing and Control)]].
 
 - 2023-12-21 — **Waldman**, same episode, one speculative application: Deuce Vaughn (RB, Dallas — one of the smallest backs in the league) "might have a legitimate chance to be a worthwhile player when Tony Pollard leaves next year." Offered as a possibility rather than a recommendation; no page created for him on the strength of it.
 
+- 2024-03-28 — [[Brandon Angelo]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-03-28 (Going Deep - If We Were NFL GMs)]]), applied to [[Braelon Allen]] as a "do not draft": volume-based, rhythm-based backs who need touches to get going are increasingly hard NFL fits, because the league is running out of running-back-centric offenses to feature them in. Names [[Jahmyr Gibbs]], [[Tyjae Spears]] and [[James Cook]] as the modern replacement template — smaller, dynamic backs who fit today's passing-driven offenses over a 245-lb, volume-dependent bruiser.
+
 ## Related
 - [[Pace Control and Movement Intellect]] — the cognitive/tempo half of the same argument
 - [[League Trend Cycles and Market Inefficiency]]

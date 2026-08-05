@@ -19,6 +19,8 @@ tags: [player]
 - 2024-01-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-22]]) [Best Ball]: reiterates his interest directly to Wicks on air — "I'm looking at you, young man" — as the receiver he's most focused on entering best-ball draft season, ahead of Green Bay's crowded WR room sorting itself out.
 - 2024-01-23 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-23]]) [Dynasty]: independent third-source corroboration of the buy thesis — the traits needed to be a true number-one receiver ("based on the way he ran routes this year from the outside") are present in a way Harmon explicitly says they aren't for [[Christian Watson]], making Wicks the second-best bet (behind [[Jayden Reed]]) to become Green Bay's number one. Also praised for blocking effort in the run game against San Francisco — "he was blocking his ass off."
 
+
 ## Related Concepts
 - [[Post-Rookie-Year Receiver Model]]
 - [[Dynasty]]
+- [[Best Ball]]

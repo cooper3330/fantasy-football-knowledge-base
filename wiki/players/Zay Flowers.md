@@ -18,6 +18,13 @@ tags: [player]
 - 2024-01-25 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-01-25]]): ranked #4 of the playoffs' remaining receivers, but with real long-term upside language — "this guy can really be in that superstar tier at some point," citing a double-move go-route sold and broken back to the outside against Houston as "pro-level stuff" and evidence he can win in a variety of ways, not just manufactured touches. Explicit AFC Championship matchup caution against Kansas City: a 65/35 outside/inside alignment usage runs into the Chiefs' league-best perimeter coverage (3rd-lowest completion percentage, 4th-fewest catches, 3rd-fewest yards allowed to outside receivers since Week 10) — part of the reason Harmon likes [[Lamar Jackson]] under his passing-yardage and passing-touchdown props for the game.
 - 2024-01-30 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-30]]): a rookie-arc framing after the AFC Championship loss played out as predicted — a costly goal-line fumble (reached out rather than securing the ball, drew a taunting penalty on the prior play that pushed the offense back 15 yards) turned what should have been a 115-yard/touchdown game into its "worst" possible version, and he "cut his hand open" slamming his helmet on the bench afterward. Still, Harmon calls it clear that Flowers "has star potential" and can be "a huge cog for them going forward," while noting he wasn't fully unleashed for the whole season — closer to it now than in September.
 
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]): Harmon says
+  he's "very high" on Flowers as a player, part of why he ranks Baltimore's
+  otherwise thin "fragile"-tier receiver room ahead of Atlanta's and
+  Carolina's despite little proven depth behind him and [[Rashad Bateman]].
+
 ## Related Concepts
 - [[Dynasty]]
 - [[Post-Rookie-Year Receiver Model]]
+- [[Rashad Bateman]]

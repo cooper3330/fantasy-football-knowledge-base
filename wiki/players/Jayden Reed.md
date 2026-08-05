@@ -22,6 +22,8 @@ tags: [player]
 - 2024-01-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-01-22]]) [Best Ball]: "looks like a potential difference maker," relaying a Mike Florio comp of a "Wisconsin Deebo" (Deebo Samuel) vibe to his game. Grouped again with [[Dontayvion Wicks]], [[Romeo Doubs]] and [[Christian Watson]] in a crowded Green Bay receiver room where Waldman's stated draft strategy is to take the cheapest piece rather than pay a premium for any one name.
 - 2024-01-23 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-23]]) [Dynasty]: the strongest ceiling call yet — asked directly whether Reed can grow into an [[Amon-Ra St. Brown]]-style role (primary inside receiver, powerful at the catch point, real juice after the catch), Harmon says yes: "quite crispy" as a route runner, with legitimate man-coverage-beating ability that graded out in college and in his Reception Perception rookie profile. Wants to see him used outside more rather than pigeonholed into rub-route/schemed-open looks. Calls him the receiver with the best odds of the group to become Green Bay's true number one, with [[Dontayvion Wicks]] the only other real candidate.
 
+
 ## Related Concepts
 - [[Zone vs Man Route Running]]
 - [[Post-Rookie-Year Receiver Model]]
+- [[Best Ball]]

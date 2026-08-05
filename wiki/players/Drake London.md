@@ -25,9 +25,20 @@ tags: [player]
 
 - 2024-03-21 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-21]]): building on the YouTube route-tree breakdown, notes London's 2023 route tree skewed less over-the-middle than it should have in [[Scheme vs Talent|Arthur Smith's]] offense, with his curl-route rate jumping sharply from year one to year two because he was used almost exclusively as an X receiver. Calls him one of the best young pure X-receivers in the league but also someone who can move to slot/flanker in a [[Michael Pittman Jr.]]-type off-ball role. Because of that X-heavy usage, argues Atlanta still needs another true outside receiver even after adding [[Darnell Mooney]] and [[Rondale Moore]], since neither profiles as a real X — Mooney is "a 3" and Moore is "a pure gadget player." See [[Scheme vs Talent]].
 
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]): named the
+  best current player in Atlanta's "fragile" receiver group. In a hypothetical
+  long-term comparison against [[Rome Odunze]] as a rookie, the hosts say "we
+  love Drake London" and he's been exactly the player his prospect profile
+  promised — but still give Odunze the edge as a prospect and, projecting
+  forward, as the better long-term player, largely on downfield explosive-play
+  ability. Also floated in an "all in" Falcons scenario if Atlanta used a
+  premium pick on Odunze to pair with London and [[Kirk Cousins]].
+
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Dynasty]]
 - [[Reception Perception Methodology]]
 - [[Weak Quarterback Play and Receiver Value]]
 - [[Kirk Cousins]]
+- [[Rome Odunze]]

@@ -26,6 +26,8 @@ the entertainment value of the events, which he doesn't dispute.
 - 2024-03-04 — According to [[Matt Waldman]] and **Bob Harris** (co-host — not a tracked expert) ([[Matt Waldman's RSP Cast - 2024-03-04]]), *Feel It or F**k It*: both "feel it" on prospects skipping combine drills — most drills "teach to the test" rather than reflect real football skill (the broad jump and gauntlet drill singled out as low football-specificity examples), and endorse [[Marvin Harrison Jr.]]'s stated reasoning for opting out. Also reads [[Caleb Williams]] withholding his medicals from the ~31 teams that won't draft him as a rational use of increased pre-draft player leverage, not an evasion — "he's made a lot of money playing college football... he doesn't necessarily need to play the game."
 - 2024-03-04 — According to [[Matt Waldman]], same episode: extends the skepticism to workout numbers that come in *faster* than tape projected, using several 2024 RB prospects as examples — [[Ray Davis]]'s 4.52 fell right inside the 4.5–4.55 range Waldman had already projected for him; [[Trey Benson]] and [[Kimani Vidal]] (whom Waldman has as a top-10 RB) both surprised him; Isaac Guerendo's time "surprised pretty much everybody." Lays out his process for handling an outlier time: don't automatically bump a player's tier off the stopwatch alone — go back to the tape looking for plays where that speed actually shows up decisively, and separately check whether a player who looks slow on tape despite a fast time is a slow decision-maker rather than a slow athlete. Rejects moving a player up a tier without being able to point to specific evidence — "it's kind of like giving an employee a promotion because he wore a nice tie."
 
+- 2024-04-04 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-04-04]]): flags a "weird reckoning" between GPS-tracked in-game/drill speed and traditional stopwatch 40 times, using [[Keon Coleman]] as the live example — he ran a slow 4.61 40 at his pro day but was reportedly the fastest receiver through the combine's GPS-timed gauntlet drill. Notes the same split showed up with [[Puka Nacua]] (fast GPS speed, slower 40) and [[Cooper Kupp]] (a slow Senior Bowl 40 paired with a high GPS top speed) — "it's two very different things... being fast doing wide receiver things" versus "running a track drill." Adds that there's no public database for GPS/tracking speed the way there is for 40 times, which makes it hard for outside analysts to weigh consistently.
+
 ## Related
 - [[Prospect Pro-Readiness vs Ceiling]]
 - [[Quarterback Processing and Confidence]]
@@ -35,3 +37,6 @@ the entertainment value of the events, which he doesn't dispute.
 - [[Deshaun Fenwick]]
 - [[Blake Watson]]
 - [[Quentin Johnston]]
+- [[Keon Coleman]]
+- [[Cooper Kupp]]
+- [[Puka Nacua]]

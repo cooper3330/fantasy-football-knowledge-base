@@ -48,6 +48,8 @@ non-elite-athlete producers keep outperforming their measurables, and — via th
 profile is boom/bust. It is also the trait Waldman uses to separate rookie
 receivers, so it feeds [[Dynasty]] rookie evaluation directly.
 
+- 2024-03-28 — [[Brandon Angelo]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-03-28 (Going Deep - If We Were NFL GMs)]]): restates the framework under the label "problem solver" — how a player dictates, orients, understands and reacts to the moving picture in front of him, and how well he can articulate/predict what's likely to happen and adjust in real time. Applies it to [[Blake Corum]] and [[Caleb Williams]] as the episode's two clearest examples, contrasted with [[Trey Benson]] as a good player who is not a problem solver ("I see managers run" — Benson's own description of his style). [[Matt Waldman]], same episode, extends the framework to [[Jonathan Brooks]]: elite processors "dictate the chain of movements" they want and have a quick counter when something disrupts that chain, rather than purely reacting.
+
 ## Related
 - [[Running Back Size and Movement Skills]] — the physical/size half of the same argument
 - [[Zone vs Man Route Running]]

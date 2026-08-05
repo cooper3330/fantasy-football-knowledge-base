@@ -20,7 +20,13 @@ tags: [player]
 - 2024-01-18 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-18]]): heading into the Divisional Round at Baltimore, both hosts say it's "easy" to place Stroud in a top-5 NFL quarterback tier alongside Burrow, Herbert and Stafford — Burrow excepted only for having a longer proof-of-concept track record. Notes Baltimore's defense, while excellent, has had a soft schedule of opposing quarterbacks all season (Trevor Lawrence, Joshua Dobbs, Geno Smith), tempering how much to read into its per-game numbers ahead of the Stroud test. Also flags Houston's diminished receiver room behind [[Nico Collins]] — [[Tank Dell]] and [[Noah Brown]] both out, [[Xavier Hutchinson]] barely used — as the live variable for how much production Stroud can generate against a much better defense than Cleveland's.
 - 2024-01-23 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-23]]): the predicted matchup problem materialized — Stroud "kind of sort of looked like a rookie," confused at times and unable to connect once Baltimore took [[Nico Collins]] away, with no counterpunch from the rest of the receiver room. Framed as a structural mismatch rather than a talent verdict: Baltimore's disguised, mixed-coverage scheme (heavy cover-6 usage) is "uniquely positioned" to give any young quarterback trouble, "even one of the all-time great rookie quarterbacks" — the first real statistical bad game logged on Stroud's page, alongside otherwise-unchanged top-5 praise.
 
+- 2024-04-04 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-04-04]]), on Houston's trade for [[Stefon Diggs]]: calls the resulting receiver trio ([[Nico Collins]], [[Tank Dell]], Diggs) an "embarrassment of riches" and arguably the best in the NFL alongside [[Dalton Schultz]] at tight end, entering Stroud's second year on his rookie contract. Reaffirms that everything from Stroud's rookie season showed he could join the sport's elite QB tier, though notes he's still "not better than Josh Allen right now."
+
+
 ## Related Concepts
 - [[Jared Goff]]
+- [[Best Ball]]
 - [[Nico Collins]]
 - [[Scheme vs Talent]]
+- [[Stefon Diggs]]
+- [[Tank Dell]]

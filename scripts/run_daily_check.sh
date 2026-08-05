@@ -21,6 +21,16 @@ PY="/usr/bin/python3"
 # so this is NOT the batching that CLAUDE.md forbids -- see the loop below.
 INGEST_PER_RUN="${INGEST_PER_RUN:-3}"
 
+# Pinned, not the `sonnet` alias: the alias tracks whatever the latest Sonnet is,
+# so a model release would silently change ingest cost and output shape mid-
+# backlog. Bump this deliberately.
+INGEST_MODEL="${INGEST_MODEL:-claude-sonnet-5}"
+
+# Extraction against a schema this explicit is not a reasoning-heavy task -- the
+# prompt already names the steps. Effort buys thinking tokens, which are output
+# tokens at 5x base input, and they compound: every turn re-reads them.
+INGEST_EFFORT="${INGEST_EFFORT:-medium}"
+
 # Per-episode wall-clock ceiling, seconds. Episodes run ~10-20 min; an hour
 # means something is wrong, not slow.
 EPISODE_TIMEOUT="${EPISODE_TIMEOUT:-3600}"
@@ -73,6 +83,45 @@ print(eps[0].get('guid', '') if eps else '')
 " 2>/dev/null
 }
 
+# Detect a partial write: state.json still calls this episode `fetched`, but the
+# wiki already carries content from it. A failed agent is rarely a no-op -- it
+# typically dies AFTER writing bullets to 10-40 pages and BEFORE setting the
+# status, so re-ingesting appends every one of those bullets a second time.
+#
+# Checked BEFORE each episode, not only after a failure. Stopping the failed run
+# was never the fix: the damage is done by the NEXT run, and unattended there is
+# nobody reading the last one's log.
+#
+# Do NOT gate this on "no source page exists" -- that was the original bug. An
+# agent that got far enough to write its source page and then died still leaves a
+# partial write, and the source page made it look finished. If state says
+# `fetched`, NOTHING in wiki/ should reference the episode.
+partial_write() {
+  local guid="$1" pdate src touched
+  # Only meaningful for an episode state still calls `fetched`. Content in the
+  # wiki for an `ingested` episode is the expected outcome, not damage -- assert
+  # that here rather than relying on the caller only ever passing the queue head.
+  pdate="$($PY -c "
+import json, pathlib
+s = json.loads(pathlib.Path('scripts/state.json').read_text())
+e = s['episodes'].get('''$guid''') or {}
+print(e.get('pub_date') or '' if e.get('status') == 'fetched' else '')
+" 2>/dev/null)"
+  [ -z "$pdate" ] && return 1
+  src="$(grep -rl -- "$guid" wiki/sources/ 2>/dev/null | wc -l | tr -d ' ')"
+  touched="$(grep -rl -- "$pdate" wiki/players wiki/concepts wiki/formats wiki/experts 2>/dev/null | wc -l | tr -d ' ')"
+  if [ "${src:-0}" -gt 0 ] || [ "${touched:-0}" -gt 0 ]; then
+    echo "!!! PARTIAL WRITE for $guid ($pdate):"
+    echo "!!!   $src source page(s) carry the guid; $touched page(s) cite the date."
+    echo "!!! state.json still says 'fetched', so re-ingesting WILL duplicate them."
+    echo "!!! Roll back that episode's writes before retrying."
+    echo "!!! (Another show publishing on $pdate can make the date count a false"
+    echo "!!!  positive; the guid count is unambiguous.)"
+    return 0
+  fi
+  return 1
+}
+
 QUEUE="$(queue_depth)"
 if [ "${QUEUE:-0}" -eq 0 ]; then
   echo "=== $TS: nothing awaiting ingestion, skipping ===" >> "$LOG_DIR/daily.log"
@@ -86,6 +135,11 @@ fi
     BEFORE_GUID="$(next_guid)"
     if [ -z "$BEFORE_GUID" ]; then
       echo "--- queue empty after $((i - 1)) episode(s); stopping ---"
+      break
+    fi
+
+    if partial_write "$BEFORE_GUID"; then
+      echo "!!! refusing to start episode $i -- clean up the partial write first !!!"
       break
     fi
 
@@ -108,15 +162,16 @@ fi
     # (browsers, computer-use, mail, calendar) before doing any work, and
     # re-reads that constant every turn.
     #
-    # --model sonnet is the single biggest cost lever in the pipeline; see
-    # CLAUDE.md "Model and batch size (cost)".
+    # --model is the single biggest cost lever in the pipeline; see CLAUDE.md
+    # "Model and batch size (cost)". --effort is the second.
     # Watchdog. macOS ships no `timeout`, and an unattended run has nobody to
     # notice a hang -- an un-allow-listed Bash call waits on a permission
     # prompt that will never come. Without this the job blocks indefinitely
     # and the next day's run finds it still holding the queue.
     "$CLAUDE_BIN" -p "$PROMPT" \
       --agent ingest \
-      --model sonnet \
+      --model "$INGEST_MODEL" \
+      --effort "$INGEST_EFFORT" \
       --output-format text &
     CPID=$!
     # Polls rather than one long `sleep`, and exits on its own the moment
@@ -149,27 +204,7 @@ fi
     # one poison episode, repeatedly, unattended. Bail instead.
     if [ "$(next_guid)" = "$BEFORE_GUID" ]; then
       echo "!!! queue head unchanged after episode $i (claude rc=$RC) -- stopping run !!!"
-      # A failed agent is rarely a no-op. It typically dies AFTER writing
-      # bullets to 10-40 player pages and BEFORE creating its source page,
-      # catalog row, index lines and log entry -- so the wiki holds takes from
-      # an episode that state.json still calls `fetched`. Re-running then
-      # appends every one of those bullets a second time.
-      #
-      # Detect it: bullets dated to this episode, but no source page for it.
-      EP_DATE="$($PY -c "
-import json, pathlib
-s = json.loads(pathlib.Path('scripts/state.json').read_text())
-print((s['episodes'].get('''$BEFORE_GUID''') or {}).get('pub_date') or '')
-" 2>/dev/null)"
-      if [ -n "$EP_DATE" ]; then
-        TOUCHED="$(grep -rl -- "$EP_DATE" wiki/players wiki/concepts wiki/formats 2>/dev/null | wc -l | tr -d ' ')"
-        HAS_SRC="$(ls wiki/sources/ 2>/dev/null | grep -c -- "$EP_DATE")"
-        if [ "${TOUCHED:-0}" -gt 0 ] && [ "${HAS_SRC:-0}" -eq 0 ]; then
-          echo "!!! PARTIAL WRITE: $TOUCHED page(s) already carry $EP_DATE takes but no"
-          echo "!!! source page exists. Re-running WILL duplicate them. Remove those"
-          echo "!!! bullets (and any pages created solely by this episode) first."
-        fi
-      fi
+      partial_write "$BEFORE_GUID" || true
       break
     fi
   done

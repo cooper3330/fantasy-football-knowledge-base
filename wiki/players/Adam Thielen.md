@@ -22,6 +22,17 @@ tags: [player]
   may hinge on whether the coaching staff tries to develop [[Jonathan Mingo]]
   into the "power slot" role Thielen currently occupies.
 
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]): a more
+  skeptical read than a straight endorsement — much of his 2023 production is
+  characterized as "empty calorie production," and age is flagged as a factor
+  working against him. Even so, Harmon argues that of Carolina's supporting
+  cast Thielen is still "the best number two" ahead of [[Jonathan Mingo]], and
+  that pairing him with newly acquired [[Diontae Johnson]] is what turns
+  Carolina's receiver room from an outright disaster into "an actual
+  functional NFL unit." Floated as a fringe trade candidate the team likely
+  couldn't get more than a sixth-round pick for.
+
 ## Related Concepts
 - [[Scouting Bias and Player Archetypes]]
 - [[Aging Curves and Career Longevity]]

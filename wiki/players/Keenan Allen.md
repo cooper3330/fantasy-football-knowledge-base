@@ -23,6 +23,15 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-19]]), reacting to the finalized trade to Chicago: Harmon's charted read pushes back a bit on the "best season" framing — Allen posted career highs in receptions and yards (150 targets, 108 catches, ~1,250 yards, 7 TDs in 13 games), but Harmon reads him as "clearly not the same player he used to be," just still very productive in a narrower role. 61.4% of his 2023 routes were dig/curl/slant/screen/flat "layup" routes, where he graded elite (87.3% success on the slant, 83.3% on the curl, 93.1% on the flat). Overall success rate vs. man fell to 71.9% (bounced back from an injury-marred 66.9%, but still well off his 2015-2020 career peak of 76.6-77.6%); success rate vs. zone remains strong at 80%. He played off the line (backfield/slot usage) on a career-high 72.5% of snaps. Harmon's framing: not a decline so much as the Chargers deliberately shifting his role to fit his age-32 physical profile — still a "textbook, teach-tape" route runner other receivers study, but no longer explosive enough to win downfield regularly, making him the "epitome of the quarterback-friendly archetype." Calls the pairing with [[D.J. Moore]] in Chicago an excellent complementary fit: Moore as the vertical/man-beating outside "high read," Allen as the reliable underneath "low read" — a duo Harmon says he can't recall a rookie quarterback (Caleb Williams presumed) getting paired with before. Also relays that Allen said publicly the Jets and Texans were also in trade talks.
 
+- 2024-03-28 — According to [[Matt Harmon]] and James Koh (co-host — not a
+  tracked expert) ([[Reception Perception The Show - 2024-03-28]]): disagreement
+  between the hosts over a rookie [[Caleb Williams]]'s target distribution if
+  Chicago adds a receiver at 9 — Koh bets Allen leads the team in targets over
+  the first six games given his ability to win underneath; Harmon flatly
+  disagrees, "there's no scenario where Keenan Allen gets more targets than
+  [[D.J. Moore]]," and reads a Koh-favored outcome as more likely to mean the
+  offense itself is struggling, not that Allen is thriving.
+
 ## Related Concepts
 - [[Zone vs Man Route Running]]
 - [[Best Ball]]

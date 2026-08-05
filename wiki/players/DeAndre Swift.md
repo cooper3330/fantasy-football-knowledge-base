@@ -30,7 +30,10 @@ tags: [player]
 
 - 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]]: used as the reference point for grading [[Kimani Vidal]] — again calls Swift "scheme-based," a player perceived by his production as an every-down, borderline-elite back but not actually the same thing between the tackles that he is in space; places Swift as "the mid-rent place" on a spectrum topped by Maurice Jones-Drew and Ahmad Bradshaw.
 
+- 2024-03-28 — According to [[Matt Waldman]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-03-28 (Going Deep - If We Were NFL GMs)]]): repeats his standing critique using rookie [[Kimani Vidal]] as the foil — most fantasy GMs equate Swift with his box-score production rather than seeing a scheme-and-circumstance-dependent player with real flaws who needs a constricted set of favorable conditions to produce; when those conditions are met he can post strong numbers with strong talent around him, but "he's not a complete running back."
+
 ## Related Concepts
+- [[Kimani Vidal]]
 - [[Khalil Herbert]]
 - [[Roschon Johnson]]
 - [[Caleb Williams]]

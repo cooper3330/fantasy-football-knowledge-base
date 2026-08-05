@@ -22,7 +22,11 @@ tags: [player, prospect]
 
 - 2024-03-25 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-25]] [Dynasty]: extends the [[DeAndre Swift]] comparison from 2024-03-23 with a real-estate analogy — Vidal is "essentially what people see when they look at DeAndre Swift but are wrong about," at a smaller school with likely low draft capital who'll have to prove himself more. Ranks the archetype's ceiling as Maurice Jones-Drew ("prime real estate"), Ahmad Bradshaw next, DeAndre Swift as "the mid-rent place," and places Vidal's likely outcome somewhere between Ahmad Bradshaw and Swift.
 
+- 2024-03-28 — According to [[Matt Waldman]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-03-28 (Going Deep - If We Were NFL GMs)]]): extends the [[DeAndre Swift]] comp again — most fantasy GMs equate Swift with pure production rather than seeing him as a scheme-and-circumstance-dependent player with real flaws, and what they're "deludedly" projecting onto Swift is actually a more accurate description of Vidal, who has better decision-making, more versatility, better acceleration, tackle-breaking and pass-pro skills, and needs work only as a receiver. Swift's edge over Vidal for now is draft capital, not talent. [[Brandon Angelo]], same episode: rates Vidal highly among this class's backs for playing an efficient brand of football — one of few in the class with high-end reps you have to rewind — more efficient than dynamic compared to sexier runners like [[Marshawn Lloyd]] and [[Trey Benson]], who Angelo says could reach Vidal's current level in a few years if they develop. Notes the market gap: Lloyd likely gets drafted round two, Vidal pushed to round five or six, purely on draft-capital perception rather than tape.
+
 ## Related Concepts
 - [[Dynasty]]
 - [[NFL Combine and Pro Day Skepticism]]
 - [[DeAndre Swift]]
+- [[Marshawn Lloyd]]
+- [[Trey Benson]]

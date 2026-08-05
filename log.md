@@ -882,3 +882,21 @@ fixed all 5 referring pages plus both index lines; recorded the garble as an
 alias so it resolves instead of being recreated. Removed the partial write left
 by the session-limit failure on the 2024-03-19 RSP episode (7 orphan pages, 35
 bullets) before re-ingesting it cleanly.
+
+## [2024-03-28] ingest | Matt Waldman's RSP Cast — Going Deep with Brandon Angelo and Matt Waldman: If We Were NFL GMs…
+GM-exercise episode: do-not-draft calls on Adonai Mitchell, Devontez Walker, Braelon Allen, Drake Maye; high-floor picks Malik Washington, Jermaine Burton, Dylan Laube, Blake Watson, Luke McCaffrey, Dillon Johnson, Ben Sinnott; flag picks Javon Baker (Angelo) and Keon Coleman (Waldman); problem-solver picks Blake Corum, Jonathan Brooks, Caleb Williams. Extended Pace Control/Problem Solver and Prospect Pro-Readiness frameworks.
+
+## [2024-03-28] ingest | Reception Perception: The Show — The Worst Wide Receiver Depth Charts Out There
+Ranked NFL's worst WR rooms (Giants/Chargers/Patriots/Cardinals disaster tier; Chargers named single worst). New pages: Greg Dortch, Darius Slayton, Zay Jones, Josh Palmer, Allen Lazard. Harmon wobbles back toward Marvin Harrison Jr. as class WR1 for Arizona fit, two days after leaning Odunze; Odunze/Harrison/Nabers explosive-play stats compared. Harmon/Koh disagree on Keenan Allen vs. D.J. Moore target share in a hypothetical Bears rookie-QB offense.
+
+## [2024-03-30] ingest | Matt Waldman's RSP Cast — 2024 RSP TE A-Z Solo Cast
+Solo TE class sweep (22 prospects). 16 new prospect pages created (A.J. Barner, A.J. Stogner, Baylor Cupp, Cade Stover, Dallin Holker, Devin Culp, Eric All, Isaac Rex, Jaheim Bell, Jared Wiley, McCallan Castles, Tanner McLaughlin, Theo Johnson, Tip Reiman, Trey Knox, Zach Hines). Brock Bowers and Cade Stover named the class's most pro-ready TEs; Ben Sinnott upgraded relative to Michael Mayer hype. Updated historical rookie-TE production context on Sam LaPorta, Dalton Kincaid, Kyle Pitts (Ditka's 1961 record still stands, LaPorta came within 0.3 pts). Names normalized: Shaheen Bell to Jaheim Bell, Kate Stover to Cade Stover, McAllen Castles to McCallan Castles, Train Knocks to Trey Knox, Tip Rehman/Ryman to Tip Reiman.
+
+## [2024-04-01] ingest | Matt Waldman's RSP Cast (Feel It or F**k It) — Feel It Or F@#k It: 4.1.24
+RSP release-day rapid-fire episode; no headline reversals — reinforces existing pre-draft reads on Brock Bowers (1.5-PPR top-3 pick, chance at Ditka's rookie TE record), Blake Corum (safest RB, scheme-versatile), J.J. McCarthy (red-zone/backed-up decision-making flaw), Michael Penix Jr. (top-tier talent, injury/runway risk), Ricky Pearsall vs. Ladd McConkey (Pearsall graded slightly ahead), Marshawn Lloyd, Ray Davis, Bucky Irving, Blake Watson, Tip Reiman, Cade Stover, Caleb Williams.
+
+## [2024-04-02] ingest | Reception Perception: The Show — Brian Thomas Jr. & Ladd McConkey Profiles
+Harmon's finished full-sample profiles supersede early 2024-02-01 reads: Brian Thomas Jr. graded a clear tier-two prospect (WR4), median outcome a "faster Tee Higgins" vertical WR2, not a lock true WR1. Ladd McConkey confirmed as a flanker (not slot) with elite zone/out-route grades but weak vs press; Harmon rates him roughly equal to Thomas overall.
+
+## [2024-04-04] ingest | Reception Perception: The Show — Stefon Diggs is a Texan & Keon Coleman Breakdown
+Diggs traded BUF->HOU; Harmon's charting shows real downfield-separation decline (not injury-driven), diminished underneath role behind Collins/Dell. New page Josh Allen. Tank Dell durability risk flagged. Full Keon Coleman breakdown: bad man-coverage charting, Day 2 not Rd 1 grade; new historical study added to Reception Perception Methodology / Scouting Bias and Player Archetypes; GPS-vs-40 note added to NFL Combine and Pro Day Skepticism.
