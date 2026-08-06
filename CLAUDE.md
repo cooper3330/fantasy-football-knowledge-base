@@ -160,6 +160,39 @@ Triggered when transcripts sit in `raw/transcripts/` with status `fetched` in
 filename gives the correct order. See rule 4 — this is what makes the
 chronological invariant hold.
 
+### Two phases: extract, then apply
+
+**The agent does not write the wiki.** It reads one transcript and emits one JSON
+plan; `scripts/apply_ingest.py` applies it for zero tokens. See
+`docs/ingest-v2-plan.md`.
+
+```bash
+PLAN=scripts/logs/plans/ep.json
+python3 scripts/ingest_manifest.py --count 1 --mode extract --plan-out "$PLAN"
+# ... run the agent on that prompt ...
+python3 scripts/apply_ingest.py "$PLAN"
+```
+
+Why: measured across 12 legacy agents, **output tokens were 47.6% of cost at 4.5%
+of volume** — the agent burned ~4,134 reasoning tokens per turn across 66 turns,
+re-reasoning over a context that grew with every page it opened. But the write
+half is mechanical. Where a bullet goes is a function of its date; a new page is a
+filled template; the catalog row and log header derive from the episode. Moving
+all of that into code took a run from 66 turns to 5 and 2.88M cost units to ~346k.
+
+What this buys beyond cost: the applier **stamps the bullet date from
+`state.json`**, so rule 4 is no longer something an agent can get wrong, and it
+**validates the whole plan before writing anything**, so a bad plan leaves the
+vault byte-identical instead of half-ingested.
+
+Depth is a stated requirement in the prompt, not an accident. Early extract runs
+produced bullets at ~0.6× legacy length; since the wiki's value is showing how a
+view moved over time, that was corrected and measured back to 1.09× legacy content
+volume. If you change that prompt, re-run the A/B before trusting it.
+
+`INGEST_MODE=legacy` restores the old one-agent-writes-everything path. It is a
+fallback, not a supported second way of working.
+
 ### Delegate to subagents — one transcript per agent
 
 A transcript is 10–20k words and ingestion touches 10–15 pages. Doing several
@@ -251,8 +284,10 @@ Measured from agent transcripts (`cache_read + cache_creation + output`):
 Batching cost **1.8× per episode**. Saving 3k of fixed overhead by spending
 ~12M on carried context is a bad trade by four orders of magnitude.
 
-- **Spawn with `subagent_type: "ingest"`** (`.claude/agents/ingest.md`), which
-  restricts the agent to Read, Write, Edit and Bash. An unrestricted agent
+- **Spawn with `subagent_type: "extract"`** (`.claude/agents/extract.md`), which
+  restricts the agent to **Read and Write only** — it cannot write the wiki even
+  by accident, because `apply_ingest.py` does that. (`ingest` is the legacy agent,
+  restricted to Read/Write/Edit/Bash.) An unrestricted agent
   starts at ~44.6k tokens of context before it does any work — only ~2.8k of
   that is the prompt; the rest is the system prompt plus tool schemas for
   browsers, computer-use, mail, calendar and simulators that an ingest agent

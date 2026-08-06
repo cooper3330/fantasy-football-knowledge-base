@@ -35,9 +35,12 @@ INGEST_EFFORT="${INGEST_EFFORT:-medium}"
 # extract: the agent emits a JSON plan (phase A) and apply_ingest.py writes it
 # for zero tokens (phase B). See docs/ingest-v2-plan.md.
 #
-# Default stays `legacy` until extract is validated on real episodes; flipping
-# back is one env var, which is the point of keeping both paths alive.
-INGEST_MODE="${INGEST_MODE:-legacy}"
+# Validated 2026-08-05 over 4 applied episodes plus a 2-episode A/B against
+# legacy on identical transcripts: 5 turns and ~346k cost units per episode
+# against a 2.88M legacy baseline (88% lower), at 1.09x legacy content volume.
+# `legacy` is kept as a one-env-var fallback, not because it is expected to be
+# needed.
+INGEST_MODE="${INGEST_MODE:-extract}"
 PLAN_DIR="${PLAN_DIR:-scripts/logs/plans}"
 mkdir -p "$PLAN_DIR"
 

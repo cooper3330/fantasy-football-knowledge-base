@@ -1,6 +1,6 @@
 # Ingest v2 — extract once, apply mechanically
 
-Status: **implementing** (started 2026-08-05)
+Status: **shipped and default** (2026-08-05). Measured result at the bottom.
 
 ## Why
 
@@ -171,3 +171,39 @@ python3 scripts/agent_cost.py --headless --since 2026-08-05
 
 Success is cost per episode materially under 2.88M with `lint_frontmatter.py` and
 `verify_integrity.py` clean and no drop in bullets-per-episode or pages-touched.
+
+## Result (2026-08-05)
+
+Four episodes applied end-to-end, plus a two-episode A/B that ran extract over
+transcripts legacy had already ingested and compared plans without applying them.
+
+| | legacy | extract |
+|---|---:|---:|
+| turns/episode | 66 | **5** |
+| cost units/episode | 2,880k | **346k** |
+| output tokens/episode | 274k | 46k |
+| tool calls | ~63 | 2 (one Read, one Write) |
+| wall clock | ~5 min | ~100 s |
+
+**88% cheaper.** Across the remaining 345 episodes that is ~119M cost units
+instead of ~994M.
+
+Two things the projection got wrong, both found by measuring rather than assuming:
+
+- **Coverage was never the problem; depth was.** The first four episodes averaged
+  10 bullets against legacy's 21, which looked like a serious regression. The A/B
+  on identical transcripts showed page coverage at 0.84× and 1.00× — the gap was
+  episode content. What was real was bullet *length*, at 0.58–0.67× of legacy,
+  i.e. ~0.57× content volume. Stating depth as a requirement in the prompt brought
+  that to **1.09×**, at the cost of raising cost/episode from ~198k to ~346k.
+  Worth it: this wiki's value is showing how a view moved over time.
+- **A rejected plan is cheap and clean, but avoidable rejections are not free.**
+  One plan was rejected for omitting frontmatter on a page the agent assumed
+  existed. Nothing was written and the tree stayed clean — but the prompt had told
+  it to omit frontmatter for known pages, turning a safe default into a guess.
+  Now it always supplies it.
+
+Also fixed along the way: agents naming a source page after the show verbatim
+("Reception Perception: The Show") produced a filename macOS renders with a slash
+and that diverged from existing pages for the same show. The applier now strips
+filename-hostile characters and rewrites the citations in the same pass.

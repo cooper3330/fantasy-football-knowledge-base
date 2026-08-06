@@ -927,3 +927,10 @@ Pre-draft speculation episode: added landing-spot and current best-ball/dynasty 
 
 ## [2024-04-23] ingest | Matt Waldman's RSP Cast — Caleb Williams, Brock Purdy, and Anthony Richardson – QB Therapy with Will Hewlett
 Trainer Will Hewlett (guest, untracked) gave detailed pre-draft evaluations elevating Caleb Williams (unmatched velocity variance and T-spine rotation, 'as pro-ready as anyone I've worked with') and Anthony Richardson ('favorite QB since Mahomes,' worth #1 overall on traits); Waldman pushed back on the 'raw' Richardson label and revisited Drew Lock's coachability struggles as a cautionary scouting lesson.
+
+## [2026-08-05] refactor | ingest v2 — extract then apply
+Ingest split into an LLM extraction phase emitting one JSON plan and a
+mechanical applier (scripts/apply_ingest.py). 66 turns -> 5, 2.88M -> 346k cost
+units per episode (88% lower), at 1.09x legacy content volume measured by A/B on
+identical transcripts. Bullet dates are now stamped by the applier from
+state.json, so rule 4 cannot be violated by an agent. See docs/ingest-v2-plan.md.
