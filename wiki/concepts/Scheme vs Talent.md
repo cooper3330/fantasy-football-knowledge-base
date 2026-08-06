@@ -71,6 +71,7 @@ price into a player when he changes teams, or when his coordinator does.
 
 - 2024-04-11 — According to [[Matt Harmon]] on *Reception Perception: The Show* ([[Reception Perception The Show - 2024-04-11]]): argues Texas's 2023 offense actively suppressed [[Adonai Mitchell]]'s production profile — shaky quarterback play, layered RPOs and half-field reads left him with clips of well-run, open routes that were simply never thrown to, which Harmon says he has saved specifically to break down on video. Frames the fix as scheme/quarterback-dependent rather than talent-dependent: names Kansas City or Buffalo as ideal landing spots because an aggressive, patient quarterback (Patrick Mahomes or Josh Allen) is the type of passer who would actually reward Mitchell's downfield route-winning on tape.
 - 2024-05-02 — According to Brandon Angelo ([[Matt Waldman's RSP Cast - 2024-05-02]]): Angelo said he weighs NFL draft capital differently by position — largely discounting it at quarterback (he estimates the position's draft-capital hit rate around only 33%) and weighing it heaviest at running back, where a first-round-ish pick typically signals a real year-one workload share; at wide receiver he weighs it least because, per scouts he's spoken with, WR value varies most by team need. Separately, both hosts framed 'infrastructure' — offensive line, weapons around a rookie, ownership stability, and a GM willing to invest — as a top-down evaluation layer as important as the player himself, contrasting [[Caleb Williams]]'s well-resourced Bears landing spot with the dysfunctional 2023 Panthers situation (no blocking, no run game, no receivers, ownership interference) [[Bryce Young]] inherited as the range of outcomes the same draft slot can produce.
+- 2024-05-20 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-05-20]]): gap-scheme running back projections hinge on the offensive line's football IQ, not just backfield talent — he cautioned that both [[Antonio Gibson]] in New England and [[Tyrone Tracy Jr.]] with the Giants need "smart, versatile, mobile" blockers to make gap runs work, and questioned whether either line qualifies yet. He made the same scheme-inflation point about receiving stats: Gibson's college receiving numbers were built in a zone-heavy Memphis scheme, not against man coverage in a true slot role, so they overstate his NFL receiving translation.
 
 ## Related
 - [[League Trend Cycles and Market Inefficiency]]
@@ -80,3 +81,5 @@ price into a player when he changes teams, or when his coordinator does.
 - [[Scouting Bias and Player Archetypes]]
 - [[Caleb Williams]]
 - [[Bryce Young]]
+- [[Antonio Gibson]]
+- [[Tyrone Tracy Jr.]]

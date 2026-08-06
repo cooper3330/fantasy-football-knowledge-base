@@ -26,6 +26,7 @@ tags: [player]
 
 
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: with Dell going late third/early fourth round in early best balls, calls him the best value and cheapest of the Houston WR trio (with [[Nico Collins]] and [[Stefon Diggs]]) at that price — the "Bob Harris method" pick of the three.
+- 2024-05-21 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-05-21]]): charting Dell's rookie season (11 games, 47/75 targets, 709 yards, 7 TD, 62.7% catch rate, 15.1 YPR; 75.8% of sampled snaps outside, only 19% in the slot) shows a player who is 'awesome' despite being sub-180 lbs at the combine. He posted a 68.2% success rate vs. press (above average, echoing an 83rd-percentile college mark on limited 8.3% press volume) and 72.8% vs. man (74th percentile), but a below-expectation 77.6% vs. zone (40th percentile) and 71% on the slant route -- surprising given his size/twitchiness. He was elite on outbreaking routes as a rookie: corner 81.3%, out 80.6%, comeback 80%, flat 81.8%, and an 84.4% success rate on dig routes that Harmon puts in the conversation with Tyreek Hill, Tyler Lockett, and DK Metcalf. He also caught 77.8% of contested targets (25.7% of his targets were contested), which Harmon compares to Steve Smith Sr.-level catch-point ability. Harmon calls Dell the rookie-year receiver he thinks most resembles Tyreek Hill, though Hill was significantly better vs. press as a rookie and ran more gadget/close-to-line touches, while Dell was a true downfield route winner. C.J. Stroud reportedly told Texans brass to draft Dell specifically and remains vocally high on him.
 
 ## Related Concepts
 - [[Role Difficulty and Replaceability]]
@@ -35,3 +36,4 @@ tags: [player]
 - [[Dynasty]]
 - [[Keenan Allen]]
 - [[Stefon Diggs]]
+- [[Zone vs Man Route Running]]

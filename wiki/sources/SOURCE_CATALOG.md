@@ -94,6 +94,14 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-04-30 | [[Matt Harmon]] | Day 1 Wide Receiver Landing Spots | [[Reception Perception The Show - 2024-04-30]] |
 | 2024-05-02 | [[Matt Waldman]] | 2024 Post-Draft Landing Spot Breakdown: Going Deep with Brandon Angelo | [[Matt Waldman's RSP Cast - 2024-05-02]] |
 | 2024-05-02 | [[Matt Harmon]] | Day 2 & 3 Wide Receiver Landing Spots | [[Reception Perception The Show - 2024-05-02]] |
+| 2024-05-06 | [[Matt Waldman]] | Feel It Or F@#k It: 5.6.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-05-06]] |
+| 2024-05-07 | [[Matt Harmon]] | Are These Rookies Going Over or Under Their Yardage Lines? | [[Reception Perception The Show - 2024-05-07]] |
+| 2024-05-09 | [[Matt Harmon]] | Breaking Down Some Receiver Rooms | [[Reception Perception The Show - 2024-05-09]] |
+| 2024-05-13 | [[Matt Waldman]] | Feel It Or F@#k It: 5.13.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-05-13]] |
+| 2024-05-14 | [[Matt Harmon]] | Bears & Eagles Dive w/ Adam Rank & Chris Long | [[Reception Perception The Show - 2024-05-14]] |
+| 2024-05-17 | [[Matt Waldman]] | 2024 NFL Rookie Dynasty Draft Thoughts: Going Deep with Brandon Angelo | [[Matt Waldman's RSP Cast - 2024-05-17]] |
+| 2024-05-20 | [[Matt Waldman]] | Feel It or F–It 5.20.24: An RSP Cast with Jagger May and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-05-20]] |
+| 2024-05-21 | [[Matt Harmon]] | Second Year Guys: Tank Dell & Dontayvion Wicks | [[Reception Perception The Show - 2024-05-21]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

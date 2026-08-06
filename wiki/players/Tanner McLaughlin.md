@@ -14,6 +14,7 @@ tags: [player, prospect]
 ## Expert Takes
 
 - 2024-03-30 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-30]] [Dynasty]: has speed but route running needs real work — struggles with breaks, zone-coverage recognition, and settling into open spaces. As a blocker he shows some promising technique (rolls through the hips, can strike without overextending against linebackers) but is undersized, so bigger linebackers and DBs win the collision and knock him off the block — "basically a glorified speed bump." A talented athlete, not yet a refined receiver or blocker.
+- 2024-05-20 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-05-20]]): Waldman said he'd read that draft analyst Daniel Jeremiah was high on Tanner McLaughlin and grants he may test well athletically, but from a technical standpoint felt McLaughlin has a lot left to learn, putting him behind [[Eric All]] in Cincinnati's tight end pecking order.
 
 ## Related Concepts
 - [[Dynasty]]

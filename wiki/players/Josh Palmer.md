@@ -20,6 +20,7 @@ tags: [player]
   hosts name the Chargers' receiver room (Palmer plus [[Quentin Johnston]]) the
   single worst in the NFL. Acknowledges "Josh Palmer bros" expecting a 2024
   breakout given the added opportunity, but is noncommittal ("who knows?").
+- 2024-05-06 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-05-06]]): Waldman calls Josh Palmer a proven, capable contributor in a complementary rather than lead role for the Chargers, with his hold on snaps this year dependent on efficiency given Jim Harbaugh/Greg Roman's expected run-heavy offense.
 
 ## Related Concepts
 - [[Quentin Johnston]]

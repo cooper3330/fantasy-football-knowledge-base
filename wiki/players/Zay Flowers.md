@@ -23,6 +23,7 @@ tags: [player]
   he's "very high" on Flowers as a player, part of why he ranks Baltimore's
   otherwise thin "fragile"-tier receiver room ahead of Atlanta's and
   Carolina's despite little proven depth behind him and [[Rashad Bateman]].
+- 2024-05-09 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-05-09]]) [Dynasty]: Baltimore not adding a receiver until Tez Walker at pick 113 signals internal faith that Flowers is ready for a 'second-year leap' into being a big-time intermediate-area target earner. Harmon loved his rookie route running on tape -- capable of winning against both man and zone, and down the field -- but noted the Ravens' scheme underused him in the intermediate area, leaning instead on designed/shot plays that exploit his explosiveness. He wants to see Flowers get more work in the middle of the field this year for the receiver room to function, and projects him as an easy 1,000-1,100-yard receiver if the offense trends that way; he already led Baltimore with 858 yards as a rookie.
 
 ## Related Concepts
 - [[Dynasty]]

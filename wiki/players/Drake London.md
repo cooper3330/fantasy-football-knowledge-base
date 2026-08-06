@@ -34,6 +34,7 @@ tags: [player]
   forward, as the better long-term player, largely on downfield explosive-play
   ability. Also floated in an "all in" Falcons scenario if Atlanta used a
   premium pick on Odunze to pair with London and [[Kirk Cousins]].
+- 2024-05-09 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-05-09]]) [Dynasty]: Atlanta waiting until pick 187 to add a receiver (Casey Washington) tells Harmon the team has 'tremendous internal faith' in London as a volume-hog X receiver, alongside heavy reliance on [[Kyle Pitts]] and complementary roles for [[Darnell Mooney]] and [[Rondale Moore]]. He floated -- without fully endorsing it -- a 'simplify the picture' theory where London and a hypothetical Rome Odunze could each command roughly 130 targets apiece behind Kirk Cousins, questioning whether Cousins can really feed that many mouths given his track record with a thin Atlanta/Minnesota supporting cast. Co-host James Koh (untracked) pushed back that London and Odunze would be too redundant as similar X-receiver archetypes to both thrive, while Harmon countered the team could motion them around to create matchup problems. Both agreed Atlanta passing on Odunze at 8th overall for a QB doesn't change London's outlook.
 
 ## Related Concepts
 - [[Redraft (Standard)]]

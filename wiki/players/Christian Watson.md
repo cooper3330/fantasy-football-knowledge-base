@@ -20,6 +20,7 @@ tags: [player]
 
 
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: going as only a WR4 currently, a real value; Waldman ties [[Jordan Love]]'s upside to Watson staying healthy and playing like he did late in 2023.
+- 2024-05-21 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-05-21]]): Harmon hasn't yet charted Watson's year-two data but doubts it will change his read -- he sees Watson as a 'big play merchant' in the Martavis Bryant mold, a downfield winner who lacks [[Dontayvion Wicks]]'s multiple areas of route-running strength and isn't 'technically sound.' He also flags recurring hamstring issues (Watson reportedly seeing specialists) as a real risk to his outside-X role, floating that a 'less is more' usage approach could make sense for Green Bay even though the team is unlikely to bench a former second-round pick.
 
 ## Related Concepts
 - [[Dynasty]]

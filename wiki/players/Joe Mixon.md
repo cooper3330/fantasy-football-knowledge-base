@@ -16,8 +16,10 @@ tags: [player]
 
 
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: going around RB17-21 in early best balls, calls it a great value — expects the volume to be there in Houston's passing attack regardless of his breakaway-run-rate criticism, "give him enough chances and he's going to be fine."
+- 2024-05-06 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-05-06]]) [Redraft (Standard)]: Pushing back on co-host Bob Harris's (untracked) suggestion that Joe Mixon's run as a starter is also finished, Waldman disagrees -- he expects Mixon to be Houston's true lead back in 2024, while acknowledging that every backfield, even ones with a clear lead runner, carves out some complementary work for a second back.
 
 ## Related Concepts
 - [[Tony Pollard]]
 - [[C.J. Stroud]]
 - [[Best Ball]]
+- [[Role Difficulty and Replaceability]]

@@ -19,6 +19,7 @@ tags: [player]
 
 - 2024-03-05 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-05]]): the Rams graded only "justifiable pursuit," not a real need, at receiver — Nacua called a "superstar," with credit given to Sean McVay's pattern of building "clear vision" role designs for drafted receivers (and being willing to play a rookie immediately despite generally not trusting rookies in his complex offense) as the reason the fit worked so well.
 - 2024-04-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-04-22]]) [Best Ball]: skeptical Nacua repeats his rookie season, expecting defenses to now exploit his weaknesses and a [[Cooper Kupp]] rebound to cut into his role; projects both settling into similar round 5-6 best-ball value.
+- 2024-05-09 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-05-09]]) [Dynasty]: Harmon called Nacua unambiguously 'the real effing deal' and said anyone disagreeing 'is wrong' -- he's the same player fantasy managers saw last season, no caveats. He thinks Nacua is good enough and fits the offense well enough that the Rams could funnel the majority of their passing game through him if [[Cooper Kupp]] were ever out, given the lack of proven depth behind both.
 
 ## Related Concepts
 - [[Cooper Kupp]]

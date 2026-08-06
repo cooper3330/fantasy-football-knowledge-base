@@ -31,6 +31,7 @@ tags: [player]
   disagrees, "there's no scenario where Keenan Allen gets more targets than
   [[D.J. Moore]]," and reads a Koh-favored outcome as more likely to mean the
   offense itself is struggling, not that Allen is thriving.
+- 2024-05-14 — According to Adam Rank ([[Reception Perception The Show - 2024-05-14]]), not a tracked expert: [[Keenan Allen]] is 'probably a little long in the tooth' with the Bears and likely can no longer handle a full X-receiver workload, but Rank still expects him to be moved around the formation and used primarily inside, complementing [[DJ Moore]] and [[Rome Odunze]] rather than anchoring the offense on the outside.
 
 ## Related Concepts
 - [[Zone vs Man Route Running]]

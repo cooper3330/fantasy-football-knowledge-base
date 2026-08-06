@@ -41,6 +41,7 @@ tags: [player]
   could be your three." Grouped with [[Zay Jones]] as functional-but-limited
   outside options who can't by themselves lift Jacksonville out of its
   bottom-tier receiver room.
+- 2024-05-07 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-05-07]]): after signing with Jacksonville, Harmon says he's 'kicked Gabe Davis to the curb' in his own evaluation, viewing him as a one-dimensional vertical-only receiver he'd rather keep off the field in 2-WR sets behind [[Brian Thomas Jr.]] and [[Christian Kirk]]. Co-host James Koh (untracked) disagrees, arguing Davis 'is not like freaking [MVS] out there' -- he's not worthless, brings more size and physicality to the run game than Kirk, and should see real snaps, with Koh projecting something closer to a 50/50 X/flanker rotation between Davis and Thomas rather than Davis being phased out.
 
 ## Related Concepts
 - [[Redraft (Standard)]]

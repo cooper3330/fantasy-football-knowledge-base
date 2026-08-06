@@ -14,6 +14,7 @@ aliases: [DJ Chark]
 ## Expert Takes
 
 - 2024-04-11 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) on *Reception Perception: The Show* ([[Reception Perception The Show - 2024-04-11]]), buy/sell on a reported link to the Cowboys: both sell. Harmon doesn't think Chark can get open anymore at this stage of his career and would rather see what [[Jalen Tolbert]] (not a tracked page) can do, or see Dallas draft a receiver in this class, than sign him.
+- 2024-05-06 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-05-06]]): D.J. Chark joins the Chargers' WR competition behind [[Ladd McConkey]] and [[Quentin Johnston]] as a likely camp-body hedge. Waldman rates his hands as the best of the incoming outside options (Chark, Valdes-Scantling, Chase Claypool) despite ongoing drop/technique issues, saying he still makes tough catches.
 
 ## Related Concepts
 - [[Reception Perception Methodology]]

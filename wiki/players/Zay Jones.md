@@ -24,6 +24,7 @@ tags: [player]
   [[Christian Kirk]] and [[Calvin Ridley]] "couldn't produce anything." Part of
   why the hosts debate placing Jacksonville in the "disaster-adjacent" tier
   alongside Pittsburgh and Denver.
+- 2024-05-13 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-05-13]]) [Dynasty]: Waldman likes Arizona signing Jones over other suitors given the Cardinals' shallow depth chart, projecting he can play both outside and inside, giving Arizona flexibility alongside Michael Wilson and even Trey McBride from the slot. He frames Jones as useful rookie-year insurance in case [[Marvin Harrison Jr.]] gets hurt early, which 'sometimes happens' to rookies coming off a long pre-draft process.
 
 ## Related Concepts
 - [[Christian Kirk]]

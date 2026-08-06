@@ -29,6 +29,7 @@ tags: [player]
 
 
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: going at the tail end of round one in early best balls, which Waldman calls "uncomfortably high" even while acknowledging the aggressive-projection logic behind it — hasn't seen him drafted outside the second round in 30-plus best balls. Calls him the "safest" of the Houston WR trio (with [[Tank Dell]] and [[Stefon Diggs]]) specifically because he's the youngest, though drafters will likely have to pay a premium for that safety.
+- 2024-05-21 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-05-21]]): mid-charting Collins's year-three profile (five games in at the time of recording), Harmon notes early context that Collins was not on the field full-time to start 2023 (weeks 1-4 snap rates of 71%, 72%, 70%, 62%, 66%, 76%) as Houston sorted out its receiver rotation, yet he still finished near 1,300 yards while running a nine/go route on only 7.9% of his sampled routes as the outside X -- evidence, per Harmon, that a smart coaching staff doesn't need its top outside receiver stacking go routes. Harmon says Collins is much better than Tank Dell working over the middle of the field, calling the two receivers' skill sets 'synergistic' rather than redundant. Full profile not yet published as of this episode.
 
 ## Related Concepts
 - [[Role Difficulty and Replaceability]]
@@ -38,3 +39,4 @@ tags: [player]
 - [[Reception Perception Methodology]]
 - [[Keenan Allen]]
 - [[Stefon Diggs]]
+- [[Post-Rookie-Year Receiver Model]]

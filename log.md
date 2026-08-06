@@ -955,3 +955,27 @@ Post-draft landing-spot ingest: new pages for Jalen Coker and concept Scheme vs 
 
 ## [2024-05-02] ingest | Reception Perception: The Show — Day 2 & 3 Wide Receiver Landing Spots
 Ingested Reception Perception's Day 2/3 WR landing-spot episode: post-draft team-fit takes added for Keon Coleman (BUF), Ladd McConkey (LAC), Ja'Lynn Polk & Javon Baker (NE), Adonai Mitchell (IND), Jermaine Burton (CIN), Troy Franklin (DEN), and Malik Washington (MIA), with Harmon/Koh disagreeing on Coleman's and Polk's draft-slot value.
+
+## [2024-05-06] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: 5.6.24: An RSP Cast with Bob Harris and Matt Waldman
+Chubb detailed at 50/50 return odds (second same-knee 3-ligament tear); Cousins flagged for Week 1 accuracy/velocity risk from leg-torque injury; new pages for Eric Gray, Trey Palmer, Chase Claypool, Kadarius Toney, Dameon Pierce, Drew Lock; Chargers/Giants/Texans backfield and WR battles updated; McMillan projected immediate WR3 over Palmer; Aiyuk pegged 80/20 to leave SF in 2025, boosting Pearsall.
+
+## [2024-05-07] ingest | Reception Perception: The Show — Are These Rookies Going Over or Under Their Yardage Lines?
+First rookie-WR season-long over/under episode: Harmon/Koh graded all 8 top rookie WRs against betting lines, comped Nabers to Waddle's rookie profile, faded Worthy hard vs. Marquise Brown/Rashee Rice on the Chiefs' talent tier, and flagged Diontae Johnson (not Legette/Thielen) as Carolina's new top target-getter.
+
+## [2024-05-09] ingest | Reception Perception: The Show — Breaking Down Some Receiver Rooms
+Rashad Bateman got a contract extension through 2026 and Harmon renewed his bullish take (~600 yards, Keenan Allen mold). New pages for Isaiah Likely, Jalen Tolbert, Chris Olave and A.T. Perry. Ainias Smith emerged as Harmon's favorite for Philadelphia's WR3/slot job. Treylon Burks's outlook dimmed further as Tennessee pursues Tyler Boyd, with trade speculation raised. Jameson Williams skepticism reaffirmed on both film quality and offensive-ecosystem role (5th option at best).
+
+## [2024-05-13] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: 5.13.24: An RSP Cast with Bob Harris and Matt Waldman
+New rookie-QB pecking order laid out: Waldman buys Caleb Williams/Jayden Daniels/J.J. McCarthy/Bo Nix as Week 1-ish starters, fades Drake Maye; flags real risk Kirk Cousins's Achilles limits accuracy (not just availability), projecting Michael Penix Jr. could start by Week 7-8; buying Kyren Williams and Rachaad White dips, dismissing Corum/Irving as real threats; Rashee Rice legal exposure (4-8 games or a season) reshuffling KC WR value toward Xavier Worthy.
+
+## [2024-05-14] ingest | Reception Perception: The Show — Bears & Eagles Dive w/ Adam Rank & Chris Long
+Adam Rank (guest, not tracked) breaks down the Bears' offense: strong evaluation of Rome Odunze and DJ Moore, 4,000-yard passing guarantee for Caleb Williams, and a full account of why Justin Fields' Bears failure was organizational rather than talent-based, now traded to Pittsburgh. Chris Long (guest, not tracked) ties the Saquon Barkley signing to reducing Jalen Hurts' rushing workload and gives an extended framework on RB/DL aging driven by injury timing and usage rather than raw age.
+
+## [2024-05-17] ingest | Matt Waldman's RSP Cast — 2024 NFL Rookie Dynasty Draft Thoughts: Going Deep with Brandon Angelo
+Rookie dynasty draft-season takes: Jermaine Burton and Tyrone Tracy Jr. named biggest 2025 WR/RB risers; Michael Penix Jr. reached for as insurance given Kirk Cousins' age/Achilles; Deebo Samuel framed as increasingly scheme-dependent/trade-candidate behind McCaffrey and Pearsall in SF; Trey Benson and Marshawn Lloyd projected to sizzle in camp but fizzle as rookies on processing-speed concerns; Blake Watson emerges as a dark-horse Denver backfield riser over Audric Estime and Javonte Williams.
+
+## [2024-05-20] ingest | Matt Waldman's RSP Cast — Feel It or F–It 5.20.24: An RSP Cast with Jagger May and Matt Waldman
+Michael Mayer's dynasty outlook cratered to a short-yardage 2-3 target/game role after Brock Bowers' arrival; Waldman disclosed selling his own Quentin Johnston shares to draft Javon Baker; Deuce Vaughn and Malik Willis both flagged as unlikely to have fantasy-relevant 2024 roles.
+
+## [2024-05-21] ingest | Reception Perception: The Show — Second Year Guys: Tank Dell & Dontayvion Wicks
+Tank Dell and Dontayvion Wicks both get full rookie-season RP charting breakdowns from Matt Harmon -- Dell graded as an elite outbreaking/dig-route separator despite sub-180lb size, Wicks compared by Matt LaFleur to Davante Adams as a route runner and flagged as Harmon's 2024 Packers sleeper over Romeo Doubs and Christian Watson.

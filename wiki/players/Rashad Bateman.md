@@ -28,8 +28,10 @@ tags: [player]
   but improved play as a possession receiver as the season went on. Considers
   the receiver room (Bateman plus Zay Flowers and Nelson Agholor, not a
   tracked page) thin on paper behind that hope.
+- 2024-05-09 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-05-09]]) [Dynasty]: Harmon is 'back on the Bateman bandwagon,' noting the Ravens extended him through 2026 after his agent's error forfeited his fifth-year option, which he reads as a real vote of confidence. He credits Bateman with visible route-running growth as last season progressed despite a rough start, missing only one game (hamstring) after entering the year unsure he'd even play coming off a foot injury; there were still drops and inconsistency. Harmon compares his profile to a [[Keenan Allen]]-mold underneath route runner rather than a downfield X, and notes the team told GM Eric DaCosta they drafted Tez Walker specifically as a downfield strider so Bateman and Flowers can work the short/intermediate tree. He projects Bateman for a 'quality season' around 600 yards behind Zay Flowers -- not a target-share breakout given Derrick Henry, Mark Andrews and a run-funneled offense -- while explicitly separating 'good in RP' from 'good in fantasy'; the receiving cast behind Flowers/Bateman is thin, which opens a path to more target share for Bateman specifically.
 
 ## Related Concepts
 - [[Best Ball]]
 - [[Lamar Jackson]]
 - [[Zay Flowers]]
+- [[Post-Rookie-Year Receiver Model]]

@@ -24,6 +24,7 @@ tags: [player]
 
 
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: currently the priciest of Green Bay's receiver corps, going as high as WR3 in early best balls — but still dirt cheap relative to a strong 2023 stretch run (was arguably the team's WR1 down the stretch), and Waldman says he'll have "many, many shares."
+- 2024-05-21 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-05-21]]): despite liking [[Dontayvion Wicks]]'s well-rounded profile, Harmon still installs Reed as the odds-on favorite to be Green Bay's best receiver in 2024, calling him a player with a 'multi-layered skill set' who was more than the 'slot-only gadgety' rookie he sometimes looked like on tape.
 
 ## Related Concepts
 - [[Zone vs Man Route Running]]

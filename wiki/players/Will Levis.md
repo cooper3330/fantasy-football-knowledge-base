@@ -25,6 +25,7 @@ tags: [player]
   Levis: "how much of an upgrade is J.J. McCarthy over Will Levis? I'm not
   that sure." Both hosts agree it would be a very Tennessee outcome to trade
   up for McCarthy only to have him bust.
+- 2024-05-13 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-05-13]]) [Redraft (Standard)]: Waldman expects a more varied Tennessee passing attack under new coach Brian Callahan and is 'feeling it' on Levis throwing four-touchdown games this season, but is skeptical he'll do it often enough to matter for fantasy value — he'd bank on three such games rather than more — and expects an equal or greater number of multi-interception games, given AFC South defenses will make him pay ('everybody's got a plan until they get hit in the mouth').
 
 ## Related Concepts
 - [[Calvin Ridley]]

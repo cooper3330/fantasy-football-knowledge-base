@@ -24,6 +24,7 @@ tags: [player]
 
 - 2024-04-15 — According to [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]]: restates him as "the best backup in the league" from a floor-and-coaching standpoint — not just capable of playing like a starter but a de facto coach in Las Vegas's quarterback room (he wanted to be a coach) who can help mentor rookie [[Michael Penix Jr.]]. Notes his own best-ball rooms are drafting Minshew ahead of [[Aidan O'Connell]] for the Raiders' QB2 job.
 - 2024-04-23 — According to guest QB trainer Will Hewlett ([[Matt Waldman's RSP Cast - 2024-04-23]]): the Colts under Shane Steichen adapted their scheme around Minshew by stripping out RPO-heavy reads, an example of a coach molding his system to personnel; Minshew, entering roughly his 6th-7th NFL season, is now focused with Hewlett's staff on optimizing pressure throws and finding remaining failure points in his game.
+- 2024-05-17 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-05-17]]) [Dynasty]: Waldman frames Minshew as nothing more than a high-end bridge/backup QB — comparing him to Crash Davis in Bull Durham, the veteran who helps develop the guy with the big arm — noting how much Philadelphia missed him relative to Marcus Mariota when he wasn't the starter there, but that his ceiling with the Raiders is purely as competent QB insurance behind [[Aidan O'Connell]], not a path to the job.
 
 ## Related Concepts
 - [[Player Development and Coachability]]

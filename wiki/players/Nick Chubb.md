@@ -19,8 +19,10 @@ tags: [player]
 **Note:** this is the one case in the episode that cuts *against* the
 size-and-movement framework rather than for it — recorded as such on
 [[Running Back Size and Movement Skills]].
+- 2024-05-06 — According to [[Matt Waldman]] and Bob Harris ([[Matt Waldman's RSP Cast - 2024-05-06]]) [Dynasty]: Both hosts land at roughly 50/50 on whether Nick Chubb returns to full starter form in 2024, with Harris admitting his number is inflated by fandom. Waldman details the injury severity: the Week 2 2023 knee injury included a torn MCL (surgery immediately) and a torn ACL (surgery delayed to November, per Cleveland's staggered-rehab approach), and this is the second time in Chubb's career he's torn three ligaments in the same knee (also happened in college). He relays that a doctor he's consulted called that combination one of the hardest injuries to fully recover from, especially for a running back, because all three ligaments must heal in balance or the knee ends up too loose or too tight. The Browns renegotiated Chubb to a one-year prove-it deal and added a depth hedge, both signs Waldman reads as genuine uncertainty about his timeline even as the team publicly says he's expected back 'at some point in 2024.' His personal stance: he's keeping every share of Chubb he owns and won't sell, but isn't recommending others buy in given the medical uncertainty.
 
 ## Related Concepts
 - [[Running Back Size and Movement Skills]]
 - [[Pace Control and Movement Intellect]]
 - [[Dynasty]]
+- [[Healthy Enough to Play vs. Healthy Enough to Perform]]
