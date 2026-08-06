@@ -321,7 +321,9 @@ tells you which, so getting these right first time saves a retry:
   for genuinely brief mentions.
 - `index` is OPTIONAL. Include it only when the page is NEW or its HEADLINE view
   materially moved (injury, role/depth-chart shift, big ranking move, reversal).
-  Max 25 words, lead with position/team. Omit it for a minor corroborating take.
+  HARD max 25 words -- count them. The applier trims anything longer from the
+  tail, so you lose your own nuance; keep it tight and lead with position/team.
+  Omit it entirely for a minor corroborating take.
 - `experts` lists only TRACKED experts. A guest's or untracked co-host's view is
   attributed inline in the bullet, never given an expert page.
 - Create a player page ONLY for a substantive evaluative take. Catalogue passing

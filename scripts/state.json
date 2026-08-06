@@ -2367,8 +2367,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-02",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2024-05-02-rp-day-2-3-wide-receiver-landing-spots.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2024-05-02-rp-day-2-3-wide-receiver-landing-spots.md",
+      "status": "ingested",
       "title": "Day 2 & 3 Wide Receiver Landing Spots",
       "transcript_source": "whisper"
     },
@@ -4219,8 +4219,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-05-02",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-05-02-rsp-2024-post-draft-landing-spot-breakdown-going-deep-with-brandon-angelo-.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-05-02-rsp-2024-post-draft-landing-spot-breakdown-going-deep-with-brandon-angelo-.md",
+      "status": "ingested",
       "title": "2024 Post-Draft Landing Spot Breakdown: Going Deep with Brandon Angelo and Matt Waldman",
       "transcript_source": "whisper"
     },

@@ -32,6 +32,7 @@ tags: [player]
   even ahead of the Giants, Patriots and Cardinals — "I don't know how you can
   have any optimism about Quentin Johnston based off his rookie season film,"
   though not ruled out entirely ("maybe he turns it around").
+- 2024-05-02 — According to Brandon Angelo ([[Matt Waldman's RSP Cast - 2024-05-02]]): used as a cautionary comp for [[Brian Thomas Jr.]] — Angelo said Johnston was miscast as an outside receiver as a rookie under Kellen Moore in Los Angeles, when his best college tape came from the slot on pre-release, two-way-go concepts working the middle of the field on crossers and delays; he said the Chargers' offense asked him to do 'none of that' in year one, calling it a scheme-fit failure rather than a talent one.
 
 ## Related Concepts
 - [[Scouting Bias and Player Archetypes]]
@@ -40,3 +41,4 @@ tags: [player]
 - [[NFL Combine and Pro Day Skepticism]]
 - [[Dynasty]]
 - [[Josh Palmer]]
+- [[Scheme vs Talent]]

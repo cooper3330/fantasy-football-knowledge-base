@@ -92,6 +92,8 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-04-25 | [[Matt Harmon]] | 2024 Wide Receiver Class Superlatives | [[Reception Perception The Show - 2024-04-25]] |
 | 2024-04-29 | [[Matt Waldman]] | Feel It Or F@#k It: 4.29.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-04-29]] |
 | 2024-04-30 | [[Matt Harmon]] | Day 1 Wide Receiver Landing Spots | [[Reception Perception The Show - 2024-04-30]] |
+| 2024-05-02 | [[Matt Waldman]] | 2024 Post-Draft Landing Spot Breakdown: Going Deep with Brandon Angelo | [[Matt Waldman's RSP Cast - 2024-05-02]] |
+| 2024-05-02 | [[Matt Harmon]] | Day 2 & 3 Wide Receiver Landing Spots | [[Reception Perception The Show - 2024-05-02]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

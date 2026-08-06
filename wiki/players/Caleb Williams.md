@@ -34,6 +34,7 @@ tags: [player]
 
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]): a detailed pocket-movement contrast with [[Drake Maye]] responding to a fan question about whether the two are really that different — when Williams moves outside the pocket "it's with a purpose," reacting to real pressure rather than inviting it, and he stays efficient and can climb the pocket, keeping his eyes downfield, the same way Baker Mayfield climbs a pocket. Highlight-reel scrambling makes him look panicked, "but that's not the case" — the movement is a last resort used only when actually forced into it, unlike Maye who resorts to escaping unnecessarily more often.
 - 2024-04-23 — According to guest QB trainer Will Hewlett ([[Matt Waldman's RSP Cast - 2024-04-23]]): motion-capture testing showed Williams' velocity range (46-56 mph) is the largest variance Hewlett's team has ever measured while still maintaining spin rate at low velocity, and his T-spine rotation was the highest his biomechanist has measured in any athlete, comparable to reports of Patrick Mahomes; Williams grew up a swimmer, not a baseball player, and idolizes Aaron Rodgers, whose 'pop step' footwork he's incorporated in training; Hewlett called him 'as pro-ready as anyone I've ever worked with' and dismissed Johnny Manziel bust comparisons as lazy evaluation given Williams' work ethic and attention to detail.
+- 2024-05-02 — According to Brandon Angelo ([[Matt Waldman's RSP Cast - 2024-05-02]]): Williams is Angelo's example of a 'perfect' infrastructure landing spot — first overall pick to a Bears team that already invested in receivers, upgraded the offensive line, and has a GM committed to giving him whatever he needs, which Angelo said gives Williams all the tools to be a top-ten quarterback.
 
 ## Related Concepts
 - [[Dynasty]]
@@ -47,3 +48,4 @@ tags: [player]
 - [[Justin Fields]]
 - [[Quarterback Processing and Confidence]]
 - [[Scouting Bias and Player Archetypes]]
+- [[Scheme vs Talent]]

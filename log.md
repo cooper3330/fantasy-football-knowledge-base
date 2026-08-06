@@ -949,3 +949,9 @@ Post-draft landing-spot reactions across the 2024 rookie class: Waldman keeps Ma
 
 ## [2024-04-30] ingest | Reception Perception: The Show — Day 1 Wide Receiver Landing Spots
 2024 NFL Draft landing-spot analysis for the full first-round WR class: Rome Odunze (CHI), Marvin Harrison Jr. (ARI), Malik Nabers (NYG), Brian Thomas Jr. (JAX), Xavier Worthy (KC), Ricky Pearsall (SF), Xavier Legette (CAR) -- each given projected role, target-share estimate, and RSP man/zone/press grades against their new team's context.
+
+## [2024-05-02] ingest | Matt Waldman's RSP Cast — 2024 Post-Draft Landing Spot Breakdown: Going Deep with Brandon Angelo
+Post-draft landing-spot ingest: new pages for Jalen Coker and concept Scheme vs Talent; major rookie fit/role calls added across ~23 existing rookie pages including underrated Bo Nix, Ja'Lynn Polk, Jermaine Burton, Michael Penix Jr., Kimani Vidal; overrated-by-fit concerns on Brian Thomas Jr., Ricky Pearsall, Roman Wilson; host disagreement on Malachi Corley (gadget risk vs. centerpiece upside).
+
+## [2024-05-02] ingest | Reception Perception: The Show — Day 2 & 3 Wide Receiver Landing Spots
+Ingested Reception Perception's Day 2/3 WR landing-spot episode: post-draft team-fit takes added for Keon Coleman (BUF), Ladd McConkey (LAC), Ja'Lynn Polk & Javon Baker (NE), Adonai Mitchell (IND), Jermaine Burton (CIN), Troy Franklin (DEN), and Malik Washington (MIA), with Harmon/Koh disagreeing on Coleman's and Polk's draft-slot value.

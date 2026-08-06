@@ -55,6 +55,28 @@ def normalize_source_page(name):
     return " ".join(name.split())
 
 
+def trim_index(summary):
+    """Trim an index summary to the word cap, preserving a trailing parenthetical.
+
+    An over-long index line is a scannability issue, not a correctness one -- the
+    page and its bullet carry the durable value, and this is only the retrieval
+    pointer. So it is trimmed rather than allowed to reject a whole extraction
+    (5 turns, ~250k cost units) over a word or two.
+
+    The trailing parenthetical is preserved because that is where the staleness
+    marker lives -- "(2024 takes, stale)" -- and dropping it during a live draft is
+    exactly the misinformation the cap exists to prevent. Everything after the
+    lead is what gets trimmed, which is fine: the prompt has the agent front-load
+    position/team and the headline view.
+    """
+    m = re.search(r"\s*(\([^)]*\))\s*$", summary)
+    paren = m.group(1) if m else ""
+    core = summary[:m.start()] if m else summary
+    budget = max(1, wu.MAX_INDEX_WORDS - (len(paren.split()) if paren else 0))
+    trimmed = " ".join(core.split()[:budget]).rstrip(" ,;—-")
+    return (trimmed + (f" {paren}" if paren else "")).strip()
+
+
 def normalize(plan):
     """Rewrite the plan in place where the fix is mechanical. Returns notes."""
     notes = []
@@ -66,6 +88,12 @@ def normalize(plan):
         # not exist.
         plan.update(json.loads(json.dumps(plan).replace(raw, clean)))
         notes.append(f"source page name {raw!r} -> {clean!r}")
+    for p in plan.get("pages") or []:
+        idx = (p.get("index") or "").strip()
+        if idx and len(idx.split()) > wu.MAX_INDEX_WORDS:
+            p["index"] = trim_index(idx)
+            notes.append(f"index for {p.get('name')!r} trimmed "
+                         f"{len(idx.split())}->{len(p['index'].split())} words")
     return notes
 
 

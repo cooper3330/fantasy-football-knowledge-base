@@ -117,9 +117,6 @@ REJECT = [
     ("bad position", good_plan(pages=[
         {"name": "BadPos", "kind": "player", "bullet": "t ([[Test Source - 2024-05-01]])",
          "frontmatter": {"team": "KC", "position": "FB"}}])),
-    ("over-long index line", good_plan(pages=[
-        {"name": "Existing", "kind": "player", "bullet": "t ([[Test Source - 2024-05-01]])",
-         "index": " ".join(["word"] * 26)}])),
     ("duplicate page entries", good_plan(pages=[
         {"name": "Existing", "kind": "player", "bullet": "one ([[Test Source - 2024-05-01]])"},
         {"name": "Existing", "kind": "player", "bullet": "two ([[Test Source - 2024-05-01]])"}])),
@@ -140,6 +137,24 @@ for label, plan in REJECT:
     check(f"reject: {label}",
           r.returncode == 2 and snapshot() == before,
           f"rc={r.returncode}\n{r.stdout}{r.stderr}")
+
+# --- over-long index line is trimmed, not rejected --------------------------
+build()
+long_idx = good_plan(pages=[
+    {"name": "Existing", "kind": "player",
+     "bullet": "According to [[Matt Waldman]] ([[Test Source - 2024-05-01]]): x",
+     "index": "WR, KC — " + " ".join(["word"] * 30) + " (2024 takes, stale)"}])
+r = run(long_idx)
+check("over-long index line applies (trimmed, not rejected)", r.returncode == 0,
+      f"rc={r.returncode}\n{r.stdout}{r.stderr}")
+import re as _re
+idxline = [l for l in (ROOT / "index.md").read_text().split("\n") if "[[Existing]]" in l]
+if idxline:
+    summ = idxline[0].split("]]", 1)[1].lstrip(" —-")
+    check("trimmed index within word cap", len(summ.split()) <= 25, f"{len(summ.split())}: {summ}")
+    check("staleness parenthetical preserved through trim", "(2024 takes, stale)" in idxline[0], idxline[0])
+else:
+    check("trimmed index line present", False, "no [[Existing]] index line")
 
 # --- source page name normalization ----------------------------------------
 build()

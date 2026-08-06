@@ -70,6 +70,7 @@ price into a player when he changes teams, or when his coordinator does.
 ### A prospect-level case: Texas's offense masking Adonai Mitchell (2024-04-11)
 
 - 2024-04-11 — According to [[Matt Harmon]] on *Reception Perception: The Show* ([[Reception Perception The Show - 2024-04-11]]): argues Texas's 2023 offense actively suppressed [[Adonai Mitchell]]'s production profile — shaky quarterback play, layered RPOs and half-field reads left him with clips of well-run, open routes that were simply never thrown to, which Harmon says he has saved specifically to break down on video. Frames the fix as scheme/quarterback-dependent rather than talent-dependent: names Kansas City or Buffalo as ideal landing spots because an aggressive, patient quarterback (Patrick Mahomes or Josh Allen) is the type of passer who would actually reward Mitchell's downfield route-winning on tape.
+- 2024-05-02 — According to Brandon Angelo ([[Matt Waldman's RSP Cast - 2024-05-02]]): Angelo said he weighs NFL draft capital differently by position — largely discounting it at quarterback (he estimates the position's draft-capital hit rate around only 33%) and weighing it heaviest at running back, where a first-round-ish pick typically signals a real year-one workload share; at wide receiver he weighs it least because, per scouts he's spoken with, WR value varies most by team need. Separately, both hosts framed 'infrastructure' — offensive line, weapons around a rookie, ownership stability, and a GM willing to invest — as a top-down evaluation layer as important as the player himself, contrasting [[Caleb Williams]]'s well-resourced Bears landing spot with the dysfunctional 2023 Panthers situation (no blocking, no run game, no receivers, ownership interference) [[Bryce Young]] inherited as the range of outcomes the same draft slot can produce.
 
 ## Related
 - [[League Trend Cycles and Market Inefficiency]]
@@ -77,3 +78,5 @@ price into a player when he changes teams, or when his coordinator does.
 - [[Player Development and Coachability]]
 - [[Redraft (Standard)]]
 - [[Scouting Bias and Player Archetypes]]
+- [[Caleb Williams]]
+- [[Bryce Young]]
