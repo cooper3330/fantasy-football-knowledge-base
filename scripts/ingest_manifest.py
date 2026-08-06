@@ -219,6 +219,14 @@ def build_extract_prompt(ep, inv, plan_out):
     """
     inv_players = ", ".join(inv["players"]) or "(none yet)"
     inv_concepts = "\n".join(f"  - {c}" for c in inv["concepts"]) or "  (none yet)"
+    # Source pages already on disk for THIS episode's date. A show sometimes
+    # publishes twice in a day, and two other shows routinely publish on the same
+    # date, so `<Show> - <date>` is not unique. The applier rejects a plan whose
+    # source.page collides with an existing page; surfacing the collisions here
+    # lets the agent pick a distinguishing suffix instead of getting rejected.
+    same_day = sorted(s for s in inv["sources"] if (ep.get("pub_date") or "") in s)
+    same_day_block = ("\n".join(f"  - {s}" for s in same_day)
+                      if same_day else "  (none — the plain name is free)")
     return f"""Read one podcast transcript and produce ONE JSON plan describing every
 wiki change it justifies. You do not edit the wiki -- a script applies your plan.
 
@@ -230,6 +238,13 @@ WRITE YOUR PLAN TO: {plan_out}
 Read the transcript, then Write the plan. That is the whole job. Do not create or
 edit any wiki page, do not run any script, do not touch state.json, do not move
 the transcript -- apply_ingest.py does all of it after you exit.
+
+SOURCE PAGES ALREADY ON DISK FOR {ep.get('pub_date')} -- your `source.page` MUST NOT
+match any of these. If your episode's plain name "<Show> - {ep.get('pub_date')}"
+appears below, another episode already took it, so disambiguate with a short
+parenthetical drawn from THIS episode's title or segment, exactly as the existing
+ones do -- e.g. "Matt Waldman's RSP Cast - {ep.get('pub_date')} (Evaluation vs. Valuation)":
+{same_day_block}
 
 --- PRE-COMPUTED CONTEXT (do NOT spend tool calls rediscovering this) ---
 
