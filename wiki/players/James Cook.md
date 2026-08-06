@@ -23,6 +23,7 @@ tags: [player]
 
 
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]): feeling good on Cook (going as a tail-end RB1/early RB2) even as Buffalo adds a bigger complementary back who could take some short-yardage/red-zone work — doesn't think it takes away much, since Cook has shown he can hold up between the tackles on a real workload. Says 2023 is likely close to his ceiling and expects it to hold steady even with an added complementary piece, since Waldman doesn't expect Buffalo's addition to be a true Jonathan Brooks/Blake Corum-caliber lead-back threat, more a pass-protection-limited complement.
+- 2024-04-29 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-04-29]]): downplayed the threat to Cook's touches from the Ray Davis pick, arguing Josh Allen's own habit of vulturing goal-line carries already suppresses touchdown work for any Bills running back more than a rookie committee mate would. He expects Cook to have 'another good season' as Buffalo's clear lead back in 2024, with Davis carving out only a situational short-yardage role behind him.
 
 ## Related Concepts
 - [[Redraft (Standard)]]

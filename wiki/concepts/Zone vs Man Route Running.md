@@ -31,9 +31,18 @@ receiver quality.
 
 - 2024-03-21 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-21]]): reaffirms [[Marquise Brown]] as "one of the most solid zone beaters out there" (80%+ success rate vs. zone in every season but his injury-shortened 2023, when it dipped to a career-low 51st percentile), which Harmon frames as a specific fit for Kansas City given opposing defenses play man coverage against them only 25.7% of the time. Contrasts that with his man-coverage numbers, which have declined by year (73.6% rookie season, down to 62.6% in 2022 and an all-time-low 59% in 2023). Same episode, on [[Jerry Jeudy]]: reaffirms the man/zone split from the 2024-03-14 charting (70.6-70.7% vs. man, 68.4%/70.3% vs. zone, 8th percentile) as the reason he should play flanker rather than slot in Cleveland — man coverage skill (63rd percentile) is "pretty good," but the zone weakness makes him a bad fit for the high-zone-rate slot alignment.
 - 2024-04-18 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-04-18]]): Both 2024 prospects Xavier Legette (81.4% success vs. zone, 19th percentile vs. man) and Troy Franklin (82.4% vs. zone, 26th percentile vs. press) posted strong zone-beating marks alongside coverage-specific weaknesses, illustrating how RP's man/zone/press splits can separate 'wins vs. soft coverage' upside from 'true X receiver' readiness better than aggregate box-score production.
+- 2024-04-25 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-04-25]]): used man/press vs. zone success-rate splits as the throughline for a full 2024 WR-class superlatives exercise -- [[Rome Odunze]] and [[Marvin Harrison Jr.]] graded best vs. man/press, [[Ricky Pearsall]] and [[Ja'Lynn Polk]] close behind, while [[Ladd McConkey]]'s class-low 44% success rate vs. press was treated as a hard cap on his ability to play outside, and [[Troy Franklin]] graded notably better vs. zone than vs. man. Reinforces that press/man success rate is Harmon's primary determinant of X-receiver viability at the next level.
+- 2024-04-30 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-04-30]]): Harmon evaluates every first-round 2024 receiver's landing spot through RSP-charted success rates vs. man, vs. zone, and vs. press, treating ~80% as the benchmark for a strong zone score and using press-coverage success as the key differentiator for X-receiver readiness. He applies the framework to argue San Francisco specifically needed a man-beater (Ricky Pearsall, 87th percentile vs. man) because Deebo Samuel is a zone-beater who struggles in man coverage on money downs, and to downgrade Xavier Worthy (59.5% vs. press) as a poor scheme fit for Kansas City despite plus man/zone marks, while praising Brian Thomas Jr.'s 80.4% zone success on a heavily vertical route tree as unusually strong.
 
 ## Related
 - [[Weak Quarterback Play and Receiver Value]]
 - [[Scouting Bias and Player Archetypes]]
 - [[Prospect Pro-Readiness vs Ceiling]]
 - [[Pace Control and Movement Intellect]]
+- [[Rome Odunze]]
+- [[Marvin Harrison Jr.]]
+- [[Malik Nabers]]
+- [[Brian Thomas Jr.]]
+- [[Xavier Worthy]]
+- [[Ricky Pearsall]]
+- [[Xavier Legette]]

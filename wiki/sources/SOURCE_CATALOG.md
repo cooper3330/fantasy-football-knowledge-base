@@ -87,6 +87,11 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-04-18 | [[Matt Harmon]] | Xavier Legette & Troy Franklin Breakdowns | [[Reception Perception The Show - 2024-04-18]] |
 | 2024-04-22 | [[Matt Waldman]] | Feel It Or F@#k It: 4.22.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-04-22]] |
 | 2024-04-23 | [[Matt Waldman]] | Caleb Williams, Brock Purdy, and Anthony Richardson – QB Therapy with Will Hewlett | [[Matt Waldman's RSP Cast - 2024-04-23]] |
+| 2024-04-23 | [[Matt Waldman]] | Evaluation vs. Valuation, '24 NFL Draft Faves, and Risks: Matt Waldman's RSP Scout Talk with NFL.com's Chad Reuter | [[Matt Waldman's RSP Cast - 2024-04-23 (Evaluation vs. Valuation)]] |
+| 2024-04-23 | [[Matt Harmon]] | Ja'Lynn Polk, Jalen McMillan & Javon Baker | [[Reception Perception The Show - 2024-04-23]] |
+| 2024-04-25 | [[Matt Harmon]] | 2024 Wide Receiver Class Superlatives | [[Reception Perception The Show - 2024-04-25]] |
+| 2024-04-29 | [[Matt Waldman]] | Feel It Or F@#k It: 4.29.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-04-29]] |
+| 2024-04-30 | [[Matt Harmon]] | Day 1 Wide Receiver Landing Spots | [[Reception Perception The Show - 2024-04-30]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

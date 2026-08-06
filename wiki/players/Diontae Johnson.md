@@ -55,6 +55,7 @@ tags: [player]
   fourth of the four.
 
 - 2024-04-15 — According to [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]] [Best Ball]: with Johnson going around WR40 in early best balls, calls it a value price alongside [[Adam Thielen]] (going around a WR5-6-tier price) — the logic being that if you think [[Bryce Young]] isn't worth drafting, then his receivers aren't either, and that's "discount time" if you're willing to bet on Young's 2024 improvement.
+- 2024-04-30 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-04-30]]): Harmon notes Diontae Johnson had his most efficient season in 2023 while playing flanker with George Pickens occupying the X, and says Johnson can still win against press-man coverage and play X if needed -- which should give Carolina flexibility in how they deploy him alongside newly drafted [[Xavier Legette]] and [[Adam Thielen]]. Harmon considers Johnson a borderline No. 1 ('right there' with Deebo Samuel, a better player in Harmon's view) 'in the right situation,' and urges the Panthers to extend him beyond his contract's final year rather than let him walk in 2025.
 
 ## Related Concepts
 - [[George Pickens]]

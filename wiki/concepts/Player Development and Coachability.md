@@ -45,6 +45,7 @@ mistake — buying a talented player into a situation that will not develop him,
 or selling one whose problem was situational. It also supplies the reason
 Waldman's floor scenarios are written as organizational stories rather than
 injury/athleticism stories.
+- 2024-04-23 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-04-23 (Evaluation vs. Valuation)]]): Waldman argues 'a team's ability to coach a guy up' is an overvalued factor in draft evaluation — some prospects are close to maxed out on what coaching can add regardless of the strength of their college program, and it isn't always clear from tape alone which players still have real developmental room left. He points to Kyle Shanahan's public comments that modern NFL teams practice and teach fundamentals far less than in past eras, leaving players largely responsible for offseason technique work with personal position coaches while the team's in-season focus shifts almost entirely to game-planning — meaning a prospect's realized ceiling depends heavily on self-directed development and situation, not just being placed with a 'good' coaching staff.
 
 ## Related
 - [[NIL and Player Development]] — the structural-incentive half

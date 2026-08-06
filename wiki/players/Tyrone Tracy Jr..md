@@ -14,6 +14,7 @@ tags: [player, prospect]
 ## Expert Takes
 
 - 2024-03-23 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-23]]), solo RB-class cast [Dynasty]: elusive with a good stick-and-trigger step to make defenders miss in the open field, and can transition downhill at the edge of the box off a single cut. Pacing consistency (slowing into the hole, accelerating through it) is uneven because — as a wide receiver convert from Iowa — he's "still getting familiar with being a running back." A developmental prospect with upside who could become a valuable contributor if he develops between-the-tackles skills.
+- 2024-04-29 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-04-29]]) [Dynasty]: compared Tracy to Kenyon Drake as a 'fast-ish,' gap-scheme speedster who profiles as a change-of-pace piece rather than an instinctive between-the-tackles processor, fitting a pattern of similar athletic-but-unrefined profiles (Gary Brightwell, Joshua Corbin) already on New York's depth chart. He said Tracy 'could be good at some point' but is currently more of a complementary speed option, aspiring to the type of role Drake wanted early in his own career.
 
 ## Related Concepts
 - [[Dynasty]]

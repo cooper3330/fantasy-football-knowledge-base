@@ -23,8 +23,10 @@ tags: [player]
 
 
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]), floated as a hypothetical Buffalo Bills first-round WR fit: the "classic guy" comp Waldman reaches for, an "A.J. Green-light" type — a Bills draft-fit discussion, not a Bills selection.
+- 2024-04-30 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-04-30]]): Harmon says Thomas is underdiscussed relative to the top-three receivers, but likes the Jaguars landing spot given Jacksonville's bottom-five 57% completion rate to outside WRs in 2023. Charted numbers: 70.1% success rate vs. man, 80.4% vs. zone (impressive given a heavy vertical route diet -- nines, posts, corners), and 73.9% vs. press, sixth-best in the class -- with Harmon noting Thomas's tape improved markedly from early to late season, suggesting he's still ascending. Measurables: 6'3"/209, 4.33 forty, 38.5-inch vertical, 10.6-foot broad; led the FBS with 17 touchdowns in 2023. Harmon doesn't expect Thomas to carry a Marvin-Harrison-level 25% target share as a rookie behind [[Christian Kirk]] and [[Gabe Davis]], but projects him to out-target Davis and, by year two, to be Jacksonville's clear lead target-getter and Trevor Lawrence's long-term No. 1 receiver, comparing his rookie usage (67% slant/curl/nine routes) to DK Metcalf's rookie season.
 
 ## Related Concepts
 - [[Role Difficulty and Replaceability]]
 - [[Scouting Bias and Player Archetypes]]
 - [[Dynasty]]
+- [[Zone vs Man Route Running]]

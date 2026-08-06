@@ -934,3 +934,18 @@ mechanical applier (scripts/apply_ingest.py). 66 turns -> 5, 2.88M -> 346k cost
 units per episode (88% lower), at 1.09x legacy content volume measured by A/B on
 identical transcripts. Bullet dates are now stamped by the applier from
 state.json, so rule 4 cannot be violated by an agent. See docs/ingest-v2-plan.md.
+
+## [2024-04-23] ingest | Matt Waldman's RSP Cast — Evaluation vs. Valuation, '24 NFL Draft Faves, and Risks: Matt Waldman's RSP Scout Talk with NFL.com's Chad Reuter
+New pre-draft dynasty pages: Ben Sinnott (TE2, top-50 grade), Blake Corum (safest RB in class, Ray Rice ceiling comp), Michael Penix Jr. (top-3-4 talent but Round 2 value given four-year injury pattern), Adonai Mitchell (George Pickens comp, Round 2 not Round 1 valuation). Brock Bowers take reinforced: Waldman rates him a top-of-draft talent regardless of landing spot.
+
+## [2024-04-23] ingest | Reception Perception: The Show — Ja'Lynn Polk, Jalen McMillan & Javon Baker
+Added RP pre-draft profiles for Ja'Lynn Polk, Jalen McMillan, Javon Baker and a shorter Troy Franklin comparison; Harmon grades Polk (Day 2/priority-R2) and Baker (elite downfield success despite poor testing) well above McMillan (Day 3, slot-only red flags) and Franklin (bumped from priority-R2 to Day 2).
+
+## [2024-04-25] ingest | Reception Perception: The Show — 2024 Wide Receiver Class Superlatives
+Reception Perception's full pre-draft 2024 WR class superlatives: Harrison Jr. and Odunze crowned best route runner/best contested-catch winner; Burton rated a talent-RB4 sleeper with real character risk; McConkey's 44% success rate vs. press flagged as capping his X projection (ranked below Pearsall); Legette and Franklin named Harmon's two toughest evaluations in the class.
+
+## [2024-04-29] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: 4.29.24: An RSP Cast with Bob Harris and Matt Waldman
+Post-draft landing-spot reactions across the 2024 rookie class: Waldman keeps Malik Nabers atop his rookie WR board despite the Giants' QB uncertainty, rates Marvin Harrison Jr. best 2024 opportunity but Rome Odunze better 3-year outlook, and publicly disputes Matt Harmon's charting that Keon Coleman is a slot-only prospect. Also: Blake Corum projected to overtake Kyren Williams as soon as 2024; Cade Stover called best-landed rookie TE; Ricky Pearsall's value gated on a Deebo Samuel/Brandon Aiyuk trade.
+
+## [2024-04-30] ingest | Reception Perception: The Show — Day 1 Wide Receiver Landing Spots
+2024 NFL Draft landing-spot analysis for the full first-round WR class: Rome Odunze (CHI), Marvin Harrison Jr. (ARI), Malik Nabers (NYG), Brian Thomas Jr. (JAX), Xavier Worthy (KC), Ricky Pearsall (SF), Xavier Legette (CAR) -- each given projected role, target-share estimate, and RSP man/zone/press grades against their new team's context.

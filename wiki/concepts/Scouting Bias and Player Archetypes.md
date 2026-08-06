@@ -50,6 +50,8 @@ traits — and the evaluation errors that follow.
 **Why this matters for drafting:** archetype labels leak into ADP. Where a
 player's reputation and measured profile diverge, the reputation is often what
 is priced — which is where value appears.
+- 2024-04-23 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-04-23 (Evaluation vs. Valuation)]]): In an extended framework discussion with NFL.com's Chad Reuter (guest, not tracked), Waldman argues public draft grading over-indexes on outcome-based hindsight rather than what was actually knowable at the time of the pick — the go-to example being fans asking 'how could you take Jalen Reagor over Justin Jefferson' with no acknowledgment the two were evaluated as different archetypes at the time (Jefferson wasn't purely the slot receiver public perception assumed). He cites the Patriots under Bill Belichick as a cautionary data point, saying he has seen statistically significant data showing teams that reach well above a player's consensus valuation tier have a worse track record than teams that stay within tier — undercutting the popular 'just draft the guy you like regardless of slot' take. He stresses that grading picks fairly requires setting an evaluation baseline right after the draft, citing his own 2023 'C' grade for the Lions taking [[Jahmyr Gibbs]] and Jack Campbell — both above their consensus draft-board range — as good players who nonetheless represented a valuation reach at the time.
+- 2024-04-25 — According to [[Matt Harmon]] and James Koh (co-host, not a tracked expert) ([[Reception Perception The Show - 2024-04-25]]): discussed an Adam Schefter/ESPN research stat that only 27% of first-round receivers since 2000 have signed a second contract with the team that drafted them (vs. 92% for centers), calling receiver the most volatile first-round position and noting recent classes like 2016 and 2015 were largely flame-outs while 2014 hit. They flagged a flaw in the study -- a draft-night trade (e.g., a hypothetical [[Brandon Aiyuk]] deal) still counts as a "miss" even when the pick worked out for the drafting team. Separately, they discussed size-based typecasting risk: [[Xavier Legette]] and [[Johnny Wilson]] both risk being funneled into ill-fitting X-only or even tight-end roles because of frame alone, and used the Ted Ginn "deep-ball specialist" label to describe how [[Troy Franklin]] may get pigeonholed despite more nuanced route-running ability than that label implies.
 
 ## Related
 - [[Aging Curves and Career Longevity]]
@@ -57,3 +59,4 @@ is priced — which is where value appears.
 - [[Keon Coleman]]
 - [[Treylon Burks]]
 - [[Jonathan Mingo]]
+- [[Jahmyr Gibbs]]
