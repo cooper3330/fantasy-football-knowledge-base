@@ -4171,8 +4171,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-22",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-04-22-rsp-feel-it-or-fk-it-42224-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-04-22-rsp-feel-it-or-fk-it-42224-an-rsp-cast-with-bob-harris-and-matt-waldman.md",
+      "status": "ingested",
       "title": "Feel It Or F@#k It: 4.22.24: An RSP Cast with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
     },
@@ -4195,8 +4195,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-04-23",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2024-04-23-rsp-caleb-williams-brock-purdy-and-anthony-richardson-qb-therapy-with-will.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2024-04-23-rsp-caleb-williams-brock-purdy-and-anthony-richardson-qb-therapy-with-will.md",
+      "status": "ingested",
       "title": "Caleb Williams, Brock Purdy, and Anthony Richardson \u2013 QB Therapy with Will Hewlett: Matt Waldman\u2019s RSP Scout Talk",
       "transcript_source": "whisper"
     },

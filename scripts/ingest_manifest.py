@@ -295,6 +295,15 @@ tells you which, so getting these right first time saves a retry:
   (`priority`).
 - ONE entry per page. If an episode says three things about a player, write ONE
   bullet covering all three, not three entries.
+- BULLET DEPTH IS THE PRODUCT. This wiki exists to show how an analyst's view of
+  a player evolved, so a thin bullet is close to worthless a year later. Aim for
+  90-150 words per substantive bullet, and carry the specifics that make it
+  re-readable: the actual numbers quoted (percentages, snap/target shares,
+  measurables), named player comps, the REASON behind the take, the stated risk
+  or caveat, the format tag, and any disagreement between the hosts. Do not
+  compress a detailed segment into one sentence -- if the episode spent five
+  minutes on a player, the bullet should show it. Short bullets are correct only
+  for genuinely brief mentions.
 - `index` is OPTIONAL. Include it only when the page is NEW or its HEADLINE view
   materially moved (injury, role/depth-chart shift, big ranking move, reversal).
   Max 25 words, lead with position/team. Omit it for a minor corroborating take.

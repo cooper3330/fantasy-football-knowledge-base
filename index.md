@@ -63,7 +63,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Kyler Murray]] — QB, ARI — one narrow knock: bails the pocket on proximity, "runs as if a bomb has blown up" when anyone gets within three yards *(2023 takes, stale)*
 - [[Drew Lock]] — QB, SEA — the wiki's case study in coachability; "surface level" game, a missed Peyton Manning lifeline, now a solid long-term backup *(2023 takes, stale)*
 - [[Gardner Minshew]] — QB, IND — the model backup: knows exactly who he is, executes schematically, doesn't lose you games *(2023 takes, stale)*
-- [[Anthony Richardson]] — QB, IND - Waldman's 'lottery ticket', aggressive target; Ballard corroborates passing-ability read
+- [[Anthony Richardson]] — QB, IND — trainer Will Hewlett's favorite prospect since Mahomes; Waldman argues pocket processing was underrated, not 'raw' (2024, pre-draft take)
 - [[Joe Flacco]] — QB, CLE — 2023 turnaround credited to O-line coach Tom Cable and Stefanski's scheme more than to Flacco himself; ran the Cleveland offense better than Watson has, but expected to hit the veteran-backup market after the Wild Card exit *(2024 takes, stale)*
 - [[Jordan Love]] — QB, GB — Waldman's Best Ball QB9 bargain, top-5 QB ceiling if young WRs mature
 - [[Dak Prescott]] — QB, DAL — "a good quarterback... when you give him the talent, he can give you elite production"; a boom/bust "prevailing wind" player, helped by the McCarthy scheme fit; Harmon reads the Wild Card blowout loss as having hit his ceiling relative to Jordan Love *(2024 takes, stale)*
@@ -72,7 +72,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Tua Tagovailoa]] — QB, MIA — a genuine anticipation/timing thrower who can be schemed into big windows, but a weak post-snap reader who struggles once those windows disappear; Harmon calls a Wild Card loss at KC "straight up bad," ceiling below Jared Goff's *(2024 takes, stale)*
 - [[Drake Maye]] — QB, UNC (2024 prospect) -- named lead coach-killer candidate, needs seasoning; skeptical Waldman read continues
 - [[Bo Nix]] — QB prospect - Waldman: Kirk-Cousins-like fit at Washington, game-manager-plus ceiling, mature decision-maker
-- [[Caleb Williams]] — QB, USC prospect — still the top 2024 QB prospect, but "the most boom-bust top prospect... in a few years"; won't check the ball down, Aaron Rodgers ceiling vs. Jay Cutler/Drew Lock floor; Waldman independently corroborates; a Cliff-Kingsbury-to-Washington trade-up scenario worries Waldman it's "the worst end of Caleb Williams to start his career" — more Kyler-Murray-esque instability than structured football; explicit verdict on the mock-draft top-3 — "hell no" all three (with Maye/Daniels) hit their draft capital, "most likely only one" does, and Williams is that one *(2024 pre-draft takes, stale)*
+- [[Caleb Williams]] — QB, CHI — trainer Will Hewlett calls him top-of-scale pro-ready with elite biomechanics; dismisses Manziel bust comps (2024, pre-draft take)
 - [[Jayden Daniels]] — QB, LSU (2024 prospect) -- named coach-killer candidate; half-beat-late processor, Marcus Mariota outcome risk
 - [[J.J. McCarthy]] — QB, Michigan (2024 prospect) -- named coach-killer candidate despite Waldman liking him; Brock Purdy-type ceiling
 - [[Spencer Rattler]] — QB, South Carolina prospect — better tape at South Carolina than Oklahoma per Waldman, moves better in the pocket than expected; strong vs. one of man/zone, poor vs. the other — "half a game" right now; Angelo's Senior Bowl take adds a real maturity/coachability angle — self-aware about a cocky younger self — on a mixed on-field week *(2024 pre-draft takes, stale)*
@@ -190,6 +190,9 @@ for the chronological record of ingests, queries, and lints.
 - [[Michael Wiley]] — RB, Arizona (2024 prospect) — Waldman: needs better leverage attacking defenders, same early issue Jahmyr Gibbs had
 - [[Gus Edwards]] — RB, LAC — Waldman: underrated best-ball value on Greg Roman history, 13 TDs, could figure prominently
 - [[Travis Etienne Jr.]] — RB, JAX — Best Ball RB6, near ceiling but preferred over unproven Tank Bigsby
+- [[J.K. Dobbins]] — RB, LAC — Waldman buying Dobbins at ~RB20 ADP in the Greg Roman offense; best-ball flyer (2024 speculation, stale).
+- [[Chuba Hubbard]] — RB, CAR — Waldman feeling Hubbard as CAR's de facto starter at RB39 ADP, clearly ahead of Miles Sanders (2024 speculation, stale).
+- [[Miles Sanders]] — RB, CAR — Waldman not buying at RB60 ADP; stagnated, outplayed by Chuba Hubbard from game one (2024 speculation, stale).
 
 ### Wide Receivers
 - [[Justin Jefferson]] — WR, MIN — Waldman: 1-2 with Ja'Marr Chase, negligible gap; would take Chase today only for Cincinnati's QB certainty edge
@@ -308,6 +311,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Tyler Boyd]] — WR, CIN — Harmon: overrated, declining, outside experiment doesn't work; open to Steelers fit (2024, stale)
 - [[Marquez Valdes-Scantling]] — WR, unsigned FA (Apr 2024) — Harmon/Koh sell on Chargers pairing w/ Quentin Johnston (stale)
 - [[DeVonta Smith]] — WR, PHI -- Angelo: rare WR2-can-be-WR1 talent; Waldman doubts his boundary physicality despite best 2 in league
+- [[Kayshon Boutte]] — WR, NE — Waldman's speculative stash add behind a thin NE WR room; talent vs. work-ethic question mark (2024 speculation, stale).
 
 ### Tight Ends
 - [[T.J. Hockenson]] — TE, MIN — great in zone, positions well in man; TE1 ceiling minus a tier with a backup QB *(2023 takes, stale)*

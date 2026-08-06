@@ -18,6 +18,7 @@ tags: [player]
 - 2024-01-16 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-01-16]]): unqualified superstar framing after a 10/9/181/TD Wild Card game against Detroit — the 181 receiving yards set an all-time NFL rookie playoff-game record. "Tell me what he's bad at" — the only hedge either host offers is limited long speed and short-area quickness/twitchiness relative to his toughness and after-catch ability, flagged as the one trait a defense might eventually be able to game-plan around. Cited (see [[Reception Perception Methodology]]) as now separating better against man coverage than [[Cooper Kupp]].
 
 - 2024-03-05 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-05]]): the Rams graded only "justifiable pursuit," not a real need, at receiver — Nacua called a "superstar," with credit given to Sean McVay's pattern of building "clear vision" role designs for drafted receivers (and being willing to play a rookie immediately despite generally not trusting rookies in his complex offense) as the reason the fit worked so well.
+- 2024-04-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-04-22]]) [Best Ball]: skeptical Nacua repeats his rookie season, expecting defenses to now exploit his weaknesses and a [[Cooper Kupp]] rebound to cut into his role; projects both settling into similar round 5-6 best-ball value.
 
 ## Related Concepts
 - [[Cooper Kupp]]

@@ -15,7 +15,9 @@ tags: [player]
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: going late second/early third round in early best balls, but "I'm not touching Josh Allen. I'm not going anywhere near him" — would only reconsider if he fell to round five or six, which he doesn't expect to happen. Prefers a receiver, running back, or top tight end at that price instead. Would reconsider a share if Buffalo landed a high-value rookie receiver early and it pushed Allen's price down. Separately floats [[Dalton Kincaid]] as effectively already Buffalo's wide receiver one, and discusses hypothetical Bills draft-fit archetypes for a rookie WR1 ([[Brian Thomas Jr.]], [[Keon Coleman]], [[Xavier Legette]], [[Johnny Wilson]], [[Javon Baker]]) to pair with Allen. See [[Stefon Diggs]] for Waldman's read on why Allen and Diggs's relationship soured.
 
 - 2024-04-15 — According to [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]]: in the [[C.J. Stroud]] dynasty-QB1 debate, cites Allen's "consistent level of production" even with [[Stefon Diggs]] already gone for most of last season as a reason he still can't be displaced from the top of dynasty quarterback rankings.
+- 2024-04-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-04-22]]): has a low-level worry about Josh Allen's makeup and commitment level, speculating he could be an early-to-mid-career version of Ben Roethlisberger in terms of wearing on coaches and teammates (not criminal behavior, but decision-making); still expects the on-field production to hold up and would bet on him remaining a stable fantasy option.
 
 ## Related Concepts
 - [[Stefon Diggs]]
 - [[Best Ball]]
+- [[Quarterback Processing and Confidence]]

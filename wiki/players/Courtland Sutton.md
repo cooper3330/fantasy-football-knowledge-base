@@ -22,6 +22,7 @@ tags: [player]
   your number one, I don't think it's fine — I think you want something a
   little higher ceiling." Ranked below [[George Pickens]] and roughly
   even-with-or-below [[Christian Kirk]] in the "disaster-adjacent" tier.
+- 2024-04-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-04-22]]) [Best Ball]: if Sutton stays in Denver with a rookie QB, projects him as a target-hog WR4/5 in best ball — 'the black hole power forward you've got to keep feeding the ball to' — capable of hot stretches and touchdown spikes despite inconsistency.
 
 ## Related Concepts
 - [[Russell Wilson]]

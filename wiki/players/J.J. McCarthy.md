@@ -36,6 +36,7 @@ tags: [player, prospect]
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]): asked directly whether McCarthy would have a better shot than [[Drake Maye]] at succeeding as a first-year starter, says yes — McCarthy's pocket movement and management are "a lot better in certain respects" than Maye's, even though Maye is the more athletic, tougher big-arm prospect. If forced to start one Day 1, "that's the guy I'd rather have," while reiterating he doesn't want either thrust into a starting role immediately.
 
 - 2024-04-11 — According to [[Matt Waldman]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-04-11 (Going Deep - Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes)]]): also names him a "coach killer" candidate (see [[Coach Killer Prospects]]) despite liking him — thinks he can be a Brock Purdy-type quarterback with a bit more raw physical ability, but flags the risk as a repeat of the "Mitch Trubisky syndrome" (the well-liked, smiling prospect the fanbase falls for who doesn't pan out). Calls him "a pretty tight player that can be successful," but not a quarterback he'd trade up for.
+- 2024-04-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-04-22]]): expects McCarthy to be fine in the short-to-intermediate passing game for Denver but unproven in the deep game, projecting an 'upgraded Jake Plummer' outcome if he lands there; notes untracked analyst Cecil Lammey (via the Audible podcast) believes McCarthy is specifically the QB Sean Payton wants.
 
 ## Related Concepts
 - [[Dynasty]]

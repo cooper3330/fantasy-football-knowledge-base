@@ -921,3 +921,9 @@ Aiyuk pegged as Harmon's dynasty WR8 and a must-re-sign X-receiver; DeVonta Smit
 
 ## [2024-04-18] ingest | Reception Perception: The Show — Xavier Legette & Troy Franklin Breakdowns
 New RP profiles added evaluative depth on 2024 WR prospects Xavier Legette (Round 2, Deebo/Alshon-hybrid deployment, higher ceiling/lower floor) and Troy Franklin (Round 2, Jordan Addison-style lid-lifter role, drop concerns); corroborating comparative RP data also added to Keon Coleman and Jordan Addison pages.
+
+## [2024-04-22] ingest | Matt Waldman's RSP Cast — Feel It Or F@#k It: 4.22.24: An RSP Cast with Bob Harris and Matt Waldman
+Pre-draft speculation episode: added landing-spot and current best-ball/dynasty ADP value takes across ~20 players, including disagreement on DeVonta Smith vs. Jaylen Waddle, skepticism on Puka Nacua repeating / Cooper Kupp rebounding, Sam Darnold skepticism next to Justin Jefferson, and Denver/New England rookie-QB scenarios (Nix, Penix, McCarthy, Maye). New pages created for J.K. Dobbins, Chuba Hubbard, Miles Sanders, and Kayshon Boutte.
+
+## [2024-04-23] ingest | Matt Waldman's RSP Cast — Caleb Williams, Brock Purdy, and Anthony Richardson – QB Therapy with Will Hewlett
+Trainer Will Hewlett (guest, untracked) gave detailed pre-draft evaluations elevating Caleb Williams (unmatched velocity variance and T-spine rotation, 'as pro-ready as anyone I've worked with') and Anthony Richardson ('favorite QB since Mahomes,' worth #1 overall on traits); Waldman pushed back on the 'raw' Richardson label and revisited Drew Lock's coachability struggles as a cautionary scouting lesson.
