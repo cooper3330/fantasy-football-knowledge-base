@@ -32,6 +32,7 @@ tags: [player]
   [[D.J. Moore]]," and reads a Koh-favored outcome as more likely to mean the
   offense itself is struggling, not that Allen is thriving.
 - 2024-05-14 — According to Adam Rank ([[Reception Perception The Show - 2024-05-14]]), not a tracked expert: [[Keenan Allen]] is 'probably a little long in the tooth' with the Bears and likely can no longer handle a full X-receiver workload, but Rank still expects him to be moved around the formation and used primarily inside, complementing [[DJ Moore]] and [[Rome Odunze]] rather than anchoring the offense on the outside.
+- 2024-07-30 — According to James Koh (co-host, not a tracked expert) ([[Reception Perception The Show - 2024-07-30]]): Koh contends publicly that Allen will lead the Bears in targets, receptions and yardage over the first four weeks of the season, because for the first time in years he is not the number one and will face a lower level of cornerback play with no double teams — while a rookie quarterback adjusting to NFL speed goes to the guy who is 'dang wide open every damn time'. He expects [[D.J. Moore]] to take over as the season progresses and notes Allen is longer in the tooth and likely fades late. [[Matt Harmon]] agrees Allen should be a pure slot at this stage of his career and frames him as almost always the low read on a high-low concept, with Moore and [[Rome Odunze]] as the high reads — so the target projection depends entirely on how willing [[Caleb Williams]] is to work in structure and check down, which is a real question given how much he was pushed out of structure at USC. Both note Allen is part of what Koh calls the second-best receiver trio in the NFL behind Houston.
 
 ## Related Concepts
 - [[Zone vs Man Route Running]]
@@ -39,3 +40,4 @@ tags: [player]
 - [[Aging Curves and Career Longevity]]
 - [[D.J. Moore]]
 - [[Reception Perception Methodology]]
+- [[Role Difficulty and Replaceability]]

@@ -24,8 +24,11 @@ tags: [player]
   somehow did lead the team in targets it would mean the offense itself was
   struggling. Both agree the Odunze/Moore/Allen trio would "easily" catapult
   Chicago into the conversation for best receiver room in the NFL.
+- 2024-07-30 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-07-30]]): Moore has graduated from tier three to tier two — in Harmon's language, from 'a passable number one' to 'a superstar number one receiver' — after playing like a superstar number one in 2023, and he is a clear-cut top-20 receiver with a fair argument for top-15 over names like [[Stefon Diggs]] and [[Cooper Kupp]]. He was awesome against press and on downfield routes last year, and Harmon says a genuinely good passing game can flow through him as the top target. Harmon and Koh partly disagree on deployment: Harmon argues Moore is one of the rare receivers with no bad alignment — he can win as an iso X and 'put bad DBs in a blender', as in the Thursday night Washington game — while Koh insists Moore is maximized only as a movable chess piece, because sticking him at X takes away his inside work and he is not so dominant outside that you win every snap there. Harmon largely lands with Koh in practice: with [[Rome Odunze]] arriving as a big true X, Chicago can finally put Moore off the line of scrimmage and get him on YAC routes and in space. He also expects Moore to remain the heavy favourite to lead the team in receiving yards and in first-three-read targets, and projects him for the most targets, receptions and yardage on the season.
 
 ## Related Concepts
 - [[Caleb Williams]]
 - [[Keenan Allen]]
 - [[Rome Odunze]]
+- [[Scheme vs Talent]]
+- [[Reception Perception Methodology]]

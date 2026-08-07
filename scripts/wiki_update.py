@@ -236,6 +236,20 @@ def _section(lines, heading):
     return start + 1, end
 
 
+def _yaml_value(v):
+    """Render a plan's frontmatter value as YAML, not as Python.
+
+    A plan arrives as JSON, so `tags` is a real list. Interpolating it with str()
+    emits Python's repr -- tags: ['concept', 'scheme'] -- whose quotes become part
+    of each tag when parsed. That silently breaks every tag search and Dataview
+    query the frontmatter exists to serve, while the page still looks fine in
+    prose. Emit a plain YAML flow sequence instead.
+    """
+    if isinstance(v, (list, tuple)):
+        return "[" + ", ".join(str(x).strip() for x in v) + "]"
+    return str(v)
+
+
 def _create_page(kind, name, path, fm):
     tpl = REPO / "wiki" / "_templates" / f"{kind}.md"
     if not tpl.exists():
@@ -250,7 +264,7 @@ def _create_page(kind, name, path, fm):
     for line in tpl.read_text(encoding="utf-8").split("\n"):
         key = line.split(":", 1)[0].strip() if ":" in line else None
         if key and key in (fm or {}) and line.startswith(f"{key}:"):
-            out.append(f"{key}: {fm[key]}")
+            out.append(f"{key}: {_yaml_value(fm[key])}")
         elif line.startswith("# {{"):
             out.append(f"# {name}")
         elif line.strip() == "-":       # template's empty placeholder bullet

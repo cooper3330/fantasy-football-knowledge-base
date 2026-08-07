@@ -18,8 +18,10 @@ tags: [player, prospect]
 - 2024-03-23 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-03-23]]), solo RB-class cast [Dynasty]: backs up the "underrated" tag with charted contact-balance data — broke 6-of-9 (67%) tracked hits from defensive linemen, 7-for-7 from linebackers, and 10-of-14 (71%) from defensive backs, 79% overall across a 24-hit sample. A 12% broken-tackle rate specifically on linebacker wraps, which Waldman places in the same tier as [[Jonathan Brooks]], [[Trey Benson]] and [[Rasheen Ali]].
 
 - 2024-04-11 — According to [[Matt Waldman]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-04-11 (Going Deep - Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes)]]): names him one of his favorite off-radar prospects — third straight year Holani's been in the RSP after Waldman twice guessed wrong about his draft eligibility. Cites a UCLA-game viewing where Holani showed better contact balance and quickness than expected, "makes people miss and breaks tackles" more than credited for. Updated career-shape comp: more of a Jeff Wilson with a little extra pop, rather than the more explicit change-of-pace/scat-back framing from earlier reads.
+- 2024-08-19 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-08-19]]) [Dynasty]: 'fuck it unless he makes this roster' for redraft, but a dynasty player to watch. Holani is fighting Kenny McIntosh for the Seattle RB3 job and Waldman expects McIntosh may edge him out, leaving Holani cut and looking for work elsewhere — which would not be a bad outcome, because a number of teams could want him. The strong camp is notable: good size, good power, contact balance, speed and quickness, good movement, and a very good pass catcher. Michael-Shawn Dugar of The Athletic also flags him as an excellent blocker, and Waldman notes those little things are often what decides whether a back makes a roster.
 
 ## Related Concepts
 - [[Dynasty]]
 - [[Dylan Laube]]
 - [[Daijun Edwards]]
+- [[Training Camp Report Skepticism]]

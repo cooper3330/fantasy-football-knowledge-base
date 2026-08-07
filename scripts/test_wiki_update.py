@@ -110,6 +110,14 @@ r = run("--page-append", "player", "NoFm", "2024-05-05", "take", expect=1)
 check("new player page without frontmatter is refused",
       not (ROOT / "wiki" / "players" / "NoFm.md").exists() and "required" in r.stdout + r.stderr)
 
+# --- list frontmatter renders as YAML, not Python repr ---------------------
+run("--page-append", "concept", "Tagged", "2024-05-05", "take",
+    "--frontmatter", json.dumps({"tags": ["concept", "scheme", "alignment"]}))
+tagged = (ROOT / "wiki" / "concepts" / "Tagged.md").read_text()
+check("list frontmatter emits a YAML flow sequence",
+      "tags: [concept, scheme, alignment]" in tagged, tagged.split("---")[1])
+check("no Python repr quotes in frontmatter", "'" not in tagged.split("---")[1], tagged)
+
 # --- related dedup --------------------------------------------------------
 run("--page-append", "player", "Existing", "2024-04-04", "take", "--related", "Already There")
 check("related link not duplicated",

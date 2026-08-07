@@ -22,6 +22,7 @@ tags: [player]
   "doesn't really matter" who's in the backfield as long as [[Joe Burrow]]
   stays upright.
 - 2024-07-01 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-07-01]]) [Redraft]: In a feel-it-or-f-it pairing against [[Chase Brown]], Waldman picks Moss (RB26 ADP versus Brown's RB36) despite believing Brown has more long-term upside, saying he thinks Moss's current price will hold up better through the summer while Brown's rising buzz is more 'camp hype' than settled backfield direction.
+- 2024-07-29 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-07-29 (Feel It or F-It)]]): Moss and [[Chase Brown]] are close to even as players, but Moss lacks Brown's big-play speed and is going roughly two rounds earlier in drafts, which makes him the worse fantasy investment of the two. Waldman notes Paul Dehner Jr. of The Athletic maintained even after Cincinnati signed Moss that Brown would be a bigger part of the offense no matter what. Bob Harris (not tracked) adds that Brown running with the first team has him buying Brown shares in real time and expects the bloom to come off Moss's price soon.
 
 ## Related Concepts
 - [[Joe Mixon]]

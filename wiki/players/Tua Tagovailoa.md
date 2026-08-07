@@ -18,8 +18,10 @@ tags: [player]
 - 2024-02-19 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-02-19]]): a more optimistic redraft-relevant read than Harmon's January critique — reframes 2023 (4,624 yards, 29 TD, 69% completion, QB9) as not yet his statistical peak, expecting his next two-to-three seasons to land in low-end fantasy QB1 range as he continues developing. Diagnoses the market's skepticism as an archetype-recognition problem rather than a talent problem: evaluators discount "limited" throwers who lack elite arm strength or mobility, the same dynamic Waldman says has kept [[Kirk Cousins]] and [[Jared Goff]] perennially undervalued.
 
 - 2024-04-15 — According to [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]]: no concerns about him as Miami's franchise quarterback going forward despite no new contract yet — credits how he took care of his body to stay upright and healthy through 2023, and reads the working relationship with HC Mike McDaniel as a positive signal even without a formal extension announced.
+- 2024-07-12 — According to JJ Zachariason (not a tracked expert) ([[Matt Waldman's RSP Cast - 2024-07-12]]) [Redraft (Standard)]: Tua is grouped with Brock Purdy as an undervalued late 'pocket passer' pairing against CJ Stroud, citing Tua's strong supporting cast and offensive environment. Waldman's caveat: watch Miami's receiver depth chart -- if Jonnu Smith ends up leading the team in receiving, 'some shit has really gone wrong,' signaling real trouble for Tua's passing efficiency, since Smith is more of a nice dart-throw than a lead option.
 
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Jared Goff]]
 - [[Reception Perception Methodology]]
+- [[Pocket Passer Trap]]

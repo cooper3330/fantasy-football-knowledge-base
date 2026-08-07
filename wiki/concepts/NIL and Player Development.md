@@ -45,9 +45,11 @@ NIL to remove a small number of elite, pro-ready prospects from a given draft
 class rather than to thin classes broadly, and do not expect NFL-side
 development to improve. Both are checkable predictions worth revisiting against
 later drafts.
+- 2024-09-11 — According to guest co-host Felix Sharpe of Campus to Canton (NOT a tracked expert) on [[Matt Waldman]]'s show ([[Matt Waldman's RSP Cast - 2024-09-11]]) [Dynasty]: Sharpe framed [[Cam Ward]]'s return to school as an NIL-driven, multimillion-dollar decision — Ward declared for the NFL draft after 2023, when Sharpe says there was no way he goes in the first round, and Miami paid to bring him back and to bring in running back Damian Martinez as well. His point for devy players is that NIL money now buys a program a supporting cast, and an extra year of staying in college to refine your game against better teammates can move a prospect from a day-three projection to a genuine first-round conversation.
 
 ## Related
 - [[Player Development and Coachability]] — the player/organization half
 - [[Dynasty]]
 - [[Aging Curves and Career Longevity]]
 - [[Matt Waldman]]
+- [[Cam Ward]]

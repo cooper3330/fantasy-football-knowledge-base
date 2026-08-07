@@ -24,8 +24,10 @@ tags: [player]
   the hosts pair with Arizona at #4 in a top-10 mock scenario. Also flagged as
   a better fit at true X than [[Marquise Brown]], who the previous Arizona
   staff mis-deployed running Marvin Harrison-style in-breaking/slant routes.
+- 2024-08-06 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-08-06]]): Wilson was far more solid as a rookie than people realize, and his profile carries real similarities to [[Michael Pittman Jr.]]'s rookie-year RP profile. He was used early as a flanker and near power-slot, a role Harmon expects Arizona to keep exploiting as a big slot, but the important data point is the final three games after Hollywood Brown went down, all with [[Kyler Murray]]: Wilson took 81.8% of sampled snaps outside and 87.3% on the line of scrimmage, and Murray was willing to throw him the ball in tight coverage as the X, with varying success. Harmon says that matters because a functional part-time X lets Arizona move [[Marvin Harrison Jr.]] around the formation. He also names a step forward from Wilson as one condition that could make Arizona the division's best receiver room.
 
 ## Related Concepts
 - [[Post-Rookie-Year Receiver Model]]
 - [[Dynasty]]
 - [[Marvin Harrison Jr.]]
+- [[Role Difficulty and Replaceability]]

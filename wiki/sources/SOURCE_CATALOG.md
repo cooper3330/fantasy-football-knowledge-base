@@ -122,6 +122,36 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-07-05 | [[Matt Harmon]] | Jaylen Waddle & Demario Douglas Profiles | [[Reception Perception The Show - 2024-07-05]] |
 | 2024-07-08 | [[Matt Waldman]] | Feel It or F**k It 7.8.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-07-08]] |
 | 2024-07-09 | [[Matt Harmon]] | The Jets Are Betting On Aaron Rodgers...Again | [[Reception Perception The Show - 2024-07-09]] |
+| 2024-07-11 | [[Matt Harmon]] | Which AFC South Team Has The Best WR Room? | [[Reception Perception The Show - 2024-07-11]] |
+| 2024-07-12 | [[Matt Waldman]] | JJ Zachariason and the Late-Round Draft Guide | [[Matt Waldman's RSP Cast - 2024-07-12]] |
+| 2024-07-15 | [[Matt Waldman]] | Feel It or F**k It 7.15.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-07-15]] |
+| 2024-07-16 | [[Matt Harmon]] | Diving Into the NFC East Offenses | [[Reception Perception The Show - 2024-07-16]] |
+| 2024-07-18 | [[Matt Harmon]] | Breaking Down Offensive Lines w/ Brandon Thorn | [[Reception Perception The Show - 2024-07-18]] |
+| 2024-07-22 | [[Matt Waldman]] | Feel It or F–It 7.22.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-07-22]] |
+| 2024-07-23 | [[Matt Harmon]] | AFC North Breakdown | [[Reception Perception The Show - 2024-07-23]] |
+| 2024-07-25 | [[Matt Harmon]] | NFC South Breakdown | [[Reception Perception The Show - 2024-07-25]] |
+| 2024-07-29 | [[Matt Waldman]] | Dwain McFarland and Matt Waldman RSP Cast: Digging into the 2024 Fantasy Draft Prospects | [[Matt Waldman's RSP Cast - 2024-07-29]] |
+| 2024-07-29 | [[Matt Waldman]] | Feel It or F-It 7.29.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-07-29 (Feel It or F-It)]] |
+| 2024-07-30 | [[Matt Harmon]] | NFC North Breakdown | [[Reception Perception The Show - 2024-07-30]] |
+| 2024-08-01 | [[Matt Harmon]] | AFC West Breakdown | [[Reception Perception The Show - 2024-08-01]] |
+| 2024-08-05 | [[Matt Waldman]] | Feel It or F–It 8.5.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-08-05]] |
+| 2024-08-06 | [[Matt Harmon]] | NFC West Breakdown | [[Reception Perception The Show - 2024-08-06]] |
+| 2024-08-08 | [[Matt Harmon]] | Let's Talk About Some Obscure Wide Receivers | [[Reception Perception The Show - 2024-08-08]] |
+| 2024-08-12 | [[Matt Waldman]] | 2024 NFL Preseason Risers, Fallers, and Curiosities: Matt Waldman's RSP Solo Cast | [[Matt Waldman's RSP Cast - 2024-08-12]] |
+| 2024-08-19 | [[Matt Waldman]] | Feel It or F–It 8.19.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-08-19]] |
+| 2024-08-22 | [[Matt Waldman]] | Preseason Buzz & Regular Season Predictions: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-08-22]] |
+| 2024-08-26 | [[Matt Waldman]] | Feel It or F–It 8.26.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-08-26]] |
+| 2024-08-27 | [[Matt Harmon]] | What Do We Think of These Rookie Quarterbacks? | [[Reception Perception The Show - 2024-08-27]] |
+| 2024-08-29 | [[Matt Harmon]] | Diving Deep Into Some Wide Receiver Rooms | [[Reception Perception The Show - 2024-08-29]] |
+| 2024-09-02 | [[Matt Waldman]] | Feel It or F–It 9.2.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-09-02]] |
+| 2024-09-03 | [[Matt Harmon]] | 2024 NFL Season Hot Takes! | [[Reception Perception The Show - 2024-09-03]] |
+| 2024-09-05 | [[Matt Harmon]] | All Rise: Week 1 is Upon Us | [[Reception Perception The Show - 2024-09-05]] |
+| 2024-09-05 | [[Matt Waldman]] | Hot Start, Cold Finish Predictions and '25 NFL Draft Prospects: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-09-05 (Going Deep)]] |
+| 2024-09-05 | [[Matt Waldman]] | Managing September, Kickoffs, Kyler, and Where You Fantasy GMs F–d Up While We Were Gone: RSP Film and Theory with Adam Harstad | [[Matt Waldman's RSP Cast - 2024-09-05 (Film and Theory)]] |
+| 2024-09-09 | [[Matt Waldman]] | Feel It or F-It 9.9.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-09-09]] |
+| 2024-09-10 | [[Matt Harmon]] | Week 1 Recap! | [[Reception Perception The Show - 2024-09-10]] |
+| 2024-09-11 | [[Matt Waldman]] | Emerging College Football Stars and Backups to Know: RSP/Campus to Canton Podcast with Felix Sharpe | [[Matt Waldman's RSP Cast - 2024-09-11]] |
+| 2024-09-12 | [[Matt Waldman]] | Week 1 Developments, Identifying Worthwhile Trades, the Argument for Ed Reed's All-Time Greatness: RSP Film and Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-09-12]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

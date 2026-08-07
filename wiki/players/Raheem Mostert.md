@@ -19,8 +19,10 @@ tags: [player]
 
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: Miami's $9M extension through 2025 confirms Mostert will play a central role in 2024, complicating [[De'Von Achane]]'s touch outlook. Says his week-to-week role "is up and down for him and it's gonna remain up and down for him to an extent" — but volume is a big deal for RBs, and Waldman has personally won leagues sitting on cheap Mostert shares (round 8, RB27 ADP this cycle) until the volume opportunity showed up.
 - 2024-05-17 — According to [[Brandon Angelo]] ([[Matt Waldman's RSP Cast - 2024-05-17]]) [Dynasty]: Angelo projects Mostert, who turns 32 by the end of next season, is playing his last usable year as a lead option in Miami, with the team wanting to keep [[De'Von Achane]] fresh and [[Jaylen Wright]] positioned to become the backfield's touch leader by next season.
+- 2024-08-05 — According to Bob Harris (co-host, not a tracked expert) on [[Matt Waldman's RSP Cast - 2024-08-05]]: Mostert in the seventh or eighth round is far more appealing than [[De'Von Achane]] in the second, because he does not think Mostert goes away — while conceding that if at all possible the younger player gets moved in front of him. [[Matt Waldman]] agreed on role: he expects Mostert or another back to take the north-south work while Achane handles east-west open-space touches, though he thinks the workload split will be closer than it was the previous season.
 
 ## Related Concepts
 - [[Injury-Agnostic Roster Construction]]
 - [[Best Ball]]
 - [[Christopher Brooks]]
+- [[De'Von Achane]]

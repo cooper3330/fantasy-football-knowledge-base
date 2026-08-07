@@ -35,6 +35,7 @@ tags: [player]
 
 - 2024-04-15 — According to [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]] [Best Ball]: says he personally drafted Thielen at the end of drafts last year and it worked out — Thielen was a fantasy WR1 through Weeks 12-13 despite [[Bryce Young]] posting some of the worst rookie-QB numbers in league history, before tailing off. Cites it as evidence of upside value in both Thielen and [[Diontae Johnson]] at their current ADPs if Young takes a step forward.
 - 2024-06-20 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-06-20]]): projected to start as Carolina's Z receiver in two-WR sets and kick inside to the slot in 11 personnel once Xavier Legette is on the field. Harmon calls him a 'reliable veteran slot receiver' who'll serve as Bryce Young's checkdown answer against zone coverage when the primary read doesn't come open — everybody's 'kind of bored' by Thielen, per Harmon, but he's a stabilizing presence for a young QB.
+- 2024-07-25 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-07-25]]): Thielen's 103 catches on 137 targets for 1,014 yards, four touchdowns and a 75% catch rate say less about him than about a room where he was the only game in town — the alternatives were [[Jonathan Mingo]] miscast outside as a day-one rookie and [[D.J. Chark]], whom Harmon calls the worst 2022 performer in success rate vs man, zone and press. He credits Thielen for playing well on short option routes that let [[Bryce Young]] get the ball out fast, and sees his old Minnesota flanker-slot role fitting in 2024. With [[Diontae Johnson]] added, Harmon frames him as a comfortable number two who no longer has to carry the offense; Koh expects the counting stats to take a huge dip while the catch rate stays high.
 
 ## Related Concepts
 - [[Scouting Bias and Player Archetypes]]
@@ -43,3 +44,4 @@ tags: [player]
 - [[Jonathan Mingo]]
 - [[Bryce Young]]
 - [[Best Ball]]
+- [[Weak Quarterback Play and Receiver Value]]

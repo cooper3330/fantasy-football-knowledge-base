@@ -28,7 +28,9 @@ tags: [player]
 
 - 2024-03-21 — According to [[Matt Harmon]] and James Koh (co-host — not a tracked expert) ([[Reception Perception The Show - 2024-03-21]]): projects Mooney as a flanker rather than a true slot receiver despite Chicago playing him in the slot ~60% of his snaps in 2023 (~50% in 2022) — his best season, a 2021 1,055-yard, 140-target breakout, came when he played outside about 55% of the time. Harmon: "I don't see him as a slot guy that's going to win on slant routes," instead projecting a "vertical slot" or speed-Z role on roughly a 60-40 outside/slot split, leaning on his 4.38 speed. Calls him a good fit next to [[Drake London]] but still just a WR3-caliber piece ("a 3") in Atlanta's room, not a true X.
 - 2024-07-04 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-07-04]]) [Redraft (Standard)]: Waldman noted Mooney signed for real money in Atlanta and views him as a viable second receiving option behind [[Drake London]], especially since the depth behind them ([[Casey Washington]], Ray-Ray McCloud, Scotty Miller) offers little proven production.
+- 2024-07-25 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-07-25]]): Mooney profiles best as a flanker rather than an outside X, described as a decent man-coverage beater who can kick inside to the slot and function as a vertical threat on one side of the formation while [[Drake London]] works in-cutting routes underneath. Koh calls him 'fine' and 'a decent three' with a 1,000-yard season on his resume, but groups him with [[Rondale Moore]] as a move Atlanta made that did not add an impact player. Neither host sees him changing the fact that London is essentially the only real outside receiver on the roster.
 
 ## Related Concepts
 - [[League Trend Cycles and Market Inefficiency]]
 - [[Drake London]]
+- [[Role Difficulty and Replaceability]]

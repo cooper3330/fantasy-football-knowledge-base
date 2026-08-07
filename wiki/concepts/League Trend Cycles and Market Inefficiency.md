@@ -51,6 +51,8 @@ articulated.
 
 - 2024-04-11 — According to [[Brandon Angelo]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-04-11 (Going Deep - Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes)]]): applies the pattern to 2024 running back draft capital — "the NFL always errors towards the big school, they always have, they always will." Worked example: pound-for-pound, [[Kimani Vidal]] (Troy) grades as the better back than [[Marshawn Lloyd]] (USC), but Vidal is projected to a Day 3 (4th-6th round) slot with a short leash while Lloyd goes round two as a likely first-back-off-the-board with a longer leash — purely a function of school pedigree and draft capital, not tape.
 - 2024-06-10 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-06-10]]): framed the [[Malik Nabers]] vs. [[Marvin Harrison Jr.]] rookie WR gap (Nabers going WR20/pick 28 vs. Harrison WR9/pick 13, despite Waldman's own point projections being close: 1,000/82/7 vs. 928/77/6) as pure opportunity cost -- the price gap is too wide relative to the projected production gap, so he's drafting far more shares of Nabers than Harrison even while still buying 'some shares' of Harrison for safety. He raised a similar mispricing point on [[Devin Singletary]] going as low as RB32/ADP 107 despite being a proven, on-field lead back.
+- 2024-07-12 — According to JJ Zachariason (not a tracked expert) ([[Matt Waldman's RSP Cast - 2024-07-12]]): his core philosophy is that fantasy outliers (Puka Nacua, Kyren Williams-type seasons) aren't projectable, but the process of identifying where outliers can occur is exploitable -- build median-outcome projections mainly to understand the competitive field, then 'like a player more than the market does' when the profile (advanced per-route metrics, efficiency in limited usage, favorable landing spot) supports it, without needing to predict the specific breakout. He stressed sustainability over one-year luck: a repeatable process matters more than any single hit, and disciplined outlier-hunting (knowing the 'why' behind a pick) beats either pure chalk or undisciplined dart-throwing.
+- 2024-07-29 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-07-29 (Feel It or F-It)]]): training-camp content is a hype machine — Waldman's 'molly dispenser' metaphor, with the league opening camps precisely because analysts, beat writers and fans will push the product on emotion, and fans treating a camp darling like a new relationship they will fight anyone for questioning. He applies it to the Charles Robinson [[Deebo Samuel]] comparison for [[Jordan Whittington]] (good clicks) and, via Ed Valentine, to first-team reps in July, which are often a coach wanting a look rather than a depth-chart move — see [[Deneric Prince]]. The exploitable flip side is platform-dependent pricing: Waldman notes [[Malik Nabers]] is fully priced on Underdog-style sites but available around pick 64 in ESPN and home leagues, where the edge actually lives.
 
 ## Related
 - [[Running Back Size and Movement Skills]]
@@ -62,3 +64,7 @@ articulated.
 - [[Christian McCaffrey]]
 - [[Jahmyr Gibbs]]
 - [[Darnell Mooney]]
+- [[Ladd McConkey]]
+- [[Malik Nabers]]
+- [[Jordan Whittington]]
+- [[Deneric Prince]]

@@ -24,6 +24,8 @@ tags: [player]
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: "hates" Ekeler's move to Washington from a fantasy standpoint given how good [[Brian Robinson Jr.]] looked in 2023 — reads Ekeler's cheap two-year, $11M deal ($5M year one, up to $1.5M in likely-unreachable incentives) as a market signal he's viewed as a complementary piece (a McKissick-type role) rather than a true lead back, and expects the split to be "disappointing for both players unless one gets hurt."
 - 2024-07-01 — According to [[Matt Waldman]] and Bob Harris (co-host, not tracked) ([[Matt Waldman's RSP Cast - 2024-07-01]]) [Redraft]: Waldman takes Ekeler over [[Brian Robinson Jr.]] in a feel-it-or-f-it pairing despite Ekeler's price having 'plummeted' to RB40 -- earlier in the best ball season he was going well ahead of Robinson -- arguing he hasn't fully declined and may never have recovered from an early ankle injury that masked his real level last year. Bob disagrees, taking Robinson instead, calling this the pairing he 'feels like I'm making the wrong pick on' even as he sticks with Ekeler.
+- 2024-07-15 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-07-15]]) [Redraft (Standard)]: Debating who's underrated between Austin Ekeler and [[Brian Robinson Jr.]] in Washington, Bob Harris (untracked) took the pro-Ekeler side, arguing there's still plenty left in the tank after an injury-limited season and admitting his own bias toward older backs. Waldman disagreed, saying he does not think Ekeler can reclaim the lead-back role over Robinson, though his own rankings still have Ekeler slightly ahead overall -- a gap that has closed sharply since the signing, when Ekeler was priced well above Robinson early in best ball drafts. Both expect Ekeler to keep passing-down and two-minute duties. Waldman also raised lingering doubt about whether Ekeler is fully himself after last year's high-ankle sprain, grouping him with [[Kyle Pitts]] and [[Tony Pollard]] as players who may not have fully healed from a significant injury.
+- 2024-07-16 — According to James Koh (not a tracked expert) ([[Reception Perception The Show - 2024-07-16]]): Koh called Washington's signing of Ekeler 'a smart decision' to bolster the passing-down group, expecting him to work as a receiving-back complement to early-down runner [[Brian Robinson Jr.]] and create matchup problems out of the backfield. [[Matt Harmon]] did not push back on the take. [Redraft (Standard)]
 
 ## Related Concepts
 - [[Redraft (Standard)]]
@@ -31,3 +33,4 @@ tags: [player]
 - [[Travis Kelce]]
 - [[Dynasty]]
 - [[Brian Robinson Jr.]]
+- [[Healthy Enough to Play vs. Healthy Enough to Perform]]

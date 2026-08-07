@@ -26,6 +26,7 @@ tags: [player]
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]) [Best Ball]: moving up in his rankings after the [[Stefon Diggs]] trade — with three startable wide receivers now in the base offense ([[Nico Collins]], [[Tank Dell]], Diggs), Houston has the kind of top-24-caliber-across-the-board stability Waldman looks for in a top-five quarterback, comparable to [[Joe Burrow]] with Boyd/Higgins/Chase or [[Kirk Cousins]] with Hockenson/Jefferson/Addison.
 
 - 2024-04-15 — According to [[Matt Waldman]] on [[Feel It Or F@#k It - 2024-04-15]]: on chatter naming him dynasty QB1 after the [[Stefon Diggs]] trade, "feeling" the idea he's now firmly top-5 and arguably top-3, but "f\*\*k" a definitive QB1 claim — too many quarterbacks (Mahomes, [[Josh Allen]], [[Jalen Hurts]], [[Lamar Jackson]], arguably [[Joe Burrow]]) have a real claim to the top spot depending on preferred skill set.
+- 2024-07-12 — According to JJ Zachariason (not a tracked expert) ([[Matt Waldman's RSP Cast - 2024-07-12]]) [Redraft (Standard)]: Stroud is his central example against 'high-end pocket passer' QB1s -- despite great weapons and hype, Stroud didn't hit 19 fantasy points/game last year and wasn't a weekly league-winner, which he cites as evidence that immobile top-tier QBs underperform mobile QB1s/high-end QB2s at hitting the 20-22 point/game thresholds that separate a real QB1. Since 2014, only 5 of 23 immobile QBs drafted in the top 5 rounds (rushing under 3 points/game) exceeded their ADP expectation. His advice: fade Stroud in favor of pairing two cheaper 'pocket passer' QB2s (e.g. Brock Purdy/Tua Tagovailoa) later in drafts, since one of that pair mathematically has a good chance to match or beat Stroud's output.
 
 ## Related Concepts
 - [[Jared Goff]]
@@ -34,3 +35,4 @@ tags: [player]
 - [[Scheme vs Talent]]
 - [[Stefon Diggs]]
 - [[Tank Dell]]
+- [[Pocket Passer Trap]]

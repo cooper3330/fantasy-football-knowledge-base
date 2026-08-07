@@ -37,6 +37,7 @@ tags: [player]
   disappeared, which Harmon reads as "this offense sucks," not evidence Kirk
   is the alpha of Jacksonville's passing game. Flags Jones's age as a real risk
   to Kirk's supporting cast.
+- 2024-07-11 — According to [[Matt Harmon]] and James Koh (untracked co-host) ([[Reception Perception The Show - 2024-07-11]]): Kirk is 'a good player' with established chemistry with [[Trevor Lawrence]] and will lead the Jacksonville WR room's targets early in 2024, before [[Brian Thomas Jr.]] is expected to take over as the passing-game focal point roughly after week eight. Harmon does not view him as 'a needle-moving slot receiver.'
 
 ## Related Concepts
 - [[League Trend Cycles and Market Inefficiency]]

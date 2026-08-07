@@ -24,9 +24,11 @@ tags: [player]
 
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]): feeling good on Cook (going as a tail-end RB1/early RB2) even as Buffalo adds a bigger complementary back who could take some short-yardage/red-zone work — doesn't think it takes away much, since Cook has shown he can hold up between the tackles on a real workload. Says 2023 is likely close to his ceiling and expects it to hold steady even with an added complementary piece, since Waldman doesn't expect Buffalo's addition to be a true Jonathan Brooks/Blake Corum-caliber lead-back threat, more a pass-protection-limited complement.
 - 2024-04-29 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-04-29]]): downplayed the threat to Cook's touches from the Ray Davis pick, arguing Josh Allen's own habit of vulturing goal-line carries already suppresses touchdown work for any Bills running back more than a rookie committee mate would. He expects Cook to have 'another good season' as Buffalo's clear lead back in 2024, with Davis carving out only a situational short-yardage role behind him.
+- 2024-07-18 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-07-18]]): Harmon highlighted that Cook posted a 2.4 average depth of target last season -- noting only he and [[Saquon Barkley]] have topped a 2.0 aDOT among running backs over the last two years -- calling him a real weapon in the Bills' pass game as new OC Joe Brady looks to lessen the load on [[Josh Allen]]'s shoulders. Guest OL analyst Brandon Thorn (not tracked) added that Buffalo's ascending offensive line (13th-ranked, with LT Dion Dawkins coming off his best season and added size at guard/center) should keep opening rush lanes for both Cook and power back Ray Davis, reinforcing a run-first shift under Brady.
 
 ## Related Concepts
 - [[Redraft (Standard)]]
 - [[Best Ball]]
 - [[Running Back Size and Movement Skills]]
 - [[Pace Control and Movement Intellect]]
+- [[Scheme vs Talent]]

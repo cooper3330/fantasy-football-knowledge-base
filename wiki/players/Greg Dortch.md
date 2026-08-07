@@ -21,6 +21,8 @@ tags: [player]
   he's on the field. Preferred over [[Rondale Moore]] in the slot role Arizona
   previously earmarked for Moore. Still framed as a projection, not a proven
   role.
+- 2024-08-06 — According to James Koh (not a tracked expert) on [[Reception Perception The Show - 2024-08-06]]: Dortch is not going to break anybody off in man coverage, but working out of the slot against zone he can get the job done, and Koh counts him alongside [[Marvin Harrison Jr.]] and [[Michael Wilson]] as a third Cardinals receiver who can genuinely create separation. [[Matt Harmon]] agrees the room is underrated and says he is really excited about it. Both frame Arizona as a sleeper offense given [[Kyler Murray]]'s late-2023 form, though they also note the Cardinals ran a minus-6.5% pass rate over expected, second lowest in the NFL.
 
 ## Related Concepts
 - [[Michael Wilson]]
+- [[Zone vs Man Route Running]]

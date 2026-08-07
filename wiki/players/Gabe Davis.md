@@ -42,6 +42,7 @@ tags: [player]
   outside options who can't by themselves lift Jacksonville out of its
   bottom-tier receiver room.
 - 2024-05-07 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-05-07]]): after signing with Jacksonville, Harmon says he's 'kicked Gabe Davis to the curb' in his own evaluation, viewing him as a one-dimensional vertical-only receiver he'd rather keep off the field in 2-WR sets behind [[Brian Thomas Jr.]] and [[Christian Kirk]]. Co-host James Koh (untracked) disagrees, arguing Davis 'is not like freaking [MVS] out there' -- he's not worthless, brings more size and physicality to the run game than Kirk, and should see real snaps, with Koh projecting something closer to a 50/50 X/flanker rotation between Davis and Thomas rather than Davis being phased out.
+- 2024-07-11 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-07-11]]) [Dynasty]: projects Gabe Davis to play almost exclusively X for Jacksonville, which frees [[Brian Thomas Jr.]] to work more as a flanker. Co-host James Koh (untracked) said he is 'not a huge fan' of the 3-year, $39M signing and does not view Davis as one of the top two outside receivers in the room -- a factor in the hosts ranking Jacksonville's WR trio behind Houston, Indianapolis and Tennessee.
 
 ## Related Concepts
 - [[Redraft (Standard)]]

@@ -22,6 +22,7 @@ tags: [player]
   caps the outlook there: "I don't think Wan'Dale Robinson can [beat man
   coverage in the intermediate area] on a consistent route-by-route basis,"
   rating [[Demario Douglas]] ahead of him as a slot option for that reason.
+- 2024-07-16 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-07-16]]): Harmon said he's 'not that big of a fan' of Wan'Dale Robinson, calling him 'not a needle mover' but 'all right in the slot' -- a complementary short-area piece behind [[Malik Nabers]] rather than a difference-maker. [Redraft (Standard)]
 
 ## Related Concepts
 - [[Dynasty]]
