@@ -102,6 +102,11 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-05-17 | [[Matt Waldman]] | 2024 NFL Rookie Dynasty Draft Thoughts: Going Deep with Brandon Angelo | [[Matt Waldman's RSP Cast - 2024-05-17]] |
 | 2024-05-20 | [[Matt Waldman]] | Feel It or F–It 5.20.24: An RSP Cast with Jagger May and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-05-20]] |
 | 2024-05-21 | [[Matt Harmon]] | Second Year Guys: Tank Dell & Dontayvion Wicks | [[Reception Perception The Show - 2024-05-21]] |
+| 2024-05-23 | [[Matt Harmon]] | Second Year Guys: Josh Downs & Quentin Johnston | [[Reception Perception The Show - 2024-05-23]] |
+| 2024-05-29 | [[Matt Harmon]] | Puka Nacua & Zay Flowers Breakdown + Malik Washington Addition in Miami | [[Reception Perception The Show - 2024-05-29]] |
+| 2024-05-30 | [[Matt Harmon]] | Jayden Reed & Jordan Addison + Eagles Draft a Gem? | [[Reception Perception The Show - 2024-05-30]] |
+| 2024-06-03 | [[Matt Waldman]] | Feel It or F**k It 6.3.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-06-03]] |
+| 2024-06-04 | [[Matt Harmon]] | The Beefy Jameson Williams Episode We All Need | [[Reception Perception The Show - 2024-06-04]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

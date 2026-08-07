@@ -246,13 +246,22 @@ def main():
                     help="validate and report; touch nothing")
     args = ap.parse_args()
 
+    # Exit 3 (distinct from a validation rejection's 2) means "the plan never
+    # parsed" -- phase A produced nothing usable. That is a stochastic generation
+    # failure, not a content problem, so the orchestrator retries the extraction
+    # once rather than stalling. Nothing was written either way.
     if not args.plan.exists():
-        sys.exit(f"error: no plan at {args.plan}. Phase A produced nothing -- "
-                 f"nothing was written, so the episode is safe to retry.")
+        print(f"error: no plan at {args.plan}. Phase A produced nothing.")
+        return 3
     try:
         plan = json.loads(args.plan.read_text())
     except json.JSONDecodeError as e:
-        sys.exit(f"error: {args.plan} is not valid JSON: {e}")
+        # Deliberately NOT auto-repaired. The usual cause is an unescaped double
+        # quote inside a bullet ('a "tier-two" receiver'), and every generic fix
+        # for that risks silently altering the take's text -- which this wiki must
+        # never do. A clean re-extraction is cheap (~1 agent) and correct.
+        print(f"error: {args.plan} is not valid JSON: {e}")
+        return 3
 
     for note in normalize(plan):
         print(f"normalized: {note}")

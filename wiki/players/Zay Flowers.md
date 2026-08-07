@@ -24,8 +24,10 @@ tags: [player]
   otherwise thin "fragile"-tier receiver room ahead of Atlanta's and
   Carolina's despite little proven depth behind him and [[Rashad Bateman]].
 - 2024-05-09 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-05-09]]) [Dynasty]: Baltimore not adding a receiver until Tez Walker at pick 113 signals internal faith that Flowers is ready for a 'second-year leap' into being a big-time intermediate-area target earner. Harmon loved his rookie route running on tape -- capable of winning against both man and zone, and down the field -- but noted the Ravens' scheme underused him in the intermediate area, leaning instead on designed/shot plays that exploit his explosiveness. He wants to see Flowers get more work in the middle of the field this year for the receiver room to function, and projects him as an easy 1,000-1,100-yard receiver if the offense trends that way; he already led Baltimore with 858 yards as a rookie.
+- 2024-05-29 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-05-29]]): Flowers' rookie reception perception profile shows an elite zone/downfield receiver who was undersold by his early gadget usage -- 85% success vs. zone (90th percentile, would rank top-4 among charted 2022 players), 87.5% on posts (top-10 all-time among receivers with 8%+ post-route share), and 86.8% on digs (13.4% participation, his second-most-run route) despite only 9.4% of routes being designed screens. Man coverage success was 71.7% (68th percentile) -- good, not special. Co-host James Koh (untracked) and Harmon flag press coverage as the real weak spot (62.9% success, 35th percentile), along with a surprisingly poor 72.2% slant success rate, down from a 78.8% mark at Boston College. Harmon suggests some of Baltimore's scripted touches for Flowers were as much about building [[Lamar Jackson]]'s comfort in Todd Monken's new offense as about Flowers himself; the path to true WR1 status runs through solving press coverage. [Dynasty]
 
 ## Related Concepts
 - [[Dynasty]]
 - [[Post-Rookie-Year Receiver Model]]
 - [[Rashad Bateman]]
+- [[Reception Perception Methodology]]

@@ -294,6 +294,12 @@ PLAN FORMAT -- valid JSON, exactly these keys:
 RULES FOR THE PLAN -- the applier rejects the whole plan if any is broken, and
 tells you which, so getting these right first time saves a retry:
 
+- OUTPUT STRICTLY VALID JSON. The single most common way this fails is an
+  unescaped double quote inside a string value -- analysts constantly use quoted
+  phrases, and writing `a "tier-two" receiver` inside a JSON string breaks it.
+  Use SINGLE quotes for any quoted phrase inside `bullet`, `body`, `note` and
+  `index` -- `a 'tier-two' receiver`. Never a raw `"` inside a string value.
+  Newlines inside a string must be written as \\n, never a literal line break.
 - DO NOT put a date in `bullet`. The script stamps every bullet with {ep.get('pub_date')}
   and inserts it at the correct chronological position. Start the bullet at
   "According to ..." -- no leading "- ", no date, no em dash.

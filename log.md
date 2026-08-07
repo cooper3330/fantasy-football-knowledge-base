@@ -979,3 +979,18 @@ Michael Mayer's dynasty outlook cratered to a short-yardage 2-3 target/game role
 
 ## [2024-05-21] ingest | Reception Perception: The Show — Second Year Guys: Tank Dell & Dontayvion Wicks
 Tank Dell and Dontayvion Wicks both get full rookie-season RP charting breakdowns from Matt Harmon -- Dell graded as an elite outbreaking/dig-route separator despite sub-180lb size, Wicks compared by Matt LaFleur to Davante Adams as a route runner and flagged as Harmon's 2024 Packers sleeper over Romeo Doubs and Christian Watson.
+
+## [2024-05-23] ingest | Reception Perception: The Show — Second Year Guys: Josh Downs & Quentin Johnston
+Josh Downs (IND) confirmed as an elite man-coverage/off-script slot receiver via RP charting, with a Sterling Shepherd career comp. Quentin Johnston (LAC) charted as a historically bad rookie WR (top-5 worst success rate vs. man ever recorded); Harmon casts doubt on him earning a clear 2024 role under new Chargers coaching staff.
+
+## [2024-05-29] ingest | Reception Perception: The Show — Puka Nacua & Zay Flowers Breakdown + Malik Washington Addition in Miami
+Nico Collins signed a ~$24M/yr extension; RP profile data used to rebut the 'Stroud-dependent' narrative. Puka Nacua and Zay Flowers rookie profiles detailed with year-two outlooks benchmarked against Jefferson/Chase. Rookie Malik Washington (MIA, 6th round) evaluated as a slot fit behind Hill/Waddle.
+
+## [2024-05-30] ingest | Reception Perception: The Show — Jayden Reed & Jordan Addison + Eagles Draft a Gem?
+Jayden Reed and Jordan Addison get full 2023 Reception Perception rookie profiles from Matt Harmon (Reed: strong man/press numbers, role risk flagged; Addison: weak vs. press, projected capable No. 2 not WR1). New page for Eagles rookie Aeneas Smith (Curtis Samuel comp, projected slot role). Dontayvion Wicks flagged as a breakout threat to Reed's target share.
+
+## [2024-06-03] ingest | Matt Waldman's RSP Cast — Feel It or F**k It 6.3.24: An RSP Cast with Bob Harris and Matt Waldman
+Ingested 2024-06-03 RSP Cast Feel It or F-It episode: Waldman lays out detailed target/yardage projections for Houston's Collins/Diggs/Dell and Green Bay's Reed/Wicks/Watson receiver rooms, ranks Deebo Samuel below Aiyuk as a 'gadget player' vs. true X receiver, prefers Malik Nabers over Marvin Harrison Jr. '10 times out of 9' despite the ADP gap, projects Derrick Henry for a heavy ~250-carry Ravens workload, and stakes out Anthony Richardson as a top-5 personal QB ranking with real top-3 fantasy QB upside.
+
+## [2024-06-04] ingest | Reception Perception: The Show — The Beefy Jameson Williams Episode We All Need
+Jameson Williams: RP profile split reveals week-15-on success rates (67% man/85% zone) far stronger than full-season marks (57%/72%), with target ceiling projected at ~100 (5-6/game); comps range from Corey Coleman-bust to Gabe Davis-median to Brandon Cooks-ceiling. Jahan Dotson: 2023 profile shows across-the-board route decline tied to fewer deep routes/more slot usage; Harmon maintains 'rock solid WR2' ceiling view, not a McLaurin-mantle successor.

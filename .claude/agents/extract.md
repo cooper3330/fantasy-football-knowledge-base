@@ -46,11 +46,19 @@ judgement — what was said, who said it, whether it matters — stayed with you
 
 ## Getting the plan accepted
 
-`apply_ingest.py` validates the entire plan before writing anything and rejects
-it whole, naming each problem. A rejected plan costs a full re-run, so the
+Your plan file must be strictly valid JSON. The most common way it isn't is an
+unescaped double quote inside a string value — analysts constantly use quoted
+phrases, and `a "tier-two" receiver` inside a JSON string breaks the parse. Use
+single quotes for quoted phrases inside every string value, and write newlines as
+`\n`, never a literal line break. A plan that doesn't parse is discarded and
+re-extracted from scratch.
+
+`apply_ingest.py` also validates the entire plan before writing anything and
+rejects it whole, naming each problem. A rejected plan costs a full re-run, so the
 things it checks are worth getting right first time: one entry per page, correct
 `kind`, `frontmatter` present for pages that don't exist yet, valid position,
-index summaries within 25 words, tracked experts only, non-empty `log`.
+tracked experts only, non-empty `log`. (An over-long index line is trimmed, not
+rejected.)
 
 ## Finishing
 

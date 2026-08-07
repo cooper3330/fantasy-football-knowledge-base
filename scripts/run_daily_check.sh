@@ -116,6 +116,35 @@ partial_write() {
   [ $? -eq 2 ]
 }
 
+# Run one agent under the watchdog and return its exit code. macOS ships no
+# `timeout`, and an unattended run has nobody to notice a hang -- an
+# un-allow-listed Bash call waits on a permission prompt that never comes.
+#
+# The watchdog polls rather than using one long `sleep`: killing a subshell does
+# NOT kill the `sleep` it is blocked on -- that child is reparented and keeps
+# running, so the naive `(sleep N; kill) &` idiom leaks one stray process per
+# episode.
+run_agent() {  # $1 = prompt, $2 = agent name
+  "$CLAUDE_BIN" -p "$1" \
+    --agent "$2" \
+    --model "$INGEST_MODEL" \
+    --effort "$INGEST_EFFORT" \
+    --output-format text &
+  local cpid=$!
+  (
+    for _ in $(seq 1 "$EPISODE_TIMEOUT"); do
+      sleep 1
+      kill -0 "$cpid" 2>/dev/null || exit 0
+    done
+    echo "!!! episode exceeded ${EPISODE_TIMEOUT}s -- killing claude !!!"
+    kill -TERM "$cpid" 2>/dev/null
+  ) &
+  local wpid=$!
+  wait "$cpid"; local rc=$?
+  wait "$wpid" 2>/dev/null
+  return $rc
+}
+
 QUEUE="$(queue_depth)"
 if [ "${QUEUE:-0}" -eq 0 ]; then
   echo "=== $TS: nothing awaiting ingestion, skipping ===" >> "$LOG_DIR/daily.log"
@@ -137,72 +166,44 @@ fi
       break
     fi
 
-    # Regenerated EVERY iteration, not hoisted out of the loop. Two reasons:
+    echo "--- [$i/$INGEST_PER_RUN] $BEFORE_GUID ($INGEST_MODE) ---"
+
+    # The prompt is regenerated EVERY iteration, not hoisted out of the loop:
     #   1. It selects the next episode -- a hoisted prompt would re-ingest the
     #      same one N times.
     #   2. It inlines the current page inventory. Episode N-1 may have just
     #      created "Brock Bowers"; agent N has to see that to update it rather
     #      than create a near-duplicate page.
+    #
+    # A fresh `claude -p` per episode is what makes the isolation real: no
+    # --continue, no --resume, so each agent starts empty and carries nothing
+    # from the episode before it. --agent restricts the tool surface (extract =
+    # Read/Write only); --model and --effort are the two biggest cost levers,
+    # see CLAUDE.md "Model and batch size (cost)".
     if [ "$INGEST_MODE" = "extract" ]; then
-      PLAN="$PLAN_DIR/plan-$i-$$.json"
-      rm -f "$PLAN"
-      PROMPT="$($PY scripts/ingest_manifest.py --count 1 --mode extract \
-                    --plan-out "$PLAN" 2>/dev/null)"
-      AGENT="extract"
+      # Phase A emits a plan; apply_ingest.py (phase B) writes the wiki, after
+      # validating the whole plan, so a bad plan costs only the extraction.
+      #
+      # apply_ingest exit codes: 0 applied, 2 validation rejection (a content
+      # problem -- re-extracting reproduces it, so don't), 3 the plan was missing
+      # or unparseable (a stochastic generation failure -- one clean re-extraction
+      # usually fixes it). So retry ONLY on 3.
+      for attempt in 1 2; do
+        PLAN="$PLAN_DIR/plan-$i-$$.json"
+        rm -f "$PLAN"
+        PROMPT="$($PY scripts/ingest_manifest.py --count 1 --mode extract \
+                      --plan-out "$PLAN" 2>/dev/null)"
+        [ "$attempt" -eq 2 ] && \
+          echo "--- re-extracting episode $i: previous plan was missing/unparseable ---"
+        run_agent "$PROMPT" extract; RC=$?
+        $PY scripts/apply_ingest.py "$PLAN"; ARC=$?
+        [ "$ARC" -ne 3 ] && break     # 0 = done; 2 = a rejection retry won't cure
+      done
+      [ "${ARC:-1}" -eq 2 ] && echo "!!! plan rejected (see above); nothing written !!!"
+      [ "${ARC:-1}" -eq 3 ] && echo "!!! plan still unusable after retry; nothing written !!!"
     else
       PROMPT="$($PY scripts/ingest_manifest.py --count 1 2>/dev/null)"
-      AGENT="ingest"
-    fi
-
-    echo "--- [$i/$INGEST_PER_RUN] $BEFORE_GUID ($INGEST_MODE) ---"
-
-    # A fresh process per episode. This is what makes the isolation real: no
-    # --continue and no --resume, so each agent starts with an empty context
-    # and carries nothing from the episode before it.
-    #
-    # --agent ingest restricts the tool surface to Read/Write/Edit/Bash. An
-    # unrestricted agent loads ~44.6k tokens of system prompt and tool schemas
-    # (browsers, computer-use, mail, calendar) before doing any work, and
-    # re-reads that constant every turn.
-    #
-    # --model is the single biggest cost lever in the pipeline; see CLAUDE.md
-    # "Model and batch size (cost)". --effort is the second.
-    # Watchdog. macOS ships no `timeout`, and an unattended run has nobody to
-    # notice a hang -- an un-allow-listed Bash call waits on a permission
-    # prompt that will never come. Without this the job blocks indefinitely
-    # and the next day's run finds it still holding the queue.
-    "$CLAUDE_BIN" -p "$PROMPT" \
-      --agent "$AGENT" \
-      --model "$INGEST_MODEL" \
-      --effort "$INGEST_EFFORT" \
-      --output-format text &
-    CPID=$!
-    # Polls rather than one long `sleep`, and exits on its own the moment
-    # claude finishes. Killing a subshell does NOT kill the `sleep` it is
-    # blocked on -- that child is reparented and keeps running, so the naive
-    # `(sleep N; kill) &` idiom leaks one stray process per episode.
-    (
-      for _ in $(seq 1 "$EPISODE_TIMEOUT"); do
-        sleep 1
-        kill -0 "$CPID" 2>/dev/null || exit 0
-      done
-      echo "!!! episode exceeded ${EPISODE_TIMEOUT}s -- killing claude !!!"
-      kill -TERM "$CPID" 2>/dev/null
-    ) &
-    WPID=$!
-    wait "$CPID"; RC=$?
-    wait "$WPID" 2>/dev/null
-
-    # Phase B. The agent only produced a plan; this is what writes the wiki.
-    # apply_ingest.py validates the whole plan before touching anything, so a
-    # bad plan costs the extraction and nothing else.
-    if [ "$INGEST_MODE" = "extract" ]; then
-      if [ ! -f "$PLAN" ]; then
-        echo "!!! no plan at $PLAN (claude rc=$RC) -- nothing was written !!!"
-      else
-        $PY scripts/apply_ingest.py "$PLAN" || \
-          echo "!!! apply_ingest rejected the plan (see above); nothing written !!!"
-      fi
+      run_agent "$PROMPT" ingest; RC=$?
     fi
 
     # Verify BETWEEN episodes, not just at the end: a corrupt state or a

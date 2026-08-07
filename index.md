@@ -205,11 +205,11 @@ for the chronological record of ingests, queries, and lints.
 - [[Ja'Marr Chase]] — WR, CIN — Waldman: locked in almost any scenario if Burrow stays; slight dynasty edge over Justin Jefferson on QB certainty
 - [[Keenan Allen]] — WR, CHI — traded from LAC; Harmon: role-narrowed not declining, elite on layup routes, great high-low fit w/ D.J. Moore
 - [[Amon-Ra St. Brown]] — WR, DET — same profile as Allen, with play-caller continuity as the tiebreaker; Harmon's #2 overall receiver remaining in the playoffs but #1 by team value ("in a runaway") — now beating press-man as well as zone; entering his contract year, "up for a big payday pretty soon" *(2024 takes, stale)*
-- [[Jameson Williams]] — WR, DET — real but hedged optimism after a big NFC Championship game; Waldman's explicit overdraft warning — "the Gabe Davis factor" — don't price him off one game; Harmon's harder technical critique — "shaky hands," not a "go up and get it" guy, a "splash play dude" whose highlights lean on Ben-Johnson-designed structure (Johnson is now confirmed staying in Detroit) *(2024 takes, stale)*
+- [[Jameson Williams]] — WR, DET — RP split shows bust-level early '23 tape but strong week-15-on zone/dig numbers; comp range Corey Coleman to Gabe Davis
 - [[Brandon Aiyuk]] — WR, SF — Waldman: ~80/20 he's gone via free agency/trade after 2024, with Ricky Pearsall set to benefit
 - [[Tee Higgins]] — WR, CIN — dropped trade request; Waldman feels he stays a Bengal in 2024, best Super Bowl shot with Burrow
-- [[Jordan Addison]] — WR, MIN — rotation promotion missed by box-score watchers; Waldman's #2 2023 rookie WR, "a better version of Devonta Smith"; ceiling is a Minnesota-QB question *(2024 takes, stale)*
-- [[Jayden Reed]] — WR, GB — Allen/St. Brown route-running mold *with* speed; Waldman wouldn't trade him for any other 2023 rookie WR, Diggs upside/Coles floor; Harmon's pick as the Green Bay receiver with the best odds to become a true number one, capable of an Amon-Ra St. Brown-style role *(2024 takes, stale)*
+- [[Jordan Addison]] — WR, MIN — RP profile flags man/press weakness (51.5%); Harmon projects capable No. 2, not a WR1
+- [[Jayden Reed]] — WR, GB — elite RP profile (77% vs press); Harmon says role, not talent, is the risk
 - [[Noah Brown]] — WR, HOU — best Texans receiver whenever Nico Collins is out; a conditional weekly start; placed on IR during the 2023 playoff run *(2024 takes, stale)*
 - [[John Metchie III]] — WR, HOU — flashed filling in for an injured Noah Brown in the Wild Card win, but downgraded after the Divisional Round — Harmon: "has proven nothing to this point in his career," replacement-level depth, not a real answer opposite Nico Collins *(2024 takes, stale)*
 - [[Xavier Hutchinson]] — WR, HOU — faint praise, an Allen-Lazard-type depth/blocking piece rather than a real target threat *(2024 takes, stale)*
@@ -238,13 +238,13 @@ for the chronological record of ingests, queries, and lints.
 - [[Rashad Bateman]] — WR, BAL — Harmon back on the bandwagon after contract extension; projects ~600 yards, Keenan Allen mold.
 - [[Stefon Diggs]] — WR, HOU — Waldman's biggest Houston WR trio gamble on age cliff, still buying at R2-3 ADP
 - [[Cooper Kupp]] — WR, LAR — not hung up, but Puka Nacua's emergence caps his ceiling; "days of being that true alpha... are over, draft accordingly"; Harmon puts it at a "50/50 shot" that repeated ankle injuries have permanently sapped his explosiveness rather than a one-year dip, and RP charting now has Nacua separating better vs. man *(2024 takes, stale)*
-- [[Quentin Johnston]] — WR, LAC — Waldman sold his own dynasty shares; sees team-wide skepticism, not real developmental investment
+- [[Quentin Johnston]] — WR, LAC — historically bad rookie RP profile (44.1% vs. man, top-5 worst ever); Harmon: reclamation project, unclear 2024 role
 - [[Jaxon Smith-Njigba]] — WR, SEA — Waldman's #1 2023 rookie WR despite thin volume; built as the season went on; new HC Mike McDonald reportedly wants to move him into "a more premier role," with [[Tyler Lockett]]'s roster spot now in doubt *(2024 takes, stale)*
 - [[Zay Flowers]] — WR, BAL — in Waldman's top rookie WR tier but more boom/bust, entirely on how much Lamar Jackson's offense trusts him; the earlier "don't trade London for Flowers" debate is now resolved in London's favor after the full season; Harmon's #4 remaining playoff receiver with real "superstar tier" upside language, but a tough outside-alignment matchup vs. Kansas City's AFC Championship secondary *(2024 takes, stale)*
 - [[Puka Nacua]] — WR, LAR — Waldman's #3 2023 rookie WR, #1 by pure production; Harstad's post-rookie model scores his rookie year the single best in its 2006-2023 sample, expanding the "big four" to a "big five"; long-term outlook tied to Stafford's remaining runway *(2024 takes, stale)*
 - [[Tank Dell]] — WR, HOU — elite outbreaking-route separator/dig-route ace as rookie; weaker vs. zone. (2024 takes, stale)
-- [[Nico Collins]] — WR, HOU - Harmon: could out-target Diggs in 2024 as Houston's pure X
-- [[Josh Downs]] — WR, IND — "certainly going to be worthwhile" once Anthony Richardson is back and healthy *(2024 takes, stale)*
+- [[Nico Collins]] — WR, HOU — signed ~$24M/yr extension (2024); RP profile pushes back on "Stroud-dependent" narrative
+- [[Josh Downs]] — WR, IND — elite RP profile: 93rd-pctile vs. man, NFL-best off-script production; Shepherd-level ceiling, not a breakout
 - [[Marvin Mims Jr.]] — WR, DEN -- rookie film 'a disaster...nonfunctional,' RP data poor (2024-03-28, stale watch)
 - [[Jalen Hyatt]] — WR, NYG — Waldman "a little more convinced" despite a bad Giants QB situation *(2024 takes, stale)*
 - [[Rashee Rice]] — WR, KC — Waldman: legal situation could cost 4-8 games or a full season, ADP falling accordingly
@@ -325,6 +325,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Jalen Tolbert]] — WR, DAL — Harmon: promising Day 3 flashes late 2023 but flags 'Skyy Moore bucket' small-sample risk.
 - [[Chris Olave]] — WR, NO — Harmon: elite talent hampered by Derek Carr's poor deep-ball accuracy; Kubiak must fix scheme fit.
 - [[A.T. Perry]] — WR, NO — Harmon sleeper comp to Nico Collins; X receiver role could grow under new OC Clint Kubiak.
+- [[Aeneas Smith]] — WR, PHI — 2024 rookie; 4.47 speed, 74.4% man success; projected Eagles slot man, Curtis Samuel comp
 
 ### Tight Ends
 - [[T.J. Hockenson]] — TE, MIN — great in zone, positions well in man; TE1 ceiling minus a tier with a backup QB *(2023 takes, stale)*
