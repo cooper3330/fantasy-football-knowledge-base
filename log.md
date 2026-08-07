@@ -1036,3 +1036,6 @@ Waddle: RP data shows a career-best press-coverage jump (65.7% rookie to 72% in 
 
 ## [2024-07-08] ingest | Matt Waldman's RSP Cast — Feel It or F**k It 7.8.24: An RSP Cast with Bob Harris and Matt Waldman
 Waldman/Harris called both Kyren Williams and Blake Corum overrated at current ADP, likening the Rams backfield to the Priest Holmes-Larry Johnson dynamic; Waldman reversed his prior Fantasy Football Expo skepticism to bullish on Calvin Austin III; flagged Michael Carter as a sleeper over Trey Benson behind James Conner in Arizona; added new pages for Taysom Hill and Zach Charbonnet.
+
+## [2024-07-09] ingest | Reception Perception: The Show — The Jets Are Betting On Aaron Rodgers...Again
+Harmon/Coe's AFC East WR room previews: Buffalo's WR room seen as fumbled around Curtis Samuel (best man-beater) with Keon Coleman's poor man-press profile projecting him to slot; Miami's Waddle/Hill flexibility boosted by OBJ and Malik Washington adds; new Kendrick Bourne page created for New England's ACL-recovery X question with Baker/Polk as rookie hopes; Jets room flagged as almost entirely dependent on a 30-year-old, ACL-recovering Mike Williams staying healthy, with Garrett Wilson given a 1,700-yard high-side ceiling and 2,000-yard-upside company.

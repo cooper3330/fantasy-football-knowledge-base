@@ -21,6 +21,7 @@ tags: [player]
 
 
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]): thinks he could wind up as Buffalo's number two or three receiver, and that the team's presumed rookie WR pick "might not work out year one," leaving Shakir as a massive bargain. Describes him as a "less physical Heinz Ward with more downfield speed and dynamic movement" — a good route runner, excellent after the catch, tough at the catch point. Notes Buffalo has been slow to trust rookies (citing the same pattern with [[James Cook]] and [[Dalton Kincaid]]), but that whenever Shakir is on the field, Josh Allen targets him on difficult veteran-caliber throws (cites a tight third-down window against Pittsburgh) rather than the low-difficulty schemed-open looks a rookie like Quentin Johnston (not tracked) gets — reads that as a sign of quarterback trust outpacing coaching-staff trust. "I loved him and I'm still all over him because nothing on the field has shown me otherwise."
+- 2024-07-09 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-07-09]]) [Redraft (Standard)]: Khalil Shakir has shown himself to be 'at worst a very good role player' in the NFL -- a reliable short-to-intermediate slot target even if he's not funneled 120+ targets -- and factors into a crowded four-man rotation with [[Curtis Samuel]], [[Keon Coleman]] and a big-bodied X-type (MVS/Claypool) that Harmon expects to share reps in Buffalo's receiver room.
 
 ## Related Concepts
 - [[Redraft (Standard)]]

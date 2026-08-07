@@ -121,6 +121,7 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-07-04 | [[Matt Waldman]] | Sleeper WRs for the 2024 NFL/Fantasy Season: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-07-04]] |
 | 2024-07-05 | [[Matt Harmon]] | Jaylen Waddle & Demario Douglas Profiles | [[Reception Perception The Show - 2024-07-05]] |
 | 2024-07-08 | [[Matt Waldman]] | Feel It or F**k It 7.8.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-07-08]] |
+| 2024-07-09 | [[Matt Harmon]] | The Jets Are Betting On Aaron Rodgers...Again | [[Reception Perception The Show - 2024-07-09]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

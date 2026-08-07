@@ -223,7 +223,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Malik Nabers]] — WR, NYG -- Koh/Harmon comp him to Waddle's rookie year: heavy underneath volume, TD/efficiency the risk (2024 proj)
 - [[Marvin Harrison Jr.]] — WR, ARI — Waldman praised his combine-skip decision as the class's best pre-draft answer, worth +5 board spots
 - [[Rome Odunze]] — WR, CHI — Waldman sees outside X role, not a slot-heavy Njigba clone despite shared Shane Waldron scheme
-- [[Keon Coleman]] — WR, BUF — separation concerns vs. man/press; Harmon/Koh both cool on 2.1 pick, saw better fits available
+- [[Keon Coleman]] — WR, BUF -- horrible man-press profile (20th pct) for X; Harmon projects him to slot long-term
 - [[Ainias Smith]] — WR, PHI — Waldman likes his path to a Danny Woodhead-style role as Eagles' emerging third receiver
 - [[Michael Gallup]] — WR, DAL — Harms is out on a 2024 rebound; doesn't create separation as an X, may not even be in Dallas, projects a Chris-Conley-style "good player, not fantasy relevant" career *(2024 takes, stale)*
 - [[Brian Thomas Jr.]] — WR, JAX — Angelo's top overrated-by-fit pick; heavy target competition pushes him to a tougher outside role
@@ -270,8 +270,8 @@ for the chronological record of ingests, queries, and lints.
 - [[Demario Douglas]] — WR, NE — inverted man(69%)/zone(76% but bottom-quartile) profile; muddled 2024 role behind Polk, Baker, Bourne [Dynasty]
 - [[Malik Washington]] — WR, MIA — 6th-round slot fit; McDaniel personally lobbied to draft him, Harmon very high
 - [[Xavier Legette]] — WR, CAR — Harmon: motion/gadget role like Deebo Samuel-lite, not outside X, likely third receiver early
-- [[Malachi Corley]] — WR, NYJ — Harmon's rookie eval: elite create-a-touch YAC talent, but Deebo comp rejected; projects slot/gadget WR3 role
-- [[Javon Baker]] — WR, NE — flanker profile, 800-1,000 yd upside case if line/defense hold up; dynasty stash for now
+- [[Malachi Corley]] — WR, NYJ -- slot-only gadget profile (66% man/85% zone); blocks Xavier Gipson's slot role
+- [[Javon Baker]] — WR, NE -- co-host Coe's top sleeper; strong contested-catch/deep marks but developmental X profile
 - [[Roman Wilson]] — WR, PIT — Harmon projects speed-slot/flanker role on vertical & play-action routes; take the under vs. Diontae Johnson volume
 - [[Devontez Walker]] — WR, BAL -- Ravens 4th-rounder; Harmon's worst RP man-coverage score charted in 4+ years, buried depth chart
 - [[Brendan Rice]] — WR, LAC — 7th-rounder w/ elite in-breaking numbers, poor vertical/ball-tracking; deep sleeper per Matt Harmon
@@ -283,11 +283,11 @@ for the chronological record of ingests, queries, and lints.
 - [[Jahan Dotson]] — WR, WAS — Waldman: skilled WR3/matchup WR2, but unsure new Kingsbury-called offense unlocks him
 - [[Adonai Mitchell]] — WR, IND — Harmon: great value/fit at 52nd overall, fills needed vertical/boundary X role
 - [[Xavier Worthy]] — WR, KC — first KC WR off the board in best ball; Waldman 'feeling it' on gut despite acknowledging aggressive price
-- [[Ja'Lynn Polk]] — WR, NE — untracked co-host James Koh's early breakout pick; projects as Drake Maye's intermediate/downfield complement to Douglas [Dynasty]
+- [[Ja'Lynn Polk]] — WR, NE -- Harmon high on rookie; strong zone/contested-catch marks, projects a Puka Nacua-lite usage role
 - [[Michael Pittman Jr.]] — WR, IND — team-friendly deal; Harmon calls him a true, underrated WR1, eyes top-10 breakout in 2024
 - [[D.J. Moore]] — WR, CHI — Harmon: versatile vertical/man-beating X, ideal high-low duo w/ new teammate Keenan Allen for rookie QB
 - [[Calvin Ridley]] — WR, TEN (signed FA) - 4yr/$92M; Harmon: overpay but still elite separator, good fit off Titans static-X usage
-- [[Mike Williams]] — WR, NYJ — signed to pair with Garrett Wilson; Harmon: frees up Wilson if healthy, but availability a real risk
+- [[Mike Williams]] — WR, NYJ -- health is the swing factor for whole room; ACL/age risk, no real depth if he's out
 - [[Tyler Harrell]] — WR, deep sleeper (Miami) — Waldman: elite play speed, 'as fast as Xavier Worthy' but unproven, injury-plagued (2024 prospect, stale)
 - [[Amari Cooper]] — WR, CLE — Waldman: secure top target post-Jeudy trade, 'ain't going anywhere,' upgrade over Sutton for Watson (2024, stale)
 - [[Elijah Moore]] — WR, CLE - Harmon: good player, best in slot/off-ball; beats press/zone better than Jeudy, projects WR3
@@ -304,9 +304,9 @@ for the chronological record of ingests, queries, and lints.
 - [[Ryan Flournoy]] — WR, Southeast Missouri State (2024 prospect) — Waldman: NFL athlete, contributor-vs-reserve hinges on releases/breaks
 - [[Xavier Weaver]] — WR, Colorado (2024 prospect) — Waldman: Jordan Addison starter kit, route game a starting-caliber foundation
 - [[Michael Thomas]] — WR, FA — Speculative Miami fit floated by Waldman as a 'great fit' if healthy; still worth a cheap late-round flier.
-- [[Curtis Samuel]] — WR, BUF — Harmon: consistently ~75%+ vs man for 4 yrs, QB-suppressed stats, breakout buy reuniting w/ Joe Brady
+- [[Curtis Samuel]] — WR, BUF -- best man-coverage beater in room per Harmon; ideally deployed all over formation, not pinned at X
 - [[Rondale Moore]] — WR, ATL — Harmon: 'not a real receiver,' pure gadget/motion piece after trade for Desmond Ridder
-- [[Garrett Wilson]] — WR, NYJ — Harmon: prefers slot work, pushed to perimeter in 2023 for lack of X options; Williams addition should free him up
+- [[Garrett Wilson]] — WR, NYJ -- Harmon's 2024 breakout-ceiling pick; 96th-pct man rate, 1,337 median/1,700 high-side yardage projection
 - [[Odell Beckham Jr.]] — WR, unsigned FA (Mar 2024) — Miami offered contract; usage confusingly declined in Baltimore; Harmon skeptical of full-time player again
 - [[Xavier Gipson]] — WR, NYJ — Harmon 'really intrigued,' thinks he can play; eyed for bigger slot role in 2024
 - [[Greg Dortch]] — WR, ARI -- Harmon/Koh's sleeper pick of a bad Cardinals room; 2024 charting subject
@@ -337,6 +337,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Casey Washington]] — WR, ATL — Angelo camp watchlist name behind Drake London/Darnell Mooney; Illinois product.
 - [[Parker Washington]] — WR, JAX — Waldman's top pick of the young Jaguars WRs; Robert Woods-type role, rapport with Trevor Lawrence.
 - [[Jaylen Waddle]] — WR, MIA — best RP profile yet; press-coverage leap to 72% success, but Harmon still ranks him below Diggs/Ayuk tier [Dynasty]
+- [[Kendrick Bourne]] — WR, NE -- presumptive Week 1 X off ACL; solid man-coverage charting in 2023 sample but no great season on record
 
 ### Tight Ends
 - [[T.J. Hockenson]] — TE, MIN — great in zone, positions well in man; TE1 ceiling minus a tier with a backup QB *(2023 takes, stale)*

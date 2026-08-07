@@ -22,6 +22,7 @@ tags: [player]
   cut him" for financial reasons, so he may simply stay buried on the depth
   chart behind [[Garrett Wilson]], [[Mike Williams]] and [[Xavier Gipson]]
   rather than be released.
+- 2024-07-09 — According to [[Matt Harmon]] and James Coe (co-host, not tracked) ([[Reception Perception The Show - 2024-07-09]]) [Redraft (Standard)]: Revisiting his own 2022 Reception Perception charting, Harmon found Allen Lazard lined up off the line on 58% of sampled snaps but graded only 8th percentile vs. man, 10th percentile overall, 8th percentile vs. press -- 'not a separator at all,' more of a tight-coverage, ball-winning possession type that fits what [[Aaron Rodgers]] wants schematically. Coe flagged that Lazard was a healthy scratch at times last season and questioned his mental engagement based on how he talks about football, calling him 'a very mid, number-three type' the Jets would rather not lean on if [[Mike Williams]] gets hurt.
 
 ## Related Concepts
 - [[Garrett Wilson]]

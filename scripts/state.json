@@ -2641,8 +2641,8 @@
       "last_checked": "2026-08-02",
       "pub_date": "2024-07-09",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2024-07-09-rp-the-jets-are-betting-on-aaron-rodgersagain.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2024-07-09-rp-the-jets-are-betting-on-aaron-rodgersagain.md",
+      "status": "ingested",
       "title": "The Jets Are Betting On Aaron Rodgers...Again",
       "transcript_source": "whisper"
     },
