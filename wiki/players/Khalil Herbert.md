@@ -17,6 +17,7 @@ tags: [player]
 
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]] [Best Ball]: Chicago's addition of [[DeAndre Swift]] actually *bolstered* his best-ball shares rather than hurt them — Swift is a part-time complementary piece, not a bell cow, so Herbert (going around running back 37, outside the top-36) becomes an even cheaper, still-productive fade. Floats Herbert, not [[Roschon Johnson]], as the more likely trade chip if Chicago still likes Johnson enough to consolidate the backfield.
+- 2024-06-10 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-06-10]]): called Herbert the Bears' best inside runner with the best game-breaking ability of the three-man committee, but said he's not a powerful runner and isn't a strong receiver -- of the trio (with [[DeAndre Swift]] and [[Roschon Johnson]]), Herbert is projected closest to 700 rushing yards. Waldman noted the backfield could shrink to two heads if Herbert can't stay healthy or gets traded to Dallas, a scenario Bob Harris said 'could be really nice too' for whoever remains.
 
 ## Related Concepts
 - [[Roschon Johnson]]

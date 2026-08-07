@@ -994,3 +994,45 @@ Ingested 2024-06-03 RSP Cast Feel It or F-It episode: Waldman lays out detailed 
 
 ## [2024-06-04] ingest | Reception Perception: The Show — The Beefy Jameson Williams Episode We All Need
 Jameson Williams: RP profile split reveals week-15-on success rates (67% man/85% zone) far stronger than full-season marks (57%/72%), with target ceiling projected at ~100 (5-6/game); comps range from Corey Coleman-bust to Gabe Davis-median to Brandon Cooks-ceiling. Jahan Dotson: 2023 profile shows across-the-board route decline tied to fewer deep routes/more slot usage; Harmon maintains 'rock solid WR2' ceiling view, not a McLaurin-mantle successor.
+
+## [2024-06-06] ingest | Reception Perception: The Show — We Love Nico Collins & Where George Pickens Does Best
+Nico Collins: RP charting shows a historic year-3 jump (77.6% vs. man, 82.5% vs. press, 94th/96th percentile) -- Harmon argues major fantasy sites still have him underranked relative to Underdog Best Ball ADP. George Pickens: improved press/man success rates year 2 but zone coverage and target-share ceiling (20.8%, capped near Mike Evans range per Harmon) remain concerns; co-host disagreement over whether his deep-route-heavy usage should be trimmed.
+
+## [2024-06-10] ingest | Matt Waldman's RSP Cast — Feel It or F**k It 6.10.24: An RSP Cast with Bob Harris and Matt Waldman
+Ingested a rapid-fire projections episode: Waldman set explicit 2024 point projections for a large slate (CMC, Bijan, Lamb, Hall, Barkley, Gibbs, Jacobs, Swift, Nabers, Harrison Jr., Kupp/Nacua/Robinson, Harris/Warren) and took a strong Nabers-over-Harrison Jr. stance on price; new pages created for Calvin Austin III and Denzel Mims as Steelers WR2 sleeper candidates.
+
+## [2024-06-11] ingest | Reception Perception: The Show — Ja'Marr Chase, Christian Watson & Malachi Corley
+Matt Harmon's RP charting: Chase projected for expanded slot role and 1,600+ yard/double-digit-TD ceiling if Burrow stays healthy; Watson pegged as a touchdown-dependent 'elevated MVS' who needs role catering, not a true No. 1; Jets rookie Malachi Corley evaluated as an elite create-a-touch YAC talent (Deebo Samuel comp rejected) projected for a slot/gadget WR3 role.
+
+## [2024-06-13] ingest | Reception Perception: The Show — Amon-Ra, Garrett Wilson & Brenden Rice
+Detailed RP charting takes added for Amon-Ra St. Brown and Garrett Wilson (both 'superstar, not quite elite' per Harmon); new sleeper-tier evaluation filed for rookie Brendan Rice; Chargers WR room role breakdown added across McConkey, Johnston, Palmer and Chark pages.
+
+## [2024-06-18] ingest | Matt Waldman's RSP Cast — Feel It or F**k It 6.17.24: An RSP Cast with Bob Harris and Matt Waldman
+Marquise Brown clarified as de facto Chiefs WR1 with Rice suspended; Tee Higgins framed as likely traded/gone after 2024 given Bengals cap crunch with Chase; Jonathan Brooks confirmed not camp-ready post-ACL with PUP expected; Nick Chubb take split between Waldman (still RB40, trusts recovery) and untracked Bob Harris (fade at 28); new pages created for DK Metcalf and Jameis Winston.
+
+## [2024-06-18] ingest | Reception Perception: The Show — T-Law Gets Paid, Chris Olave Profile & Rookie Roundup on Devontez Walker
+Chris Olave: detailed 2024 projection (92/1,200 median, 107/1,600 ceiling) and 'very good WR1, not yet superstar' tier placement from Harmon, plus scheme-mismatch diagnosis under Carr. Devontez Walker: new page-worthy take -- worst RP man-coverage score Harmon has charted in 4+ years, buried behind five Ravens pass catchers. Added supporting takes on Kamara's uncertain role under new OC, Bateman's ideal slot usage, A.T. Perry as a 'sacrificial X' candidate, and Tee Higgins/Trevor Lawrence contract context from co-host James Koh.
+
+## [2024-06-20] ingest | Reception Perception: The Show — First-time NFL Offensive Coordinators
+Drake London projected to 1,300 yards by Matt Harmon on expected McVay-tree scheme shift and inside alignment; Diontae Johnson (traded PIT->CAR) flagged as a scheme-fit bounce-back with career-best 2023 efficiency; new pages created for Chigoziem Okonkwo (TE, TEN) projected back to in-line role; Xavier Legette projected to a Deebo Samuel-lite motion role rather than outside X; JSN expected to pass Tyler Lockett in Seattle's new vertical Ryan Grubb scheme.
+
+## [2024-06-25] ingest | Reception Perception: The Show — Team-by-Team Offensive Schemes Continued
+Reception Perception team-by-team OC preview: A.T. Perry emerges as Saints' likely X-receiver over Bub Means; Harmon predicts Kellen Moore could move A.J. Brown into the slot over DeVonta Smith; George Pickens' route tree flagged as a scheme mismatch with Arthur Smith's in-breaking concepts; Terry McLaurin's outlook boosted by expected RPO-heavy usage under Kliff Kingsbury; Zach Ertz downgraded to placeholder as rookie Ben Sinnott (comped to Kittle/Juszczyk) is groomed for immediate role; Brandon Aiyuk-to-Steelers rumor read as contract leverage, Harmon expects him to stay in SF.
+
+## [2024-06-27] ingest | Reception Perception: The Show — Choose Your Fighters: Wide Receiver Battles
+No major ranking or role changes -- a historical-comp exercise. Harmon reaffirmed Nico Collins/Brandon Aiyuk as 'tier-two superstar' peers (still prefers Aiyuk overall), gave slight statistical edges to retired comps Eric Decker over Zay Flowers and DeSean Jackson over George Pickens, and picked Puka Nacua over Emmanuel Sanders as the better long-term player.
+
+## [2024-07-01] ingest | Matt Waldman's RSP Cast — Feel It or F**k It 7.1.24: An RSP Cast with Bob Harris and Matt Waldman
+Added 23 player pages/updates from a 2024-07-01 preseason ADP review: notably a Josh Allen QB1-overall disagreement (Bob Harris confident, Waldman skeptical pending WR development), Waldman ranking Breece Hall/Bijan Robinson ahead of Jahmyr Gibbs/Jonathan Taylor for RB1-overall threat to McCaffrey, and new pages for Rhamondre Stevenson and Kendre Miller.
+
+## [2024-07-02] ingest | Reception Perception: The Show — DeVonta Smith & Rashee Rice Profiles
+Harmon downgrades DeVonta Smith to a 'tier-three/bottom-tier-two' receiver after a 2023 statistical dip and projects Kellen Moore will deploy him at boundary/X with A.J. Brown in motion. Rashee Rice's rookie role is detailed as a near-total reversal from his poor SMU man/zone profile, comped to Juju Smith-Schuster and Jarvis Landry with Amon-Ra St. Brown as the growth ceiling; Marquise Brown and Xavier Worthy are framed as space-clearers for Rice, with Worthy's hands flagged as a risk.
+
+## [2024-07-04] ingest | Matt Waldman's RSP Cast — Sleeper WRs for the 2024 NFL/Fantasy Season: Going Deep with Brandon Angelo and Matt Waldman
+Ingested Going Deep sleeper-WR episode (Waldman/Angelo). New pages: Brandin Cooks, Andrei Iosivas, Charlie Jones, Parker Washington, Casey Washington, Evan Engram. Notable calls: hosts expect Cincinnati to move on from Tee Higgins (walk or midseason trade), opening volume for Burton/Iosivas/Jones; Angelo prefers Roman Wilson over Calvin Austin III in Arthur Smith's scheme; Waldman names Parker Washington (not Brian Thomas Jr.) as most ready to start in Jacksonville; Michael Thomas landing-spot speculation (Jets/Bengals/Steelers/Falcons).
+
+## [2024-07-05] ingest | Reception Perception: The Show — Jaylen Waddle & Demario Douglas Profiles
+Waddle: RP data shows a career-best press-coverage jump (65.7% rookie to 72% in 2023), reinforcing his boundary/X role over Tyreek Hill, though Harmon keeps him a tier below Diggs/Ayuk. Douglas: rookie profile graded stronger vs. man than zone (atypical for his route tree) with a muddled 2024 role behind new draftees Polk/Baker and vets Bourne/Smith-Schuster. New page: Ja'Lynn Polk gets an early scouting projection from untracked co-host James Koh as the Maye-friendly intermediate complement to Douglas.
+
+## [2024-07-08] ingest | Matt Waldman's RSP Cast — Feel It or F**k It 7.8.24: An RSP Cast with Bob Harris and Matt Waldman
+Waldman/Harris called both Kyren Williams and Blake Corum overrated at current ADP, likening the Rams backfield to the Priest Holmes-Larry Johnson dynamic; Waldman reversed his prior Fantasy Football Expo skepticism to bullish on Calvin Austin III; flagged Michael Carter as a sleeper over Trey Benson behind James Conner in Arizona; added new pages for Taysom Hill and Zach Charbonnet.

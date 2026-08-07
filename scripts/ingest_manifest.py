@@ -366,6 +366,11 @@ def main():
                          "agent emits a plan and apply_ingest.py writes it "
                          "(ingest v2 -- see docs/ingest-v2-plan.md)")
     ap.add_argument("--plan-out", help="with --mode extract: where the agent writes its plan")
+    ap.add_argument("--guid", help="build the prompt for THIS specific episode "
+                    "rather than the queue head. Lets the orchestrator skip past "
+                    "an episode that failed earlier in the run -- safe because the "
+                    "applier inserts bullets by date, so processing order no longer "
+                    "affects chronology.")
     args = ap.parse_args()
 
     queue = load_queue()
@@ -380,9 +385,14 @@ def main():
         return
 
     inv = inventory()
-    batch = queue[: args.count]
+    if args.guid:
+        batch = [e for e in queue if e.get("guid") == args.guid]
+        if not batch:
+            sys.exit(f"error: {args.guid} is not an episode awaiting ingestion")
+    else:
+        batch = queue[: args.count]
     if args.mode == "extract":
-        if args.count != 1:
+        if len(batch) != 1:
             sys.exit("error: --mode extract handles one episode per agent")
         if not args.plan_out:
             sys.exit("error: --mode extract requires --plan-out")

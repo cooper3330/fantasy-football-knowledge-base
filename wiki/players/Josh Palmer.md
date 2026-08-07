@@ -21,6 +21,7 @@ tags: [player]
   single worst in the NFL. Acknowledges "Josh Palmer bros" expecting a 2024
   breakout given the added opportunity, but is noncommittal ("who knows?").
 - 2024-05-06 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-05-06]]): Waldman calls Josh Palmer a proven, capable contributor in a complementary rather than lead role for the Chargers, with his hold on snaps this year dependent on efficiency given Jim Harbaugh/Greg Roman's expected run-heavy offense.
+- 2024-06-13 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-06-13]]): Harmon floats Josh Palmer as the Chargers' likely 'sacrificial' X receiver -- not a great scheme fit for the role, but capable of a professional, C-plus-level job there similar to how Romeo Doubs (untracked comp) is used as Green Bay's functional WR3, which would let the offense deploy more athletically interesting players like Quentin Johnston and Ladd McConkey around him. [Dynasty]
 
 ## Related Concepts
 - [[Quentin Johnston]]

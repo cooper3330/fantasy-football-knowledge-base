@@ -20,6 +20,7 @@ tags: [player]
 
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: calls [[Josh Jacobs]]'s departure to Green Bay "the ideal move" for both Jacobs and White, who inherits the Las Vegas backfield. Reads free-agent addition [[Alexander Mattison]] as depth, not a real threat to White's workload — expects a "buff," hard, straight-line runner with a little wiggle, a promising pass protector but not a real receiving threat, who can still get the job done as Las Vegas's lead back after a heavy-usage 2023. Notes the Raiders, under new HC Antonio Pierce and new OC Luke Getsy (with [[Gardner Minshew]] at quarterback), project as run-heavy regardless of Getsy's public statements, and flags a mid-round rookie back as real competition to watch for behind White/Madison.
+- 2024-07-08 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-07-08]]) [Redraft (Standard)]: Waldman thinks [[Zamir White]] is underpriced based on anticipated volume, pointing to last year's stretch once [[Josh Jacobs]] got hurt when White (already on pace for 80%+ of snaps) averaged 114 scrimmage yards per game down the stretch, including a big performance against the Chiefs. He questioned whether new OC Luke Getsy (from a run-heavy Bears offense) and Antonio Pierce's known run-first preference cap the ceiling, and said White still has to prove himself as a receiver and pass protector before locking down every-down work, with [[Dylan Laube]] as the likely beneficiary if he doesn't.
 
 ## Related Concepts
 - [[Redraft (Standard)]]

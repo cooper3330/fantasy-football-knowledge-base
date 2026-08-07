@@ -107,6 +107,20 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-05-30 | [[Matt Harmon]] | Jayden Reed & Jordan Addison + Eagles Draft a Gem? | [[Reception Perception The Show - 2024-05-30]] |
 | 2024-06-03 | [[Matt Waldman]] | Feel It or F**k It 6.3.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-06-03]] |
 | 2024-06-04 | [[Matt Harmon]] | The Beefy Jameson Williams Episode We All Need | [[Reception Perception The Show - 2024-06-04]] |
+| 2024-06-06 | [[Matt Harmon]] | We Love Nico Collins & Where George Pickens Does Best | [[Reception Perception The Show - 2024-06-06]] |
+| 2024-06-10 | [[Matt Waldman]] | Feel It or F**k It 6.10.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-06-10]] |
+| 2024-06-11 | [[Matt Harmon]] | Ja'Marr Chase, Christian Watson & Malachi Corley | [[Reception Perception The Show - 2024-06-11]] |
+| 2024-06-13 | [[Matt Harmon]] | Amon-Ra, Garrett Wilson & Brenden Rice | [[Reception Perception The Show - 2024-06-13]] |
+| 2024-06-18 | [[Matt Waldman]] | Feel It or F**k It 6.17.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-06-18]] |
+| 2024-06-18 | [[Matt Harmon]] | T-Law Gets Paid, Chris Olave Profile & Rookie Roundup on Devontez Walker | [[Reception Perception The Show - 2024-06-18]] |
+| 2024-06-20 | [[Matt Harmon]] | First-time NFL Offensive Coordinators | [[Reception Perception The Show - 2024-06-20]] |
+| 2024-06-25 | [[Matt Harmon]] | Team-by-Team Offensive Schemes Continued | [[Reception Perception The Show - 2024-06-25]] |
+| 2024-06-27 | [[Matt Harmon]] | Choose Your Fighters: Wide Receiver Battles | [[Reception Perception The Show - 2024-06-27]] |
+| 2024-07-01 | [[Matt Waldman]] | Feel It or F**k It 7.1.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-07-01]] |
+| 2024-07-02 | [[Matt Harmon]] | DeVonta Smith & Rashee Rice Profiles | [[Reception Perception The Show - 2024-07-02]] |
+| 2024-07-04 | [[Matt Waldman]] | Sleeper WRs for the 2024 NFL/Fantasy Season: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-07-04]] |
+| 2024-07-05 | [[Matt Harmon]] | Jaylen Waddle & Demario Douglas Profiles | [[Reception Perception The Show - 2024-07-05]] |
+| 2024-07-08 | [[Matt Waldman]] | Feel It or F**k It 7.8.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-07-08]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

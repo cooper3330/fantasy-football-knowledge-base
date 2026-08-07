@@ -84,13 +84,21 @@ print(sum(1 for v in s['episodes'].values() if v.get('status') == 'fetched'))
 " 2>/dev/null
 }
 
-# The guid ingest_manifest.py will pick next. Sort key MUST match its
-# load_queue() exactly, or the stall check below compares the wrong episode.
-next_guid() {
-  $PY -c "
-import json, pathlib
+# The next fetched guid in ingest order (oldest-first), EXCLUDING any guids
+# passed as arguments. The sort key MUST match ingest_manifest.load_queue().
+#
+# The exclusion is what makes skip-and-continue possible: when an episode fails,
+# the loop adds its guid here so selection moves past it to the next good one,
+# instead of handing the same poison episode to every remaining iteration. This
+# is only safe because the applier inserts bullets by date -- ingesting a later
+# episode before an earlier one no longer breaks chronology (rule 4).
+next_guid() {  # $@ = guids to skip
+  SKIP="$*" $PY -c "
+import json, os, pathlib
+skip = set(os.environ.get('SKIP', '').split())
 s = json.loads(pathlib.Path('scripts/state.json').read_text())
-eps = [v for v in s['episodes'].values() if v.get('status') == 'fetched']
+eps = [v for v in s['episodes'].values()
+       if v.get('status') == 'fetched' and v.get('guid') not in skip]
 eps.sort(key=lambda v: (v.get('pub_date') or '', v.get('title') or ''))
 print(eps[0].get('guid', '') if eps else '')
 " 2>/dev/null
@@ -152,78 +160,89 @@ if [ "${QUEUE:-0}" -eq 0 ]; then
 fi
 
 {
-  echo "=== $TS: ingestion ($QUEUE awaiting, taking up to $INGEST_PER_RUN) ==="
+  echo "=== $TS: ingestion ($QUEUE awaiting, target $INGEST_PER_RUN) ==="
 
-  for i in $(seq 1 "$INGEST_PER_RUN"); do
-    BEFORE_GUID="$(next_guid)"
-    if [ -z "$BEFORE_GUID" ]; then
-      echo "--- queue empty after $((i - 1)) episode(s); stopping ---"
+  # INGEST_PER_RUN counts SUCCESSES, not attempts. An episode that fails after
+  # its one retry is added to SKIPPED and the run moves on to the next, rather
+  # than stalling every remaining episode on one poison transcript. SKIPPED
+  # episodes stay `fetched` and are retried on a later run; because the applier
+  # inserts bullets by date, ingesting them out of order does not break rule 4.
+  DONE=0
+  SKIPPED=""
+  while [ "$DONE" -lt "$INGEST_PER_RUN" ]; do
+    GUID="$(next_guid $SKIPPED)"
+    if [ -z "$GUID" ]; then
+      echo "--- no more ingestable episodes (${DONE} done, skipped:$(echo $SKIPPED | wc -w | tr -d ' ')) ---"
       break
     fi
 
-    if partial_write "$BEFORE_GUID"; then
-      echo "!!! refusing to start episode $i -- clean up the partial write first !!!"
+    # A partial write from a prior crashed run must be cleaned before we touch
+    # this episode; re-ingesting on top of it would duplicate bullets. This is
+    # the one condition that stops the whole run -- it needs a human.
+    if partial_write "$GUID"; then
+      echo "!!! refusing to continue -- clean up the partial write first !!!"
       break
     fi
 
-    echo "--- [$i/$INGEST_PER_RUN] $BEFORE_GUID ($INGEST_MODE) ---"
+    N=$((DONE + 1))
+    echo "--- [$N/$INGEST_PER_RUN] $GUID ($INGEST_MODE) ---"
 
-    # The prompt is regenerated EVERY iteration, not hoisted out of the loop:
-    #   1. It selects the next episode -- a hoisted prompt would re-ingest the
-    #      same one N times.
-    #   2. It inlines the current page inventory. Episode N-1 may have just
-    #      created "Brock Bowers"; agent N has to see that to update it rather
-    #      than create a near-duplicate page.
-    #
     # A fresh `claude -p` per episode is what makes the isolation real: no
     # --continue, no --resume, so each agent starts empty and carries nothing
-    # from the episode before it. --agent restricts the tool surface (extract =
-    # Read/Write only); --model and --effort are the two biggest cost levers,
-    # see CLAUDE.md "Model and batch size (cost)".
+    # from the episode before it. The prompt is regenerated per episode so it
+    # inlines the CURRENT page inventory -- episode N-1 may have just created
+    # "Brock Bowers", and agent N must see that to update rather than duplicate.
+    # --agent restricts the tool surface (extract = Read/Write only); --model and
+    # --effort are the two biggest cost levers (CLAUDE.md "Model and batch size").
     if [ "$INGEST_MODE" = "extract" ]; then
-      # Phase A emits a plan; apply_ingest.py (phase B) writes the wiki, after
+      # Phase A emits a plan; apply_ingest.py (phase B) writes the wiki after
       # validating the whole plan, so a bad plan costs only the extraction.
-      #
-      # apply_ingest exit codes: 0 applied, 2 validation rejection (a content
-      # problem -- re-extracting reproduces it, so don't), 3 the plan was missing
-      # or unparseable (a stochastic generation failure -- one clean re-extraction
-      # usually fixes it). So retry ONLY on 3.
+      # Exit codes: 0 applied; 2 validation rejection; 3 missing/unparseable plan.
+      # Both failure modes are often a stochastic slip (a dropped citation, an
+      # unescaped quote), so retry ONCE on either before giving up on the episode.
+      ARC=1
       for attempt in 1 2; do
-        PLAN="$PLAN_DIR/plan-$i-$$.json"
+        PLAN="$PLAN_DIR/plan-$$-$N-$attempt.json"
         rm -f "$PLAN"
-        PROMPT="$($PY scripts/ingest_manifest.py --count 1 --mode extract \
+        PROMPT="$($PY scripts/ingest_manifest.py --guid "$GUID" --mode extract \
                       --plan-out "$PLAN" 2>/dev/null)"
-        [ "$attempt" -eq 2 ] && \
-          echo "--- re-extracting episode $i: previous plan was missing/unparseable ---"
+        [ "$attempt" -eq 2 ] && echo "--- re-extracting: previous plan was rejected/unusable ---"
         run_agent "$PROMPT" extract; RC=$?
         $PY scripts/apply_ingest.py "$PLAN"; ARC=$?
-        [ "$ARC" -ne 3 ] && break     # 0 = done; 2 = a rejection retry won't cure
+        [ "$ARC" -eq 0 ] && break
       done
-      [ "${ARC:-1}" -eq 2 ] && echo "!!! plan rejected (see above); nothing written !!!"
-      [ "${ARC:-1}" -eq 3 ] && echo "!!! plan still unusable after retry; nothing written !!!"
     else
-      PROMPT="$($PY scripts/ingest_manifest.py --count 1 2>/dev/null)"
+      PROMPT="$($PY scripts/ingest_manifest.py --guid "$GUID" 2>/dev/null)"
       run_agent "$PROMPT" ingest; RC=$?
+      ARC=0   # legacy agent writes directly; success is judged by the queue move below
     fi
 
-    # Verify BETWEEN episodes, not just at the end: a corrupt state or a
-    # half-moved transcript should stop the run, not be compounded by two more
-    # agents writing on top of it.
+    # verify_integrity between episodes: corrupt state or a half-moved transcript
+    # must stop the run, not be compounded by writing more on top of it.
     if ! $PY scripts/verify_integrity.py; then
-      echo "!!! verify_integrity failed after episode $i -- stopping run !!!"
+      echo "!!! verify_integrity failed after $GUID -- stopping run !!!"
       break
     fi
 
-    # Stall guard. If the agent errored, or finished without setting the status
-    # to `ingested`, the queue head is unchanged and the next iteration would
-    # hand the identical transcript to a new agent -- burning the full run on
-    # one poison episode, repeatedly, unattended. Bail instead.
-    if [ "$(next_guid)" = "$BEFORE_GUID" ]; then
-      echo "!!! queue head unchanged after episode $i (claude rc=$RC) -- stopping run !!!"
-      partial_write "$BEFORE_GUID" || true
-      break
+    # Did this episode actually leave the queue? If the guid is still fetched, the
+    # ingest did not take (a rejection that survived the retry, or a legacy agent
+    # that died).
+    if [ "$(next_guid $SKIPPED)" = "$GUID" ]; then
+      # A clean rejection writes nothing (apply_ingest validates first), so it is
+      # safe to skip and continue. A PARTIAL write -- content on disk from an
+      # episode still marked `fetched` -- is not: re-ingesting it later duplicates
+      # bullets, so it needs a human. That is the one thing that stops the run.
+      if partial_write "$GUID"; then
+        echo "!!! $GUID left a PARTIAL WRITE -- stopping the run for cleanup !!!"
+        break
+      fi
+      echo "!!! $GUID did not ingest (rc=$RC, apply=$ARC), nothing written -- skipping it !!!"
+      SKIPPED="$SKIPPED $GUID"
+      continue
     fi
+    DONE=$((DONE + 1))
   done
+  echo "--- run complete: $DONE ingested$([ -n "$SKIPPED" ] && echo ", skipped:$SKIPPED") ---"
 
   echo "=== $TS: post-ingest checks ==="
   $PY scripts/verify_integrity.py

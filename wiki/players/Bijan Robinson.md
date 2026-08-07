@@ -24,9 +24,14 @@ tags: [player]
 
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: calls him a "future All-Pro" while breaking down why the finalized [[Kirk Cousins]] signing helps the whole Atlanta offense, including the run game Robinson anchors.
+- 2024-06-10 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-06-10]]): projects Bijan for roughly 314 touches, 1,725 yards from scrimmage and 11 touchdowns, calling that 'easily' top-five running back production. He also flagged new Falcons OC Zac (B.) Robinson, formerly of the McVay/Rams tree, as explicitly targeting McCaffrey/Kyren Williams-style usage (Waldman noted Williams got 25 opportunities/game down the stretch last year on that same scheme tree), which is the structural reason for his bullish touch projection.
+- 2024-06-20 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-06-20]]), citing Fantasy Points data: under Arthur Smith's zone-heavy scheme, Robinson ran 67.8% of his carries on zone concepts last year (40 of ~145 attempts by Harmon's read) versus 30.4% on man/gap runs, but was notably more efficient on the man/gap runs — 5.15 yards per carry and a 47.7% success rate. Harmon flags this as a reason to watch how new OC Zach Robinson (from the McVay/Rams tree, which ran more man/gap duo concepts last year in LA) balances the run scheme, suggesting Bijan could see big plays on man/gap runs even though the offense's identity is still expected to lean zone/outside stretch to set up London and Mooney downfield shots.
+- 2024-07-01 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-07-01]]) [Best Ball]: Waldman says Robinson 'easily' has RB1-overall upside and should have a 'LaDainian Tomlinson-like career,' expecting Atlanta's new offense to 'take off the governor' that limited him as a rookie under Arthur Smith's committee approach -- Tyler Allgeier will still get some work, but not the heavy split seen last year. He explicitly comps this to Sean McVay's Rams-tree history of feature-back workloads (Todd Gurley, Cam Akers, Kyren Williams), since Atlanta's new offensive staff comes from that lineage. Robinson is grouped among the top three RB1-overall candidates alongside [[Breece Hall]] and ahead of [[Jahmyr Gibbs]] and [[Jonathan Taylor]] in this discussion.
 
 ## Related Concepts
 - [[Jahmyr Gibbs]] — the paired call; the two takes are one argument
 - [[Player Development and Coachability]]
 - [[Redraft (Standard)]]
 - [[Best Ball]]
+- [[Scheme vs Talent]]
+- [[Running Back Size and Movement Skills]]

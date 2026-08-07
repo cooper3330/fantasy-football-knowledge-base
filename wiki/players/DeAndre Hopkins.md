@@ -26,6 +26,7 @@ tags: [player]
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: unlike [[Diontae Johnson]] or [[Calvin Ridley]], agrees Hopkins "is for sure" already a leader of a receiving corps.
 
 - 2024-04-11 — According to [[Matt Harmon]] on *Reception Perception: The Show* ([[Reception Perception The Show - 2024-04-11]]): cited (as his prime self) as the aggressive player comp for 2024 WR prospect [[Adonai Mitchell]] — both share a "lull you to sleep" tempo-change route-running style that produces a late, sharp separation break against man coverage, plus elite ball-tracking/body-control downfield.
+- 2024-06-20 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-06-20]]): pushes back on the narrative that Hopkins was 'washed' last year — his RP profile shows he was still good in Arizona and remained really good after being traded to Tennessee, primarily deployed as a pure outside receiver with occasional slot movement. Harmon frames him as the true X in Tennessee's 2024 receiver room, which is what frees Calvin Ridley to move around the formation rather than being pigeonholed outside.
 
 ## Related Concepts
 - [[Aging Curves and Career Longevity]]

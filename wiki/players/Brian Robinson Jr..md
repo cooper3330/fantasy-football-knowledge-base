@@ -17,6 +17,7 @@ tags: [player]
 
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: reiterates Robinson "looked so good last year" and reads the low cost of Washington's [[Austin Ekeler]] signing as evidence the team doesn't see Ekeler as a real threat to Robinson's role — still expects a disappointing timeshare for both unless one gets hurt.
+- 2024-07-01 — According to Bob Harris (co-host, not tracked) and [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-07-01]]) [Redraft]: In a feel-it-or-f-it pairing against [[Austin Ekeler]] (RB40), the hosts split. Bob takes Robinson (RB32), expecting a significant workload and noting he already holds 'enough shares' of Robinson and may add more. Waldman goes the other way with Ekeler 'against my better judgment,' saying he's not sure Robinson's decline last year fully reflects where Ekeler truly is, and that Ekeler may never have fully recovered from an earlier ankle issue that depressed his play.
 
 ## Related Concepts
 - [[Redraft (Standard)]]

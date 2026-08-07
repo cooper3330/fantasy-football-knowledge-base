@@ -50,6 +50,7 @@ articulated.
 
 
 - 2024-04-11 — According to [[Brandon Angelo]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-04-11 (Going Deep - Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes)]]): applies the pattern to 2024 running back draft capital — "the NFL always errors towards the big school, they always have, they always will." Worked example: pound-for-pound, [[Kimani Vidal]] (Troy) grades as the better back than [[Marshawn Lloyd]] (USC), but Vidal is projected to a Day 3 (4th-6th round) slot with a short leash while Lloyd goes round two as a likely first-back-off-the-board with a longer leash — purely a function of school pedigree and draft capital, not tape.
+- 2024-06-10 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-06-10]]): framed the [[Malik Nabers]] vs. [[Marvin Harrison Jr.]] rookie WR gap (Nabers going WR20/pick 28 vs. Harrison WR9/pick 13, despite Waldman's own point projections being close: 1,000/82/7 vs. 928/77/6) as pure opportunity cost -- the price gap is too wide relative to the projected production gap, so he's drafting far more shares of Nabers than Harrison even while still buying 'some shares' of Harrison for safety. He raised a similar mispricing point on [[Devin Singletary]] going as low as RB32/ADP 107 despite being a proven, on-field lead back.
 
 ## Related
 - [[Running Back Size and Movement Skills]]

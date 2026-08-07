@@ -23,6 +23,7 @@ tags: [player]
 
 - 2024-04-11 — According to [[Matt Waldman]] on *Going Deep* ([[Matt Waldman's RSP Cast - 2024-04-11 (Going Deep - Fave Evals, Coach-Killer Candidates, and High-End Career Outcomes)]]): uses Allen as the worked example of grading a range of outcomes rather than a single right/wrong verdict — "I don't like a lot about Braelon Allen's game, but I can understand how he could be one of the three most productive backs in his class." [[Brandon Angelo]], same episode, extends the framework explicitly: contrasts Allen's wide range of outcomes with [[Caleb Williams]]'s much narrower one — Allen "could be out of the league in two years" or, in another outcome, "a Pro Bowl caliber back in two years." See [[Prospect Pro-Readiness vs Ceiling]].
 - 2024-04-29 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-04-29]]) [Dynasty]: rated Allen's long-term outlook behind Breece Hall as worse than Isaac Guerendo's behind Christian McCaffrey, noting the Jets loaded the running back room further behind Hall, which he reads as the team 'throwing things at the wall.' He said Allen falling as far as he did in the draft reflects concern he rested on his laurels after a strong freshman year and never fully put his game together, even accounting for a coaching change. Waldman also credited Hall's return from injury — still producing despite a rough Buffalo game while regaining confidence — and said a healthier offensive line (pending Tyron Smith's health) leaves 'too many ifs' stacked against Allen relative to Guerendo's clearer outlook.
+- 2024-07-08 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-07-08]]) [Best Ball]: Waldman is 'not in love' with [[Braelon Allen]] as a standalone prospect -- calling his skills fragmented and not yet fully integrated -- but said the Jets' offensive line (if healthy) plus Aaron Rodgers' ability to dictate to defenses could let Allen deliver 8-10 rushing TDs and 1,000-1,200 total yards as a rookie if [[Breece Hall]] gets hurt early and he plays out a full season, since Allen is a good gap runner in a scheme suited to that skill. He called Allen a 'must-grab' at his current cost (last two rounds of best ball drafts, some after pick 20), naming him the clear-cut handcuff to Hall ahead of Israel Abanikanda.
 
 ## Related Concepts
 - [[Najee Harris]]
@@ -31,3 +32,4 @@ tags: [player]
 - [[Dylan Laube]]
 - [[Player Development and Coachability]]
 - [[Dynasty]]
+- [[Injury-Agnostic Roster Construction]]

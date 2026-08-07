@@ -29,6 +29,7 @@ tags: [player]
 
 
 - 2024-04-08 — According to [[Matt Waldman]] ([[Feel It Or F@#k It - 2024-04-08]]): expects Jacobs to move well inside the top 10 of his RB rankings now that he's a Packer, even with A.J. Dillon (not tracked) still on the roster — "such a good pass receiver," an all-around back on an offense that will open things up for him, facing NFC North defenses Waldman doesn't rate highly at this point. Cites Matt LaFleur's scheme and stated plan to use Jacobs as a receiver out of the backfield as what "sealed the deal."
+- 2024-06-10 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-06-10]]): feels good about Jacobs hitting roughly 20 touches/game in Green Bay, projecting about 1,500 yards and 8-10 touchdowns, and floated a career-year scenario (1,600-1,800 yards, callback to his 2022 season as fantasy's top RB) if the Packers' line performs. He downplayed the AJ Dillon and Marshawn Lloyd threats as '3 big ifs' -- Dillon lacks explosive juice, Lloyd's ball security and pass protection are unproven -- though he noted the Packers hold a contract out that could open the door for Lloyd in 2025 if Jacobs falters. Bob Harris compared Jacobs to a 'rental car' the team will run hard and discard if he wears down, but said he doesn't count Jacobs out given his life story.
 
 ## Related Concepts
 - [[Redraft (Standard)]]

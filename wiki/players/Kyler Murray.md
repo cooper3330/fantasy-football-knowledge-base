@@ -17,6 +17,7 @@ tags: [player]
 **Note:** the one live evaluative claim here is negative and narrow — pocket
 discipline under near pressure. Nothing in this episode addresses Murray's
 2023 ACL return, role, or fantasy price.
+- 2024-07-01 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-07-01]]) [Redraft]: Waldman likes Murray as a value at QB7 ADP, citing the Drew Petzing scheme he's now had a year in, the addition of [[Marvin Harrison Jr.]] on top of Trey McBride, and rushing equity -- Footballguys projects him for 91 carries, fifth-most among QBs. He notes Murray flashed real ceiling before, finishing QB2 in 2020 under Kliff Kingsbury with two top-10 finishes in his first two seasons. But when directly compared to [[Trevor Lawrence]], Waldman says he would rather have Lawrence at QB7 and take Murray instead at Lawrence's current ADP of QB14, preferring Lawrence's larger sample of proven production over Murray's flashes.
 
 ## Related Concepts
 - [[Pace Control and Movement Intellect]]

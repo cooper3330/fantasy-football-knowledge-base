@@ -26,6 +26,7 @@ current numbers look alike.
 - 2024-04-30 — According to [[Matt Harmon]] and co-host James Koh (untracked) ([[Reception Perception The Show - 2024-04-30]]): discussing the Chiefs' selection of Xavier Worthy, both hosts argue Kansas City's approach with Patrick Mahomes is to distribute targets among several 'twos and threes' (Rashee Rice, Marquise Brown, Worthy) behind Travis Kelce rather than establish one true WR1, a strategy Harmon says only an elite-QB offense can afford since 'somebody's going to finish with the most targets' without any single receiver needing a heavy target share to be startable.
 - 2024-05-06 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-05-06]]): Waldman frames 2024 backfield battles as coach-vs-scouting-department value splits rather than clean depth charts -- the Giants' [[Devin Singletary]] as a coaches' hire versus [[Eric Gray]]/[[Tyrone Tracy Jr.]] as front-office-favored change-of-pace types -- and notes even backfields with a clear lead runner, like [[Joe Mixon]] in Houston, still carve out complementary-back work rather than true bell-cow usage.
 - 2024-05-23 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-05-23]]): the outside/vertical X-receiver role is 'objectively the hardest receiver role to play in the NFL' -- it draws more press coverage, more man coverage and more top corners than slot or flanker roles. Harmon uses [[Quentin Johnston]]'s disastrous rookie charting profile as a case study of a prospect whose college profile showed he wasn't ready for that specific role being miscast into it as a rookie, and argues the fix is scheme-driven (manufactured touches, play-action, big-over routes) rather than expecting immediate technical refinement.
+- 2024-07-02 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-07-02]]): Harmon and co-host James Koh (untracked) debate why a team would put its 'better' receiver at X instead of an easier motion/slot role, using [[DeVonta Smith]] and [[A.J. Brown]] as the case study -- Harmon argues it's actually correct to put the more explosive, downfield playmaker (Brown) in the motion/big-post role where he can build a head of steam, and the more technical route-runner/press-beater (Smith) on the boundary, since X requires winning press one-on-one while the motion role is comparatively easier to scheme open. The same framework applies to [[Rashee Rice]], whose 47.6% slot/backfield usage as a rookie -- versus 83.6% outside in college -- was a deliberate scheme simplification once Kansas City saw he couldn't consistently win press reps.
 
 ## Related
 - [[Scouting Bias and Player Archetypes]]
@@ -33,3 +34,6 @@ current numbers look alike.
 - [[Dynasty]]
 - [[Xavier Worthy]]
 - [[Quentin Johnston]]
+- [[DeVonta Smith]]
+- [[A.J. Brown]]
+- [[Rashee Rice]]

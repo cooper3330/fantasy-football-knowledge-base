@@ -23,6 +23,7 @@ tags: [player]
 
 
 - 2024-03-19 — According to [[Matt Waldman]] on [[Matt Waldman's RSP Cast - 2024-03-19]]: "hates" Ekeler's move to Washington from a fantasy standpoint given how good [[Brian Robinson Jr.]] looked in 2023 — reads Ekeler's cheap two-year, $11M deal ($5M year one, up to $1.5M in likely-unreachable incentives) as a market signal he's viewed as a complementary piece (a McKissick-type role) rather than a true lead back, and expects the split to be "disappointing for both players unless one gets hurt."
+- 2024-07-01 — According to [[Matt Waldman]] and Bob Harris (co-host, not tracked) ([[Matt Waldman's RSP Cast - 2024-07-01]]) [Redraft]: Waldman takes Ekeler over [[Brian Robinson Jr.]] in a feel-it-or-f-it pairing despite Ekeler's price having 'plummeted' to RB40 -- earlier in the best ball season he was going well ahead of Robinson -- arguing he hasn't fully declined and may never have recovered from an early ankle injury that masked his real level last year. Bob disagrees, taking Robinson instead, calling this the pairing he 'feels like I'm making the wrong pick on' even as he sticks with Ekeler.
 
 ## Related Concepts
 - [[Redraft (Standard)]]

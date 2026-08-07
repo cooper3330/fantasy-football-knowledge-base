@@ -21,6 +21,7 @@ tags: [player]
   him and [[Chase Brown]] as a solid one-two punch — with the caveat that it
   "doesn't really matter" who's in the backfield as long as [[Joe Burrow]]
   stays upright.
+- 2024-07-01 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-07-01]]) [Redraft]: In a feel-it-or-f-it pairing against [[Chase Brown]], Waldman picks Moss (RB26 ADP versus Brown's RB36) despite believing Brown has more long-term upside, saying he thinks Moss's current price will hold up better through the summer while Brown's rising buzz is more 'camp hype' than settled backfield direction.
 
 ## Related Concepts
 - [[Joe Mixon]]
