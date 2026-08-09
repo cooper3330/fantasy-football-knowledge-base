@@ -1,0 +1,23 @@
+---
+type: player
+team: LAC
+position: WR
+tags: [player]
+---
+
+# KeAndre Lambert-Smith
+
+## Expert Takes
+<!-- Append new dated, attributed bullets here as sources are ingested.
+     Don't overwrite old ones — see CLAUDE.md rule 4. -->
+- 2025-05-09 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2025-05-09]]): his favorite player charted in this year's Rookie Roundup, and he really likes the fifth-round landing spot with the Chargers. The speed shows up on downfield routes — post, nine, corner, out all grade well — and although he ran an absurd 33% curl rate at a mediocre success rate, Harmon saw enough against man to believe he can throttle down and work back to the quarterback, with a 72.3% overall success rate versus man. He calls him a bizarre player, affectionately: his man and zone numbers sit unusually close together, the intermediate area is not his thing, and he pairs a high drop rate with a high contested-catch rate, so he will clank a layup and then win a spectacular ball. Harmon wanted him in a room where something could happen, and sees opportunity behind [[Ladd McConkey]] and [[Tre Harris]] with [[Mike Williams]] and [[Quentin Johnston]] ahead of a thin depth chart. Measurables from James Koh (not tracked): 6-1, 190, 4.37 forty, but a poor 34.5-inch vertical and below-average broad jump; Koh thought Tre Harris was a slight reach in round two but likes the Chargers investing back-to-back picks in support for [[Justin Herbert]].
+- 2025-06-27 — According to [[Matt Waldman]] ([[Reception Perception The Show - 2025-06-27]]): Lambert-Smith is intriguing but the top of his archetype — [[Jaxon Smith-Njigba]] — is not happening; [[Jerry Jeudy]] sits just below that, and where he actually is now is roughly [[Jalen Tolbert]] with less experience. Waldman likes the speed, hands, decent route skills, zone contributions and ability to make the first man miss and move the chains, and thinks his man-coverage route game is showing improvement in releases and stems. He contextualizes Auburn as a program that puts athletes in position rather than refining technique, so Lambert-Smith has a chance to be a better pro than college player if he works smart. Realistic role: a Chris Conley or early-career [[DeMarcus Robinson]] contributor who could grow into a valuable WR3/WR4 who forces his way into two-receiver sets, a [[Nick Westbrook-Ikhine]] type. [[Matt Harmon]] charted him in the rookie roundup mini-sample and found him interesting as a vertical player, liking the [[Jerry Jeudy]] stylistic comp against man coverage.
+- 2025-07-25 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2025-07-25]]): Lambert-Smith was one of Harmon's favorite receivers — possibly his favorite — from the rookie roundup three-game mini samples, and he is already making camp splash plays. Six-one, 190 out of Auburn with a 4.37 forty, a 34.5-inch vertical and a 10-4 broad, which Koh (not tracked) calls fine but not notable, though both love his start-stop ability and how smoothly he throttles down and works back to the quarterback at that speed. He charts as a much better man beater than zone beater: 67 percent versus press, 72.3 percent versus man, 72.7 percent on nines, and good on the deeper outs, corners and posts. His 70.4 percent curl mark came on a heavy 33 percent curl route participation. Slant work is not good; he is mostly a downfield threat now. Harmon stops short of a breakout call but says check your waiver wire and deep dynasty rosters — this is a guy who can play in a light receiver room.
+- 2025-08-04 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-08-04]]): asked whether Lambert-Smith could overtake [[Tre Harris]] on the Chargers' depth chart, Waldman says he feels the possibility. He calls Lambert-Smith an underrated player out of the draft who runs routes pretty well, has decent speed and size and catches the ball well, and who was in a bad college situation — the open question is his ability to work against press coverage, which needs more experience. He contrasts that with Harris being an up-and-down player who does the spectacular but must improve at the mundane details. With talk that Lambert-Smith may be on the field more than expected come September, Waldman can see it happening. Bob Harris (not a tracked expert) notes his 4.37 speed but is more cautious, and reminds listeners the Chargers under Greg Roman historically support only one clearly fantasy-relevant receiver — which he is still betting is [[Ladd McConkey]].
+
+## Related Concepts
+- [[Zone vs Man Route Running]]
+- [[Prospect Pro-Readiness vs Ceiling]]
+- [[Lid Lifter Receivers and Space Creation]]
+- [[Alpha Receiver vs Committee Pass Catchers]]
+

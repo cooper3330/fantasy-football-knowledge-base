@@ -1,0 +1,23 @@
+---
+type: player
+team: TEN
+position: WR
+tags: [player]
+---
+
+# Nick Westbrook-Ikhine
+
+## Expert Takes
+<!-- Append new dated, attributed bullets here as sources are ingested.
+     Don't overwrite old ones — see CLAUDE.md rule 4. -->
+- 2024-10-28 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-10-28]]): 'fuck it' on a third touchdown in as many weeks making Westbrook-Ikhine a fantasy option. Even with a fourth or fifth, Waldman expects the production to stop once [[Will Levis]] returns, because the run is built on rapport with Mason Rudolph. Bob Harris (not a tracked expert) noted Westbrook-Ikhine led the Titans in routes run against Detroit, but agreed on the environment: Tennessee had scored 120 points, the fewest of any team with eight games played, and the mining rule applies — skim the surface of a bad offense, which here means [[Calvin Ridley]].
+- 2024-10-29 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-10-29]]): Westbrook-Ikhine led the Titans in routes in Week 8, which Harmon treats as a symptom rather than a breakout. He calls him 'the poor man's [[Darius Slayton]]' — the guy a team keeps ending up back at no matter what else it does in the receiver room. Asked directly whether he or [[Tyler Boyd]] can step up with [[DeAndre Hopkins]] traded, Harmon answers 'no, probably not.'
+- 2024-11-26 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-11-26]]): six touchdowns in seven games, mostly long ones, and Harmon has 'no idea' what to make of it — he has never charted Westbrook-Ikhine for Reception Perception, does not plan to despite the requests flooding in, and jokes the streak is completely random. He offers a [[Darius Slayton]] comparison: the guy the team keeps trying to replace who keeps finding his way back into the starting lineup. The mechanism he does credit is scheme-agnostic — Tennessee simply threw over Houston's cover-two and quarters zones, with Westbrook-Ikhine and [[Calvin Ridley]] running past it in a 32-27 win. He stops short of saying Westbrook-Ikhine is a player: 'I don't really know if he is a player.'
+- 2024-12-02 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-12-02]]): he should be rostered everywhere, and Waldman would ride the touchdown rate rather than fade it. Bob Harris (not tracked) laid out the numbers — 20 catches and eight touchdowns, a score every 2.5 catches against a league receiver average of one per 12.7 catches per JJ Zachariason, plus a 20 percent target share in three straight games and a WR7 week at 21.1 points. Waldman notes every analyst has spent eight weeks insisting the rate must end, and answers that he is the guy rolling snake eyes six times in a row; that is fine, ride it. His grounding is real rapport with [[Will Levis]], effective slot work, and a long-standing knack for uncovering in the red zone. He rates him less exciting than [[Alec Pierce]] but a must-roster you play when needed.
+- 2025-03-07 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2025-03-07]]): Harmon would bring Westbrook-Ikhine back to Tennessee because 'he made some plays for you last year', projecting him as an [[Alec Pierce]]-style X receiver — a little sacrificial, but capable of big plays. He is candid about the limits of that view: 'I've never charted Nick Westbrook-Ikhine' and he probably will not be burning down the doors to do it this offseason, so the read is impression rather than Reception Perception data. Koh notes he was an absolute monster scoring touchdowns in 2024, is a free agent, sounds open to a return, and that Tennessee's receiver need makes the reunion plausible.
+- 2025-08-06 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2025-08-06]]): Harmon wonders whether Westbrook-Ikhine is Miami's sacrificial X receiver in three-wide sets — the guy you put on the line of scrimmage so you do not have to, given [[Tyreek Hill]] has not been an on-line player for three straight years (he has crossed 60 percent on the line just once in his career, his final Kansas City season, and even then was a 44 percent slot player). Harmon notes Westbrook-Ikhine can run down the field and occasionally finished [[Will Levis]] deep shots in the end zone, and that using him this way could open up the role catering he wants for [[Jaylen Waddle]] while leaving Hill's alignment untouched.
+
+## Related Concepts
+- [[Mining Bad Offenses]]
+- [[Sacrificial X Receiver]]
+

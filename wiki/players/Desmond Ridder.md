@@ -22,8 +22,10 @@ tags: [player]
 - 2024-02-29 — According to **James Koh** (co-host — not a tracked expert) on *Reception Perception: The Show*, with [[Matt Harmon]] absent ([[Reception Perception The Show - 2024-02-29]]): says plainly Atlanta has "seen enough" — Ridder "is not the answer at quarterback" — while noting HC Raheem Morris had already publicly suggested Ridder would look better with more talent around him.
 
 - 2024-03-21 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-03-21]]): traded straight-up to Arizona for [[Rondale Moore]] after Atlanta signed [[Kirk Cousins]] — a rare player-for-player swap. Harmon frames it as Atlanta needing to "get him out of the building" once Cousins arrived, similar to why [[Justin Fields]] had to be moved out of Chicago, though he rates Ridder as not even as good as Fields. Notes teammates and coaches around Ridder consistently praised his leadership, but that wasn't enough to keep him as a Falcon.
+- 2024-11-18 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-11-18]]): Waldman agreed with Bob Harris (not tracked) that the Raiders' best decision of the season was not starting Ridder in Miami and sticking with [[Gardner Minshew]], speculating that Norv Turner's input alongside new play caller Scott Turner was what stopped it. His verdict is brutal — go back to the Atlanta and Cincinnati tape; Ridder does not know where to throw the football, and Waldman joked that in a Squid Game red-light-green-light he would not make it 10 yards. He added that [[Tommy DeVito]] is 'way better' than Ridder, and that if the Giants genuinely want the first overall pick they should trade for him.
 
 ## Related Concepts
 - [[Scheme vs Talent]]
 - [[Kyle Pitts]]
 - [[Rondale Moore]]
+- [[Quarterback Processing and Confidence]]

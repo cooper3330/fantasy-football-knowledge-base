@@ -15,7 +15,11 @@ mkdir -p "$LOG_DIR"
 TS="$(date '+%Y-%m-%d %H:%M:%S')"
 
 CLAUDE_BIN="${CLAUDE_BIN:-/Users/kylecooper/.local/bin/claude}"
-PY="/usr/bin/python3"
+# Overridable so the run can fall back to a working interpreter (e.g.
+# /opt/homebrew/bin/python3) if the macOS Command Line Tools shim at
+# /usr/bin/python3 is broken/absent. apply_ingest.py invokes verify_integrity
+# via sys.executable, so the whole chain follows whatever PY resolves to here.
+PY="${PY:-/usr/bin/python3}"
 
 # How many episodes to ingest per run. Each is a SEPARATE `claude -p` process,
 # so this is NOT the batching that CLAUDE.md forbids -- see the loop below.

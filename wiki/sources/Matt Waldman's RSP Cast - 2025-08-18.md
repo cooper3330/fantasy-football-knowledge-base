@@ -1,0 +1,19 @@
+---
+type: source
+expert: Matt Waldman
+show: Matt Waldman's RSP Cast
+episode: "Feel It Or F--It 8.18.2025: An RSP Podcast with Bob Harris and Matt Waldman"
+date: 2025-08-18
+guid: https://mattwaldmanrsp.com/?p=52106
+raw: raw/transcripts/rsp-cast/2025-08-18-rsp-feel-it-or-fit-8182025-an-rsp-podcast-with-bob-harris-and-matt-waldman.md
+tags: [source]
+---
+
+## Summary
+A 'Feel It or F**k It' rapid-reaction episode with [[Matt Waldman]] and co-host Bob Harris (Football Diehard / Footballguys; NOT a tracked expert, and NOT the same person as tracked expert [[Chris Harris]]). Preseason week-two topics: whether reports of [[Nick Chubb]]'s decline are overblown and why practice viewing misreads subtle power backs; whether [[Jackson Dart]] should start over [[Russell Wilson]] for the Giants; [[Matthew Stafford]]'s opaque back situation and whether the Rams should pursue [[Kirk Cousins]] over [[Jimmy Garoppolo]]; [[Isaiah Bond]] signing in Cleveland after his grand jury no-bill; [[Quinshon Judkins]] as an ADP value; [[Harold Fannin Jr.]] as a stash rather than a starter; [[Tory Horton]]'s first-team reps and what practice reps mean by draft tenure; [[Olamide Zaccheaus]] possibly opening ahead of [[Luther Burden III]] in Ben Johnson's Chicago offense; [[Troy Franklin]] earning snaps through blocking; [[Breece Hall]] as a dynasty buy-low; and [[Trey Lance]] as a deep dynasty QB stash. Format angles span [[Dynasty]], [[Best Ball]] and [[Redraft (Standard)]].
+
+## Pages touched
+[[Nick Chubb]], [[Jackson Dart]], [[Malik Nabers]], [[Kirk Cousins]], [[Matthew Stafford]], [[Jimmy Garoppolo]], [[Davante Adams]], [[Isaiah Bond]], [[Quinshon Judkins]], [[Harold Fannin Jr.]], [[Tory Horton]], [[Luther Burden III]], [[Olamide Zaccheaus]], [[Troy Franklin]], [[Breece Hall]], [[Trey Lance]], [[Cooper Kupp]], [[Rome Odunze]], [[Training Camp Report Skepticism]], [[Healthy Enough to Play vs. Healthy Enough to Perform]], [[Rookie On-Ramp and Development Runway]], [[Dynasty]], [[Best Ball]]
+
+## Not given pages
+Passing mentions only: [[Joe Mixon]] (questionable injury status opening the door for Chubb; was a weekly RB1 on touchdown volume last year), [[Nico Collins]] (made a great preseason play), [[Darius Slayton]] (deep-target beneficiary of Wilson), [[Christian McCaffrey]] (2024 cautionary tale of glowing camp reports preceding a lost season), [[Puka Nacua]] (Waldman took him 14th overall in a draft this week), [[Jerry Jeudy]], [[Cedric Tillman]], [[Diontae Johnson]] (Cleveland's WR pecking order ahead of Bond), Jamarr Thrash (Browns camp buzz as third receiver), [[Jack Bech]] and [[Tre Harris]] (dynasty receivers Waldman would rank Bond above), [[Dylan Sampson]] and [[Jerome Ford]] (Browns backfield competition), [[Deshaun Watson]], [[Jameis Winston]] and Dorian Thompson-Robinson (2024 Browns QB churn), [[Tank Bigsby]], [[Najee Harris]], [[Jaydon Blue]], [[Tyjae Spears]], [[Rachaad White]], [[Trey Benson]], [[Austin Ekeler]], [[Bhayshul Tuten]] (RB ADP neighbors), [[Ben Sinnott]] and [[Zach Ertz]] (blocked-role TE contrast), [[Ja'Tavion Sanders]], [[Theo Johnson]], [[Mason Taylor]], [[Cole Kmet]], [[Tyler Higbee]] (late-round TE alternatives), [[Garrett Wilson]], [[A.J. Brown]] (hamstring), [[Saquon Barkley]], [[DeVonta Smith]], [[Dallas Goedert]], [[Jahan Dotson]], [[John Metchie III]], [[Jalen Hurts]] (pass-attempt regression argument), [[Marquez Valdes-Scantling]], [[Jaxon Smith-Njigba]], [[Dont'e Thornton Jr.]], [[Courtland Sutton]], [[Evan Engram]], [[Devaughn Vele]], [[Marvin Mims Jr.]], [[Bo Nix]], [[Braelon Allen]], [[Aaron Rodgers]], [[Justin Jefferson]] (hamstring), [[Kenneth Walker III]] (foot). Untracked voices cited: Bob Harris (co-host), John McClain (Houston beat), Peter Schrager (ESPN), Greg Bell (Tacoma News Tribune), Dan Hatman (The Scouting Academy), JJ Zachariason.

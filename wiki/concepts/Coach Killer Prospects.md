@@ -46,6 +46,7 @@ creates that same exec-vs-coach proxy fight.
   [[Quarterback Processing and Confidence]] for the underlying processing
   critique, and [[Scouting Bias and Player Archetypes]] for the North
   Carolina program-archetype argument this overlaps with.
+- 2025-01-21 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2025-01-21]]): Harmon applies the coach-killer label to [[Kyler Murray]] — the archetype is a player with genuine talent who has not developed, so each new staff is hired on the belief that it will be the one to unlock him, and it never happens. The tell for Harmon is that Murray looks the same today as he did as a rookie despite the talent, which keeps the cycle running rather than forcing an honest verdict on the player.
 
 ## Related
 - [[Quarterback Processing and Confidence]]

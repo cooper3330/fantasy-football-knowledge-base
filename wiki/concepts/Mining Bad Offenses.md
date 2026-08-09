@@ -1,0 +1,22 @@
+---
+type: concept
+tags: [concept, strategy, waivers]
+---
+
+# Mining Bad Offenses
+
+## Definition
+
+
+## Expert Takes
+<!-- Attributed, dated bullets on how specific experts apply/discuss this concept -->
+- 2024-10-28 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-10-28]]): his rule of thumb for waiver-wire and streaming decisions is that when mining a bad offense, 'skim at the surface, people — don't dig deep.' There are only so many points to go around, so on a low-scoring team take the obvious primary option and stop. He applied it to reject [[Jalen Coker]] on a Carolina team with 124 points through eight games and [[Nick Westbrook-Ikhine]] on a Tennessee team with a league-low 120, where the surface answer is [[Calvin Ridley]]. Bob Harris (not a tracked expert) supplied the inverse: if you are going to dig deep for an unheralded piece, do it on offenses that score a shit ton of points — the reason [[Rakim Jarrett]] in Tampa Bay is worth watching where Coker is not.
+- 2024-12-02 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-12-02]]): late-season playoff roster building is about finding limited-role players in big-play offenses who can win you a single week, not chasing volume. Bob Harris (not tracked) framed the Titans as an offense worth mining deeper than the surface names — [[Nick Westbrook-Ikhine]] scoring a touchdown every 2.5 catches, [[Chigoziem Okonkwo]] catching a 70-yard score — and Waldman extended the archetype to [[KaVontae Turpin]] and Marcel Reece: difference-makers who produce on very limited workloads. Waldman also warned that this class of player is exactly who tracking-data analysis misses, since you have to watch tape to see how they are used. The precondition both stressed is bench room: never drop a producer for a lottery ticket.
+- 2024-12-31 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2024-12-31]]): the episode's central segment was a 'good player or good stats on a bad team' test, and Harmon's framework is that the two are not mutually exclusive. His stated rule: 'it does not move me when a wide receiver is ultra productive on a stats basis and he's the only one doing anything and the offense still stinks out loud.' Applied, he separates a real talent whose volume is temporarily inflated ([[Brian Thomas Jr.]] at a 34% target share only because [[Christian Kirk]] and [[Gabe Davis]] are on IR) from a hot-and-cold player whose numbers are genuinely fakey ([[Jerry Jeudy]]: 18 targets, 94 yards, three team points) and from a merely fine player on a bad team ([[Calvin Ridley]]). He also states the asymmetry that governs the whole exercise: targets are earned, but the inverse is not true — not getting targets does not mean a player is not good.
+- 2025-06-30 — According to co-host Bob Harris (Footballguys; NOT a tracked expert) on [[Matt Waldman]]'s show ([[Matt Waldman's RSP Cast - 2025-06-30]]): his rule for how deep to dig into a team's pass-catching depth is that bad offenses you skim the surface, good offenses you drill down deep. He applied it to the Giants, saying that is not yet a good offense, so beyond [[Malik Nabers]] he is not drafting the ancillary pieces like [[Jalen Hyatt]] — waiver-wire watch list yes, draft pick no. [[Matt Waldman]] broadly accepted the framing while noting the vanilla baselines it produces: [[Darius Slayton]] gets his 600-700 yards, [[Wan'Dale Robinson]]'s target share could be halved by a bombs-away quarterback, and Nabers may border on 1,500 yards. A related version surfaced with Arizona, where Waldman said he is not interested in the WR3 even on a pass-heavy Cincinnati team, let alone a run-heavy one.
+
+## Related
+- [[Targets Versus Team Points Rule]]
+- [[FAAB Budget Allocation Strategy]]
+- [[Waiver Wire Archetypes and Organizational Support]]
+- [[Reception Perception Methodology]]

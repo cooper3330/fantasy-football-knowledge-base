@@ -1,0 +1,26 @@
+---
+type: player
+team: Oregon
+position: TE
+tags: [player]
+---
+
+# Terrance Ferguson
+
+## Expert Takes
+<!-- Append new dated, attributed bullets here as sources are ingested.
+     Don't overwrite old ones — see CLAUDE.md rule 4. -->
+- 2025-03-18 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-03-18]]) [Dynasty]: Ferguson is earning love for his speed and vertical leaping, but Waldman's caution is that he is a linear athlete and most of football is not played in straight lines. Given a well-blocked screen or open space to rumble to full speed, he produces chunk plays, and on well-devised play-action seam routes he tracks the ball over his shoulder, can fully turn to it, and even back-shoulder throws are reasonable for him. But his short-area quickness and bend do not match his linear ability, which puts him at a disadvantage on core tight end requirements: winning releases against tight coverage at the line, setting up tight man coverage during his stems, winning breaks against man, making defenders miss in the open field and redirecting against defenders as a run blocker. Waldman's verdict is that he will have to be great at what he does and at least competent at what is hard for a linear athlete — and right now he is not competent at many of those non-linear tasks.
+- 2025-04-21 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-04-21]]): asked whether he will be higher on the Oregon tight end after the draft following a strong combine, Waldman said 'f**k it' — he expects Ferguson may earn draft capital that pushes him up other people's boards, but he intends to keep him where he is unless the landing spot offers a genuinely good rationale for an offense that minimizes his weaknesses. His objection is archetypal: Ferguson is a high-end schemed-up player, someone a coordinator has to create offense for, and Waldman does not believe teams can manufacture enough of it to make him consistently fantasy productive.
+- 2025-05-15 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-05-15]]) [Dynasty]: a fade — he calls Ferguson a mid-to-low-end linear athlete and had joked pre-draft that whoever took him too early in the NFL draft would be 'the sucker in the room'. His objection is archetypal rather than personal: the Rams keep collecting high-cut, linear tight ends who do not do much, what he calls 'Higbee syndrome', citing Higbee and Parkinson as precedent. Waldman is baffled that rookie drafters take Ferguson over [[Harold Fannin Jr.]] in the third or fourth round. [[Brandon Angelo]] says he was not high on Ferguson either and agrees with the reasoning.
+- 2025-05-30 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2025-05-30]]) [Dynasty]: Harmon calls Ferguson 'a great sleeper for this year' and says he should be right up on the radar. His evidence is organizational intent rather than production: the Rams tried and failed to trade up for [[Brock Bowers]] in 2024, immediately started peppering [[Tyler Higbee]] with targets on his return — which Harmon says was his first indication Los Angeles was done with [[Cooper Kupp]] — and then spent a second-round pick on Ferguson, with the team's own draft-room video showing how obsessed McVay is with him. Harmon describes him as a high-caliber athlete who is 'very co-coded' and expects more 12-personnel usage, which he thinks blurs the line between tight end and slot receiver in this offense.
+- 2025-07-21 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-07-21]]): 'fuck it' on Ferguson as a 2025 fantasy weapon despite Sean McVay and the Rams seeming all-in on him. Waldman calls him a linear player in the mold of [[Noah Fant]] and [[David Njoku]] but not as talented as either as a pass catcher. He expects Los Angeles to scheme him into some big plays that excite highlight watchers, but on route running and how he can actually be used as an athlete, Waldman's ceiling comp is [[Mike Gesicki]] — which in a very good offense can translate to low-end starter production, so it is possible, just not something he is buying. His broader caveat is that McVay's staff is better at scheme than at personnel. Bob Harris (not tracked) agreed he is not buying either, but said he considers Ferguson viable in dynasty rookie drafts and startups.
+- 2025-07-23 — According to James Koh (not a tracked expert) on [[Reception Perception - 2025-07-23]]: Ferguson is a 'sleeper king' who has to be on the radar — super talented and very athletic, and the draft-room video showed [[Sean McVay]] insisting he had to have him. Koh frames this as part of a documented McVay obsession with tight ends, noting he had wanted to trade up for [[Brock Bowers]] the year before. [[Matt Harmon]] accepts the point that the Rams will play a lot of 12 personnel with Tyler Higbee still on the roster, which limits the team's overall slot snaps and, in his read, was the first indicator that [[Cooper Kupp]] was finished in Los Angeles — Kupp was not getting the ball while Higbee, who barely played until the end of the season, was suddenly spammed with targets.
+
+## Related Concepts
+- [[Linear Athletes and Non-Linear Skill Demands]]
+- [[Dynasty]]
+- [[Manufactured Touches vs Natural Separation]]
+- [[Tight End Value in Condensed Formations]]
+- [[Scheme vs Talent]]
+

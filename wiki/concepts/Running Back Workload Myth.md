@@ -1,0 +1,28 @@
+---
+type: concept
+tags: [concept, evaluation, running-backs]
+---
+
+# Running Back Workload Myth
+
+## Definition
+
+
+## Expert Takes
+<!-- Attributed, dated bullets on how specific experts apply/discuss this concept -->
+- 2024-12-05 — According to Adam Harstad (Footballguys co-host, NOT a tracked expert) with [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-12-05]]): the finding that accumulated carries predict decline is easy to replicate and 'super wrong' because it never controls for age — comparing every back with 1,000 career carries to every back with 500 means comparing Emmitt Smith to himself 500 carries earlier. Every age-controlled study Harstad has seen finds no relationship between past workload and future longevity or production; a few find a positive one (Smith had the most carries through age 29 AND the fourth-most after 30). The mechanism is that workload is not randomly assigned — a coach giving a back 30 carries is revealing his belief the back can handle it. College workload specifically is 'predictably useless' even without age controls. Waldman frames the real limit as per-game load and recovery rate rather than lifetime mileage.
+- 2024-12-12 — According to co-host James Koh (not a tracked expert) on [[Reception Perception The Show - 2024-12-12]]: the running-back-value conversation has gone too far. He accepts the core argument — a journeyman off the street might give you roughly 70% of the statistical production, which is not true at quarterback or receiver — but argues the discarded 30% is the special plays that lift an offense, fire up a sideline and force safeties down into the box, which in turn inflates the receivers' efficiency numbers. His concrete case was [[Saquon Barkley]] in Philadelphia: swap him for a replacement and [[A.J. Brown]]'s efficiency falls, first downs disappear, and comfortable wins become coin flips. [[Matt Harmon]] did not dispute the framing and agreed the Philadelphia offense is currently players over plays rather than scheme-driven.
+- 2024-12-16 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-12-16]]), relaying Adam Harstad's Football Guys workload research (Harstad is NOT a tracked expert; the underlying research is credited to Jason Lisk): the deleterious effect of workload on running backs is not a full season's worth of carries. If a back has shown he can take 20, 25 or 30 touches a game and keep playing at a high level, that is simply his number. The risk is game-to-game deviation — when a player exceeds his prescribed weekly workload by a fair amount in one game, his chance of injury in the next week or two rises. Waldman applies it to [[Saquon Barkley]]'s 2,105-yard chase: five or ten carries over his usual number against the Giants could sink Philadelphia's playoff run.
+- 2025-06-30 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-06-30]]): applied to [[Saquon Barkley]]'s 370-touch season, Waldman separates two claims — he does not believe in curses (naming Michael Fabiano as a believer that Barkley is going to break something), but he does believe the trend is that heavily used backs do not sustain that usage. His actual reason for stepping back is price rather than injury: he does not like paying the historic premium that comes with a historic season, the same logic he applies to declining [[Brock Bowers]] at a middle-of-the-second-round cost in favor of waiting for [[Trey McBride]] or [[George Kittle]]. Co-host Bob Harris (not a tracked expert) added the counterweight that people also overestimate the negative impact of historic trends, and that where you pick matters: at the back of round one, with others scared off, he will take Barkley all day.
+- 2025-08-22 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2025-08-22]]) [Redraft (Standard)]: Harris uses his 2025 Almanac [[Christian McCaffrey]] profile to argue that smaller running backs should be protected from massive workloads, and that the exception he thought he had found has now failed. His research: since 2017 there have been only 25 individual games in which a running back other than McCaffrey weighing 202 pounds or less touched the ball 25 or more times, while McCaffrey alone has 26 such games — and that is with him missing more than two seasons' worth of action to injury. He is explicit that his objection has never been to the player's ability but to what coaches have done with him, and that having wondered a year earlier whether McCaffrey was the exception proving the rule, 'a season later, it seems we have our answer. No!'
+- 2025-08-29 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2025-08-29]]): both Harris and guest Jeff Bell of Football Guys (not tracked) dismiss the 400-touch cliff as applied to [[Saquon Barkley]]. Harris calls it 'a strictly data dive numerical thing on a small sample size' and asks whether the 400th touch is magic — running backs get hurt, which is not the same claim. Bell says he is trying very hard not to buy into 'the voodoo of 400 touches' while acknowledging it enough to move Barkley from a 2 to a 4, and refuses to be one of the people who ranks him RB7 over it. The related case is [[Kyren Williams]], whom Harris frames as the player who breaks risk intuition: you keep expecting 25 touches a week to catch up with him and it never does.
+
+## Related
+- [[Selection Bias and Harstad's Razor]]
+- [[Aging Curves and Career Longevity]]
+- [[Yards Per Carry as Noise]]
+- [[Scheme vs Talent]]
+- [[Saquon Barkley]]
+- [[James Cook]]
+- [[Christian McCaffrey]]
+- [[Usage as Evidence of Ability]]

@@ -20,7 +20,11 @@ is "injury agnostic, not stupid."
 - 2024-01-01 — According to [[Matt Waldman]], same episode, applied to [[Aaron Jones]]: agrees with the framing but adds the price constraint — "injury agnostic, not stupid" — willing to invest in an older, injury-prone back's role at the right (discounted) draft price, not at full retail.
 
 - 2024-01-01 — Both hosts, same episode, applied to [[James Connor]]: the same reasoning in practice — keep starting and drafting a player who is producing now rather than pre-emptively writing him off for age or wear, provided the price reflects the risk.
+- 2025-07-07 — According to Bob Harris (not a tracked expert) on [[Matt Waldman's RSP Cast - 2025-07-07]] [Best Ball]: he describes himself as injury agnostic but refuses to 'overpay for a maybe' — so with [[Christian McCaffrey]] he would ride him without a handcuff rather than pay the [[Isaac Guerendo]] premium, citing a past mock where he badly overpaid for [[Elijah Mitchell]] behind the same offense and got nothing ('Elijah Mitchell part two'). His preferred version of the same exposure is the free one: take [[Jordan James]] much later if he lasts. [[Matt Waldman]] agreed the handcuff price is the variable rather than the concept, noting the discounted cases he does like — [[Brian Robinson Jr.]] at RB30 as a cheap handcuff, [[Raheem Mostert]] at RB69, and [[Jalen Royals]] as a late [[Rashee Rice]] handcuff you can drop after a month.
 
 ## Related
 - [[League Trend Cycles and Market Inefficiency]]
 - [[Redraft (Standard)]]
+- [[Isaac Guerendo]]
+- [[Jordan James]]
+- [[Jalen Royals]]

@@ -152,6 +152,205 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2024-09-10 | [[Matt Harmon]] | Week 1 Recap! | [[Reception Perception The Show - 2024-09-10]] |
 | 2024-09-11 | [[Matt Waldman]] | Emerging College Football Stars and Backups to Know: RSP/Campus to Canton Podcast with Felix Sharpe | [[Matt Waldman's RSP Cast - 2024-09-11]] |
 | 2024-09-12 | [[Matt Waldman]] | Week 1 Developments, Identifying Worthwhile Trades, the Argument for Ed Reed's All-Time Greatness: RSP Film and Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-09-12]] |
+| 2024-09-12 | [[Matt Harmon]] | Week 2 Storylines & Preview | [[Reception Perception The Show - 2024-09-12]] |
+| 2024-09-16 | [[Matt Waldman]] | Feel It or F-It 9.16.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-09-16]] |
+| 2024-09-17 | [[Matt Harmon]] | Week 2 Takeaways! | [[Reception Perception The Show - 2024-09-17]] |
+| 2024-09-19 | [[Matt Harmon]] | Fixing Struggling Offenses & Wide Receiver Buy or Sell | [[Reception Perception The Show - 2024-09-19]] |
+| 2024-09-19 | [[Matt Waldman]] | Fran Tarkenton, Patrick Mahomes, and Skylar Thompson: RSP Film and Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-09-19]] |
+| 2024-09-20 | [[Matt Waldman]] | Progress Reports on the 2023 and 2024 Rookie QB Classes in the NFL: Matt Waldman's RSP Scout Talk | [[Matt Waldman's RSP Cast - 2024-09-20]] |
+| 2024-09-23 | [[Matt Waldman]] | Feel It or F–It 9.23.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-09-23]] |
+| 2024-09-25 | [[Matt Waldman]] | Kalel Mullings and Justin Joly: RSP-Campus2Canton Podcast with Felix Sharpe and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-09-25 (Campus2Canton with Felix Sharpe)]] |
+| 2024-09-25 | [[Matt Harmon]] | Week 3 Takeaways! | [[Reception Perception The Show - 2024-09-25]] |
+| 2024-09-26 | [[Matt Harmon]] | Bring on Week 4! | [[Reception Perception The Show - 2024-09-26]] |
+| 2024-09-26 | [[Matt Waldman]] | Win-Now Trades, Jayden Daniels, and QB Value in Rookie Draft: RSP Film and Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-09-26 (Win-Now Trades and Jayden Daniels)]] |
+| 2024-09-30 | [[Matt Waldman]] | Feel It or F–It 9.30.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-09-30]] |
+| 2024-10-01 | [[Matt Harmon]] | Week 4 Takeaways + Rookie Roundup! | [[Reception Perception The Show - 2024-10-01]] |
+| 2024-10-03 | [[Matt Harmon]] | Davante Adams Forecast + Re-Evaluating The 2022 WR Class | [[Reception Perception The Show - 2024-10-03]] |
+| 2024-10-03 | [[Matt Waldman]] | The State of NFL Offenses, Roy Green, Daryl Lamonica, and Harstad's Razor: RSP Film and Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-10-03]] |
+| 2024-10-07 | [[Matt Waldman]] | Feel It or F--It 10.7.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-10-07]] |
+| 2024-10-08 | [[Matt Harmon]] | Week 5 Takeaways! | [[Reception Perception The Show - 2024-10-08]] |
+| 2024-10-10 | [[Matt Harmon]] | Nico Out, Drake Starting & Garrett Wilson ROS | [[Reception Perception The Show - 2024-10-10]] |
+| 2024-10-10 | [[Matt Waldman]] | Rashee Rice, Emerging TEs, and 2025 NFL Draft RBs: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-10-10]] |
+| 2024-10-10 | [[Matt Waldman]] | Regression Candidates, Exuberance-Pessimism, and Problematic Figures: RSP Film and Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-10-10 (Regression Candidates and Exuberance-Pessimism)]] |
+| 2024-10-14 | [[Matt Waldman]] | Feel It or F--It 10.14.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-10-14]] |
+| 2024-10-15 | [[Matt Harmon]] | Veterans Balling Out, Ravens on Fire & Drake Maye's First Start | [[Reception Perception The Show - 2024-10-15]] |
+| 2024-10-17 | [[Matt Harmon]] | Remaining Pieces in Cleveland & Vegas + Doubs/Slayton Temperature Check | [[Reception Perception The Show - 2024-10-17]] |
+| 2024-10-17 | [[Matt Waldman]] | Writing, Craft, and Content in the Fantasy Industry: RSP Film and Theory with Adam Harstad | [[Matt Waldman's RSP Cast - 2024-10-17 (Writing Craft and Content)]] |
+| 2024-10-21 | [[Matt Waldman]] | Feel It or F--It 10.21.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-10-21 (Feel It or Fk It 10.21.24)]] |
+| 2024-10-22 | [[Matt Harmon]] | Week 7 Takeaways! | [[Reception Perception The Show - 2024-10-22]] |
+| 2024-10-23 | [[Matt Waldman]] | Matt Waldman and Felix Sharpe's RSP-C2C Podcast: Isaac Brown, Nick Marsh, Carson Beck and Anthony Richardson | [[Matt Waldman's RSP Cast - 2024-10-23]] |
+| 2024-10-24 | [[Matt Waldman]] | Brock Bowers vs. History, Trading Across Leagues, and Critiquing Alarmist Film Analysis: RSP Film and Theory with Adam Harstad | [[Matt Waldman's RSP Cast - 2024-10-24]] |
+| 2024-10-24 | [[Matt Harmon]] | Nuk Traded, Bucs in Shambles & is BTJ the Best Rookie? | [[Reception Perception The Show - 2024-10-24]] |
+| 2024-10-28 | [[Matt Waldman]] | Feel It or F–It 10.28.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-10-28]] |
+| 2024-10-29 | [[Matt Harmon]] | Week 8 Breakdown! | [[Reception Perception The Show - 2024-10-29]] |
+| 2024-10-31 | [[Matt Waldman]] | Anthony Richardson, Jameis Winston, Russell Wilson, Diontae Johnson, and Bo Nix: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-10-31]] |
+| 2024-10-31 | [[Matt Waldman]] | Tapping Out, Archetypes and Modeling, Tips on Analysis to Trust: RSP Film and Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-10-31 (Tapping Out, Archetypes and Modeling)]] |
+| 2024-10-31 | [[Matt Harmon]] | Trades, Benchings & Patrick Peterson Joins! | [[Reception Perception The Show - 2024-10-31]] |
+| 2024-11-04 | [[Matt Waldman]] | Feel It or F–It 11.4.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-11-04]] |
+| 2024-11-05 | [[Matt Harmon]] | Week 9 Breakdown & Real or Mirage? | [[Reception Perception The Show - 2024-11-05]] |
+| 2024-11-07 | [[Matt Waldman]] | Generalists vs. Specialists, Optimal Development Behavior, Politics and Sport, and Suggestions about Politics: RSP Film and Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-11-07]] |
+| 2024-11-11 | [[Matt Waldman]] | Feel It or F–It 11.11.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-11-11]] |
+| 2024-11-12 | [[Matt Harmon]] | Poor Quarterback Play & Big Week 10 Performances | [[Reception Perception The Show - 2024-11-12]] |
+| 2024-11-14 | [[Matt Harmon]] | 2024 Rookie Round-Up! | [[Reception Perception - 2024-11-14]] |
+| 2024-11-14 | [[Matt Waldman]] | Caleb Williams, Drew Lock, Trey Lance, Resilience and Detroit: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-11-14]] |
+| 2024-11-14 | [[Matt Waldman]] | We (Still) Probably Think about Age the Wrong Way and Dented Cans: RSP Film and Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-11-14 (Age Cliffs and Dented Cans)]] |
+| 2024-11-18 | [[Matt Waldman]] | Feel It or F–It 11.18.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-11-18]] |
+| 2024-11-20 | [[Matt Harmon]] | Week 11 Takeaways! | [[Reception Perception The Show - 2024-11-20]] |
+| 2024-11-21 | [[Matt Harmon]] | Temperature Check in CLE, LA & DEN + Disappointing WR Seasons | [[Reception Perception The Show - 2024-11-21]] |
+| 2024-11-22 | [[Matt Waldman]] | How to Find Waiver Gems and 'The' Dented Can for 2025: RSP Film and Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-11-22]] |
+| 2024-11-25 | [[Matt Waldman]] | Feel It or F–It 11.25.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-11-25]] |
+| 2024-11-26 | [[Matt Harmon]] | Week 12 Breakdown: Real or Mirage? | [[Reception Perception The Show - 2024-11-26]] |
+| 2024-11-29 | [[Matt Harmon]] | Surprising 2024 Stud Receivers! | [[Reception Perception The Show - 2024-11-29]] |
+| 2024-12-02 | [[Matt Waldman]] | Feel It or F–It 12.2.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-12-02]] |
+| 2024-12-03 | [[Matt Harmon]] | Week 13 Takeaways & 2024 Rookie Receiver Class Re-rank | [[Reception Perception The Show - 2024-12-03]] |
+| 2024-12-05 | [[Matt Harmon]] | Jeudy Revenge Masterclass, WR/CB Matchups & Impending Free Agents | [[Reception Perception The Show - 2024-12-05]] |
+| 2024-12-05 | [[Matt Waldman]] | The RB Workload Myth and QB Crime and Punishment: RSP Film and Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-12-05]] |
+| 2024-12-09 | [[Matt Waldman]] | Feel It or F–It 12.9.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-12-09]] |
+| 2024-12-10 | [[Matt Harmon]] | Week 14 Performances & #1 Receiver Questions | [[Reception Perception The Show - 2024-12-10]] |
+| 2024-12-12 | [[Matt Waldman]] | Bryce Young, Chase Brown, Sincere McCormick, and Top Technicians in the 2025 NFL Draft Class: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-12-12]] |
+| 2024-12-12 | [[Matt Harmon]] | Ja'Marr Chase is Special, Philly Offense & Patrick Peterson Joins! | [[Reception Perception The Show - 2024-12-12]] |
+| 2024-12-16 | [[Matt Waldman]] | Feel It or F–It 12.16.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-12-16]] |
+| 2024-12-17 | [[Matt Harmon]] | Week 15 Takeaways! | [[Reception Perception The Show - 2024-12-17]] |
+| 2024-12-19 | [[Matt Harmon]] | Cousins & Jameis Benched + Week 16 WR/CB Matchups! | [[Reception Perception The Show - 2024-12-19]] |
+| 2024-12-19 | [[Matt Waldman]] | NFL QB Lunacy (An Attempt to Appeal to Your Sanity): RSP Film and Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-12-19 (NFL QB Lunacy)]] |
+| 2024-12-23 | [[Matt Waldman]] | Feel It or F–It 12.23.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-12-23]] |
+| 2024-12-24 | [[Matt Harmon]] | Tank Dell Injury, Penix Debut and Christmas Wish List | [[Reception Perception The Show - 2024-12-24]] |
+| 2024-12-30 | [[Matt Waldman]] | Feel It or F–It 12.30.24: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2024-12-30]] |
+| 2024-12-31 | [[Matt Harmon]] | Week 17 Takeaways! | [[Reception Perception The Show - 2024-12-31]] |
+| 2025-01-06 | [[Matt Waldman]] | Feel It or F–It 1.6.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-01-06]] |
+| 2025-01-07 | [[Matt Harmon]] | 2024 Regular Season Comes to a Close | [[Reception Perception The Show - 2025-01-07]] |
+| 2025-01-09 | [[Matt Harmon]] | 2024 NFL Season Wide Receiver Awards | [[Reception Perception The Show - 2025-01-09]] |
+| 2025-01-13 | [[Matt Waldman]] | Feel It or F–It 1.13.25: An RSP Cast with Matt Harmon and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-01-13]] |
+| 2025-01-14 | [[Matt Harmon]] | Wild Card Weekend Recap! | [[Reception Perception The Show - 2025-01-14]] |
+| 2025-01-16 | [[Matt Harmon]] | Divisional Round Preview! | [[Reception Perception The Show - 2025-01-16]] |
+| 2025-01-20 | [[Matt Waldman]] | Feel It or F--It 1.20.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-01-20]] |
+| 2025-01-21 | [[Matt Harmon]] | Divisional Round Recap! | [[Reception Perception The Show - 2025-01-21]] |
+| 2025-01-23 | [[Matt Waldman]] | 2024 & 2025 NFL WR Draft Classes: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-01-23]] |
+| 2025-01-23 | [[Matt Harmon]] | Coaching Carousel Continues & Conference Championships on Deck! | [[Reception Perception The Show - 2025-01-23]] |
+| 2025-01-27 | [[Matt Waldman]] | Feel It or F–It 1.27.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-01-27]] |
+| 2025-01-28 | [[Matt Harmon]] | Conference Championship Recap! | [[Reception Perception The Show - 2025-01-28]] |
+| 2025-01-30 | [[Matt Harmon]] | New Faces in New Places | [[Reception Perception The Show - 2025-01-30]] |
+| 2025-02-03 | [[Matt Waldman]] | Feel It or F–It 2.3.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-02-03]] |
+| 2025-02-04 | [[Matt Harmon]] | Coaching Changes Continue As Super Bowl Week Begins | [[Reception Perception The Show - 2025-02-04]] |
+| 2025-02-05 | [[Matt Harmon]] | Cooper Kupp Landing Spots & Super Bowl LIX Preview | [[Reception Perception The Show - 2025-02-05]] |
+| 2025-02-10 | [[Matt Waldman]] | Feel It or F–It 2.10.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-02-10]] |
+| 2025-02-11 | [[Matt Harmon]] | Super Bowl LIX Recap! | [[Reception Perception The Show - 2025-02-11]] |
+| 2025-02-13 | [[Matt Waldman]] | 2025 NFL RB Draft Class Review: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-02-13]] |
+| 2025-02-13 | [[Matt Harmon]] | NFC East Wide Receiver Preview | [[Reception Perception The Show - 2025-02-13]] |
+| 2025-02-17 | [[Matt Waldman]] | Feel It or F–It 2.17.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-02-17]] |
+| 2025-02-19 | [[Matt Harmon]] | Veterans on the Move & NFC North WR Preview! | [[Reception Perception The Show - 2025-02-19]] |
+| 2025-02-21 | [[Matt Harmon]] | NFC South Wide Receiver Preview | [[Reception Perception The Show - 2025-02-21]] |
+| 2025-02-24 | [[Matt Waldman]] | Feel It or F–It 2.24.25: An RSP Cast with Dwain McFarland and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-02-24]] |
+| 2025-02-26 | [[Matt Harmon]] | NFC West Wide Receiver Preview | [[Reception Perception The Show - 2025-02-26]] |
+| 2025-02-27 | [[Matt Waldman]] | 2025 NFL QB Draft Class Review: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-02-27]] |
+| 2025-02-28 | [[Matt Harmon]] | AFC East Wide Receiver Preview | [[Reception Perception The Show - 2025-02-28]] |
+| 2025-03-03 | [[Matt Waldman]] | Feel It or F–It 3.3.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-03-03]] |
+| 2025-03-05 | [[Matt Harmon]] | Latest NFL News & AFC North WR Preview! | [[Reception Perception The Show - 2025-03-05]] |
+| 2025-03-07 | [[Matt Harmon]] | AFC South Wide Receiver Preview | [[Reception Perception The Show - 2025-03-07]] |
+| 2025-03-10 | [[Matt Waldman]] | Feel It or F–It 3.10.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-03-10]] |
+| 2025-03-12 | [[Matt Harmon]] | Free Agency Off to a Hot Start! | [[Reception Perception The Show - 2025-03-12]] |
+| 2025-03-13 | [[Matt Harmon]] | Free Agency Continued: Kupp, Nuk, Godwin, Colts & More | [[Reception Perception The Show - 2025-03-13]] |
+| 2025-03-18 | [[Matt Waldman]] | 2025 NFL Draft TE Class B-T: Matt Waldman's RSP Solo Cast | [[Matt Waldman's RSP Cast - 2025-03-18]] |
+| 2025-03-18 | [[Matt Waldman]] | Feel It or F–It 3.17.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-03-18 (Feel It or F-It Free Agency Winners and Losers)]] |
+| 2025-03-19 | [[Matt Harmon]] | Deals Done in Cincinnati & How 'Bout a Kupp of Coffee in Seattle | [[Reception Perception The Show - 2025-03-19]] |
+| 2025-03-21 | [[Matt Harmon]] | Stefon Diggs Visits NE, Gallup to Washington & Teams That Still Need WR Help | [[Reception Perception The Show - 2025-03-21]] |
+| 2025-03-24 | [[Matt Waldman]] | 2025 NFL Draft WR Class A-Z: Matt Waldman's RSP Solo Cast | [[Matt Waldman's RSP Cast - 2025-03-24]] |
+| 2025-03-24 | [[Matt Waldman]] | Feel It or F**k It 3.24.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-03-24 (Feel It or Not with Bob Harris)]] |
+| 2025-03-26 | [[Matt Harmon]] | Aaron Rodgers, Jameis the Giant & First Batch of Rookie Profiles! | [[Reception Perception The Show - 2025-03-26]] |
+| 2025-03-28 | [[Matt Harmon]] | Russ and Diggs Find New Homes & Cory Kinnan Talkin' Quarterbacks! | [[Reception Perception The Show - 2025-03-28]] |
+| 2025-03-31 | [[Matt Waldman]] | 2025 NFL Draft QB Class C-W: Matt Waldman's RSP Solo Cast | [[Matt Waldman's RSP Cast - 2025-03-31]] |
+| 2025-04-02 | [[Matt Harmon]] | Travis Hunter & Luther Burden Charts | [[Reception Perception The Show - 2025-04-02]] |
+| 2025-04-03 | [[Matt Waldman]] | 2025 NFL Draft Listener Questions: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-04-03]] |
+| 2025-04-04 | [[Matt Harmon]] | Dallas Gets Their Backup & Jayden Higgins Breakdown | [[Reception Perception The Show - 2025-04-04]] |
+| 2025-04-07 | [[Matt Waldman]] | Feel It or F–It 4.7.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-04-07]] |
+| 2025-04-08 | [[Matt Harmon]] | Julio Jones Retires, More Tutu Incoming & Jaylin Noel Chart! | [[Reception Perception The Show - 2025-04-08]] |
+| 2025-04-11 | [[Matt Harmon]] | Tre Harris & Jack Bech Profiles + Cory Kinnan Back On! | [[Reception Perception The Show - 2025-04-11]] |
+| 2025-04-14 | [[Matt Waldman]] | Feel It or F–It 4.15.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-04-14]] |
+| 2025-04-16 | [[Matt Harmon]] | Kyle Williams, Isaiah Bond & Jalen Royals Charts! | [[Reception Perception The Show - 2025-04-16]] |
+| 2025-04-18 | [[Matt Harmon]] | Xavier Restrepo Profile & QB Prospect Roundup w/ Cory Kinnan! | [[Reception Perception The Show - 2025-04-18]] |
+| 2025-04-21 | [[Matt Waldman]] | Feel It or F–It 4.21.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-04-21]] |
+| 2025-04-21 | [[Matt Waldman]] | RSP Film & Data on the 2025 NFL Draft with Dwain McFarland and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-04-21 (Film & Data with Dwain McFarland)]] |
+| 2025-04-22 | [[Matt Harmon]] | 2025 Rookie Class Draft Superlatives! | [[Reception Perception The Show - 2025-04-22]] |
+| 2025-04-24 | [[Matt Waldman]] | 2025 Draft Weekend Predictions and Fits: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-04-24]] |
+| 2025-04-28 | [[Matt Harmon]] | Analyzing The Top-5 WR's Landing Spots | [[Reception Perception - 2025-04-28]] |
+| 2025-04-28 | [[Matt Waldman]] | Feel It or F–It 4.28.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-04-28 (Feel It or F-It Post-Draft)]] |
+| 2025-04-29 | [[Matt Harmon]] | Analyzing Landing Spots For Round 2 & 3 Pass Catchers | [[Reception Perception The Show - 2025-04-29]] |
+| 2025-05-05 | [[Matt Waldman]] | Feel It or F–It 5.5.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-05-05]] |
+| 2025-05-07 | [[Matt Harmon]] | Breaking Down Some Post-Draft Signings | [[Reception Perception The Show - 2025-05-07]] |
+| 2025-05-09 | [[Matt Harmon]] | Pickens to Dallas & Day 3 Receivers We Like! | [[Reception Perception The Show - 2025-05-09]] |
+| 2025-05-12 | [[Matt Waldman]] | Feel It or F–It 5.12.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-05-12]] |
+| 2025-05-14 | [[Matt Harmon]] | Last Year's Big 3 Ended Up Being the Big 4 | [[Reception Perception The Show - 2025-05-14]] |
+| 2025-05-15 | [[Matt Waldman]] | 2025 Fantasy Rookie Draft Day Values & A Peek at 2026: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-05-15]] |
+| 2025-05-16 | [[Matt Harmon]] | Second-Year Receivers Breakdown Continued | [[Reception Perception The Show - 2025-05-16]] |
+| 2025-05-19 | [[Matt Waldman]] | Feel It or F–It 5.19.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-05-19]] |
+| 2025-05-20 | [[Matt Waldman]] | 2025 Fantasy Drafts with JJ Zachariason | [[Matt Waldman's RSP Cast - 2025-05-20]] |
+| 2025-05-21 | [[Matt Harmon]] | Chris Olave Future & 2nd-Year Receivers Continued | [[Reception Perception The Show - 2025-05-21]] |
+| 2025-05-23 | [[Matt Harmon]] | These 2024 Rookies Took a Ride on the Struggle Bus | [[Reception Perception The Show - 2025-05-23]] |
+| 2025-05-26 | [[Matt Waldman]] | Feel It or F–It 5.26.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-05-26]] |
+| 2025-05-28 | [[Matt Harmon]] | WR Free Agent Team Matches & Team Needs, Sleepers | [[Reception Perception The Show - 2025-05-28]] |
+| 2025-05-30 | [[Matt Harmon]] | Dynasty Wide Receiver Rankings! | [[Reception Perception The Show - 2025-05-30]] |
+| 2025-06-02 | [[Matt Waldman]] | Feel It or F–It 6.2.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-06-02]] |
+| 2025-06-04 | [[Matt Harmon]] | Running Through the Early Camp Reports! | [[Reception Perception The Show - 2025-06-04]] |
+| 2025-06-05 | [[Matt Waldman]] | Pickens in Dallas, An RB and QB Rotting on the Vine, and Potential Late-Round WR Gems: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-06-05]] |
+| 2025-06-06 | [[Matt Harmon]] | Amon-Ra Injury, Colts QB Situation & Over/Unders! | [[Reception Perception The Show - 2025-06-06]] |
+| 2025-06-09 | [[Matt Waldman]] | Feel It or F–It 6.9.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-06-09]] |
+| 2025-06-11 | [[Matt Harmon]] | Breaking Down a Couple of Stars Looking To Go Super | [[Reception Perception The Show - 2025-06-11]] |
+| 2025-06-13 | [[Matt Harmon]] | An Underused Receiver & an Underrated Receiver | [[Reception Perception The Show - 2025-06-13]] |
+| 2025-06-16 | [[Matt Waldman]] | Feel It or F–It 6.16.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-06-16]] |
+| 2025-06-23 | [[Matt Waldman]] | Feel It or F–It 6.23.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-06-23]] |
+| 2025-06-25 | [[Matt Harmon]] | Quarterback Check-In With Cory Kinnan | [[Reception Perception The Show - 2025-06-25]] |
+| 2025-06-27 | [[Matt Harmon]] | Young Receiver Rooms w/ Matt Waldman! | [[Reception Perception The Show - 2025-06-27]] |
+| 2025-06-30 | [[Matt Waldman]] | Feel It or F–It 6.30.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-06-30]] |
+| 2025-07-07 | [[Matt Waldman]] | Feel It or F–It 7.7.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-07-07]] |
+| 2025-07-09 | [[Matt Harmon]] | Breaking Down George Pickens & Garrett Wilson! | [[Reception Perception The Show - 2025-07-09]] |
+| 2025-07-10 | [[Matt Waldman]] | Going Deep with Brandon Angelo and Matt Waldman: Training Camp Narratives, Overwrought ADPs, Either/Or Options | [[Matt Waldman's RSP Cast - 2025-07-10]] |
+| 2025-07-11 | [[Matt Harmon]] | Breaking Down Jameson Williams, Drake London & Dontayvion Wicks | [[Reception Perception The Show - 2025-07-11]] |
+| 2025-07-16 | [[Matt Harmon]] | Latest NFL News & Profile Breakdowns | [[Reception Perception The Show - 2025-07-16]] |
+| 2025-07-18 | [[Matt Harmon]] | A Surprise Retirement, Legal Updates & 2 Profile Breakdowns! | [[Reception Perception The Show - 2025-07-18]] |
+| 2025-07-21 | [[Matt Waldman]] | Feel It or F–It 7.21.25: An RSP Cast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-07-21]] |
+| 2025-07-23 | [[Matt Harmon]] | NFC West WR Division Preview | [[Reception Perception - 2025-07-23]] |
+| 2025-07-25 | [[Matt Harmon]] | AFC West WR Division Preview | [[Reception Perception The Show - 2025-07-25]] |
+| 2025-07-28 | [[Matt Waldman]] | Feel It Or F--It 7.28.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-07-28]] |
+| 2025-07-30 | [[Matt Harmon]] | NFC South WR Division Preview | [[Reception Perception The Show - 2025-07-30]] |
+| 2025-08-01 | [[Matt Harmon]] | AFC South WR Division Preview | [[Reception Perception The Show - 2025-08-01]] |
+| 2025-08-04 | [[Matt Waldman]] | Feel It Or F**k It 8.4.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-08-04]] |
+| 2025-08-06 | [[Matt Harmon]] | AFC East WR Division Preview | [[Reception Perception The Show - 2025-08-06]] |
+| 2025-08-07 | [[Matt Waldman]] | Weapon RBs, Rookie Risers/Fallers, Young Vets Emerging: Going Deep w/ Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2025-08-07]] |
+| 2025-08-08 | [[Matt Harmon]] | NFC East WR Division Preview | [[Reception Perception The Show - 2025-08-08]] |
+| 2025-08-11 | [[Matt Waldman]] | Feel It Or F--It 8.11.2025: An RSP Podcast with Dave Kluge and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-08-11]] |
+| 2025-08-13 | [[Chris Harris]] | ADP Surprises For 2025 & Brock Bowers Profile | [[Harris Fantasy Football Podcast - 2025-08-13]] |
+| 2025-08-13 | [[Matt Harmon]] | AFC North WR Division Preview | [[Reception Perception The Show - 2025-08-13]] |
+| 2025-08-14 | [[Chris Harris]] | Flag Players 10 Thru 6 & Offenses We Might Be Wrong About | [[Harris Fantasy Football Podcast - 2025-08-14]] |
+| 2025-08-15 | [[Chris Harris]] | Flag Players 5 Thru 1 & Frag Players For 2025 | [[Harris Fantasy Football Podcast - 2025-08-15]] |
+| 2025-08-15 | [[Matt Harmon]] | NFC North WR Division Preview | [[Reception Perception The Show - 2025-08-15]] |
+| 2025-08-15 | [[Matt Waldman]] | What You Didn't Know about NFL Training Camp and the Preseason: RSP Scout Talk with Matt Waldman and Dan Hatman | [[Matt Waldman's RSP Cast - 2025-08-15]] |
+| 2025-08-18 | [[Matt Waldman]] | Feel It Or F--It 8.18.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-08-18]] |
+| 2025-08-18 | [[Chris Harris]] | Five Busts For 2025 | [[Harris Fantasy Football Podcast - 2025-08-18]] |
+| 2025-08-19 | [[Chris Harris]] | Previewing The Rookies For 2025 | [[Harris Fantasy Football Podcast - 2025-08-19]] |
+| 2025-08-20 | [[Matt Harmon]] | Daniel Jones Starts, McMillan Hurt & Ranking #2 Receivers | [[Reception Perception The Show - 2025-08-20]] |
+| 2025-08-20 | [[Chris Harris]] | Safe Players To Draft In 2025 | [[Harris Fantasy Football Podcast - 2025-08-20]] |
+| 2025-08-21 | [[Chris Harris]] | Super-Deep Sleepers Part 1 | [[Harris Fantasy Football Podcast - 2025-08-21]] |
+| 2025-08-22 | [[Chris Harris]] | Super-Deep Sleepers Part 2 & Preseason Baggy Awards | [[Harris Fantasy Football Podcast - 2025-08-22]] |
+| 2025-08-22 | [[Matt Harmon]] | Ted Nguyen & Dr. Deepak Chona Join! | [[Reception Perception The Show - 2025-08-22]] |
+| 2025-08-25 | [[Matt Waldman]] | Feel It Or F--It 8.25.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-08-25]] |
+| 2025-08-25 | [[Chris Harris]] | Late-Round Players We Love For 2025 | [[Harris Fantasy Football Podcast - 2025-08-25]] |
+| 2025-08-26 | [[Chris Harris]] | Players We Might Be Wrong About! | [[Harris Fantasy Football Podcast - 2025-08-26]] |
+| 2025-08-27 | [[Chris Harris]] | Handicapping The NFL In 2025 & Cutdown Day | [[Harris Fantasy Football Podcast - 2025-08-27]] |
+| 2025-08-27 | [[Matt Harmon]] | Plenty of Receiver News & Notable Cuts | [[Reception Perception The Show - 2025-08-27]] |
+| 2025-08-28 | [[Chris Harris]] | Total Listener Request! | [[Harris Fantasy Football Podcast - 2025-08-28]] |
+| 2025-08-29 | [[Matt Harmon]] | RP Favorites Gaining Steam & Early Rookie Playing Time | [[Reception Perception The Show - 2025-08-29]] |
+| 2025-08-29 | [[Chris Harris]] | Risk Factors For The First Three Rounds & Almanac Update! | [[Harris Fantasy Football Podcast - 2025-08-29]] |
+| 2025-09-01 | [[Matt Waldman]] | Feel It Or F–It 9.1.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-09-01]] |
+| 2025-09-02 | [[Chris Harris]] | My Most Drafted Players & Week 1 Waivers | [[Harris Fantasy Football Podcast - 2025-09-02]] |
+| 2025-09-03 | [[Matt Harmon]] | 2025 NFL Season Bold Predictions! | [[Reception Perception The Show - 2025-09-03]] |
+| 2025-09-03 | [[Chris Harris]] | Week 1 Ranks & Snarkbag | [[Harris Fantasy Football Podcast - 2025-09-03]] |
+| 2025-09-04 | [[Chris Harris]] | Preseason Huggy Awards & Previewing DALvPHI | [[Harris Fantasy Football Podcast - 2025-09-04]] |
+| 2025-09-04 | [[Matt Waldman]] | Sequences, Signal, and the Steelers Offense: RSP Film & Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-09-04 (Film & Theory Sequences, Signal, Steelers)]] |
+| 2025-09-04 | [[Matt Waldman]] | Top Rookie Receivers & RB Depth Chart Surprises: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2025-09-04 (Going Deep Rookie Receivers and RB Depth Charts)]] |
+| 2025-09-05 | [[Matt Harmon]] | News & Early Season Buy or Sell | [[Reception Perception The Show - 2025-09-05]] |
+| 2025-09-05 | [[Chris Harris]] | Things That Are Freaking Us Out For Week 1 & DALvPHI Review | [[Harris Fantasy Football Podcast - 2025-09-05]] |
+| 2025-09-08 | [[Matt Waldman]] | Feel It Or F--It 9.8.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-09-08]] |
+| 2025-09-08 | [[Chris Harris]] | Week 1 Film Review - What Really Happened? | [[Harris Fantasy Football Podcast - 2025-09-08]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

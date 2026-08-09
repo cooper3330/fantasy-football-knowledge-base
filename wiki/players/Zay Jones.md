@@ -25,6 +25,7 @@ tags: [player]
   why the hosts debate placing Jacksonville in the "disaster-adjacent" tier
   alongside Pittsburgh and Denver.
 - 2024-05-13 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2024-05-13]]) [Dynasty]: Waldman likes Arizona signing Jones over other suitors given the Cardinals' shallow depth chart, projecting he can play both outside and inside, giving Arizona flexibility alongside Michael Wilson and even Trey McBride from the slot. He frames Jones as useful rookie-year insurance in case [[Marvin Harrison Jr.]] gets hurt early, which 'sometimes happens' to rookies coming off a long pre-draft process.
+- 2025-06-30 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-06-30]]) [Redraft (Standard)]: Waldman agrees Jones is likely Arizona's WR3, above [[Greg Dortch]], but says that role is probably worth only 300-400 yards and does not make him a fantasy asset — his objection is [[Kyler Murray]], who he says has not proven he can support more than one fantasy pass catcher. He notes he is not even interested in the WR3 on a pass-heavy Cincinnati team, let alone on a run-heavy Arizona offense where he is not sure he wants the WR2. In [[Dynasty]] Waldman is more relaxed, saying all bets are off and he happily rosters players nobody else would, and Jones might be one of them; in redraft, co-host Bob Harris (not a tracked expert) agreed with the fade.
 
 ## Related Concepts
 - [[Christian Kirk]]

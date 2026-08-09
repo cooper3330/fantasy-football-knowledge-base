@@ -1,0 +1,22 @@
+---
+type: concept
+tags: [concept, evaluation, process]
+---
+
+# Prospect Model Grade vs Rank
+
+## Definition
+
+
+## Expert Takes
+<!-- Attributed, dated bullets on how specific experts apply/discuss this concept -->
+- 2025-02-24 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-02-24]]): Waldman and guest Dwain McFarland of Fantasy Life (NOT a tracked expert) both argue the grade matters more than the rank — a player who ranks fourth in a weak year at an 80 grade is a worse prospect than a player who ranks ninth at 83 the next year, so cross-year rankings mislead. McFarland describes his rookie supermodel inputs: adjusted production (age, strength of schedule, program quality via power index, target competition), career quarterback rating when targeted, PFF grades, and Lance Zierlein's free NFL.com grades, which he uses as his film input specifically because Waldman's own grades sit behind a paywall. He quotes correlations to future NFL success of 0.58 for draft pick alone, 0.70 for the model without draft capital, and 0.75 once combined, with a 60th percentile pre-draft score as his rough line of demarcation and a 0.71 correlation for tight ends pre-capital. Waldman's parallel scale reads an 81.4 as a player who can contribute early and develop into a starter. Both stress the two systems disagreeing on a player is an opportunity signal, not a contradiction to resolve.
+- 2025-03-18 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-03-18]]): Waldman explains that the RSP's gradient scale deliberately diverges from NFL team valuation — many NFL teams weight blocking over receiving, in the tradition Bill Belichick started, while the RSP, because it also caters to fantasy, values pass catchers who can block ahead of blockers who can catch. He names the consequences in both directions in the 2025 tight end class: [[Jackson Hawes]] sits near the bottom of the RSP board while being, in Waldman's view, the best inline blocker in the group, and [[Luke Lachey]]'s RSP grade is probably higher than how the NFL will actually assess him because his mixed inline/receiving profile does not fit either role teams draft for. He also uses tiers rather than strict ranks to describe upside, as with [[Jalin Conyers]] having the clearest path from the bottom of tier three into tier two.
+- 2025-03-18 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-03-18 (Feel It or F-It Free Agency Winners and Losers)]]) [Dynasty]: Waldman describes a live disagreement resolving in the models' favor. Dwain McFarland (untracked) teased on X a concern from his rookie model about [[Luther Burden III]] — the share of his opportunities coming at or behind the line of scrimmage, and whether that makes him a gadget player. Waldman wrote publicly that he doesn't care, and reports JJ Zachariason (untracked) and McFarland then said their models don't care either. His method for adjudicating it is film-first: the alignment-and-depth split is descriptive of how Missouri used him, while the transferable evidence is technique at the boundary and after the catch. He also anchors this year's grades against last year's, saying Burden would have graded inside his top five in the class that produced Odunze, Thomas, Harrison, Nabers and Worthy — four of whom had strong rookie years.
+- 2025-04-04 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2025-04-04]]): a tier-five grade on his stacked rankings explicitly encodes a wide outcome range rather than a single projection, and he walks through the branches. Tier five can become [[Jayden Reed]] — a team that finds his strengths and maximizes him; or [[Alec Pierce]] — limited application but genuinely good and useful inside that role; or [[Jonathan Mingo]] — a team that miscasts him, never develops him, and moves on. [[Jayden Higgins]] and [[Keon Coleman]] both sit in that tier, meaning landing spot and coaching carry the projection. He contrasts this with first-rounders, who are not perfect but do 'a lot of this stuff' cleanly, and admits his own tier-three grade on [[Quentin Johnston]] should have been tier four — an example of production and profile pulling a rank above what the tape justified.
+
+## Related
+- [[Confidence vs Certainty in Analysis]]
+- [[Draft Capital as Quarterback Hit Rate Proxy]]
+- [[Tight End Prototype Grind Risk]]
+- [[Reception Perception Methodology]]

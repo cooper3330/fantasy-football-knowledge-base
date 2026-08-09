@@ -1,0 +1,19 @@
+---
+type: source
+expert: Matt Waldman
+show: Matt Waldman's RSP Cast
+episode: "Feel It Or F–It 9.1.2025: An RSP Podcast with Bob Harris and Matt Waldman"
+date: 2025-09-01
+guid: https://mattwaldmanrsp.com/?p=52162
+raw: raw/transcripts/rsp-cast/2025-09-01-rsp-feel-it-or-fit-912025-an-rsp-podcast-with-bob-harris-and-matt-waldman.md
+tags: [source]
+---
+
+## Summary
+Week 1 season-opening edition of the 'Feel It or F**k It' segment with [[Matt Waldman]] and co-host Bob Harris (Footballguys / SiriusXM Fantasy Sports Radio; NOT a tracked expert, and not the same person as [[Chris Harris]]). Rapid-fire verdicts on Labor Day news: the [[Jaylen Warren]] extension and the Pittsburgh committee with [[Kaleb Johnson]]; a Tom Curran (NBC Sports) prediction that [[Kayshon Boutte]] outproduces [[Stefon Diggs]] in New England, plus a 120-target projection for [[Demario Douglas]]; Carolina's receiver room after the [[Hunter Renfrow]] re-signing and the [[Jalen Coker]] quad injury; a defense of [[Jared Goff]] against the 'struggles under pressure' narrative; [[Caleb Williams]] as a future top-five NFL quarterback under Ben Johnson; [[Beaux Collins]] as the Giants' WR3; [[Gunnar Helm]] versus [[Chigoziem Okonkwo]] in Tennessee; [[Payne Durham]] as the Tampa red-zone tight end if [[Cade Otton]] sits; [[Malik Washington]]'s late-round appeal in Miami; Washington's muddy backfield ([[Donovan Edwards]], [[Jacory Croskey-Merritt]], [[Austin Ekeler]], [[Chris Rodriguez Jr.]]); [[De'Von Achane]]'s quiet recovery and [[Ollie Gordon II]] as the only healthy Dolphins back; [[Braelon Allen]] versus [[Breece Hall]] in a Detroit-style Jets backfield; and Seattle's practice-squad depth in [[Damien Martinez]] and [[George Holani]].
+
+## Pages touched
+[[Jaylen Warren]], [[Kaleb Johnson]], [[Kayshon Boutte]], [[Stefon Diggs]], [[Demario Douglas]], [[Hunter Renfrow]], [[Jalen Coker]], [[Jared Goff]], [[Caleb Williams]], [[Beaux Collins]], [[Gunnar Helm]], [[Payne Durham]], [[Malik Washington]], [[Donovan Edwards]], [[Jacory Croskey-Merritt]], [[De'Von Achane]], [[Ollie Gordon II]], [[Braelon Allen]], [[Breece Hall]], [[Damien Martinez]], [[George Holani]], [[Training Camp Report Skepticism]], [[Healthy Enough to Play vs. Healthy Enough to Perform]], [[Ambiguous Backfields and Market Risk Aversion]]
+
+## Not given pages
+Passing mentions only: [[Hunter Henry]] (named by beat writer Tom King as New England's likely top target share; Waldman less sold on him than on Douglas), [[Tetairoa McMillan]] (named as the only clearly startable Carolina receiver), [[Ja'Tavion Sanders]] (drawing camp praise but not endorsed), [[Chuba Hubbard]] and [[Bryce Young]] (named as Carolina's other startable pieces), [[Adam Thielen]] (traded out of Carolina), [[David Moore]], [[Jimmy Horn Jr.]] and [[Xavier Legette]] (named to absorb Coker's snaps), [[Luther Burden III]] (Bears practice error anecdote), [[Cade Otton]] (Tampa starter, questionable), [[Tyreek Hill]] and [[Jaylen Waddle]] (Miami depth context), [[Jonnu Smith]] (vacated Miami targets), [[Justin Fields]] (Jets red-zone rushing), [[Kenneth Walker III]] and [[Zach Charbonnet]] (Seattle depth chart), [[Christian McCaffrey]] (2024 injury-silence analogy), [[Blake Corum]] and [[Kalel Mullings]] (Michigan backfield context), [[Roschon Johnson]] (Allen comp), [[Jahmyr Gibbs]] and [[David Montgomery]] (Detroit template for the Jets), [[Baker Mayfield]], [[Drake Maye]], [[Sam Darnold]], [[Kyler Murray]], [[Patrick Mahomes]], [[Brock Purdy]], [[Lamar Jackson]] (pressure-stat comparisons). Non-tracked people named: Bob Harris, Tom Curran, Tom King, Ben Johnson, Thomas Brown, Shane Waldron, Sean McVay, Mike McDaniel, Aaron Glenn, Tanner Engstrand, Cliff Kingsbury, Bucky Brooks, Travis Wingfield, Mike Dempsey, Jeff Wilson Jr., Jermichael Hasty, Kenny McIntosh.

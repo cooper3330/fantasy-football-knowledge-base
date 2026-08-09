@@ -1,0 +1,23 @@
+---
+type: source
+expert: Matt Waldman
+show: Matt Waldman's RSP Cast
+episode: "2025 Draft Weekend Predictions and Fits: Going Deep with Brandon Angelo and Matt Waldman"
+date: 2025-04-24
+guid: https://mattwaldmanrsp.com/?p=51614
+raw: raw/transcripts/rsp-cast/2025-04-24-rsp-2025-draft-weekend-predictions-and-fits-going-deep-with-brandon-angelo.md
+tags: [source]
+---
+
+## Summary
+[[Matt Waldman]] and [[Brandon Angelo]] recorded the night before the 2025 NFL Draft in a 'Going Deep' format built around named segments: favorite landing spot at each skill position, one player each expects to go higher, one they expect to go lower, a favorite possible undrafted player, wildest predictions, a team that will take a quarterback it is not ready to start, and a running back headed for an awful landing spot.
+
+Landing spots: Angelo likes the Rams for a quarterback ([[Shedeur Sanders]], [[Jalen Milroe]] or [[Jackson Dart]] sitting behind [[Matthew Stafford]]); Waldman likes Detroit taking a developmental passer in rounds two or three behind [[Jared Goff]], since he does not believe [[Hendon Hooker]] is the answer. Angelo wants Denver to find Sean Payton's 'joker' back ([[TreVeyon Henderson]] or a day-two/three type); Waldman wants Baltimore to pair a back with the 31-year-old [[Derrick Henry]] ([[RJ Harvey]] plus [[Damien Martinez]] as an A/B pair). Angelo wants Dallas to add a secondary pass-game weapon ([[Matthew Golden]], [[Tetairoa McMillan]], [[Tyler Warren]] or [[Colston Loveland]] at 12); Waldman wants the Giants to pair [[Luther Burden III]] with [[Malik Nabers]]. Angelo likes the Jets for a tight end (preferring [[Harold Fannin Jr.]] as the closest thing to [[Sam LaPorta]]); Waldman likes Philadelphia taking [[Mason Taylor]] as the successor to [[Dallas Goedert]].
+
+Going higher: [[Jalen Milroe]] (Waldman, with a long debunk of anonymous-scout leaks) and [[Matthew Golden]] (Angelo). Going lower: [[Tetairoa McMillan]] (Angelo, character/effort concerns) and [[Omarion Hampton]] (Waldman, who has him far below consensus). Favorite possible UDFA: [[Lan Larison]] (Angelo) and a Jackson State back Waldman is watching. Wildest predictions: only one quarterback in round one, veteran receivers traded ([[Tyreek Hill]], [[George Pickens]], [[Kayshon Boutte]]), [[James Cook]] moved, and multiple teams double-dipping at running back on day three. Awful landing spot: [[Ashton Jeanty]] to Jacksonville, or worse, Dallas.
+
+## Pages touched
+[[Jalen Milroe]], [[Shedeur Sanders]], [[Tetairoa McMillan]], [[Omarion Hampton]], [[Cam Skattebo]], [[Ashton Jeanty]], [[TreVeyon Henderson]], [[RJ Harvey]], [[Damien Martinez]], [[Luther Burden III]], [[Matthew Golden]], [[Tyler Warren]], [[Colston Loveland]], [[Harold Fannin Jr.]], [[Mason Taylor]], [[Dallas Goedert]], [[Savion Williams]], [[Lan Larison]], [[James Cook]], [[Travis Hunter]], [[Pre-Draft Misinformation Season]], [[Reception Perception Methodology]], [[Rookie Quarterback Evaluation Windows]], [[Rushing Ecosystem and Running Back Weaponization]], [[Offensive Line Investment and Skill Player Value]], [[Draft Round and Rookie Running Back Touch Share]], [[Dynasty]]
+
+## Not given pages
+Passing mentions only: [[Matthew Stafford]], [[Jared Goff]], [[Hendon Hooker]], [[Jordan Love]], [[Jalen Hurts]], [[Lamar Jackson]], [[Patrick Mahomes]], [[Alvin Kamara]], [[Audric Estime]], [[Brashard Smith]], [[Derrick Henry]], [[Justice Hill]], [[Rasheen Ali]], [[Malik Nabers]], [[Wan'Dale Robinson]], [[Darius Slayton]], [[Theo Johnson]], [[CeeDee Lamb]], [[Jake Ferguson]], [[Brandin Cooks]], [[KaVontae Turpin]], [[Dak Prescott]], [[Garrett Wilson]], [[Justin Fields]], [[Jerry Jeudy]], [[Cedric Tillman]], [[Jameis Winston]], [[Russell Wilson]], [[Pat Freiermuth]], [[Mark Andrews]], [[Sam LaPorta]], [[Bhayshul Tuten]] (not discussed), [[Quinshon Judkins]], [[Dylan Sampson]], [[Marcus Yarns]], [[Konata Mumpfield]], [[Andrew Armstrong]], [[Jacory Croskey-Merritt]], [[Tahj Brooks]], [[Dylan Laube]], [[De'Von Achane]], [[Isiah Pacheco]], [[Bucky Irving]], [[David Montgomery]], [[DeAndre Swift]], [[Rhamondre Stevenson]], [[Antonio Gibson]], [[Cordarrelle Patterson]], [[Aaron Jones]], [[Travis Etienne Jr.]], [[Trevor Etienne]], [[Tank Bigsby]], [[Jaylen Warren]], [[Kyle Williams]]. Also mentioned: Keaton Mitchell, Cole Kmet, Grant Calcaterra, Hunter Henry, Abdul Carter, Mykel Williams, Shemar Stewart, Isaiah Spiller, James Robinson, Latavius Murray, Chad Johnson, Davante Adams, Todd McShay, Dave Kluge, Liam Coen, Sean Payton, Brian Daboll, Joe Schoen, Andrew Berry, Marty Schottenheimer. Waldman also floated a Jackson State running back as a long-shot day-three watch, but the name is garbled in the ASR and is deliberately not given a page.
