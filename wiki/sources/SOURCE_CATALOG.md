@@ -351,6 +351,60 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2025-09-05 | [[Chris Harris]] | Things That Are Freaking Us Out For Week 1 & DALvPHI Review | [[Harris Fantasy Football Podcast - 2025-09-05]] |
 | 2025-09-08 | [[Matt Waldman]] | Feel It Or F--It 9.8.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-09-08]] |
 | 2025-09-08 | [[Chris Harris]] | Week 1 Film Review - What Really Happened? | [[Harris Fantasy Football Podcast - 2025-09-08]] |
+| 2025-09-09 | [[Matt Harmon]] | NFL Week 1 Reactions: Fluke or for Real? | [[Reception Perception The Show - 2025-09-09]] |
+| 2025-09-09 | [[Chris Harris]] | Week 2 Waivers & More W1 Film Review | [[Harris Fantasy Football Podcast - 2025-09-09]] |
+| 2025-09-11 | [[Matt Harmon]] | 49ers' Injuries, Rookie Report Cards & Player Props! | [[Reception Perception The Show - 2025-09-11]] |
+| 2025-09-11 | [[Chris Harris]] | Biggest Week 2 Lineup Quandaries & WASvGB Preview | [[Harris Fantasy Football Podcast - 2025-09-11]] |
+| 2025-09-12 | [[Chris Harris]] | Players We've Already Changed Our Minds On & Thursday Night Injuries! | [[Harris Fantasy Football Podcast - 2025-09-12]] |
+| 2025-09-15 | [[Matt Waldman]] | Feel It Or F–It 9.15.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-09-15]] |
+| 2025-09-15 | [[Chris Harris]] | Week 2 Game Reviews! | [[Harris Fantasy Football Podcast - 2025-09-15]] |
+| 2025-09-16 | [[Matt Harmon]] | Week 2 Buy/Sell & Panic Meter! | [[Reception Perception The Show - 2025-09-16]] |
+| 2025-09-16 | [[Chris Harris]] | Week 3 Waivers & More W2 Game Film | [[Harris Fantasy Football Podcast - 2025-09-16]] |
+| 2025-09-18 | [[Matt Harmon]] | Big Bounce-Backs, Big Alignment Shifts & Big 3rd Year Breakouts | [[Reception Perception The Show - 2025-09-18]] |
+| 2025-09-18 | [[Matt Waldman]] | Fantasy Is Weird, Brian Thomas Panic, and Ashton Jeanty Is the Next Trent Richardson: RSP Film & Theory with Adam Harstad & Matt Waldman | [[Matt Waldman's RSP Cast - 2025-09-18 (Film & Theory)]] |
+| 2025-09-18 | [[Chris Harris]] | Hardest To Rank Players For Week 3 | [[Harris Fantasy Football Podcast - 2025-09-18]] |
+| 2025-09-18 | [[Matt Waldman]] | The Listener Q&A Show: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2025-09-18 (Going Deep Listener Q&A)]] |
+| 2025-09-19 | [[Chris Harris]] | Five Players Who Are Blowing Our Minds So Far | [[Harris Fantasy Football Podcast - 2025-09-19]] |
+| 2025-09-22 | [[Matt Waldman]] | Feel It Or F–It 9.15.2025: An RSP FPodcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-09-22]] |
+| 2025-09-22 | [[Chris Harris]] | Week 3 Game Reviews | [[Harris Fantasy Football Podcast - 2025-09-22]] |
+| 2025-09-23 | [[Matt Harmon]] | NFL Week 3 Takeaways! | [[Reception Perception The Show - 2025-09-23]] |
+| 2025-09-23 | [[Chris Harris]] | Week 4 Waivers & More W3 Game Film | [[Harris Fantasy Football Podcast - 2025-09-23]] |
+| 2025-09-25 | [[Matt Harmon]] | Figuring Out the Raiders, Rookie Breakouts & A Familiar Name in Indy | [[Reception Perception The Show - 2025-09-25]] |
+| 2025-09-25 | [[Chris Harris]] | Key Week 4 Start-Sit Decisions & Previewing SEAvARI | [[Harris Fantasy Football Podcast - 2025-09-25]] |
+| 2025-09-26 | [[Chris Harris]] | Five Players To Trade For | [[Harris Fantasy Football Podcast - 2025-09-26]] |
+| 2025-09-29 | [[Matt Waldman]] | Feel It Or F–It 9.29.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-09-29]] |
+| 2025-09-29 | [[Chris Harris]] | Week 4 Game Reviews | [[Harris Fantasy Football Podcast - 2025-09-29]] |
+| 2025-09-30 | [[Matt Harmon]] | Week 4 Was a Wild One | [[Reception Perception The Show - 2025-09-30]] |
+| 2025-09-30 | [[Chris Harris]] | Week 5 Waivers & More W4 Game Film | [[Harris Fantasy Football Podcast - 2025-09-30]] |
+| 2025-10-02 | [[Matt Waldman]] | QB Performances, Offensive Struggles, and Backfield Developments: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2025-10-02]] |
+| 2025-10-02 | [[Chris Harris]] | Week 5 Start & Sit Decisions Plus SFvLAR Preview | [[Harris Fantasy Football Podcast - 2025-10-02]] |
+| 2025-10-02 | [[Matt Harmon]] | Xavier Worthy Returns + Why is Top WR Production Trending Down? | [[Reception Perception The Show - 2025-10-02]] |
+| 2025-10-03 | [[Chris Harris]] | Five Players To Trade Away, SFvsLAR Review & W5 Injuries | [[Harris Fantasy Football Podcast - 2025-10-03]] |
+| 2025-10-06 | [[Matt Waldman]] | Feel It Or F--It 10.6.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-10-06]] |
+| 2025-10-06 | [[Chris Harris]] | Week 5 Game Film Review | [[Harris Fantasy Football Podcast - 2025-10-06]] |
+| 2025-10-07 | [[Matt Harmon]] | NFL Week 5 Takeaways! | [[Reception Perception The Show - 2025-10-07]] |
+| 2025-10-07 | [[Chris Harris]] | Week 6 Waivers & More W5 Game Reviews | [[Harris Fantasy Football Podcast - 2025-10-07]] |
+| 2025-10-09 | [[Matt Harmon]] | Deebo Resurgence, Waddle sans Tyreek + Rookie's Rising | [[Reception Perception - 2025-10-09]] |
+| 2025-10-09 | [[Chris Harris]] | Tough Start & Sit Decisions For Week 6 Plus A Snarkbag! | [[Harris Fantasy Football Podcast - 2025-10-09]] |
+| 2025-10-09 | [[Matt Waldman]] | What You Value, You Measure & Dynasty Rebuilds: RSP Film & Theory w/Adam Harstad & Matt Waldman | [[Matt Waldman's RSP Cast - 2025-10-09]] |
+| 2025-10-10 | [[Chris Harris]] | Hot & Cold Starts We Don't Want To Trade Plus PHI v NYG Madness | [[Harris Fantasy Football Podcast - 2025-10-10]] |
+| 2025-10-13 | [[Matt Waldman]] | Feel It Or F--It 10.13.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-10-13]] |
+| 2025-11-03 | [[Matt Waldman]] | Feel It Or F--It 11.3.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-11-03]] |
+| 2025-11-03 | [[Chris Harris]] | Week 9 Game Film Breakdowns | [[Harris Fantasy Football Podcast - 2025-11-03]] |
+| 2025-11-04 | [[Chris Harris]] | Week 10 Waivers & More W9 Game Film | [[Harris Fantasy Football Podcast - 2025-11-04]] |
+| 2025-11-04 | [[Matt Harmon]] | Week 9 NFL Takeaways! | [[Reception Perception The Show - 2025-11-04]] |
+| 2025-11-06 | [[Matt Waldman]] | Bears, Colts, Jaguars, Falcons, Fantasy Buys, and Ashton Jeanty: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2025-11-06]] |
+| 2025-11-06 | [[Matt Harmon]] | NFL Trade Deadline Breakdown! | [[Reception Perception The Show - 2025-11-06]] |
+| 2025-11-06 | [[Matt Waldman]] | Players We Think We Know & Playing NFL Owner for An Hour: RSP Film & Theory w/Adam Harstad & Matt Waldman | [[Matt Waldman's RSP Cast - 2025-11-06 (Players We Think We Know)]] |
+| 2025-11-06 | [[Chris Harris]] | Week 10 Lineup Decisions & Listener Snark | [[Harris Fantasy Football Podcast - 2025-11-06]] |
+| 2025-11-07 | [[Chris Harris]] | Five Pivotal Players For The Rest Of 2025 | [[Harris Fantasy Football Podcast - 2025-11-07]] |
+| 2025-11-10 | [[Matt Waldman]] | Feel It Or F--It 11.10.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-11-10]] |
+| 2025-11-10 | [[Chris Harris]] | Week 10 Game Film Review | [[Harris Fantasy Football Podcast - 2025-11-10]] |
+| 2025-11-11 | [[Matt Harmon]] | We're Talkin' About Week 10! | [[Reception Perception The Show - 2025-11-11]] |
+| 2025-11-11 | [[Chris Harris]] | Week 11 Waivers & More W10 Game Film | [[Harris Fantasy Football Podcast - 2025-11-11]] |
+| 2025-11-13 | [[Chris Harris]] | Ashton Jeanty Film Futures & Week 11 Lineup Advice | [[Harris Fantasy Football Podcast - 2025-11-13]] |
+| 2025-11-13 | [[Matt Harmon]] | NFL News & Notes Ahead of Week 11! | [[Reception Perception The Show - 2025-11-13]] |
+| 2025-11-13 | [[Matt Waldman]] | Paper Champions and Moving All-Timers to Different Eras: RSP Film and Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-11-13 (Paper Champions and All-Timers Across Eras)]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

@@ -19,10 +19,14 @@ tags: [player]
 - 2025-08-27 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2025-08-27]]): Likely avoided the PUP list despite missing all of camp with a broken foot requiring surgery. Harris expects him to need time to fully ramp up, a window in which [[Mark Andrews]] should get a safer work share — though he thinks this is Andrews' last season in Baltimore and there is eventually a chance at a baton passing, 'not guaranteed, definitely possible'.
 - 2025-08-28 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2025-08-28]]) [Redraft (Standard)]: the Ravens say Likely will return in the early part of the season, which Harris calls appropriately vague. His read is skeptical — Week 1 is technically early, but the phrasing sounds like the team preparing everyone for missed games rather than a Week 1 return.
 - 2025-09-02 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2025-09-02]]) [Redraft (Standard)]: Likely needed foot surgery at the start of training camp and had not practiced as of this recording, but he avoided the PUP list, which suggests the Ravens expect him back in September. Harris notes Likely is not unhappy about his contract, so if he could play he would — and that means he is pretty clearly unusable in Week 1 lineups. He adds that this gives [[Mark Andrews]] a small amount of extra safety.
+- 2025-11-03 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-11-03]]): 'fuck it' on Likely becoming a fantasy thing despite being the second-most-targeted receiving asset for Baltimore on Thursday night and doing a nice job with big plays. Waldman expects him to tease people from time to time with the opportunities he gets because [[Lamar Jackson]] spreads the ball around, but said it remains [[Mark Andrews]]'s show unless Andrews is traded — and he does not think Baltimore trades him during this playoff contention window.
+- 2025-11-10 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-11-10]]) [Dynasty]: Waldman expects Likely to leave Baltimore. The Ravens want a better blocker who wins against zone coverage — which is [[Charlie Kolar]] — and are not as concerned about the explosive element Likely brings, while Likely should command bigger money from a team convinced he can be their version of [[Oronde Gadsden II]]. Waldman's read is that Ravens fans will be disappointed if he is not re-signed and will watch him do his thing elsewhere, but that the split is the likely outcome.
 
 ## Related Concepts
 - [[Injury-Agnostic Roster Construction]]
 - [[Tight End Value in Condensed Formations]]
 - [[Healthy Enough to Play vs. Healthy Enough to Perform]]
 - [[Redraft (Standard)]]
+- [[Alpha Receiver vs Committee Pass Catchers]]
+- [[Role Difficulty and Replaceability]]
 

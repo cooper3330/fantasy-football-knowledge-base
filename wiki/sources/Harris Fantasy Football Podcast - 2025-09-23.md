@@ -1,0 +1,19 @@
+---
+type: source
+expert: Chris Harris
+show: Harris Fantasy Football Podcast
+episode: "Week 4 Waivers & More W3 Game Film"
+date: 2025-09-23
+guid: 93695b88-af49-41a7-93c8-bd205921732b
+raw: raw/transcripts/harris-football/2025-09-23-harris-week-4-waivers-more-w3-game-film.md
+tags: [source]
+---
+
+## Summary
+[[Chris Harris]] solo-hosts the first half, working through the rest of his Week 3 game-film review: Lions-Ravens (Monday night), Texans-Jaguars, Jets-Buccaneers, Raiders-Commanders, Falcons-Panthers and Saints-Seahawks. The theme is watching deployment rather than box scores — snap counts, third-down usage, who the offense actually leans on. The second half is the weekly Week 4 waiver-wire countdown with guest SCOTT FISH of Fantasy Cares (NOT a tracked expert), restricted to players rostered in one-third of Yahoo leagues or fewer. Fish's five: 5) [[Ollie Gordon II]], 4) [[Chris Rodriguez Jr.]], 3) [[Woody Marks]], 2) [[Oronde Gadsden II]], 1) [[Elic Ayomanor]]. Harris's five: 5) [[Tyjae Spears]], 4) [[Elic Ayomanor]], 3) [[Woody Marks]], 2) [[Ollie Gordon II]], 1) [[Chris Rodriguez Jr.]]. They also discussed the above-threshold names [[Trey Benson]] and [[Chris Godwin]], and streaming defenses (Fish: Patriots; Harris: Rams).
+
+## Pages touched
+[[Mark Andrews]], [[Derrick Henry]], [[Zay Flowers]], [[Lamar Jackson]], [[Jared Goff]], [[Nico Collins]], [[C.J. Stroud]], [[Woody Marks]], [[Nick Chubb]], [[Joe Mixon]], [[Travis Hunter]], [[Brian Thomas Jr.]], [[Bhayshul Tuten]], [[Trevor Lawrence]], [[Bucky Irving]], [[Emeka Egbuka]], [[Mike Evans]], [[Sterling Shepard]], [[Chris Godwin]], [[Garrett Wilson]], [[Terry McLaurin]], [[Chris Rodriguez Jr.]], [[Jacory Croskey-Merritt]], [[Jeremy McNichols]], [[Tre Tucker]], [[Ashton Jeanty]], [[Michael Penix Jr.]], [[Tetairoa McMillan]], [[Chuba Hubbard]], [[Rico Dowdle]], [[Jaxon Smith-Njigba]], [[Tory Horton]], [[Kenneth Walker III]], [[Cooper Kupp]], [[Spencer Rattler]], [[Ollie Gordon II]], [[Jaylen Wright]], [[Tyjae Spears]], [[Tony Pollard]], [[Elic Ayomanor]], [[Oronde Gadsden II]], [[Trey Benson]], [[FAAB Budget Allocation Strategy]], [[Waiver Wire Archetypes and Organizational Support]]
+
+## Not given pages
+Passing mentions only: [[Amon-Ra St. Brown]] (stutter-go fade touchdown over Marlon Humphrey), [[Jameson Williams]] and [[Sam LaPorta]] (quiet nights Harris was not worried about), [[Rashad Bateman]] (took the end-zone touchdown Flowers was also open for), [[Isaiah Likely]] (may be ready to return), [[David Montgomery]] and [[Jahmyr Gibbs]] (Detroit run game wrecked Baltimore), [[Travis Etienne Jr.]] (36 snaps, a screen drop, allowed to score), [[Parker Washington]] (two drops), [[Breece Hall]] (screen catch, stuffed, missed arrow-route touchdown), [[Braelon Allen]] (stuffed on fourth down, also returning kicks), [[Allen Lazard]] (touchdown), [[Baker Mayfield]] (two fumbles recovered, special deep-out throw), [[Tucker Kraft]] (questionable, did nothing), [[Marcus Mariota]] (efficient, sneak touchdown, one fumble), [[Deebo Samuel]] (wildcat, screens, near kick-return touchdown, one drop), [[Luke McCaffrey]] (garbage-time touchdown), [[Jakobi Meyers]] and [[Brock Bowers]] (one big play each), [[Geno Smith]] (five early sacks, misleading line), [[Bijan Robinson]] (looked good, no worries), [[Kyle Pitts]] (empty underneath catches Harris said not to be fooled by), [[Drake London]] (a couple of meaningful catches), [[Bryce Young]] (scramble touchdown, good deep post decision), [[Sam Darnold]] (three touchdown throws), [[Alvin Kamara]] (open deep, airmailed), [[Tyler Shough]] (one late series), [[Kayshon Boutte]], [[Tyquan Thornton]], [[Jalen Coker]] (waiver honorable mentions), [[Xavier Worthy]] and [[Rashee Rice]] (returning soon), [[Cam Ward]], [[Calvin Ridley]], [[Justin Herbert]], [[Daniel Jones]], Brycen Tremayne, Ray-Ray McCloud, Jermaine Burton-type deep names, Liam Coen, Jim McCormick, Scott Fish, Ben Gretsch, Jake Trowbridge.

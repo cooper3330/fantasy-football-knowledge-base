@@ -1,0 +1,21 @@
+---
+type: source
+expert: Chris Harris
+show: Harris Fantasy Football Podcast
+episode: "Week 3 Waivers & More W2 Game Film"
+date: 2025-09-16
+guid: b9b92e16-d30c-488f-9753-0882d9372b61
+raw: raw/transcripts/harris-football/2025-09-16-harris-week-3-waivers-more-w2-game-film.md
+tags: [source]
+---
+
+## Summary
+[[Chris Harris]] reviews the remaining Week 2 film — Chargers-Raiders on Monday night, Buccaneers-Texans, Jaguars-Bengals (including the Joe Burrow toe injury), Giants-Cowboys, Lions-Bears and Ravens-Browns — then runs a Week 3 waiver-wire segment with guest John Daigle of Establish The Run (NOT a tracked expert), who writes ETR's waiver column. Daigle's list is capped at players rostered in 33% of leagues or fewer.
+
+Major threads: [[Omarion Hampton]]'s poor Monday night and apparent benching after a fumble-that-wasn't, with [[Najee Harris]] closing the game; [[Ashton Jeanty]]'s rookie growing pains (wrong-way handoff, blown pass protection) against a hard Chargers front; [[Joe Burrow]] needing surgery with a stated three-month recovery and [[Jake Browning]] taking over; a Giants backfield tilting from [[Tyrone Tracy Jr.]] to [[Cam Skattebo]]; and Harris declaring [[Mark Andrews]] a must-bench or even must-drop. The waiver countdown: Daigle 5-1 was [[Wan'Dale Robinson]], [[Elic Ayomanor]], [[Troy Franklin]], [[Tyler Allgeier]], [[Kayshon Boutte]]; Harris 5-1 was [[Woody Marks]], [[Elic Ayomanor]], [[Troy Franklin]], [[Romeo Doubs]], [[Daniel Jones]].
+
+## Pages touched
+[[Omarion Hampton]], [[Najee Harris]], [[Ashton Jeanty]], [[Geno Smith]], [[Brock Bowers]], [[Keenan Allen]], [[Quentin Johnston]], [[Bucky Irving]], [[Rachaad White]], [[Mike Evans]], [[Nick Chubb]], [[Woody Marks]], [[Joe Burrow]], [[Jake Browning]], [[Ja'Marr Chase]], [[Brian Thomas Jr.]], [[Bhayshul Tuten]], [[Cam Skattebo]], [[Tyrone Tracy Jr.]], [[Wan'Dale Robinson]], [[Malik Nabers]], [[Jameson Williams]], [[Rome Odunze]], [[Mark Andrews]], [[Zay Flowers]], [[Derrick Henry]], [[Jerry Jeudy]], [[Harold Fannin Jr.]], [[Quinshon Judkins]], [[Elic Ayomanor]], [[Calvin Ridley]], [[Troy Franklin]], [[Marvin Mims Jr.]], [[Tyler Allgeier]], [[Romeo Doubs]], [[Kayshon Boutte]], [[Daniel Jones]], [[FAAB Budget Allocation Strategy]], [[Weak Quarterback Play and Receiver Value]], [[Preseason ADP vs In-Season Production]], [[Redraft (Standard)]]
+
+## Not given pages
+Passing or non-evaluative mentions: [[Ladd McConkey]] (quiet 5-48, still a start), [[Justin Herbert]] (great environment), [[Zamir White]] (18 snaps), [[Dylan Laube]] (two-minute drill work), [[Baker Mayfield]] (play of the game on fourth and long), [[C.J. Stroud]], [[Emeka Egbuka]] (screen touchdown), [[Nico Collins]] (acrobatic TD, poor red-zone play calls), [[Tee Higgins]] (touchdown), [[Chase Brown]] (downtick with Browning), [[Travis Hunter]] (drew a late DPI; two Lawrence end-zone picks aimed at him), [[Trevor Lawrence]], [[Parker Washington]] (5 catches on ~10 routes), [[Dyami Brown]] (Jags No. 2 receiver, end-zone drop), [[Tim Patrick]], [[Travis Etienne Jr.]] (46 snaps, red-zone screen TD, 30-yard run), [[Devin Singletary]] (one carry, benched), [[Russell Wilson]], [[Jackson Dart]] (three fourth-quarter snaps), [[CeeDee Lamb]], [[George Pickens]] (pylon TD after three failed end-zone looks), [[Javonte Williams]] (36 snaps, inside-zone TD), [[Miles Sanders]] (15 snaps, red-zone TD), [[Dak Prescott]], [[Jared Goff]] (5 TD passes), [[Amon-Ra St. Brown]] (3 TDs), [[Jahmyr Gibbs]], [[David Montgomery]], [[Sam LaPorta]], [[Caleb Williams]], [[D.J. Moore]], [[DeAndre Swift]] (good first half, fumble), [[Lamar Jackson]], [[DeAndre Hopkins]] (two deep-ball catches), [[Justice Hill]], [[Keaton Mitchell]] (Harris wants him to get a chance), [[Joe Flacco]], [[David Njoku]], [[Dylan Sampson]], [[Jerome Ford]], [[Joe Mixon]], [[Marcus Mariota]], [[Carson Wentz]], [[Jalen Coker]], [[Blake Corum]], [[Chris Rodriguez Jr.]], [[Xavier Legette]] (Harris: not a very good player), [[Dontayvion Wicks]], [[Matthew Golden]], [[Josh Jacobs]], [[Jordan Love]], [[Jayden Reed]], [[Courtland Sutton]], [[Bo Nix]], [[Drake Maye]], [[Bijan Robinson]], [[Bryce Young]], [[Cam Ward]], [[Keon Coleman]] (comp for Ayomanor's ball skills).

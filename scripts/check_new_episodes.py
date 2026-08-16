@@ -287,6 +287,15 @@ def transcript_from_whisper(ep, verbose=True):
              # audio that context can drift the model into uncased/unpunctuated
              # output for the rest of the file.
              "--max-context", "0",
+             # --no-gpu: ggml 0.19.0's libggml-metal.so SIGABRTs (rc=-6) in
+             # ggml_metal_device_free during process exit / __cxa_finalize --
+             # a crash in the Metal device destructor that aborts before the
+             # .txt is finalized, so every GPU transcription yields "no output".
+             # Reproduced on M4 Pro after a Homebrew ggml upgrade. Forcing the
+             # CPU backend skips the crashing Metal teardown entirely; it is
+             # slower but actually produces transcripts. Drop this once the
+             # upstream Metal destructor bug is fixed (or ggml is downgraded).
+             "--no-gpu",
              "--output-txt",
              "--output-file", str(out_base),
              "--no-prints"],
