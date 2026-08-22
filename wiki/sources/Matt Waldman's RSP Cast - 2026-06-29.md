@@ -1,0 +1,19 @@
+---
+type: source
+expert: Matt Waldman
+show: Matt Waldman's RSP Cast
+episode: "Feel It or F**k It 6.28.26: An RSP Podcast with Bob Harris and Matt Waldman"
+date: 2026-06-29
+guid: https://mattwaldmanrsp.com/?p=54085
+raw: raw/transcripts/rsp-cast/2026-06-29-rsp-feel-it-or-fk-it-62826-an-rsp-podcast-with-bob-harris-and-matt-waldman.md
+tags: [source]
+---
+
+## Summary
+Rapid-fire 'Feel It or F**k It' segment hosted by [[Matt Waldman]] and untracked co-host Bob Harris, running through OTA/minicamp buzz on roughly two dozen skill players across the league heading into the 2026 season. Topics: [[Brian Thomas Jr.]] vs [[Parker Washington]] in Jacksonville and [[Trevor Lawrence]]'s accuracy/chemistry questions; [[Ryan Flournoy]] and [[Michael Trigg]] as Dallas depth pieces behind [[CeeDee Lamb]], [[George Pickens]] and [[Jake Ferguson]]; [[Kyle Williams]]'s catching flaws in New England; [[Adonai Mitchell]] and [[Geno Smith]] with the Jets; a detailed contrarian case for [[Michael Wilson]] in Arizona's new McVay-style offense; a [[C.J. Stroud]] rebound thesis in Houston; [[Xavier Thomas]] hype skepticism in Chicago; the Carolina slot-role debate between [[Tetairoa McMillan]] and [[Chris Brazzell]]; [[Malik Benson]] in Las Vegas; the 'desired outcome' narrative around [[Keon Coleman]] in Buffalo; the Rams' crowded tight end room ([[Tyler Higbee]], [[Colby Parkinson]], [[Terrance Ferguson]]); [[Tez Johnson]] in Tampa Bay; rookie [[Dylan Bell]] in Minnesota; [[Bryce Lance]] in New Orleans; and rookie [[Jeremy Bernard]] getting individual reps with Aaron Rodgers in Pittsburgh. Episode closes with plugs for footballguys.com content (Fantasy Notebook, Gut Check, 2026 Draft Guide) and Football Diehards radio programming.
+
+## Pages touched
+[[Brian Thomas Jr.]], [[Parker Washington]], [[Trevor Lawrence]], [[Ryan Flournoy]], [[Michael Trigg]], [[Kyle Williams]], [[Adonai Mitchell]], [[Geno Smith]], [[Michael Wilson]], [[C.J. Stroud]], [[Xavier Thomas]], [[Chris Brazzell]], [[Tetairoa McMillan]], [[Malik Benson]], [[Keon Coleman]], [[Tyler Higbee]], [[Colby Parkinson]], [[Terrance Ferguson]], [[Tez Johnson]], [[Dylan Bell]], [[Bryce Lance]], [[Jeremy Bernard]]
+
+## Not given pages
+Passing mentions with no standalone evaluative take: [[Jakobi Meyers]] (Jaguars backfill option), [[Javonte Williams]] (Dallas target context), [[Romeo Doubs]] and [[AJ Brown]] (hands comps for Kyle Williams), [[Ja'Marr Chase]] and [[Quentin Johnston]] (drop-narrative comps), [[Cade Klubnik]] (late-round dynasty QB stash behind Geno Smith), [[Garrett Wilson]] (teased for the Fantasy Notebook, no take given here), [[Justin Fields]], Brady Cook, [[Tyrod Taylor]] (prior Jets QB room), [[Marvin Harrison Jr.]] and [[Trey McBride]] and Kyler Murray (Cardinals context for Michael Wilson take), [[Jacoby Brissett]], [[Carson Beck]], Gardner Minshew (Cardinals QB competition), [[Nico Collins]], [[Jayden Higgins]], [[Jaylin Noel]], [[David Montgomery]] (Houston supporting cast), [[Luther Burden III]], [[DeAndre Swift]], Kyle Monangai (Chicago WR/RB context), [[Jalen Coker]], Xavier Legette (Carolina WR depth), [[Dont'e Thornton Jr.]], Fernando Mendoza (Las Vegas/Benson context), [[Josh Allen]] (Bills context), [[Max Klare]] (Rams rookie TE, camp watch only), [[Chris Godwin]] (Tampa Bay context), [[Tai Felton]] (Vikings WR depth chart context), [[Devaughn Vele]] (Saints WR depth comp), [[Roman Wilson]] (Steelers WR competition), [[Calvin Austin III]] (Steelers comp), [[Aaron Rodgers]] (individual work with Bernard), DK Metcalf (Steelers weapon context). Also a Bengals WR referred to only as 'Colby/Kobe Young,' competing with [[Andrei Iosivas]] for a third-receiver role after [[Joe Burrow]] praised Iosivas -- name too garbled in the transcript audio to confidently resolve to a real roster spelling, so no page was created.

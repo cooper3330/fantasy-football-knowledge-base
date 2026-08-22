@@ -1,0 +1,22 @@
+---
+type: player
+team: Notre Dame (2026 Draft Prospect)
+position: TE
+tags: [player]
+---
+
+# Eli Raridon
+
+## Expert Takes
+<!-- Append new dated, attributed bullets here as sources are ingested.
+     Don't overwrite old ones — see CLAUDE.md rule 4. -->
+- 2026-03-11 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-03-11]]) [Dynasty]: Notre Dame's Raridon (6'6', 245) has the explosion to win downfield and has made big plays doing it, and could add more after-the-catch strength as he adds mass. Waldman flags recurring hand-technique lapses -- occasionally 'clap-attacking' the ball and catching with a high-low hand position instead of thumbs/fingers together -- that show up as minor issues on college tape but, against NFL-level velocity, tighter coverage and a smaller margin for error, project to become bigger problems. As a blocker he overextends, which either tips his intent so defenders avoid him or leaves him off-balance so defenders can shed him in a step or two; Waldman says that's the area with the most work ahead of him.
+- 2026-04-13 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-04-13]]) [Dynasty]: he pushes back on peers calling Raridon vastly underrated, saying his blocking shows significant lapses even on assignments he's supposed to have handled, plus minor hand issues that could carry over to catching. Still calls him a really strong athlete at 6'6', 245 lbs with a compelling frame to add more weight to. Suggests he may fit best as more of a pure in-line/filter blocker in the mold of [[Tyler Warren]] or [[Tucker Kraft]] rather than a true top-tier pass-catching prospect -- but says even in that reduced role, the blocking still concerns him.
+- 2026-04-16 — According to Dalton Wasserman (guest draft analyst, not tracked) ([[Harris Fantasy Football Podcast - 2026-04-16]]) [Dynasty]: [[Eli Raridon]] out of Notre Dame is a really good athlete who dealt with injuries in college -- named among the day 3-5 tight ends worth stashing and watching for landing spot.
+- 2026-06-08 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-06-08]]) [Dynasty]: Waldman is not buying rookie TE Eli Raridon as a sleeper despite the Patriots paying up for Julian Hill (who suffered a bad knee injury in OTAs) and reportedly giving Raridon a stated role. He expects the offense to keep leaning on three-receiver sets with Romeo Doubs, A.J. Brown, and Douglas/Kyle Williams/Kayshawn Boutte, and views Julian Hill as more of a blocker projected for low-teens targets rather than a big receiving role. On Raridon himself, Waldman likes the athletic profile but flagged real issues as a blocker and pass-catcher, especially at the catch point, comping his early outlook to Ben Skowronek's early-career tape ('not a tight end, but plays kind of like one'). He's bumping Raridon's target projection from roughly 10 to 20-30 but calls him overdrafted -- a deep-league dynasty developmental flier only, not an immediate sleeper.
+- 2026-08-10 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-08-10]]) [Dynasty]: worth stashing only in leagues with a 1.5-PPR tight end bonus, per Waldman -- not otherwise. He compares Raridon's profile to Treylon Burks among tight ends: physically promising, a good blocking frame, and a player scheme-focused film analysts tend to overrate. Waldman flags him as a 'serial clap attacker' as a blocker who overextends and ends up on the ground or losing leverage, an area needing real development. Expect flashes of athletic ability and an early role similar to a Notre Dame teammate's complementary receiving role, which New England's coaching staff will like, but Waldman says he's not yet in the same class as Oscar Delp or Kenyon Sadiq at tight end.
+
+## Related Concepts
+- [[Tight End Prototype Grind Risk]]
+- [[Rookie On-Ramp and Development Runway]]
+

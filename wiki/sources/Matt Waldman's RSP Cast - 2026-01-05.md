@@ -1,0 +1,19 @@
+---
+type: source
+expert: Matt Waldman
+show: Matt Waldman's RSP Cast
+episode: "Feel It Or F--It 1.5.2026: An RSP Podcast with Bob Harris and Matt Waldman"
+date: 2026-01-05
+guid: https://mattwaldmanrsp.com/?p=52766
+raw: raw/transcripts/rsp-cast/2026-01-05-rsp-feel-it-or-fit-152026-an-rsp-podcast-with-bob-harris-and-matt-waldman.md
+tags: [source]
+---
+
+## Summary
+Week 18 'Feel It or F**k It' rapid-fire recap co-hosted by Bob Harris (untracked) and Matt Waldman, running through immediate post-season reactions to the 2025 rookie class and several sophomores. Waldman previews the upcoming RSP dynasty rankings/free-agency update (~2 weeks out) and the June projections cycle. Topics: Ashton Jeanty's line/QB context in Las Vegas; Jack Bech and Dont'e Thornton Jr. buried in a bad Raiders passing game (with a brief Kyle Williams comp); the Chargers RB timeshare between Omarion Hampton and Najee Harris plus Kimani Vidal; Tre Harris's slow-burn breakout timeline; R.J. Harvey's fit under Sean Payton (with a speculative Damien Martinez mention); Cam Skattebo as the top back of the group when healthy; Jackson Dart's fantasy risk profile compared to Justin Fields, with a Lamar Jackson aside; Rhamondre Stevenson vs. TreVeyon Henderson in New England and Quinshon Judkins vs. Henderson touch-share; Tetairoa McMillan's ceiling in Carolina; the Travis Hunter two-way experiment and the Jaguars WR room (Brian Thomas Jr., Jacoby Meyers, Parker Washington); Tyler Shough's rookie QB debut; Cam Ward's outlook with Chimere Dike and Elic Ayomanor; Jayden Higgins and Jaylin Noel's Texans breakouts (with Nico Collins and C.J. Stroud notes); Emeka Egbuka's late-season dip and Baker Mayfield's injury impact; Harold Fannin Jr.'s TE1 case in Cleveland; Tyler Warren's role in Indianapolis; a new-owner/coaching-staff note on the Colts; Oronde Gadsden II's fit with the Chargers; Caleb Johnson's crowded Steelers backfield (Kenneth Gainwell, Jalen Warren contracts); and a closing Luther Burden III vs. Rome Odunze dynasty comparison tied to Colston Loveland's rookie tight end evaluation and Ben Johnson's plan for Caleb Williams.
+
+## Pages touched
+[[Ashton Jeanty]], [[Jack Bech]], [[Dont'e Thornton Jr.]], [[Kyle Williams]], [[Omarion Hampton]], [[Najee Harris]], [[Kimani Vidal]], [[Tre Harris]], [[R.J. Harvey]], [[Cam Skattebo]], [[Jackson Dart]], [[Rhamondre Stevenson]], [[TreVeyon Henderson]], [[Quinshon Judkins]], [[Caleb Johnson]], [[Kenneth Gainwell]], [[Jalen Warren]], [[Tetairoa McMillan]], [[Travis Hunter]], [[Brian Thomas Jr.]], [[Parker Washington]], [[Jayden Higgins]], [[Jaylin Noel]], [[Nico Collins]], [[C.J. Stroud]], [[Emeka Egbuka]], [[Baker Mayfield]], [[Luther Burden III]], [[Rome Odunze]], [[Caleb Williams]], [[Colston Loveland]], [[Matthew Golden]], [[Isaiah Bond]], [[Chimere Dike]], [[Elic Ayomanor]], [[Cam Ward]], [[Tyler Shough]], [[Oronde Gadsden II]], [[Tyler Warren]], [[Harold Fannin Jr.]], [[Anthony Richardson]], [[Offensive Line Investment and Skill Player Value]], [[Quarterback Processing and Confidence]], [[Rookie On-Ramp and Development Runway]]
+
+## Not given pages
+Brief, non-evaluative mentions only: Damien Martinez (speculative free-agent add for Denver), Jacoby Meyers (GM James Gladstone quote only), Justin Fields and Trevor Lawrence (comps for QB risk/coordinator churn), Marshawn Lloyd (fumbling-history contrast for Stevenson), Marvin Harrison Jr. (catch-point comp for Egbuka), Olamide Zaccheaus and Devin Duvernay (veteran Bears WR archetypes for Caleb Williams), Jameson Williams and Amon-Ra St. Brown (comp shorthand for Burden's archetype), Tucker Kraft (comp shorthand for Gadsden), Noah Brown (role comp for Gadsden), Michael Wilson and Rico Dowdle (past-hit bragging references), Hakeem Butler (old-miss reference), Robert Henry (UTSA prospect, not yet drafted), Daniel Jones and Shane Steichen/Chris Ballard (Colts front-office/QB continuity note, no player evaluation given).

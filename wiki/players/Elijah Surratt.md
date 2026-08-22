@@ -1,0 +1,25 @@
+---
+type: player
+team: Indiana (2026 draft prospect)
+position: WR
+tags: [player]
+---
+
+# Elijah Surratt
+
+## Expert Takes
+<!-- Append new dated, attributed bullets here as sources are ingested.
+     Don't overwrite old ones — see CLAUDE.md rule 4. -->
+- 2026-03-28 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-03-28]]) [Dynasty]: Surratt is a well-built possession receiver who delivers explosive plays off play-action and double moves thanks to good scouting/coaching, but he's still learning to apply patience-and-suddenness contrast to his releases, and his stem timing against coverage isn't accurate yet. His weight drop at the top of hard breaks isn't consistently deep enough, and Waldman wants to see more pace variation in his setups to make his routes compelling to NFL defenders.
+- 2026-03-31 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-03-31]]): Surratt (Indiana via James Madison, 6'2'/210 lbs, 65/830/15 -- led the FBS in receiving touchdowns) did not run a 40 at all, and Harmon guesses it would have been in the mid-4.5s to 4.6s -- 'not good' straight-line speed. His RP profile is 'an absolute mess' by the raw numbers: only two green (successful) routes on his tree, 60.6% success vs. man and 47.7% vs. press (well sub-50, disqualifying for a true X in the NFL), dragged further by a 9-route-heavy tree (21% of routes at only 40.5% success). But 83.3% success vs. zone is 81st percentile and actually better than [[Omar Cooper Jr.]]'s. Applying his 'skewed alignment' framework (updating a 2024 [[Keon Coleman]] study), Harmon argues Surratt's sub-35th-percentile man/press scores make him a strong candidate to convert from a pure outside X (88.2% of RP sample snaps outside, 70.3% on the LOS) into a power slot receiver, comparing him to Rasheed Rice/[[Amon-Ra St. Brown]]-style zone-vs-press splits and, on tape, to [[Pat Bryant]] from last year's class -- though Harmon says he grades Surratt as the better prospect of the two. Both hosts endorse Lance Zierlein's Allen Lazard comp on Surratt's back-shoulder/contested-catch ability. Harmon projects a late third-to-fourth round pick, contingent on landing in a scheme willing to move him inside.
+- 2026-05-05 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-05-05]]) [Dynasty]: Surratt (6'2', 210 lbs, Indiana) was a poor press-man beater in college but a strong zone-beater who wins with back-shoulder catches and toughness -- Harmon comps his projected NFL path to [[JuJu Smith-Schuster]]'s, kicking inside to become a big slot receiver rather than an outside X. Ravens GM Eric DaCosta said the team believes 'he's really good inside.' Untracked Yahoo analyst Charles McDonald floated a comp to what [[Isaiah Likely]] was for this offense -- a tight-end-in-name-only, downfield zone-beater. Harmon expects new OC Declan Doyle's scheme (out of the Sean Payton/Ben Johnson coaching tree) to want a bigger slot option, and on that basis picks Surratt over fellow rookie [[Jacoby Lane]] to be the more productive of Baltimore's two new receivers in year one -- even though on pure grade he'd have had Surratt as the third-rounder and Lane closer to day three.
+- 2026-07-20 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-07-20]]) [Dynasty]: Waldman compared [[Elijah Surratt]]'s likely role to a 'Joshua Palmer type,' seeing him behind [[Rashad Bateman]] and Devontae Walker in Baltimore's receiver pecking order but a possible fit for a different specific role.
+- 2026-07-31 — According to [[Matt Harmon]] ([[Harris Fantasy Football Podcast - 2026-07-31]]) [Dynasty]: Harmon projects Elijah Surratt as a power-slot convert -- a player who didn't separate on the perimeter at USC but beats zone coverage and has the body type to kick inside, comping him to an Amon-Ra St. Brown-style transition. Harmon wrote this up on his site and in a full YouTube breakdown, and says he's specifically hoping to hear reports of Surratt moving into the slot in camp. Notably, Harmon says he doesn't care about draft capital here and rates Surratt as the better overall player of Baltimore's two rookie receivers despite Jacoby Lane going a round earlier -- Surratt is currently running with Baltimore's first-team offense, versus Lane with the twos.
+- 2026-08-11 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-08-11]]) [Dynasty]: Surratt, Baltimore's day-three rookie, reportedly isn't 100% healthy in camp. Harmon still hopes he can claim the Ravens' WR4 job, having liked him as a developmental 'power slot' type, giving Baltimore a distinct rookie skill set from both [[Rashad Bateman]]/[[Zay Flowers]] and fellow rookie [[Jaylin Lane]].
+- 2026-08-17 — According to [[Chris Harris]] ([[Harris Football Podcast - 2026-08-17]]): Camp reports have Surratt clearly behind fellow Ravens rookie [[Jacoby Lane]] early in camp.
+
+## Related Concepts
+- [[Slot to Outside Conversion Risk]]
+- [[Reception Perception Methodology]]
+- [[Power Slot Receiver Archetype]]
+

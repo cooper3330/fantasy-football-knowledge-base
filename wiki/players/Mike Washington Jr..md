@@ -1,0 +1,22 @@
+---
+type: player
+team: Arkansas (NCAA)
+position: RB
+tags: [player]
+---
+
+# Mike Washington Jr.
+
+## Expert Takes
+<!-- Append new dated, attributed bullets here as sources are ingested.
+     Don't overwrite old ones — see CLAUDE.md rule 4. -->
+- 2026-02-09 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-02-09]]) [Dynasty]: Waldman likes Washington's power and speed once he reaches top gear in a gap scheme behind a puller, comping his ceiling to an [[Omarion Hampton]]-type downhill back. Two concerns temper that: he needs three or four transition steps to get downhill from a perimeter alignment versus one or two for top prospects, which lets backside pursuit and force defenders catch him before he turns the corner; and ball security is 'awful' -- 13 fumbles in 5 seasons (one per 51 touches, worse than the roughly one-per-100 benchmark Waldman considers 'good'), including a 1-per-27 rate in 2024 that didn't stem from a hand injury he suffered later. Waldman's realistic outcome projection lands closer to a [[Gus Edwards]]-type role than an Omarion Hampton-level workhorse unless both issues are fixed.
+- 2026-03-05 — According to [[Matt Waldman]] and [[Brandon Angelo]] ([[Matt Waldman's RSP Cast - 2026-03-05]]) [Dynasty]: both hosts named [[Mike Washington Jr.]] the running back on whom they are furthest below industry consensus. Waldman argued big, fast backs above 225 lbs rarely become high-end NFL starters -- he cited [[Jonathan Taylor]] as essentially the only recent example -- and said Washington's combine-measured elusiveness does not translate to functional, downhill cutting ability on tape. He tracked Washington's ball security across five college seasons: 664 touches and 16 fumbles, one fumble every 65 touches, which Waldman grades as 'reserve level' by his personal cutoff (60-61 touches per fumble is his low-committee threshold) -- notable given his 15 years of RSP charting research showing fewer than 10% of backs graded below the committee tier ever post a top-25 fantasy season, and almost none reach elite status. Waldman currently has Washington as a low-committee-tier contributor/short-yardage option rather than a top-five back, though he said a strong Combine could still move the needle if it makes him re-check the tape. Angelo agreed Washington projects like [[Caleb Johnson]] -- needing a specific, favorable wide-zone scheme to hide vision and contact-balance limitations -- and worried he could get stuck buried on a depth chart, unready for early playing time, the way Johnson was as a rookie.
+- 2026-04-01 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-04-01]]) [Dynasty]: Waldman flagged fumbling and poor finishing technique as Washington's main concerns -- he turns his back into contact instead of leading with pads low and knees/feet high, which weakens his push and increases his surface area against tacklers. Waldman said if Washington fixes ball security and finishing he has the speed and power profile to become a top-tier power back, but if he doesn't, Waldman projects him as an inconsistent producer with big-play flashes mixed with too many mistakes.
+- 2026-04-09 — According to [[Brandon Angelo]] and [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-04-09]]) [Dynasty]: both rank Mike Washington Jr. well below consensus, calling his ball security 'damningly' bad -- one fumble per 51 touches, well above Waldman's acceptable threshold -- and tying it directly to poor contact technique: at 6'1'-6'2' and 230 lbs, he spins or turns his back into contact instead of dropping his pads and squaring the downhill safety, repeatedly turning should-be first downs into third-and-long. Angelo said the linear, high-cut mover archetype over 6'1' rarely produces elite NFL backs, with [[Breece Hall]] the lone true comp, and called the gap between Hall's movement tools and Washington's 'Grand Canyon sized.' Waldman contrasted him unfavorably with [[DeMond Claiborne]], saying Claiborne 'runs laps around' Washington as a player, but predicted NFL front offices will still overvalue Washington's frame and measurables (a 'bus runway' bias toward looking the part), producing a worse real-world outcome than the tape suggests.
+
+## Related Concepts
+- [[Ball Security and Fumble Rate Grading]]
+- [[Optimal Fumble Rate]]
+- [[Contact Mitigation and Dictating Contact]]
+

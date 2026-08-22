@@ -1,0 +1,25 @@
+---
+type: player
+team: HOU
+position: WR
+tags: [player]
+---
+
+# Jaylen Noel
+
+## Expert Takes
+<!-- Append new dated, attributed bullets here as sources are ingested.
+     Don't overwrite old ones — see CLAUDE.md rule 4. -->
+- 2025-10-21 — According to guest John Daigle (Establish the Run, not tracked) ([[Harris Fantasy Football Podcast - 2025-10-21 (Week 8 Waivers & W7 Reviews)]]) [Redraft (Standard)]: Daigle's #5 Week 8 waiver add, banking on [[Nico Collins]]'s concussion and [[Christian Kirk]]'s unclear return from hamstring opening slot reps. Noel ran 73% of his college routes from the slot at Iowa State and posted a 62% slot rate with Houston last night, notching three catches of 20-plus yards. Daigle was clear he doesn't have faith the Texans coaching staff will actually feature him consistently -- calling their decision-making 'astonishing' in a bad way -- but said the team is shorthanded enough that a rookie has to step up. Chris Harris agreed Noel is an honorable mention and said he'd 'love' for Houston to feature him more, contrasted with [[Jayden Higgins]], who looked 'pretty helpless' on a key fourth-down target.
+- 2025-10-27 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-10-27]]) [Best Ball]: Waldman called [[Jaylen Noel]] the safest of Houston's receiving options versus San Francisco, converting three third-down plays plus some downfield gains; he said Houston relies on Noel in pivotal situations and trusts him with high-value targets, making him the most reliable weekly floor play among a group that also includes [[Jayden Higgins]] and [[Xavier Hutchinson]].
+- 2025-11-25 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2025-11-25]]): mentioned as part of a crowded Texans receiver room -- 'there's a lot of mouths' -- that cuts into Jayden Higgins' target upside alongside Christian Kirk.
+- 2026-01-20 — According to [[Matt Harmon]] and James Koh (untracked co-host) on [[Reception Perception The Show - 2026-01-20]] [Dynasty]: both hosts are self-described 'huge Jaylen Noel fans' who want to see a much larger dosage of him -- Harmon believes he could realistically replicate some of the outbreaking-route production Tank Dell provided Houston's offense during Stroud's rookie season -- but he barely plays. Neither claims he's a perfect player (he was a Day 3, third-round pick), but both think Houston's failure to get him on the field is part of a broader pattern of not developing its young offensive pieces, possibly compounded by Stroud being resistant to incorporating them.
+- 2026-02-16 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-02-16]]) [Dynasty]: Waldman is fully 'feeling it' on Noel emerging in 2026, and expects Houston to let [[Christian Kirk]] walk in free agency despite Kirk's strong finish/postseason, because they believe Noel can handle the WR2/3 role. Waldman rates Noel as more explosive than Kirk with a route-running ceiling that could match him, strong at the catch point, and someone who already had visible chemistry/trust from [[C.J. Stroud]] on tough plays down the stretch. Waldman wants Houston to keep expanding his role.
+- 2026-03-03 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-03-03]]) [Dynasty]: Harmon called Jaylen Noel 'awesome' and thinks Houston has been too conservative deploying its rookies, projecting Noel as a potential great slot receiver who should inherit expanded snaps now that Christian Kirk is likely to leave in free agency. He cautioned against the reflexive dynasty instinct to write off Day 2 rookie receivers who didn't produce as rookies, arguing the league is shifting and some of these players are 'still legit good' but were blocked by a crowded depth chart and 'politics and veteran deference,' not a lack of talent.
+- 2026-07-31 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-07-31]]) [Redraft (Standard)]: a receiver Harris says nobody was that excited about drafting anyway, Jaylen Noel, hurt a finger and is expected out a couple of weeks. Harris has already pulled him out of his personal top 80 receivers as a result.
+- 2026-08-13 — According to James Koh (untracked co-host) ([[Reception Perception The Show - 2026-08-13]]): Koh says he isn't giving up on Jaylen Noel despite [[Jayden Higgins]] projecting as Houston's likelier snap leader this year -- Koh still ranks Noel highly in dynasty formats [Dynasty] and considers him a good stash.
+
+## Related Concepts
+- [[Waiver Wire Archetypes and Organizational Support]]
+- [[Positional Stockpiling and Roster Imbalance]]
+

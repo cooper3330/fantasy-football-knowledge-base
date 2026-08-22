@@ -360,6 +360,7 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2025-09-15 | [[Chris Harris]] | Week 2 Game Reviews! | [[Harris Fantasy Football Podcast - 2025-09-15]] |
 | 2025-09-16 | [[Matt Harmon]] | Week 2 Buy/Sell & Panic Meter! | [[Reception Perception The Show - 2025-09-16]] |
 | 2025-09-16 | [[Chris Harris]] | Week 3 Waivers & More W2 Game Film | [[Harris Fantasy Football Podcast - 2025-09-16]] |
+| 2025-09-17 | [[Chris Harris]] | ONE-MINUTE REMINDER - No Free Show Today | [[Harris Fantasy Football Podcast - 2025-09-17]] |
 | 2025-09-18 | [[Matt Harmon]] | Big Bounce-Backs, Big Alignment Shifts & Big 3rd Year Breakouts | [[Reception Perception The Show - 2025-09-18]] |
 | 2025-09-18 | [[Matt Waldman]] | Fantasy Is Weird, Brian Thomas Panic, and Ashton Jeanty Is the Next Trent Richardson: RSP Film & Theory with Adam Harstad & Matt Waldman | [[Matt Waldman's RSP Cast - 2025-09-18 (Film & Theory)]] |
 | 2025-09-18 | [[Chris Harris]] | Hardest To Rank Players For Week 3 | [[Harris Fantasy Football Podcast - 2025-09-18]] |
@@ -369,6 +370,7 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2025-09-22 | [[Chris Harris]] | Week 3 Game Reviews | [[Harris Fantasy Football Podcast - 2025-09-22]] |
 | 2025-09-23 | [[Matt Harmon]] | NFL Week 3 Takeaways! | [[Reception Perception The Show - 2025-09-23]] |
 | 2025-09-23 | [[Chris Harris]] | Week 4 Waivers & More W3 Game Film | [[Harris Fantasy Football Podcast - 2025-09-23]] |
+| 2025-09-24 | [[Chris Harris]] | One More Reminder - This Season Wednesdays Are For Subscribers | [[Harris Fantasy Football Podcast - 2025-09-24]] |
 | 2025-09-25 | [[Matt Harmon]] | Figuring Out the Raiders, Rookie Breakouts & A Familiar Name in Indy | [[Reception Perception The Show - 2025-09-25]] |
 | 2025-09-25 | [[Chris Harris]] | Key Week 4 Start-Sit Decisions & Previewing SEAvARI | [[Harris Fantasy Football Podcast - 2025-09-25]] |
 | 2025-09-26 | [[Chris Harris]] | Five Players To Trade For | [[Harris Fantasy Football Podcast - 2025-09-26]] |
@@ -389,6 +391,29 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2025-10-09 | [[Matt Waldman]] | What You Value, You Measure & Dynasty Rebuilds: RSP Film & Theory w/Adam Harstad & Matt Waldman | [[Matt Waldman's RSP Cast - 2025-10-09]] |
 | 2025-10-10 | [[Chris Harris]] | Hot & Cold Starts We Don't Want To Trade Plus PHI v NYG Madness | [[Harris Fantasy Football Podcast - 2025-10-10]] |
 | 2025-10-13 | [[Matt Waldman]] | Feel It Or F--It 10.13.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-10-13]] |
+| 2025-10-13 | [[Chris Harris]] | Week 6 Game Film Review | [[Harris Fantasy Football Podcast - 2025-10-13]] |
+| 2025-10-14 | [[Matt Harmon]] | NFL Week 6 Takeaways! | [[Reception Perception The Show - 2025-10-14]] |
+| 2025-10-14 | [[Chris Harris]] | Week 7 Waiver Wire & More W6 Game Film | [[Harris Fantasy Football Podcast - 2025-10-14 (Week 7 Waiver Wire & More W6 Film)]] |
+| 2025-10-16 | [[Matt Waldman]] | Three NFC RBs, WR Tectonics, '25 Colts, and '26 Bears RB Targets: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2025-10-16]] |
+| 2025-10-16 | [[Chris Harris]] | Week 7 Flex Decisions & Previewing PITvCIN | [[Harris Fantasy Football Podcast - 2025-10-16 (Week 7 Flex Decisions)]] |
+| 2025-10-16 | [[Matt Harmon]] | Week 7 News & Notes! | [[Reception Perception The Show - 2025-10-16]] |
+| 2025-10-17 | [[Chris Harris]] | Offensive Environments To Trade For & Trade Away | [[Harris Fantasy Football Podcast - 2025-10-17]] |
+| 2025-10-20 | [[Matt Waldman]] | Feel It Or F--It 10.20.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-10-20]] |
+| 2025-10-20 | [[Chris Harris]] | Week 7 Game Film Review | [[Harris Fantasy Football Podcast - 2025-10-20]] |
+| 2025-10-21 | [[Matt Harmon]] | NFL Week 7 Takeaways! | [[Reception Perception The Show - 2025-10-21]] |
+| 2025-10-21 | [[Chris Harris]] | Week 8 Waivers & More W7 Game Reviews | [[Harris Fantasy Football Podcast - 2025-10-21 (Week 8 Waivers & W7 Reviews)]] |
+| 2025-10-23 | [[Matt Waldman]] | Physics, Platonic Ideals, and Fantasy Football: RSP Film & Theory w/Adam Harstad & Matt Waldman | [[Matt Waldman's RSP Cast - 2025-10-23]] |
+| 2025-10-23 | [[Chris Harris]] | Tough Week 8 Lineup Decisions & Much More | [[Harris Fantasy Football Podcast - 2025-10-23]] |
+| 2025-10-23 | [[Matt Harmon]] | Week 8 NFL News & Overperformers/Underperformers | [[Reception Perception The Show - 2025-10-23]] |
+| 2025-10-24 | [[Chris Harris]] | 2025 Midseason Huggy & Baggy Awards | [[Harris Fantasy Football Podcast - 2025-10-24]] |
+| 2025-10-27 | [[Matt Waldman]] | Feel It Or F--It 10.27.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-10-27]] |
+| 2025-10-27 | [[Chris Harris]] | Week 8 Game Film Review! | [[Harris Football Podcast - 2025-10-27]] |
+| 2025-10-28 | [[Matt Harmon]] | NFL Week 8 Breakdown! | [[Reception Perception The Show - 2025-10-28]] |
+| 2025-10-28 | [[Chris Harris]] | Week 9 Waivers & More Week 8 Game Discussion | [[Harris Fantasy Football Podcast - 2025-10-28]] |
+| 2025-10-30 | [[Matt Harmon]] | NFL Trade Deadline Looms | [[Reception Perception The Show - 2025-10-30]] |
+| 2025-10-30 | [[Chris Harris]] | Week 9 Start & Sit Plus Matthew Golden Film Futures | [[Harris Fantasy Football Podcast - 2025-10-30]] |
+| 2025-10-31 | [[Chris Harris]] | Biggest Surprises Of 2025 So Far & BALvMIA Review | [[Harris Fantasy Football Podcast - 2025-10-31]] |
+| 2025-10-31 | [[Matt Waldman]] | How Does Value Move and 2025 HOF Nominees: RSP Film & Theory w/Adam Harstad & Matt Waldman | [[Matt Waldman's RSP Cast - 2025-10-31]] |
 | 2025-11-03 | [[Matt Waldman]] | Feel It Or F--It 11.3.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-11-03]] |
 | 2025-11-03 | [[Chris Harris]] | Week 9 Game Film Breakdowns | [[Harris Fantasy Football Podcast - 2025-11-03]] |
 | 2025-11-04 | [[Chris Harris]] | Week 10 Waivers & More W9 Game Film | [[Harris Fantasy Football Podcast - 2025-11-04]] |
@@ -405,6 +430,173 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2025-11-13 | [[Chris Harris]] | Ashton Jeanty Film Futures & Week 11 Lineup Advice | [[Harris Fantasy Football Podcast - 2025-11-13]] |
 | 2025-11-13 | [[Matt Harmon]] | NFL News & Notes Ahead of Week 11! | [[Reception Perception The Show - 2025-11-13]] |
 | 2025-11-13 | [[Matt Waldman]] | Paper Champions and Moving All-Timers to Different Eras: RSP Film and Theory with Adam Harstad and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-11-13 (Paper Champions and All-Timers Across Eras)]] |
+| 2025-11-14 | [[Chris Harris]] | 2025 Fantasy Trade Deadline Special | [[Harris Fantasy Football Podcast - 2025-11-14]] |
+| 2025-11-17 | [[Matt Waldman]] | Feel It Or F**k It 11.17.2025 | [[Matt Waldman's RSP Cast - 2025-11-17]] |
+| 2025-11-17 | [[Chris Harris]] | Week 11 Game Film Review | [[Harris Fantasy Football Podcast - 2025-11-17 (Week 11 Game Film Review)]] |
+| 2025-11-18 | [[Matt Harmon]] | Week 11 Takeaways! | [[Reception Perception The Show - 2025-11-18]] |
+| 2025-11-18 | [[Chris Harris]] | Week 12 Waivers & More W11 Game Film Review | [[Harris Football Podcast - 2025-11-18]] |
+| 2025-11-20 | [[Matt Harmon]] | Let's Look Back on the 2022 Receiver Class | [[Reception Perception The Show - 2025-11-20]] |
+| 2025-11-20 | [[Chris Harris]] | Week 12 Lineup Decisions Plus Snark & Music | [[Harris Fantasy Football Podcast - 2025-11-20]] |
+| 2025-11-21 | [[Chris Harris]] | Bills Mishaps & Players Whose Values Will Go Up In 2026 | [[Harris Fantasy Football Podcast - 2025-11-21]] |
+| 2025-11-24 | [[Matt Waldman]] | Feel It Or F--It 11.24.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-11-24]] |
+| 2025-11-24 | [[Chris Harris]] | Week 12 Game Film Review | [[Harris Fantasy Football Podcast - 2025-11-24]] |
+| 2025-11-25 | [[Matt Harmon]] | NFL Week 12 Takeaways! | [[Reception Perception The Show - 2025-11-25]] |
+| 2025-11-25 | [[Chris Harris]] | Week 13 Waivers & More W12 Game Film | [[Harris Fantasy Football Podcast - 2025-11-25]] |
+| 2025-11-27 | [[Matt Harmon]] | We Have Some Receivers on the Struggle Bus | [[Reception Perception The Show - 2025-11-27]] |
+| 2025-12-01 | [[Matt Waldman]] | Feel It Or F--It 12.1.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-12-01 (Feel It or Fk It)]] |
+| 2025-12-01 | [[Chris Harris]] | Week 13 Game Film & Paywall Andy Is Free! | [[Harris Fantasy Football Podcast - 2025-12-01]] |
+| 2025-12-02 | [[Matt Harmon]] | Analyzing Detroit's Passing Attack Sans Amon-Ra + Big Week For The 'Truthers' | [[Reception Perception The Show - 2025-12-02]] |
+| 2025-12-02 | [[Chris Harris]] | Week 14 Waivers & More W13 Game Reviews | [[Harris Fantasy Football Podcast - 2025-12-02]] |
+| 2025-12-04 | [[Matt Waldman]] | Eagles, Bears, Kyle Williams, Shedeur Sanders, and Adonai Mitchell: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2025-12-04]] |
+| 2025-12-05 | [[Chris Harris]] | Fantasy Playoff Preview & Thursday Night Fallout! | [[Harris Fantasy Football Podcast - 2025-12-05]] |
+| 2025-12-08 | [[Matt Waldman]] | Feel It Or F**k It 12.8.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-12-08]] |
+| 2025-12-08 | [[Chris Harris]] | Week 14 Game Film Review | [[Harris Fantasy Football Podcast - 2025-12-08]] |
+| 2025-12-09 | [[Matt Harmon]] | Week 14 Takeaways! | [[Reception Perception The Show - 2025-12-09]] |
+| 2025-12-09 | [[Chris Harris]] | Week 15 Waiver Wire & More W14 Game Film | [[Harris Fantasy Football Podcast - 2025-12-09]] |
+| 2025-12-11 | [[Matt Harmon]] | Late Season Rookie Risers & Ranking Former Texas Receivers | [[Reception Perception The Show - 2025-12-11]] |
+| 2025-12-12 | [[Chris Harris]] | Top 12 Picks Of 2026 & Setting Week 15 Lineups | [[Harris Fantasy Football Podcast - 2025-12-12]] |
+| 2025-12-15 | [[Matt Waldman]] | Feel It Or F--It 12.15.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-12-15]] |
+| 2025-12-15 | [[Chris Harris]] | Week 15 Game Film Review | [[Harris Fantasy Football Podcast - 2025-12-15]] |
+| 2025-12-16 | [[Chris Harris]] | Week 16 Waivers & More W15 Game Review | [[Harris Fantasy Football Podcast - 2025-12-16]] |
+| 2025-12-18 | [[Matt Harmon]] | Tua Benched, Bucs WR's Back & 2024 Class Breakdown | [[Reception Perception The Show - 2025-12-18]] |
+| 2025-12-19 | [[Chris Harris]] | Five Busts For 2026 & Semifinals Preview | [[Harris Fantasy Football Podcast - 2025-12-19]] |
+| 2025-12-22 | [[Matt Waldman]] | Feel It Or F--It 12.22.2025: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2025-12-22]] |
+| 2025-12-23 | [[Chris Harris]] | Championship Waivers & W16 Film Review | [[Harris Fantasy Football Podcast - 2025-12-23]] |
+| 2025-12-23 | [[Matt Harmon]] | Late-Season Vet Surge & Rookie Temperature Check | [[Reception Perception The Show - 2025-12-23]] |
+| 2025-12-26 | [[Chris Harris]] | Undervalued Players For 2026 & Championship Injury Decisions | [[Harris Fantasy Football Podcast - 2025-12-26]] |
+| 2025-12-30 | [[Chris Harris]] | Five Players We Love | [[Harris Fantasy Football Podcast - 2025-12-30]] |
+| 2025-12-30 | [[Matt Harmon]] | Week 17 Surprise Performances | [[Reception Perception The Show - 2025-12-30]] |
+| 2026-01-02 | [[Chris Harris]] | Postseason Huggy & Baggy Awards And 2025 SUPERCUT! | [[Harris Fantasy Football Podcast - 2026-01-02]] |
+| 2026-01-05 | [[Matt Waldman]] | Feel It Or F--It 1.5.2026: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-01-05]] |
+| 2026-01-08 | [[Matt Harmon]] | 2025 Wide Receiver Superlatives! | [[Reception Perception The Show - 2026-01-08]] |
+| 2026-01-08 | [[Chris Harris]] | Making Sense Of 2025 Fantasy Outliers | [[Harris Fantasy Football Podcast - 2026-01-08]] |
+| 2026-01-13 | [[Matt Harmon]] | Wild Card Weekend Recap! | [[Reception Perception The Show - 2026-01-13]] |
+| 2026-01-15 | [[Matt Harmon]] | Breaking Down Some News! | [[Reception Perception The Show - 2026-01-15]] |
+| 2026-01-15 | [[Chris Harris]] | Potential Salary Cap Casualties In 2026 | [[Harris Fantasy Football Podcast - 2026-01-15]] |
+| 2026-01-19 | [[Matt Waldman]] | Feel It Or F--It 1.19.2026: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-01-19]] |
+| 2026-01-20 | [[Matt Harmon]] | Divisional Round Recap! | [[Reception Perception The Show - 2026-01-20]] |
+| 2026-01-22 | [[Matt Waldman]] | Bears, Eagles, Commanders, and Parker Washington: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2026-01-22]] |
+| 2026-01-22 | [[Matt Harmon]] | Latest Coaching News + Conference Championship Previews! | [[Reception Perception The Show - 2026-01-22]] |
+| 2026-01-22 | [[Chris Harris]] | Level Jumpers For 2026 & Snarkbag! | [[Harris Fantasy Football Podcast - 2026-01-22]] |
+| 2026-01-26 | [[Matt Waldman]] | Feel It or F**k It 1.26.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-01-26]] |
+| 2026-01-27 | [[Matt Harmon]] | Conference Championship Recap & Coaching News | [[Reception Perception The Show - 2026-01-27]] |
+| 2026-01-29 | [[Chris Harris]] | Listener Request Episode & Woody Marks Film Review | [[Harris Fantasy Football Podcast - 2026-01-29]] |
+| 2026-01-29 | [[Matt Harmon]] | The State of the Wide Receiver Position w/ JJ Zachariason | [[Reception Perception The Show - 2026-01-29]] |
+| 2026-02-02 | [[Matt Waldman]] | Feel It or F**k It 2.2.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-02-02]] |
+| 2026-02-03 | [[Matt Harmon]] | NFL Coaching & Coordinator Hires! | [[Reception Perception The Show - 2026-02-03]] |
+| 2026-02-05 | [[Chris Harris]] | Emeka Egbuka Film Futures & AJ Brown's Future & Super Bowl Wagers! | [[Harris Fantasy Football Podcast - 2026-02-05]] |
+| 2026-02-05 | [[Matt Harmon]] | Super Bowl LX Preview: Patriots vs. Seahawks | [[Reception Perception The Show - 2026-02-05]] |
+| 2026-02-09 | [[Matt Waldman]] | Feel It or F**k It 2.9.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-02-09]] |
+| 2026-02-09 | [[Matt Harmon]] | Super Bowl Recap: Seahawks Take Down Patriots | [[Reception Perception The Show - 2026-02-09]] |
+| 2026-02-12 | [[Matt Harmon]] | Early Offseason Division Previews: NFC East | [[Reception Perception The Show - 2026-02-12]] |
+| 2026-02-13 | [[Matt Waldman]] | Conceptual Skills We Seek from Skill Players, Slot Pct, and Who Surprised Us: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2026-02-13]] |
+| 2026-02-16 | [[Matt Waldman]] | Feel It or F**k It 2.16.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-02-16]] |
+| 2026-02-17 | [[Matt Harmon]] | Travis Hunter Thoughts & AFC East Preview! | [[Reception Perception The Show - 2026-02-17]] |
+| 2026-02-19 | [[Matt Harmon]] | NFC North Preview! | [[Reception Perception The Show - 2026-02-19]] |
+| 2026-02-21 | [[Chris Harris]] | Top 10 Movies Of 2025 | [[Harris Fantasy Football Podcast - 2026-02-21]] |
+| 2026-02-24 | [[Matt Harmon]] | AFC North Preview! | [[Reception Perception The Show - 2026-02-24]] |
+| 2026-02-27 | [[Matt Harmon]] | NFC South Preview! | [[Reception Perception The Show - 2026-02-27]] |
+| 2026-03-02 | [[Matt Waldman]] | Feel It or F**k It 3.2.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-03-02]] |
+| 2026-03-03 | [[Matt Harmon]] | NFL Combine Takeaways, AFC South Preview! | [[Reception Perception The Show - 2026-03-03]] |
+| 2026-03-05 | [[Chris Harris]] | 2026 Free Agency Preview | [[Harris Fantasy Football Podcast - 2026-03-05]] |
+| 2026-03-05 | [[Matt Harmon]] | NFC West Preview! | [[Reception Perception The Show - 2026-03-05]] |
+| 2026-03-05 | [[Matt Waldman]] | State of the NFL TE and '26 Prospect Review (Riskiest, Safest, and Contrarian) Going Deep w/Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2026-03-05]] |
+| 2026-03-09 | [[Matt Waldman]] | Feel It or F--k It 3.9.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-03-09]] |
+| 2026-03-10 | [[Matt Harmon]] | AFC West Division Preview! | [[Reception Perception The Show - 2026-03-10]] |
+| 2026-03-11 | [[Matt Waldman]] | 2026 RSP A-Z Tight End Podcast | [[Matt Waldman's RSP Cast - 2026-03-11]] |
+| 2026-03-12 | [[Chris Harris]] | 2026 Free Agency Review - Faces In New Places! | [[Harris Fantasy Football Podcast - 2026-03-12]] |
+| 2026-03-12 | [[Matt Harmon]] | Free Agency Part 1 | [[Reception Perception The Show - 2026-03-12]] |
+| 2026-03-17 | [[Matt Harmon]] | Free Agency Part II | [[Reception Perception The Show - 2026-03-17]] |
+| 2026-03-19 | [[Matt Harmon]] | Let's Unpack the Jaylen Waddle News | [[Reception Perception The Show - 2026-03-19]] |
+| 2026-03-19 | [[Matt Waldman]] | Listener 2026 NFL Draft Q&A: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2026-03-19]] |
+| 2026-03-24 | [[Matt Harmon]] | 2026 Top Wide Receiver Prospects! | [[Reception Perception The Show - 2026-03-24]] |
+| 2026-03-26 | [[Matt Harmon]] | More Prospect Breakdowns! | [[Reception Perception The Show - 2026-03-26]] |
+| 2026-03-28 | [[Matt Waldman]] | 2026 RSP A-Z Wide Receiver Podcast | [[Matt Waldman's RSP Cast - 2026-03-28]] |
+| 2026-03-30 | [[Matt Waldman]] | Feel It or F**k It 3.30.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-03-30]] |
+| 2026-03-31 | [[Matt Harmon]] | New Prospect Drops! | [[Reception Perception The Show - 2026-03-31]] |
+| 2026-04-01 | [[Matt Waldman]] | 2026 RSP A-Z Running Back Podcast | [[Matt Waldman's RSP Cast - 2026-04-01]] |
+| 2026-04-02 | [[Chris Harris]] | WR Rookies In The 2026 NFL Draft | [[Harris Fantasy Football Podcast - 2026-04-02]] |
+| 2026-04-06 | [[Matt Waldman]] | Feel It or F**k It 4.6.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-04-06]] |
+| 2026-04-07 | [[Matt Harmon]] | 2026 NFL Draft WR Debates with Matt Waldman | [[Reception Perception The Show - 2026-04-07]] |
+| 2026-04-09 | [[Chris Harris]] | RB Rookies In The 2026 NFL Draft | [[Harris Fantasy Football Podcast - 2026-04-09]] |
+| 2026-04-09 | [[Matt Waldman]] | With/Against Consensus and the True Impact of RBs/WRs Adding Mass: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2026-04-09]] |
+| 2026-04-13 | [[Matt Waldman]] | Feel It or F**k It 4.13.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-04-13]] |
+| 2026-04-14 | [[Matt Harmon]] | Dontayvion Wicks Traded + Antonio Williams & Deion Burks Profiles | [[Reception Perception The Show - 2026-04-14]] |
+| 2026-04-16 | [[Matt Harmon]] | Mid-Round Prospect Profiles! | [[Reception Perception The Show - 2026-04-16]] |
+| 2026-04-16 | [[Chris Harris]] | QB & TE Rookies In The 2026 NFL Draft | [[Harris Fantasy Football Podcast - 2026-04-16]] |
+| 2026-04-20 | [[Matt Waldman]] | Feel It or F**k It 4.20.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-04-20]] |
+| 2026-04-21 | [[Matt Harmon]] | Analyzing 'XL' Wide Receiver NFL Draft Prospects | [[Reception Perception The Show - 2026-04-21]] |
+| 2026-04-23 | [[Matt Harmon]] | Final Pre-Draft Profiles + 'One-Sided' Trend in CFB | [[Reception Perception The Show - 2026-04-23]] |
+| 2026-04-23 | [[Chris Harris]] | Re-Drafting The 2025 Rookies & Snarkbag! | [[Harris Fantasy Football Podcast - 2026-04-23]] |
+| 2026-04-27 | [[Matt Waldman]] | Feel It or F**k It 4.27.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-04-27]] |
+| 2026-04-28 | [[Matt Harmon]] | Post-NFL Draft Landing Spot Analysis! | [[Reception Perception The Show - 2026-04-28]] |
+| 2026-04-30 | [[Chris Harris]] | 2026 Ranks Revealed - RB & TE | [[Harris Fantasy Football Podcast - 2026-04-30]] |
+| 2026-04-30 | [[Matt Harmon]] | Breaking Down NFL Draft Round 3 WRs | [[Reception Perception The Show - 2026-04-30 (Round 3 WRs)]] |
+| 2026-05-04 | [[Matt Waldman]] | Feel It or F**k It 5.4.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-05-04]] |
+| 2026-05-05 | [[Matt Harmon]] | Rounding Off Round 3 Landing Spots! | [[Reception Perception The Show - 2026-05-05]] |
+| 2026-05-07 | [[Chris Harris]] | 2026 Ranks Revealed - WR & QB | [[Harris Fantasy Football Podcast - 2026-05-07]] |
+| 2026-05-07 | [[Matt Waldman]] | Prospect Debates, Do Not Drafts, & Rookie Draft Strategies: Going Deep with Brandon Angelo & Matt Waldman 5.6.26 | [[Matt Waldman's RSP Cast - 2026-05-07 (Going Deep with Brandon Angelo)]] |
+| 2026-05-07 | [[Matt Harmon]] | Running Back Profiles? Running Back Profiles! | [[Reception Perception The Show - 2026-05-07]] |
+| 2026-05-11 | [[Matt Waldman]] | Feel It or F**k It 5.11.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-05-11]] |
+| 2026-05-12 | [[Matt Harmon]] | Year 2 Profiles! | [[Reception Perception The Show - 2026-05-12]] |
+| 2026-05-14 | [[Matt Harmon]] | Year 2 Profiles Continued! | [[Reception Perception The Show - 2026-05-14]] |
+| 2026-05-18 | [[Matt Waldman]] | Feel It or F**k It 5.18.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-05-18]] |
+| 2026-05-19 | [[Matt Harmon]] | Some Year 2 Interesting Names | [[Reception Perception The Show - 2026-05-19]] |
+| 2026-05-21 | [[Matt Harmon]] | Rashee Rice + Running Back Profiles | [[Reception Perception The Show - 2026-05-21]] |
+| 2026-05-25 | [[Matt Waldman]] | Feel It or F**k It 5.25.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-05-25]] |
+| 2026-05-28 | [[Matt Harmon]] | Nabers Injury, More Year 2 Profiles & an Interesting Rookie RB | [[Reception Perception The Show - 2026-05-28]] |
+| 2026-05-28 | [[Matt Waldman]] | '27-'28 Prospects, Packers Backfield, Jonathon Brooks, & Cade Klubnik: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2026-05-28 (Going Deep)]] |
+| 2026-06-01 | [[Matt Waldman]] | Feel It or F**k It 6.1.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-06-01]] |
+| 2026-06-02 | [[Matt Harmon]] | Odell Back, Chiefs Camp, HUGE Rams Trade & Year 3 Profiles | [[Reception Perception The Show - 2026-06-02]] |
+| 2026-06-04 | [[Matt Harmon]] | AJ Brown Trade Official, London Gets The Bag & Xavier Worthy Profile | [[Reception Perception The Show - 2026-06-04]] |
+| 2026-06-08 | [[Matt Waldman]] | Feel It or F**k It 6.8.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-06-08]] |
+| 2026-06-09 | [[Matt Harmon]] | Talkin' Injuries w/ Dr. Nithin Natwa | [[Reception Perception The Show - 2026-06-09]] |
+| 2026-06-16 | [[Matt Harmon]] | Guests Matt Bove & Tim Kawakami Talk Bills, 49ers | [[Reception Perception The Show - 2026-06-16]] |
+| 2026-06-22 | [[Matt Harmon]] | Coker Extension, Bills/49ers Takeaways & Ricky Pearsall Profile | [[Reception Perception The Show - 2026-06-22]] |
+| 2026-06-22 | [[Matt Waldman]] | Feel It or F**k It 6.22.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-06-22 (Feel It or Fk It)]] |
+| 2026-06-25 | [[Matt Waldman]] | Passing Game Targets + Potential Surprise Rookies: Going Deep with Brandon Angelo and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-06-25]] |
+| 2026-06-25 | [[Matt Harmon]] | Quarterback Dive with Alfredo Brown | [[Reception Perception The Show - 2026-06-25]] |
+| 2026-06-29 | [[Matt Waldman]] | Feel It or F**k It 6.28.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-06-29]] |
+| 2026-07-02 | [[Matt Harmon]] | Quentin Johnston, Josh Downs & JSN Profiles! | [[Reception Perception The Show - 2026-07-02]] |
+| 2026-07-06 | [[Matt Waldman]] | Feel It or F**k It 7.6.26: An RSP Podcast with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-07-06]] |
+| 2026-07-07 | [[Matt Harmon]] | Do We Believe in These Receivers? | [[Reception Perception The Show - 2026-07-07]] |
+| 2026-07-07 | [[Chris Harris]] | Welcome Back - Previewing NFC South | [[Harris Fantasy Football Podcast - 2026-07-07]] |
+| 2026-07-09 | [[Matt Harmon]] | Rashee Rice Profile + 3 Running Back Breakdowns | [[Reception Perception The Show - 2026-07-09]] |
+| 2026-07-10 | [[Chris Harris]] | Previewing AFC South & Almanac Stuff | [[Harris Fantasy Football Podcast - 2026-07-10]] |
+| 2026-07-13 | [[Matt Waldman]] | Feel It or F**k It 7.13.26 with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-07-13]] |
+| 2026-07-14 | [[Chris Harris]] | Jayden Daniels Profile & NFC East Training Camp Preview | [[Harris Fantasy Football Podcast - 2026-07-14]] |
+| 2026-07-14 | [[Matt Harmon]] | Puka Nacua + Zay Flowers Profiles, Titans Passing Offense | [[Reception Perception The Show - 2026-07-14]] |
+| 2026-07-16 | [[Matt Harmon]] | Jordan Addison Profile, Eagles WR's & Cleveland Passing Offense | [[Reception Perception The Show - 2026-07-16]] |
+| 2026-07-17 | [[Chris Harris]] | Drake Maye & Josh Allen & Previewing AFC East | [[Harris Fantasy Football Podcast - 2026-07-17]] |
+| 2026-07-20 | [[Matt Waldman]] | Feel It Or F--It 7.20.26 | [[Matt Waldman's RSP Cast - 2026-07-20]] |
+| 2026-07-21 | [[Matt Harmon]] | Dynamic Brock Bowers, Maye to AJ Brown & RB Profiles! | [[Reception Perception The Show - 2026-07-21]] |
+| 2026-07-21 | [[Chris Harris]] | Previewing NFC West & A Super-Deep Sleeper From The Rams | [[Harris Fantasy Football Podcast - 2026-07-21]] |
+| 2026-07-23 | [[Matt Harmon]] | Wide Receiver Rankings: AFC East | [[Reception Perception The Show - 2026-07-23]] |
+| 2026-07-24 | [[Chris Harris]] | Ladd McConkey Profile & Previewing AFC West | [[Harris Fantasy Football Podcast - 2026-07-24]] |
+| 2026-07-27 | [[Matt Waldman]] | Feel It Or F--It 7.27.26: An RSP Cast with Matt Waldman and Bob Harris | [[Matt Waldman's RSP Cast - 2026-07-27]] |
+| 2026-07-28 | [[Matt Harmon]] | Some Headlines & DeVonta Smith Profile | [[Reception Perception The Show - 2026-07-28]] |
+| 2026-07-28 | [[Chris Harris]] | The Beastly NFC North & Jahmyr Gibbs Preview | [[Harris Fantasy Football Podcast - 2026-07-28]] |
+| 2026-07-30 | [[Matt Harmon]] | Training Camp Begins & Drake London Profile | [[Reception Perception The Show - 2026-07-30]] |
+| 2026-07-31 | [[Chris Harris]] | Bribing The Audience & Previewing The AFC North | [[Harris Fantasy Football Podcast - 2026-07-31]] |
+| 2026-08-03 | [[Chris Harris]] | ALMANAC DAY & Five Most Important Training Camp Stories | [[Harris Fantasy Football Podcast - 2026-08-03]] |
+| 2026-08-03 | [[Matt Waldman]] | Feel It Or F--It 8.3.26: An RSP Cast with Ian Hartitz and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-08-03 (Feel It or Fk It with Ian Hartitz)]] |
+| 2026-08-04 | [[Matt Harmon]] | Pearsall Injury Bug, A Surprise Retirement & Packers Alignment | [[Reception Perception The Show - 2026-08-04]] |
+| 2026-08-04 | [[Chris Harris]] | Top Almanac Talents & O-Line Stories For 2026 | [[Harris Fantasy Football Podcast - 2026-08-04]] |
+| 2026-08-06 | [[Matt Waldman]] | Bad Bosses, Camp Stock, Better/Worse & Bad ADPs: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2026-08-06]] |
+| 2026-08-06 | [[Chris Harris]] | Film Room Heroes & Diggs To Commanders | [[Harris Fantasy Football Podcast - 2026-08-06]] |
+| 2026-08-06 | [[Matt Harmon]] | Zay Flowers Extension & Davante/Olave Profiles | [[Reception Perception The Show - 2026-08-06]] |
+| 2026-08-07 | [[Chris Harris]] | Acid-Reflux All-Stars & Cousin Josh Returns | [[Harris Fantasy Football Podcast - 2026-08-07]] |
+| 2026-08-10 | [[Matt Waldman]] | Feel It or F--k It 8.10.26 with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-08-10]] |
+| 2026-08-10 | [[Chris Harris]] | Film Room Zeroes For 2026 & Luther Burden Injury | [[Harris Fantasy Football Podcast - 2026-08-10]] |
+| 2026-08-11 | [[Matt Harmon]] | Diggs Signs, Burden Hurt & Ravens Camp Check-In | [[Reception Perception The Show - 2026-08-11]] |
+| 2026-08-11 | [[Chris Harris]] | Swing Players For 2026 | [[Harris Fantasy Football Podcast - 2026-08-11]] |
+| 2026-08-13 | [[Chris Harris]] | Post-Hype Sleepers For 2026 | [[Harris Fantasy Football Podcast - 2026-08-13]] |
+| 2026-08-13 | [[Matt Harmon]] | Talkin' Fantasy Football! | [[Reception Perception The Show - 2026-08-13]] |
+| 2026-08-14 | [[Chris Harris]] | Risk Factors For First Three ADP Rounds | [[Harris Fantasy Football Podcast - 2026-08-14]] |
+| 2026-08-17 | [[Matt Waldman]] | Feel It or F**k It 8.17.26 with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-08-17]] |
+| 2026-08-17 | [[Chris Harris]] | Re-Assessing The Rookies For 2026 | [[Harris Football Podcast - 2026-08-17]] |
+| 2026-08-18 | [[Matt Harmon]] | Fantasy Football Wide Receiver Takes with Jeff Bell | [[Reception Perception The Show - 2026-08-18]] |
+| 2026-08-18 | [[Chris Harris]] | Five ADP Surprises Plus More Injuries | [[Harris Fantasy Football Podcast - 2026-08-18]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |
