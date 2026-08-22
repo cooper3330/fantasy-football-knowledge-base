@@ -207,13 +207,26 @@ independent `LaunchAgent`s, canonical copies tracked in
 | Daily check + ingest | `com.kylecooper.fantasy-wiki-daily-check` | Every day, 12:00 PM local | `scripts/run_daily_check.sh` |
 | Weekly git backup | `com.kylecooper.fantasy-wiki-weekly-backup` | Sundays, 5:00 PM local | `scripts/run_weekly_backup.sh` |
 
-**`run_daily_check.sh`** runs `scripts/check_new_episodes.py --oldest --limit 10`
+**Both jobs are currently loaded and active.** Confirm with
+`launchctl list | grep fantasy-wiki` (both labels should be listed). The daily
+job was paused during the initial back-catalog drain and re-enabled once it
+completed.
+
+**`run_daily_check.sh`** runs `scripts/check_new_episodes.py --oldest --limit 20`
 (pure Python 3, stdlib only — no pip dependencies) to update `scripts/state.json`
 and write new transcripts into `raw/transcripts/<show>/`. If anything landed there, it
 then invokes `claude -p "..."` — Claude Code's headless mode, running locally in
-the repo so it picks up `CLAUDE.md` automatically — to do the actual wiki-writing
-ingestion, explicitly instructed to process staged files in chronological order.
+the repo so it picks up `CLAUDE.md` automatically — to ingest **up to 20** of the
+oldest staged episodes into the wiki (one isolated `claude -p` per transcript),
+explicitly instructed to process them in chronological order.
 **No git commands run here.**
+
+Both limits are 20 by default and pinned in the daily plist's
+`EnvironmentVariables` (`FETCH_LIMIT=20`, `INGEST_PER_RUN=20`); override either
+on a manual run, e.g. `INGEST_PER_RUN=5 SKIP_FETCH=1 ./scripts/run_daily_check.sh`.
+A 20-ingest run can brush the Claude session limit, which is safe: the loop's
+skip-and-continue leaves any overflow `fetched` for the next run rather than
+losing it.
 
 Two deliberate choices in that invocation:
 
@@ -223,15 +236,15 @@ Two deliberate choices in that invocation:
   *after* an older one, so a stale 2024 opinion can never appear to supersede a
   fresher 2026 one. The same ordering is enforced at the ingestion step and
   codified as rule 4 in `CLAUDE.md`.
-- **`--limit 10`** — without a cap, a daily run with a large backlog pending
+- **`--limit 20`** — without a cap, a daily run with a large backlog pending
   would become a multi-hour transcription job.
 
 ⚠️ **These two interact.** Oldest-first assumes the back catalog is already
 drained. With a large backlog still pending, the daily job works forward from
-the oldest episode and a newly published one waits behind it (at 10/day, a
-538-episode backlog delays new episodes by ~54 days). Run `drain_backlog.sh` to
-completion first; afterwards only 0–3 episodes are ever pending and oldest-first
-is exactly right.
+the oldest episode and a newly published one waits behind it (at 20/day, a
+large backlog still delays new episodes by weeks). The back catalog **has** been
+drained via `drain_backlog.sh`, so only the last day or two of episodes is ever
+pending and oldest-first is exactly right.
 
 **`scripts/drain_backlog.sh`** is the separate, one-time counterpart for the
 back catalog — same underlying script, but `--oldest` and optionally uncapped,
@@ -242,9 +255,11 @@ state is checkpointed after every episode, so re-running resumes exactly where
 it stopped.
 
 ```bash
-nohup ./scripts/drain_backlog.sh 50 > /dev/null 2>&1 &   # drain 50 episodes
-nohup ./scripts/drain_backlog.sh > /dev/null 2>&1 &      # or drain everything
-tail -f scripts/logs/daily.log                           # watch progress
+# caffeinate -i keeps the Mac from idle-sleeping mid-drain -- a detached job is
+# suspended/killed when the machine sleeps, silently stalling a long transcription.
+nohup caffeinate -i ./scripts/drain_backlog.sh 50 > /dev/null 2>&1 &   # drain 50 episodes
+nohup caffeinate -i ./scripts/drain_backlog.sh    > /dev/null 2>&1 &   # or drain everything
+tail -f scripts/logs/daily.log                                        # watch progress
 ```
 
 **`run_weekly_backup.sh`** is deliberately trivial and fully decoupled from

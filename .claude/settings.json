@@ -10,7 +10,10 @@
     "",
     "The deny rules encode CLAUDE.md's hard invariants. deny wins over allow, so",
     "these hold even if an allow rule is later loosened:",
-    "  - git is forbidden to agents; only the orchestrator commits",
+    "  - git WRITES (commit/push/add/reset/rebase/merge/checkout/restore) are",
+    "    forbidden; only the orchestrator (interactive human) and the weekly",
+    "    launchd backup job commit. Read-only git (status/log/diff/show) is",
+    "    allowed for diagnostics -- it cannot mutate the repo or push.",
     "  - raw/ transcript CONTENTS are immutable (mv between the two raw trees is",
     "    the one permitted change, and is allowed below)",
     "  - no deletion: transcripts are expensive to re-transcribe",
@@ -57,11 +60,23 @@
       "Bash(head:*)",
       "Bash(tail:*)",
       "Bash(wc:*)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+
+      "Bash(git status:*)",
+      "Bash(git log:*)",
+      "Bash(git diff:*)",
+      "Bash(git show:*)"
     ],
 
     "deny": [
-      "Bash(git:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git add:*)",
+      "Bash(git reset:*)",
+      "Bash(git rebase:*)",
+      "Bash(git merge:*)",
+      "Bash(git checkout:*)",
+      "Bash(git restore:*)",
       "Bash(rm:*)",
       "Bash(sudo:*)",
       "Bash(curl:*)",

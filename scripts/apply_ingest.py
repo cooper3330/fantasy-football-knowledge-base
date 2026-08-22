@@ -134,10 +134,24 @@ def validate(plan):
             errs.append(f"source: wiki/sources/{page}.md already exists -- this "
                         f"episode looks already ingested.")
 
+    # A promo/administrative episode (subscriber reminder, "no show today", ad
+    # read) legitimately has nothing to extract. The agent flags it no_content
+    # with empty pages; we record only a source page rather than forcing the
+    # agent to fabricate a take just to clear the non-empty-pages gate. Without
+    # this, such an episode can never validate and sits at the queue head burning
+    # an extraction on every run. See CLAUDE.md and docs/ingest-v2-plan.md.
+    no_content = bool(plan.get("no_content"))
     pages = plan.get("pages")
-    if not isinstance(pages, list) or not pages:
-        errs.append("plan: 'pages' must be a non-empty list")
+    if not isinstance(pages, list):
+        errs.append("plan: 'pages' must be a list")
         pages = []
+    elif no_content and pages:
+        errs.append("plan: 'no_content' is set but 'pages' is non-empty -- a "
+                    "no-content episode records a source page and nothing else")
+    elif not no_content and not pages:
+        errs.append("plan: 'pages' must be a non-empty list (set 'no_content': "
+                    "true only for a promo/administrative episode with no player, "
+                    "concept or format takes)")
     seen = set()
     for i, p in enumerate(pages):
         where = f"pages[{i}]"
@@ -211,13 +225,13 @@ def apply(plan, ep):
     print(f"source: wrote {path.relative_to(REPO)}")
 
     created = updated = 0
-    for p in plan["pages"]:
+    for p in plan.get("pages") or []:
         was_new = wu.page_append(p["kind"], p["name"], date, p["bullet"],
                                  p.get("frontmatter"), p.get("related") or [])
         created += bool(was_new)
         updated += not was_new
 
-    for p in plan["pages"]:
+    for p in plan.get("pages") or []:
         if p.get("index"):
             wu.index_set(p["name"], p["index"])
 
@@ -272,9 +286,10 @@ def main():
             print(f"  - {e}")
         return 2
 
-    n = len(plan["pages"])
+    n = len(plan.get("pages") or [])
     if args.dry_run:
-        print(f"plan OK: {n} page(s), source {plan['source']['page']!r}, "
+        tag = " [no_content]" if plan.get("no_content") else ""
+        print(f"plan OK{tag}: {n} page(s), source {plan['source']['page']!r}, "
               f"{len(plan.get('experts') or [])} expert update(s), "
               f"{sum(1 for p in plan['pages'] if p.get('index'))} index line(s).")
         return 0

@@ -15,6 +15,14 @@ Checks:
   4. No duplicate basenames across the two trees (a half-completed move).
   5. staged_path in state matches the file's real location.
 
+An ORPHAN transcript -- a file on disk with no state row -- is repairable when
+its own frontmatter carries everything a state row needs (guid, show, expert).
+That happens when the drain wrote the transcript but crashed before persisting
+its state row (see scripts/state_io.py's create= note). --fix adopts such a file
+back into state, deriving status from which tree it sits in. An orphan whose
+frontmatter is missing or malformed is reported but not adopted -- there is
+nothing safe to reconstruct the row from.
+
 Usage:
   verify_integrity.py            # report only (safe, read-only)
   verify_integrity.py --fix      # repair what can be repaired safely
@@ -22,8 +30,10 @@ Usage:
 
 import argparse
 import json
+import re
 import sys
 from collections import defaultdict
+from datetime import date
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -49,6 +59,50 @@ def expected_dir(status, name):
         return None
     root = INGESTED_ROOT if status == "ingested" else PENDING_ROOT
     return root / sub
+
+
+def parse_frontmatter(path):
+    """Return (frontmatter dict, clean title) for a staged transcript.
+
+    Reads only the leading YAML block and the first `# ` heading -- both written
+    by check_new_episodes.stage_transcript, so an adoptable orphan always has
+    them. Returns (None, None) if there is no frontmatter block to trust.
+    """
+    text = path.read_text(errors="replace")
+    m = re.match(r"^---\n(.*?)\n---\n", text, re.S)
+    if not m:
+        return None, None
+    fm = {}
+    for line in m.group(1).splitlines():
+        km = re.match(r"^([A-Za-z_]+):\s*(.*)$", line)
+        if km:
+            fm[km.group(1)] = km.group(2).strip()
+    hm = re.search(r"^#\s+(.+)$", text[m.end():], re.M)
+    title = hm.group(1).strip() if hm else fm.get("show")
+    return fm, title
+
+
+def orphan_state_row(path, fm, title):
+    """Reconstruct the state row for an adoptable orphan, or None if it lacks
+    the fields a row can't be invented without. Status comes from the tree the
+    file sits in: ingested tree -> 'ingested', otherwise 'fetched'."""
+    guid = fm.get("guid") if fm else None
+    if not (guid and fm.get("show") and fm.get("expert")):
+        return None
+    status = "ingested" if INGESTED_ROOT in path.parents else "fetched"
+    today = date.today().isoformat()
+    return {
+        "title": title,
+        "show": fm["show"],
+        "expert": fm["expert"],
+        "pub_date": fm.get("date"),
+        "guid": guid,
+        "status": status,
+        "transcript_source": fm.get("transcript_source"),
+        "staged_path": str(path.relative_to(REPO_ROOT)),
+        "first_seen": today,
+        "last_checked": today,
+    }
 
 
 def main():
@@ -108,10 +162,21 @@ def main():
             problems.append(f"STALE PATH [{status}] state says {sp}\n           actual     {rel}")
             repairs.append(("path", None, actual, guid))
 
-    # 2. orphans on disk
+    # 2. orphans on disk -- adopt back into state when the file's own
+    #    frontmatter carries a reconstructable row; otherwise just report.
+    guid_by_guid = {v.get("guid") for v in episodes.values()}
     for name, p in on_disk.items():
-        if name not in referenced:
-            problems.append(f"ORPHAN     {p.relative_to(REPO_ROOT)} (not referenced by state)")
+        if name in referenced:
+            continue
+        rel = p.relative_to(REPO_ROOT)
+        fm, title = parse_frontmatter(p)
+        row = orphan_state_row(p, fm, title) if fm else None
+        if row and row["guid"] not in episodes and row["guid"] not in guid_by_guid:
+            problems.append(f"ORPHAN     {rel} (no state row; adoptable -> '{row['status']}')")
+            repairs.append(("adopt", None, p, row["guid"], row))
+        else:
+            why = "frontmatter missing/incomplete" if not row else "guid already in state"
+            problems.append(f"ORPHAN     {rel} (not referenced by state; NOT adoptable — {why})")
 
     if not problems:
         n_p = sum(1 for v in episodes.values() if v.get("status") == "fetched")
@@ -129,7 +194,14 @@ def main():
         return 1
 
     print(f"\nApplying {len(repairs)} repair(s)...")
-    for kind, src, dst, guid in repairs:
+    for repair in repairs:
+        kind = repair[0]
+        if kind == "adopt":
+            _, _, path, guid, row = repair
+            episodes[guid] = row
+            print(f"  adopt  {path.name} -> {row['status']}")
+            continue
+        _, src, dst, guid = repair
         if kind == "move":
             dst.parent.mkdir(parents=True, exist_ok=True)
             src.rename(dst)

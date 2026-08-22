@@ -524,5 +524,11 @@ State (`scripts/state.json`, keyed by RSS guid): `pending` → `fetched` →
 `ingested`. You set `ingested`; the script sets the other two.
 
 Backlog draining is a separate, one-time operation (`scripts/drain_backlog.sh`).
-The daily job is **currently paused** while the back catalog is transcribed and
-ingested.
+The daily job (`com.kylecooper.fantasy-wiki-daily-check`) is **scheduled and
+active** — it runs `scripts/run_daily_check.sh` every day at 12:00 local, and
+**fetches/transcribes up to the 20 oldest pending episodes, then ingests up to
+20** (`FETCH_LIMIT=20`, `INGEST_PER_RUN=20`, pinned in the plist). A run this
+size can brush the Claude session limit; that is safe — the loop's
+skip-and-continue leaves any overflow `fetched` for the next day rather than
+losing it. The back catalog has been drained, so oldest-first now only ever
+sees the last day or two of new episodes.

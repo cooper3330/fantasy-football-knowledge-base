@@ -334,6 +334,14 @@ tells you which, so getting these right first time saves a retry:
   attributed inline in the bullet, never given an expert page.
 - Create a player page ONLY for a substantive evaluative take. Catalogue passing
   mentions under "## Not given pages" in the source body.
+- NO-CONTENT EPISODES. Some episodes carry no fantasy takes at all -- a
+  subscriber/paywall reminder, a 'no show today' notice, a pure ad read or
+  housekeeping clip. Do NOT invent takes to fill the plan. Instead set top-level
+  `"no_content": true` with `"pages": []`, still fill `source` (with `body`
+  summarizing what the episode actually was) and `log`, and OMIT `experts` so the
+  tracked expert's page is not polluted with a promo. The applier records just the
+  source page and finalizes. Use this ONLY when there is genuinely nothing to
+  extract -- a real episode with even one evaluative take is NOT no_content.
 
 KEY REMINDERS:
 - Whisper ASR: no speaker labels (infer from context), drifting capitalization

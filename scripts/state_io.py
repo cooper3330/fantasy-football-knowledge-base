@@ -80,17 +80,32 @@ def _write_atomic(state):
         raise
 
 
-def update_episode(_guid, **fields):
+def update_episode(_guid, create=False, **fields):
     """Apply `fields` to one episode under an exclusive lock.
 
     Re-reads from disk inside the lock, so a caller holding a stale copy of the
     rest of state.json cannot clobber another process's concurrent changes.
+
+    `create=False` (the default) requires the episode to already exist -- an
+    unknown guid is an error. This is right for callers that only ever *update*
+    an existing row, e.g. an ingest agent marking `--status ingested`: a guid
+    that isn't there means something is wrong upstream, not that a row should be
+    conjured.
+
+    `create=True` makes it an insert-or-update: an unknown guid is inserted
+    rather than raising. The transcript drain needs this, because the first time
+    it persists a newly-discovered episode that guid has only ever lived in the
+    drain's in-memory copy -- it was never on disk for the locked re-read to
+    find. Without create=True that first save always failed with "guid not found
+    in state", stranding a fully-transcribed episode on disk with no state row.
     """
     with _Lock():
         state = _read()
         eps = state.setdefault("episodes", {})
         if _guid not in eps:
-            raise KeyError(f"guid not found in state: {_guid}")
+            if not create:
+                raise KeyError(f"guid not found in state: {_guid}")
+            eps[_guid] = {}
         # The positional parameter is named `_guid` (not `guid`) on purpose:
         # callers commonly splat a whole episode dict, which carries its own
         # 'guid' key. A parameter named `guid` would collide at call time --

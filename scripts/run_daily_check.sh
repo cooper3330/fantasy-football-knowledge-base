@@ -23,7 +23,15 @@ PY="${PY:-/usr/bin/python3}"
 
 # How many episodes to ingest per run. Each is a SEPARATE `claude -p` process,
 # so this is NOT the batching that CLAUDE.md forbids -- see the loop below.
-INGEST_PER_RUN="${INGEST_PER_RUN:-3}"
+# 20/run: enough to clear a normal day's new episodes plus chip at any residual
+# ingest backlog in one pass. A run this size can brush the Claude session limit;
+# that is safe -- skip-and-continue leaves the overflow `fetched` for the next
+# run (see the loop's SKIPPED handling), it is never lost.
+INGEST_PER_RUN="${INGEST_PER_RUN:-20}"
+
+# How many oldest pending episodes to fetch/transcribe per run. Kept in lockstep
+# with INGEST_PER_RUN so a run can transcribe and then ingest the same 20.
+FETCH_LIMIT="${FETCH_LIMIT:-20}"
 
 # Pinned, not the `sonnet` alias: the alias tracks whatever the latest Sonnet is,
 # so a model release would silently change ingest cost and output shape mid-
@@ -73,7 +81,7 @@ if [ "${SKIP_FETCH:-0}" = "1" ]; then
 else
   {
     echo "=== $TS: check_new_episodes.py ==="
-    $PY scripts/check_new_episodes.py --oldest --limit 10
+    $PY scripts/check_new_episodes.py --oldest --limit "$FETCH_LIMIT"
   } >> "$LOG_DIR/daily.log" 2>&1
 fi
 

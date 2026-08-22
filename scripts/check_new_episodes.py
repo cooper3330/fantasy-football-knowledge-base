@@ -149,7 +149,11 @@ def save_state(state, guid=None):
     """
     if guid is not None:
         import state_io
-        state_io.update_episode(guid, **state["episodes"][guid])
+        # create=True: a newly-fetched episode's guid has only ever lived in our
+        # in-memory copy, so the locked re-read inside update_episode won't find
+        # it on the first save. Without this it raised "guid not found in state"
+        # and stranded the transcript on disk. See scripts/state_io.py.
+        state_io.update_episode(guid, create=True, **state["episodes"][guid])
         return
     STATE_PATH.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n")
 

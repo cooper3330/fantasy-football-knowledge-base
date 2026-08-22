@@ -9,6 +9,13 @@
         <string>/bin/bash</string>
         <string>/Users/kylecooper/dev/fantasy-football-knowledge-base/scripts/run_daily_check.sh</string>
     </array>
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>FETCH_LIMIT</key>
+        <string>20</string>
+        <key>INGEST_PER_RUN</key>
+        <string>20</string>
+    </dict>
     <key>StartCalendarInterval</key>
     <dict>
         <key>Hour</key>

@@ -123,6 +123,7 @@ REJECT = [
     ("untracked expert", good_plan(experts=[{"name": "Bob Harris"}])),
     ("bad kind", good_plan(pages=[{"name": "X", "kind": "team", "bullet": "t ([[Test Source - 2024-05-01]])"}])),
     ("empty pages list", good_plan(pages=[])),
+    ("no_content with non-empty pages", good_plan(no_content=True)),
     ("missing log", good_plan(log="")),
     ("bullet without source citation", good_plan(pages=[
         {"name": "Existing", "kind": "player", "bullet": "uncited take"}])),
@@ -221,6 +222,28 @@ check("state finalized to ingested", st["episodes"][GUID]["status"] == "ingested
 # --- re-applying the same plan is refused ----------------------------------
 r = run(good_plan())
 check("re-applying an applied plan is refused", r.returncode == 2, r.stdout)
+
+# --- no-content (promo/administrative) episode ------------------------------
+# A subscriber reminder / "no show today" clip: empty pages, no_content flag.
+# Records only the source page + catalog + log + state; writes no player pages,
+# no index lines, no expert-source entries.
+build()
+idx_before = (ROOT / "index.md").read_text()
+r = run(good_plan(no_content=True, pages=[], experts=[]))
+check("no_content plan applies", r.returncode == 0, f"rc={r.returncode}\n{r.stdout}{r.stderr}")
+check("no_content wrote the source page",
+      (ROOT / "wiki" / "sources" / "Test Source - 2024-05-01.md").exists())
+check("no_content created no new player page",
+      not (ROOT / "wiki" / "players" / "Fresh.md").exists())
+check("no_content left index.md untouched",
+      (ROOT / "index.md").read_text() == idx_before)
+check("no_content still catalogs the episode",
+      f"| {DATE} |" in (ROOT / "wiki" / "sources" / "SOURCE_CATALOG.md").read_text())
+check("no_content still logs the episode",
+      f"## [{DATE}] ingest |" in (ROOT / "log.md").read_text())
+stnc = json.loads((ROOT / "scripts" / "state.json").read_text())
+check("no_content finalized state to ingested",
+      stnc["episodes"][GUID]["status"] == "ingested")
 
 shutil.rmtree(ROOT, ignore_errors=True)
 print(f"\n{'FAILED' if fails else 'all passed'} ({fails} failure(s))")
