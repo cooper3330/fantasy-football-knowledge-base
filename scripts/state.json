@@ -492,6 +492,17 @@
       "title": "Free Agency Part II",
       "transcript_source": "whisper"
     },
+    "38986103-c68b-46bb-87c7-ffa3977c8abe": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-08-22",
+      "last_checked": "2026-08-22",
+      "pub_date": "2026-08-21",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/transcripts/harris-football/2026-08-21-harris-more-flag-players-cousin-joshs-frag-players.md",
+      "status": "fetched",
+      "title": "More Flag Players & Cousin Josh's Frag Players",
+      "transcript_source": "whisper"
+    },
     "38d6542d-7dff-4d28-b9c6-0cbcdd03b5dc": {
       "expert": "Chris Harris",
       "first_seen": "2026-08-19",
@@ -3960,6 +3971,17 @@
       "title": "Week 15 Game Film Review",
       "transcript_source": "whisper"
     },
+    "e1934fbc-4cb4-4666-b8ad-2af99b9d0956": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-08-22",
+      "last_checked": "2026-08-22",
+      "pub_date": "2026-08-20",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/transcripts/harris-football/2026-08-20-harris-flag-players-offenses-we-might-be-wrong-about.md",
+      "status": "fetched",
+      "title": "Flag Players & Offenses We Might Be Wrong About",
+      "transcript_source": "whisper"
+    },
     "e2469c2c-7f65-47bd-89c2-e9e2b957adb8": {
       "expert": "Chris Harris",
       "first_seen": "2026-08-04",
@@ -4114,6 +4136,17 @@
       "staged_path": "raw/ingested/reception-perception/2026-08-06-rp-zay-flowers-extension-davanteolave-profiles.md",
       "status": "ingested",
       "title": "Zay Flowers Extension & Davante/Olave Profiles",
+      "transcript_source": "whisper"
+    },
+    "h41zEMXzIReK8bESPAmOuIkhQ8pmVCHp": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-08-22",
+      "last_checked": "2026-08-22",
+      "pub_date": "2026-08-20",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/transcripts/reception-perception/2026-08-20-rp-mega-show-with-dwain-mcfarland-heed-the-calls-dan-marc.md",
+      "status": "fetched",
+      "title": "MEGA Show with Dwain McFarland + Heed The Call's Dan & Marc",
       "transcript_source": "whisper"
     },
     "hFZUWwY0Am15iHO1vh3TrpUzPy4Ay8gV": {
@@ -6718,6 +6751,17 @@
       "staged_path": "raw/ingested/rsp-cast/2026-08-17-rsp-feel-it-or-fit-81726-with-bob-harris-and-matt-waldman.md",
       "status": "ingested",
       "title": "Feel It or F\u2013It 8.17.26 with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
+    },
+    "https://mattwaldmanrsp.com/?p=54287": {
+      "expert": "Matt Waldman",
+      "first_seen": "2026-08-22",
+      "last_checked": "2026-08-22",
+      "pub_date": "2026-08-20",
+      "show": "Matt Waldman's RSP Cast",
+      "staged_path": "raw/transcripts/rsp-cast/2026-08-20-rsp-2026-nfl-preseason-and-fantasy-review-going-deep-with-brandon-angelo-a.md",
+      "status": "fetched",
+      "title": "2026 NFL Preseason and Fantasy Review: Going Deep with Brandon Angelo and Matt Waldman",
       "transcript_source": "whisper"
     },
     "lBVG9RPlKrEDgQb54y8GBiUotJw46bNn": {
