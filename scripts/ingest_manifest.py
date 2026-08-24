@@ -84,7 +84,12 @@ Guests seen so far, all NOT tracked: Daniel Harms, Jeff Erickson, Cecil Lammey, 
 
 def load_queue():
     s = json.loads(STATE.read_text())
-    eps = [v for v in s["episodes"].values() if v.get("status") == "fetched"]
+    # Stamp each row's guid from its dict KEY (the authoritative guid), rather
+    # than trusting value['guid'] -- a redundant copy that has drifted before
+    # (see scripts/state_io.py). Downstream (build_extract_prompt's ep['guid'],
+    # --guid selection) then never depends on the copy being present or correct.
+    eps = [{**v, "guid": k} for k, v in s["episodes"].items()
+           if v.get("status") == "fetched"]
     eps.sort(key=lambda v: (v.get("pub_date") or "", v.get("title") or ""))
     return eps
 

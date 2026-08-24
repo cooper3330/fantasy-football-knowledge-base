@@ -36,6 +36,9 @@ from collections import defaultdict
 from datetime import date
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import state_io  # noqa: E402 -- needs the path insert above
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 STATE_PATH = REPO_ROOT / "scripts" / "state.json"
 PENDING_ROOT = REPO_ROOT / "raw" / "transcripts"
@@ -194,24 +197,31 @@ def main():
         return 1
 
     print(f"\nApplying {len(repairs)} repair(s)...")
+    # Every state mutation goes through the locked, atomic state_io.update_episode
+    # rather than a wholesale STATE_PATH.write_text. A wholesale rewrite of the
+    # snapshot read at the top of this function would silently revert any change
+    # a concurrent writer (a drain save, an ingest agent's --status ingested)
+    # made in the meantime -- the exact clobber the state lock exists to prevent,
+    # and which this script's docstring already promised it avoided. File renames
+    # stay direct; only the state writes are routed through the lock.
     for repair in repairs:
         kind = repair[0]
         if kind == "adopt":
             _, _, path, guid, row = repair
-            episodes[guid] = row
+            state_io.update_episode(guid, create=True, **row)
             print(f"  adopt  {path.name} -> {row['status']}")
             continue
         _, src, dst, guid = repair
+        new_path = str(dst.relative_to(REPO_ROOT))
         if kind == "move":
             dst.parent.mkdir(parents=True, exist_ok=True)
             src.rename(dst)
-            episodes[guid]["staged_path"] = str(dst.relative_to(REPO_ROOT))
+            state_io.update_episode(guid, staged_path=new_path)
             print(f"  moved  {src.name} -> {dst.parent.name}/")
         else:
-            episodes[guid]["staged_path"] = str(dst.relative_to(REPO_ROOT))
+            state_io.update_episode(guid, staged_path=new_path)
             print(f"  path   {dst.name}")
 
-    STATE_PATH.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n")
     print("\nRepairs applied. Re-run without --fix to confirm.")
     return 0
 

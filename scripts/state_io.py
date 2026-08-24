@@ -112,6 +112,12 @@ def update_episode(_guid, create=False, **fields):
         # before the function body could strip it.
         fields.pop("guid", None)
         eps[_guid].update({k: v for k, v in fields.items() if v is not None})
+        # Restore the value's own 'guid' field after the pop above. The row is
+        # keyed by guid, but readers also expect value['guid'] to be present --
+        # notably next_guid() in run_daily_check.sh, which selects the next
+        # episode by value['guid']. A create=True insert would otherwise leave a
+        # row with no guid at all, silently invisible to ingestion.
+        eps[_guid]["guid"] = _guid
         _write_atomic(state)
         return eps[_guid]
 

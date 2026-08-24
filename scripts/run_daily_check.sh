@@ -109,10 +109,14 @@ next_guid() {  # $@ = guids to skip
 import json, os, pathlib
 skip = set(os.environ.get('SKIP', '').split())
 s = json.loads(pathlib.Path('scripts/state.json').read_text())
-eps = [v for v in s['episodes'].values()
-       if v.get('status') == 'fetched' and v.get('guid') not in skip]
-eps.sort(key=lambda v: (v.get('pub_date') or '', v.get('title') or ''))
-print(eps[0].get('guid', '') if eps else '')
+# Select on the dict KEY, which is the guid -- never on value['guid'], a
+# redundant copy that has silently drifted before and produced a phantom-empty
+# queue (see scripts/state_io.py). Keying off the key keeps ingestion working
+# even if some writer leaves a row without its own guid field.
+eps = [(k, v) for k, v in s['episodes'].items()
+       if v.get('status') == 'fetched' and k not in skip]
+eps.sort(key=lambda kv: (kv[1].get('pub_date') or '', kv[1].get('title') or ''))
+print(eps[0][0] if eps else '')
 " 2>/dev/null
 }
 
