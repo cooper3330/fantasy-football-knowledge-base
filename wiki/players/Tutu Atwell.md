@@ -16,6 +16,7 @@ tags: [player]
 - 2026-03-19 — According to [[Matt Harmon]] and James Koh (co-host, untracked) ([[Reception Perception The Show - 2026-03-19]]): flagged simply as a name on Miami's now-thin post-Waddle-trade receiver depth chart, with Koh joking that most fans didn't realize Atwell was even on the Dolphins roster. No evaluative take beyond his presence on the depth chart.
 - 2026-06-01 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-06-01]]) [Redraft (Standard)]: asked which Dolphins receiver he'd draft behind [[Malik Washington]], Waldman named Tutu Atwell as his pick inside the 15th round, ahead of [[Jalen Tolbert]], [[Caleb Douglas]] and [[Chris Bell]].
 - 2026-07-17 — According to Patrick Doherty (Rotoworld, not a tracked expert) ([[Harris Fantasy Football Podcast - 2026-07-17]]): Doherty dismisses Atwell as part of the crowded, unresolved Dolphins receiver room, saying flatly he's 'never had a moment in his life' and shouldn't be part of any breakout-watch conversation there.
+- 2026-08-28 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-08-28]]): the Rams traded to reacquire Atwell from the Dolphins, which Harris reads as a signal the Rams weren't fully thrilled with their receiver depth chart. He guesses the return may be more about special teams than offense but says he isn't sure.
 
 ## Related Concepts
 - [[Wide Receiver Free Agency Contract Tiers]]

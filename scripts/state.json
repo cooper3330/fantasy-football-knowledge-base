@@ -499,8 +499,8 @@
       "last_checked": "2026-08-22",
       "pub_date": "2026-08-21",
       "show": "Harris Fantasy Football Podcast",
-      "staged_path": "raw/transcripts/harris-football/2026-08-21-harris-more-flag-players-cousin-joshs-frag-players.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/harris-football/2026-08-21-harris-more-flag-players-cousin-joshs-frag-players.md",
+      "status": "ingested",
       "title": "More Flag Players & Cousin Josh's Frag Players",
       "transcript_source": "whisper"
     },
@@ -634,6 +634,18 @@
       "staged_path": "raw/ingested/harris-football/2025-10-13-harris-week-6-game-film-review.md",
       "status": "ingested",
       "title": "Week 6 Game Film Review",
+      "transcript_source": "whisper"
+    },
+    "4e74b01b-dd88-45a6-b333-9e0b550d9554": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-08-24",
+      "guid": "4e74b01b-dd88-45a6-b333-9e0b550d9554",
+      "last_checked": "2026-08-24",
+      "pub_date": "2026-08-24",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-08-24-harris-five-busts-for-2026-jeanty-injury.md",
+      "status": "ingested",
+      "title": "Five Busts For 2026 & Jeanty Injury",
       "transcript_source": "whisper"
     },
     "4fae42ae-46fb-4487-8919-4ea988a9eb62": {
@@ -2038,6 +2050,18 @@
       "staged_path": "raw/ingested/reception-perception/2024-03-19-rp-weekend-receiver-news-keenan-allen-joins-bears-bills-add-curtis-samuel.md",
       "status": "ingested",
       "title": "Weekend Receiver News: Keenan Allen Joins Bears & Bills Add Curtis Samuel",
+      "transcript_source": "whisper"
+    },
+    "86e35bd9-6366-4b84-b038-85853e9ccf52": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-08-27",
+      "guid": "86e35bd9-6366-4b84-b038-85853e9ccf52",
+      "last_checked": "2026-08-27",
+      "pub_date": "2026-08-27",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-08-27-harris-super-deep-sleepers-for-2026-part-1.md",
+      "status": "ingested",
+      "title": "Super-Deep Sleepers For 2026 - Part 1",
       "transcript_source": "whisper"
     },
     "8e32740f-c58e-486d-849b-9a9fb8adf071": {
@@ -3708,6 +3732,18 @@
       "title": "Conference Championship Review & More Coaching Hires",
       "transcript_source": "whisper"
     },
+    "cPvTucWkJXoUwFZQJaF6PjnEhBb1fpOa": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-08-25",
+      "guid": "cPvTucWkJXoUwFZQJaF6PjnEhBb1fpOa",
+      "last_checked": "2026-08-25",
+      "pub_date": "2026-08-25",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/ingested/reception-perception/2026-08-25-rp-mike-washington-jr-chris-godwin-tre-tucker-profiles.md",
+      "status": "ingested",
+      "title": "Mike Washington Jr., Chris Godwin & Tre Tucker Profiles",
+      "transcript_source": "whisper"
+    },
     "cZZdHIUzU21CrdeB9ndFEaiVy1AxNfGP": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-20",
@@ -3979,8 +4015,8 @@
       "last_checked": "2026-08-22",
       "pub_date": "2026-08-20",
       "show": "Harris Fantasy Football Podcast",
-      "staged_path": "raw/transcripts/harris-football/2026-08-20-harris-flag-players-offenses-we-might-be-wrong-about.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/harris-football/2026-08-20-harris-flag-players-offenses-we-might-be-wrong-about.md",
+      "status": "ingested",
       "title": "Flag Players & Offenses We Might Be Wrong About",
       "transcript_source": "whisper"
     },
@@ -4042,6 +4078,30 @@
       "staged_path": "raw/ingested/harris-football/2025-11-03-harris-week-9-game-film-breakdowns.md",
       "status": "ingested",
       "title": "Week 9 Game Film Breakdowns",
+      "transcript_source": "whisper"
+    },
+    "f3a5c4ba-0349-4af5-9e3e-8750ba6befd2": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-08-25",
+      "guid": "f3a5c4ba-0349-4af5-9e3e-8750ba6befd2",
+      "last_checked": "2026-08-25",
+      "pub_date": "2026-08-25",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-08-25-harris-five-safe-players-for-2026.md",
+      "status": "ingested",
+      "title": "Five Safe Players For 2026",
+      "transcript_source": "whisper"
+    },
+    "f3db1d88-d82d-4095-a923-2388b5607bd5": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-08-28",
+      "guid": "f3db1d88-d82d-4095-a923-2388b5607bd5",
+      "last_checked": "2026-08-28",
+      "pub_date": "2026-08-28",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-08-28-harris-more-super-deep-sleepers-warp-zone-players-for-2026.md",
+      "status": "ingested",
+      "title": "More Super-Deep Sleepers & Warp Zone Players For 2026",
       "transcript_source": "whisper"
     },
     "f3e5eae0-8dc1-4e0b-8cd3-e85577b44c68": {
@@ -4147,8 +4207,8 @@
       "last_checked": "2026-08-22",
       "pub_date": "2026-08-20",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2026-08-20-rp-mega-show-with-dwain-mcfarland-heed-the-calls-dan-marc.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2026-08-20-rp-mega-show-with-dwain-mcfarland-heed-the-calls-dan-marc.md",
+      "status": "ingested",
       "title": "MEGA Show with Dwain McFarland + Heed The Call's Dan & Marc",
       "transcript_source": "whisper"
     },
@@ -6763,9 +6823,21 @@
       "last_checked": "2026-08-22",
       "pub_date": "2026-08-20",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2026-08-20-rsp-2026-nfl-preseason-and-fantasy-review-going-deep-with-brandon-angelo-a.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2026-08-20-rsp-2026-nfl-preseason-and-fantasy-review-going-deep-with-brandon-angelo-a.md",
+      "status": "ingested",
       "title": "2026 NFL Preseason and Fantasy Review: Going Deep with Brandon Angelo and Matt Waldman",
+      "transcript_source": "whisper"
+    },
+    "https://mattwaldmanrsp.com/?p=54311": {
+      "expert": "Matt Waldman",
+      "first_seen": "2026-08-26",
+      "guid": "https://mattwaldmanrsp.com/?p=54311",
+      "last_checked": "2026-08-26",
+      "pub_date": "2026-08-24",
+      "show": "Matt Waldman's RSP Cast",
+      "staged_path": "raw/ingested/rsp-cast/2026-08-24-rsp-feel-it-or-fit-81726-with-lex-luthor-and-matt-waldman.md",
+      "status": "ingested",
+      "title": "Feel It or F\u2013It 8.17.26 with Lex Luthor and Matt Waldman",
       "transcript_source": "whisper"
     },
     "lBVG9RPlKrEDgQb54y8GBiUotJw46bNn": {
@@ -6814,6 +6886,18 @@
       "staged_path": "raw/ingested/reception-perception/2026-06-25-rp-quarterback-dive-with-alfredo-brown.md",
       "status": "ingested",
       "title": "Quarterback Dive with Alfredo Brown",
+      "transcript_source": "whisper"
+    },
+    "u55WGyc4qyfQviEUYPoaiht6Ioz4p3Bc": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-08-27",
+      "guid": "u55WGyc4qyfQviEUYPoaiht6Ioz4p3Bc",
+      "last_checked": "2026-08-27",
+      "pub_date": "2026-08-27",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/ingested/reception-perception/2026-08-27-rp-quarterback-talk-with-alfredo-brown.md",
+      "status": "ingested",
+      "title": "Quarterback Talk with Alfredo Brown!",
       "transcript_source": "whisper"
     },
     "v9C9x7EB247xdXwBuRqiiiIV9wzxr1MI": {

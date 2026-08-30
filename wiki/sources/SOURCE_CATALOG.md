@@ -597,6 +597,17 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2026-08-17 | [[Chris Harris]] | Re-Assessing The Rookies For 2026 | [[Harris Football Podcast - 2026-08-17]] |
 | 2026-08-18 | [[Matt Harmon]] | Fantasy Football Wide Receiver Takes with Jeff Bell | [[Reception Perception The Show - 2026-08-18]] |
 | 2026-08-18 | [[Chris Harris]] | Five ADP Surprises Plus More Injuries | [[Harris Fantasy Football Podcast - 2026-08-18]] |
+| 2026-08-20 | [[Matt Waldman]] | 2026 NFL Preseason and Fantasy Review: Going Deep with Brandon Angelo | [[Matt Waldman's RSP Cast - 2026-08-20]] |
+| 2026-08-20 | [[Chris Harris]] | Flag Players & Offenses We Might Be Wrong About | [[Harris Fantasy Football Podcast - 2026-08-20]] |
+| 2026-08-20 | [[Matt Harmon]] | MEGA Show with Dwain McFarland + Heed The Call's Dan & Marc | [[Reception Perception The Show - 2026-08-20]] |
+| 2026-08-21 | [[Chris Harris]] | More Flag Players & Cousin Josh's Frag Players | [[Harris Fantasy Football Podcast - 2026-08-21]] |
+| 2026-08-24 | [[Chris Harris]] | Five Busts For 2026 & Jeanty Injury | [[Harris Fantasy Football Podcast - 2026-08-24]] |
+| 2026-08-24 | [[Matt Waldman]] | Feel It or F**k It 8.17.26 with Lex Luthor and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-08-24 (Feel It or Fk It)]] |
+| 2026-08-25 | [[Chris Harris]] | Five Safe Players For 2026 | [[Harris Fantasy Football Podcast - 2026-08-25]] |
+| 2026-08-25 | [[Matt Harmon]] | Mike Washington Jr., Chris Godwin & Tre Tucker Profiles | [[Reception Perception The Show - 2026-08-25]] |
+| 2026-08-27 | [[Matt Harmon]] | Quarterback Talk with Alfredo Brown! | [[Reception Perception The Show - 2026-08-27]] |
+| 2026-08-27 | [[Chris Harris]] | Super-Deep Sleepers For 2026 - Part 1 | [[Harris Fantasy Football Podcast - 2026-08-27]] |
+| 2026-08-28 | [[Chris Harris]] | More Super-Deep Sleepers & Warp Zone Players For 2026 | [[Harris Fantasy Football Podcast - 2026-08-28]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |
