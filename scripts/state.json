@@ -108,6 +108,18 @@
       "title": "Players We Might Be Wrong About!",
       "transcript_source": "whisper"
     },
+    "1119113f-8272-4c72-b75e-f7e6645c2946": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-08-31",
+      "guid": "1119113f-8272-4c72-b75e-f7e6645c2946",
+      "last_checked": "2026-08-31",
+      "pub_date": "2026-08-31",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/transcripts/harris-football/2026-08-31-harris-late-round-players-we-love-jacobs-suspension.md",
+      "status": "fetched",
+      "title": "Late-Round Players We Love & Jacobs Suspension",
+      "transcript_source": "whisper"
+    },
     "134b65df-cca6-4df4-b9e3-7b3b1bdec71e": {
       "expert": "Chris Harris",
       "first_seen": "2026-08-04",
@@ -1620,6 +1632,18 @@
       "title": "Week 14 Takeaways!",
       "transcript_source": "whisper"
     },
+    "6cfa8389-c3ea-499f-a9c9-a840bb23ab3c": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-01",
+      "guid": "6cfa8389-c3ea-499f-a9c9-a840bb23ab3c",
+      "last_checked": "2026-09-01",
+      "pub_date": "2026-09-01",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/transcripts/harris-football/2026-09-01-harris-players-we-might-be-wrong-about-pound-foolish-publication-day.md",
+      "status": "fetched",
+      "title": "Players We Might Be Wrong About & Pound Foolish Publication Day",
+      "transcript_source": "whisper"
+    },
     "6d0bbabc-b3f7-11ef-b76b-a7bd4f80442c": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-10",
@@ -2494,6 +2518,18 @@
       "staged_path": "raw/ingested/harris-football/2026-02-21-harris-top-10-movies-of-2025.md",
       "status": "ingested",
       "title": "Top 10 Movies Of 2025",
+      "transcript_source": "whisper"
+    },
+    "agAZEOxIZgT6PoSqXL0AMv18IRNHMwbK": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-09-01",
+      "guid": "agAZEOxIZgT6PoSqXL0AMv18IRNHMwbK",
+      "last_checked": "2026-09-01",
+      "pub_date": "2026-09-01",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/transcripts/reception-perception/2026-09-01-rp-which-rookie-wrs-can-you-trust-early-this-season.md",
+      "status": "fetched",
+      "title": "Which Rookie WRs Can You Trust Early This Season?",
       "transcript_source": "whisper"
     },
     "b3a429d5-207d-4e43-8094-3aa6806f7962": {
@@ -3576,6 +3612,18 @@
       "title": "Week 17 Takeaways!",
       "transcript_source": "whisper"
     },
+    "c820f20c-0b91-4002-a3c7-a0534e9ee45b": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-03",
+      "guid": "c820f20c-0b91-4002-a3c7-a0534e9ee45b",
+      "last_checked": "2026-09-03",
+      "pub_date": "2026-09-03",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/transcripts/harris-football/2026-09-03-harris-total-request-episode-pound-foolish-is-a-best-seller.md",
+      "status": "fetched",
+      "title": "Total Request Episode & Pound Foolish Is A Best-Seller!",
+      "transcript_source": "whisper"
+    },
     "c8807d9e-f05a-11ee-a49d-7f066f8f57d0": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-03",
@@ -3912,6 +3960,18 @@
       "title": "Five Players We Love",
       "transcript_source": "whisper"
     },
+    "d63a63b3-48c1-466e-989d-3236a655ff7d": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-04",
+      "guid": "d63a63b3-48c1-466e-989d-3236a655ff7d",
+      "last_checked": "2026-09-04",
+      "pub_date": "2026-09-04",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/transcripts/harris-football/2026-09-04-harris-preseason-huggy-baggy-awards.md",
+      "status": "fetched",
+      "title": "Preseason Huggy & Baggy Awards",
+      "transcript_source": "whisper"
+    },
     "d8082086-169c-11f1-be9d-73e005b075a4": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-10",
@@ -4044,6 +4104,18 @@
       "title": "Swing Players For 2026",
       "transcript_source": "whisper"
     },
+    "e895a63e-d50b-4f01-9628-fc59a33f297c": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-02",
+      "guid": "e895a63e-d50b-4f01-9628-fc59a33f297c",
+      "last_checked": "2026-09-02",
+      "pub_date": "2026-09-01",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/transcripts/harris-football/2026-09-01-harris-pound-foolish-sample-chapter.md",
+      "status": "fetched",
+      "title": "Pound Foolish Sample Chapter",
+      "transcript_source": "whisper"
+    },
     "e8ad87ea-272d-11f1-806b-4f42e925fbab": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-10",
@@ -4066,6 +4138,18 @@
       "staged_path": "raw/ingested/reception-perception/2026-05-12-rp-year-2-profiles.md",
       "status": "ingested",
       "title": "Year 2 Profiles!",
+      "transcript_source": "whisper"
+    },
+    "eZnAFf3t5rQjzR7lmfOcQmNKepLNvh6q": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-09-03",
+      "guid": "eZnAFf3t5rQjzR7lmfOcQmNKepLNvh6q",
+      "last_checked": "2026-09-03",
+      "pub_date": "2026-09-03",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/transcripts/reception-perception/2026-09-03-rp-2026-nfl-season-bold-calls.md",
+      "status": "fetched",
+      "title": "2026 NFL Season BOLD Calls!",
       "transcript_source": "whisper"
     },
     "f1ef80a7-1b7d-4840-9837-f4beb5ee831c": {
@@ -6838,6 +6922,30 @@
       "staged_path": "raw/ingested/rsp-cast/2026-08-24-rsp-feel-it-or-fit-81726-with-lex-luthor-and-matt-waldman.md",
       "status": "ingested",
       "title": "Feel It or F\u2013It 8.17.26 with Lex Luthor and Matt Waldman",
+      "transcript_source": "whisper"
+    },
+    "https://mattwaldmanrsp.com/?p=54339": {
+      "expert": "Matt Waldman",
+      "first_seen": "2026-09-02",
+      "guid": "https://mattwaldmanrsp.com/?p=54339",
+      "last_checked": "2026-09-02",
+      "pub_date": "2026-08-31",
+      "show": "Matt Waldman's RSP Cast",
+      "staged_path": "raw/transcripts/rsp-cast/2026-08-31-rsp-feel-it-or-fit-83126-with-bob-harris-and-matt-waldman.md",
+      "status": "fetched",
+      "title": "Feel It or F\u2013It 8.31.26 with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
+    },
+    "https://mattwaldmanrsp.com/?p=54358": {
+      "expert": "Matt Waldman",
+      "first_seen": "2026-09-05",
+      "guid": "https://mattwaldmanrsp.com/?p=54358",
+      "last_checked": "2026-09-05",
+      "pub_date": "2026-09-03",
+      "show": "Matt Waldman's RSP Cast",
+      "staged_path": "raw/transcripts/rsp-cast/2026-09-03-rsp-chris-harris-his-new-novel-and-thoughts-on-the-2026-nfl-season.md",
+      "status": "fetched",
+      "title": "Chris Harris, His New Novel, and Thoughts on the 2026 NFL Season",
       "transcript_source": "whisper"
     },
     "lBVG9RPlKrEDgQb54y8GBiUotJw46bNn": {
