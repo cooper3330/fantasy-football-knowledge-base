@@ -32,6 +32,8 @@ tags: [player]
 - 2026-08-20 — According to [[Matt Harmon]] ([[Harris Fantasy Football Podcast - 2026-08-20]]) [Redraft (Standard)]: tied to the same 'what if a Browns quarterback is passable' thesis, Harmon calls Boston 'a really excellent player' who has also been gaining offseason buzz.
 - 2026-08-20 — According to [[Dan Hanses]] and [[Mark Sessler]] (not tracked, Heed The Call) and [[Matt Harmon]] ([[Reception Perception The Show - 2026-08-20]]): Denzel Boston is drawing even more glowing camp praise than fellow rookie Casey Concepcion. Harmon says he viewed Boston as a Round 1-caliber talent even though he actually went on Day 2, and calls both Boston and Concepcion 'massive upgrades' on incumbent Jerry Jeudy atop Cleveland's receiver room.
 - 2026-08-25 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-08-25]]): Boston was the one receiver played alongside [[Shedeur Sanders]] and the Week 1-caliber starters in the preseason game Cleveland used to evaluate Sanders, while [[Casey Concepcion]] was held out with the rest of the proven starters -- Harmon reads that as Cleveland wanting to give Sanders at least one quality target in that evaluation game.
+- 2026-08-31 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-08-31]]) [Redraft (Standard)]: Harris's number two is Boston, whom he ranks one spot ahead of KC Concepcion in his personal ranks (54 vs. 55) even though live ADP has Concepcion at 113th overall to Boston's 156th -- a gap Harris calls 'weird' given Browns beat reporters have described Boston as the more electric player and the bigger reason Cleveland felt comfortable trading away Cedric Tillman. He acknowledges the quarterback situation is 'utter hot garbage' and Boston didn't test great at the combine, but calls him a quick study at 6'4' who's a 14th-15th round dart throw regardless of the ugly offense around him. Pianowski (guest, untracked) agrees with Harris's ranking, calling it closer to a 51/49 coin flip than the ADP gap suggests.
+- 2026-09-01 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-09-01]]): projects Boston as Cleveland's primary X receiver who should play a lot and could grow into more than just an X over time, but says he doesn't project for a ton of year-one opportunity given the QB situation -- [[Deshaun Watson]] can't/won't consistently push the ball downfield, which Harmon flags as a real problem for a boundary X. He and [[KC Concepcion]] should complement each other, but [[Jerry Jeudy]] and [[Harold Fannin Jr.]] remain part of the target competition, and Harmon calls the whole Cleveland passing situation 'a disaster class.'
 
 ## Related Concepts
 - [[Reception Perception Methodology]]
@@ -39,4 +41,5 @@ tags: [player]
 - [[Historical Comps and Analyst Degrees of Freedom]]
 - [[Prospect Model Grade vs Rank]]
 - [[Scouting Sizzle Reels and Front Office Override]]
+- [[High Floor Picks and Draft Risk Balancing]]
 

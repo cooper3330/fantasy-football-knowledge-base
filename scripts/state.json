@@ -24,6 +24,18 @@
       "title": "Top 12 Picks Of 2026 & Setting Week 15 Lineups",
       "transcript_source": "whisper"
     },
+    "01ff24d7-9f7e-404f-915b-c19ebcc31318": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-08",
+      "guid": "01ff24d7-9f7e-404f-915b-c19ebcc31318",
+      "last_checked": "2026-09-08",
+      "pub_date": "2026-09-08",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-09-08-harris-our-most-drafted-players-week-1-waivers.md",
+      "status": "ingested",
+      "title": "Our Most-Drafted Players & Week 1 Waivers",
+      "transcript_source": "whisper"
+    },
     "026727f1-3e4f-4c1c-a23b-4adbb0eb3a95": {
       "expert": "Chris Harris",
       "first_seen": "2026-08-20",
@@ -115,8 +127,8 @@
       "last_checked": "2026-08-31",
       "pub_date": "2026-08-31",
       "show": "Harris Fantasy Football Podcast",
-      "staged_path": "raw/transcripts/harris-football/2026-08-31-harris-late-round-players-we-love-jacobs-suspension.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/harris-football/2026-08-31-harris-late-round-players-we-love-jacobs-suspension.md",
+      "status": "ingested",
       "title": "Late-Round Players We Love & Jacobs Suspension",
       "transcript_source": "whisper"
     },
@@ -226,6 +238,18 @@
       "staged_path": "raw/ingested/harris-football/2026-01-02-harris-postseason-huggy-baggy-awards-and-2025-supercut.md",
       "status": "ingested",
       "title": "Postseason Huggy & Baggy Awards And 2025 SUPERCUT!",
+      "transcript_source": "whisper"
+    },
+    "227ac89d-3a09-41d6-8b35-f8ae82a4204c": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-10",
+      "guid": "227ac89d-3a09-41d6-8b35-f8ae82a4204c",
+      "last_checked": "2026-09-10",
+      "pub_date": "2026-09-10",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-09-10-harris-patriots-v-seahawks-week-1-flexual-healing.md",
+      "status": "ingested",
+      "title": "Patriots v Seahawks & Week 1 Flexual Healing",
       "transcript_source": "whisper"
     },
     "2397df84-4305-11f1-b627-8bcc1314b8ed": {
@@ -1639,8 +1663,8 @@
       "last_checked": "2026-09-01",
       "pub_date": "2026-09-01",
       "show": "Harris Fantasy Football Podcast",
-      "staged_path": "raw/transcripts/harris-football/2026-09-01-harris-players-we-might-be-wrong-about-pound-foolish-publication-day.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/harris-football/2026-09-01-harris-players-we-might-be-wrong-about-pound-foolish-publication-day.md",
+      "status": "ingested",
       "title": "Players We Might Be Wrong About & Pound Foolish Publication Day",
       "transcript_source": "whisper"
     },
@@ -2028,6 +2052,18 @@
       "title": "Mid-Round Prospect Profiles!",
       "transcript_source": "whisper"
     },
+    "8089f0f5-95bd-49bb-90f0-b8af485e9ca0": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-10",
+      "guid": "8089f0f5-95bd-49bb-90f0-b8af485e9ca0",
+      "last_checked": "2026-09-10",
+      "pub_date": "2026-09-09",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-09-09-harris-free-yacht-club-ep-how-our-week-1-ranks-vary-from-our-season-ranks.md",
+      "status": "ingested",
+      "title": "FREE YACHT CLUB EP: How Our Week 1 Ranks Vary From Our Season Ranks",
+      "transcript_source": "whisper"
+    },
     "8164193c-e99e-11ef-90d4-3ba7afce63c9": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-03",
@@ -2050,6 +2086,18 @@
       "staged_path": "raw/ingested/reception-perception/2026-05-05-rp-rounding-off-round-3-landing-spots.md",
       "status": "ingested",
       "title": "Rounding Off Round 3 Landing Spots!",
+      "transcript_source": "whisper"
+    },
+    "834735af-fb73-4466-b5b0-c21c5ee08101": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-12",
+      "guid": "834735af-fb73-4466-b5b0-c21c5ee08101",
+      "last_checked": "2026-09-12",
+      "pub_date": "2026-09-11",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-09-11-harris-49ers-crush-rams-whats-freaking-us-out-for-week-1.md",
+      "status": "ingested",
+      "title": "49ers Crush Rams & What's Freaking Us Out For Week 1",
       "transcript_source": "whisper"
     },
     "84884c79-4745-47fd-9cd2-7957e05250b1": {
@@ -2527,8 +2575,8 @@
       "last_checked": "2026-09-01",
       "pub_date": "2026-09-01",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2026-09-01-rp-which-rookie-wrs-can-you-trust-early-this-season.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2026-09-01-rp-which-rookie-wrs-can-you-trust-early-this-season.md",
+      "status": "ingested",
       "title": "Which Rookie WRs Can You Trust Early This Season?",
       "transcript_source": "whisper"
     },
@@ -3619,8 +3667,8 @@
       "last_checked": "2026-09-03",
       "pub_date": "2026-09-03",
       "show": "Harris Fantasy Football Podcast",
-      "staged_path": "raw/transcripts/harris-football/2026-09-03-harris-total-request-episode-pound-foolish-is-a-best-seller.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/harris-football/2026-09-03-harris-total-request-episode-pound-foolish-is-a-best-seller.md",
+      "status": "ingested",
       "title": "Total Request Episode & Pound Foolish Is A Best-Seller!",
       "transcript_source": "whisper"
     },
@@ -3967,8 +4015,8 @@
       "last_checked": "2026-09-04",
       "pub_date": "2026-09-04",
       "show": "Harris Fantasy Football Podcast",
-      "staged_path": "raw/transcripts/harris-football/2026-09-04-harris-preseason-huggy-baggy-awards.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/harris-football/2026-09-04-harris-preseason-huggy-baggy-awards.md",
+      "status": "ingested",
       "title": "Preseason Huggy & Baggy Awards",
       "transcript_source": "whisper"
     },
@@ -4111,8 +4159,8 @@
       "last_checked": "2026-09-02",
       "pub_date": "2026-09-01",
       "show": "Harris Fantasy Football Podcast",
-      "staged_path": "raw/transcripts/harris-football/2026-09-01-harris-pound-foolish-sample-chapter.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/harris-football/2026-09-01-harris-pound-foolish-sample-chapter.md",
+      "status": "ingested",
       "title": "Pound Foolish Sample Chapter",
       "transcript_source": "whisper"
     },
@@ -4147,8 +4195,8 @@
       "last_checked": "2026-09-03",
       "pub_date": "2026-09-03",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2026-09-03-rp-2026-nfl-season-bold-calls.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2026-09-03-rp-2026-nfl-season-bold-calls.md",
+      "status": "ingested",
       "title": "2026 NFL Season BOLD Calls!",
       "transcript_source": "whisper"
     },
@@ -6931,8 +6979,8 @@
       "last_checked": "2026-09-02",
       "pub_date": "2026-08-31",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2026-08-31-rsp-feel-it-or-fit-83126-with-bob-harris-and-matt-waldman.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2026-08-31-rsp-feel-it-or-fit-83126-with-bob-harris-and-matt-waldman.md",
+      "status": "ingested",
       "title": "Feel It or F\u2013It 8.31.26 with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
     },
@@ -6943,9 +6991,21 @@
       "last_checked": "2026-09-05",
       "pub_date": "2026-09-03",
       "show": "Matt Waldman's RSP Cast",
-      "staged_path": "raw/transcripts/rsp-cast/2026-09-03-rsp-chris-harris-his-new-novel-and-thoughts-on-the-2026-nfl-season.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/rsp-cast/2026-09-03-rsp-chris-harris-his-new-novel-and-thoughts-on-the-2026-nfl-season.md",
+      "status": "ingested",
       "title": "Chris Harris, His New Novel, and Thoughts on the 2026 NFL Season",
+      "transcript_source": "whisper"
+    },
+    "https://mattwaldmanrsp.com/?p=54363": {
+      "expert": "Matt Waldman",
+      "first_seen": "2026-09-09",
+      "guid": "https://mattwaldmanrsp.com/?p=54363",
+      "last_checked": "2026-09-09",
+      "pub_date": "2026-09-07",
+      "show": "Matt Waldman's RSP Cast",
+      "staged_path": "raw/ingested/rsp-cast/2026-09-07-rsp-feel-it-or-fit-9726-with-bob-harris-and-matt-waldman.md",
+      "status": "ingested",
+      "title": "Feel It or F\u2013It 9.7.26 with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
     },
     "lBVG9RPlKrEDgQb54y8GBiUotJw46bNn": {
@@ -7006,6 +7066,18 @@
       "staged_path": "raw/ingested/reception-perception/2026-08-27-rp-quarterback-talk-with-alfredo-brown.md",
       "status": "ingested",
       "title": "Quarterback Talk with Alfredo Brown!",
+      "transcript_source": "whisper"
+    },
+    "uJoaBhE2Cf6ac2rNYJhCHEsNhBJxubpB": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-09-10",
+      "guid": "uJoaBhE2Cf6ac2rNYJhCHEsNhBJxubpB",
+      "last_checked": "2026-09-10",
+      "pub_date": "2026-09-10",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/ingested/reception-perception/2026-09-10-rp-decoding-nfl-week-1-reloaded-wr-rooms-secondary-clashes.md",
+      "status": "ingested",
+      "title": "Decoding NFL Week 1: Reloaded WR Rooms & Secondary Clashes",
       "transcript_source": "whisper"
     },
     "v9C9x7EB247xdXwBuRqiiiIV9wzxr1MI": {

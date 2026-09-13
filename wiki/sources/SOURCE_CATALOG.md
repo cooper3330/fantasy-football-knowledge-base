@@ -608,6 +608,21 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2026-08-27 | [[Matt Harmon]] | Quarterback Talk with Alfredo Brown! | [[Reception Perception The Show - 2026-08-27]] |
 | 2026-08-27 | [[Chris Harris]] | Super-Deep Sleepers For 2026 - Part 1 | [[Harris Fantasy Football Podcast - 2026-08-27]] |
 | 2026-08-28 | [[Chris Harris]] | More Super-Deep Sleepers & Warp Zone Players For 2026 | [[Harris Fantasy Football Podcast - 2026-08-28]] |
+| 2026-08-31 | [[Matt Waldman]] | Feel It or F**k It 8.31.26 with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-08-31]] |
+| 2026-08-31 | [[Chris Harris]] | Late-Round Players We Love & Jacobs Suspension | [[Harris Fantasy Football Podcast - 2026-08-31]] |
+| 2026-09-01 | [[Chris Harris]] | Players We Might Be Wrong About & Pound Foolish Publication Day | [[Harris Fantasy Football Podcast - 2026-09-01]] |
+| 2026-09-01 | [[Chris Harris]] | Pound Foolish Sample Chapter | [[Harris Fantasy Football Podcast - 2026-09-01 (Pound Foolish Sample Chapter)]] |
+| 2026-09-01 | [[Matt Harmon]] | Which Rookie WRs Can You Trust Early This Season? | [[Reception Perception The Show - 2026-09-01]] |
+| 2026-09-03 | [[Matt Harmon]] | 2026 NFL Season BOLD Calls! | [[Reception Perception The Show - 2026-09-03]] |
+| 2026-09-03 | [[Matt Waldman]] | Chris Harris, His New Novel, and Thoughts on the 2026 NFL Season | [[Matt Waldman's RSP Cast - 2026-09-03]] |
+| 2026-09-03 | [[Chris Harris]] | Total Request Episode & Pound Foolish Is A Best-Seller! | [[Harris Fantasy Football Podcast - 2026-09-03]] |
+| 2026-09-04 | [[Chris Harris]] | Preseason Huggy & Baggy Awards | [[Harris Fantasy Football Podcast - 2026-09-04]] |
+| 2026-09-07 | [[Matt Waldman]] | Feel It or F**k It 9.7.26 with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-09-07]] |
+| 2026-09-08 | [[Chris Harris]] | Our Most-Drafted Players & Week 1 Waivers | [[Harris Fantasy Football Podcast - 2026-09-08]] |
+| 2026-09-09 | [[Chris Harris]] | FREE YACHT CLUB EP: How Our Week 1 Ranks Vary From Our Season Ranks | [[Harris Fantasy Football Podcast - 2026-09-09]] |
+| 2026-09-10 | [[Matt Harmon]] | Decoding NFL Week 1: Reloaded WR Rooms & Secondary Clashes | [[Reception Perception The Show - 2026-09-10]] |
+| 2026-09-10 | [[Chris Harris]] | Patriots v Seahawks & Week 1 Flexual Healing | [[Harris Fantasy Football Podcast - 2026-09-10]] |
+| 2026-09-11 | [[Chris Harris]] | 49ers Crush Rams & What's Freaking Us Out For Week 1 | [[Harris Fantasy Football Podcast - 2026-09-11]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

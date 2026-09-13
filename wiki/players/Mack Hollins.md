@@ -21,8 +21,10 @@ tags: [player]
 - 2025-11-21 — According to Chris Harris on [[Harris Fantasy Football Podcast - 2025-11-21]] [Redraft (Standard)]: Harris left Hollins out of his top-50 receivers with [[Kayshon Boutte]] returning to full practice, but acknowledged Hollins has held a real role for much of the season and the call 'could absolutely be wrong.'
 - 2026-02-12 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-02-12]]): Hollins was productive in the Super Bowl but isn't a consistent route-by-route separator -- Harmon expects him to keep delivering occasional splash plays and blocking value rather than every-week target volume as New England weighs adding a true outside receiver like [[AJ Brown]].
 - 2026-02-17 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-02-17]]): Harmon doesn't think 33-year-old Mack Hollins makes the Patriots' 2026 roster -- his $5.1M cap hit against just $750K dead cap is 'classic you have to cut this guy' math -- describing him mainly as a blocker and locker-room presence good for the occasional splash play, not a starting outside receiver.
+- 2026-09-10 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-10]]): Hollins made multiple clutch plays in the fourth quarter of New England's Week 1 loss, including converting a 4th-and-9, but Harris pushed back on fans wanting to hand him a bigger role over [[Romeo Doubs]] if [[A.J. Brown]] is out -- Hollins makes those plays 'as kind of an afterthought piece' while defenses focus on the top options, and 'the moment an offense tries to make Mack Hollins a consistent weekly piece... he absolutely will not beat tighter coverage,' which has always been his problem. Harris noted NFL teams that have tried to feature Hollins as a true starter historically haven't had it work.
 
 ## Related Concepts
 - [[Sacrificial X Receiver]]
 - [[Alpha Receiver vs Committee Pass Catchers]]
+- [[Waiver Wire Archetypes and Organizational Support]]
 
