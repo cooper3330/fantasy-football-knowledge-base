@@ -30,9 +30,11 @@ tags: [player]
 - 2026-09-08 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-08]]) [Redraft (Standard)]: [[Brenton Strange]] landed on three of Harris's ten drafted teams this summer, but he says the market 'ignored' Strange -- 'people do not agree with my take' -- so he fell late enough that he isn't currently a starting-TE option on any of those three rosters. Harris mostly took him in very-deep-bench leagues needing multiple tight end answers, including one auction where he got Strange for a single dollar in a league with no tight end roster slot at all, calling it 'a couple week bet' on a breakout; if Strange doesn't take an obvious step early, Harris says he's a clear drop candidate with 'no problem.'
 - 2026-09-09 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-09]]): Harris says he's 'waxed rhapsodic' about Strange previously and flags him as a viable streaming option for anyone who paired [[George Kittle]] with a second tight end and wants an alternative for Week 1.
 - 2026-09-10 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-10]]) [Redraft (Standard)]: named as one of two Week 1 streaming options, alongside [[Juwan Johnson]], Harris would feel fine using in place of a tough [[George Kittle]] matchup.
+- 2026-09-18 — According to Jeff Erickson (guest, not a tracked expert; [[Harris Fantasy Football Podcast - 2026-09-18]]) [Redraft (Standard)]: Strange scored a touchdown in Week 1, a name Erickson admits he 'wasn't waiting on,' but Erickson says [[Parker Washington]]'s gravitational pull on Jacksonville's target tree makes him wary of trusting any other Jaguars pass catcher, Strange included, at 'that terrible terrible position.'
 
 ## Related Concepts
 - [[Tight End Value in Condensed Formations]]
 - [[Preseason ADP vs In-Season Production]]
 - [[Tight End as Number One Read]]
+- [[Parker Washington]]
 

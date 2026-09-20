@@ -43,6 +43,7 @@ tags: [player]
 - 2026-03-12 — According to [[Chris Harris]] and Dave Kluge (Footballguys.com, untracked guest) ([[Harris Fantasy Football Podcast - 2026-03-12]]): Jones re-signed with Minnesota after a season where he 'looked okay amid a disastrous situation' but kept getting hurt. Kluge notes the range of outcomes is already known -- two years ago, healthy, he was a top-six back getting targets and goal-line work; last year he was hurt again -- and expects him to be faded heavily in drafts given he's entering his age-31/32 season on a run of injury-marred years, likely falling to the 5th-6th round, where Kluge thinks the risk is priced out. Harris is more skeptical, unsure he'd rank Jones that high given the accumulated injury history even acknowledging the two-years-ago upside; Kluge counters that Harris may be underselling that ceiling.
 - 2026-03-17 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-03-17]]) [Redraft (Standard)]: Harmon noted Minnesota had to restructure [[Aaron Jones]]'s contract just to keep him on the roster, calling him 'on the decline for sure.'
 - 2026-07-28 — According to [[Chris Harris]] and guest Jeff Erickson (Rotowire, not tracked) ([[Harris Fantasy Football Podcast - 2026-07-28]]): Jones took a pay cut to stay in Minnesota after it looked like he might leave, and both hosts still like his tape and talent ('Aaron Jones still looked really good'), but both agree he's simply not trustable health-wise given his age and injury history -- 'how many years in a row do we need this.' Harris ranks him RB38, the lowest of the Vikings backfield trio relative to expectation, purely on durability risk rather than talent.
+- 2026-09-18 — According to Chris Harris ([[Harris Fantasy Football Podcast - 2026-09-18]]) [Redraft (Standard)]: With [[Jordan Mason]] on IR (thumb injury, eligible to return Week 7), Jones should see an increased workload against the Bears.
 
 ## Related Concepts
 - [[Injury-Agnostic Roster Construction]]
@@ -55,3 +56,4 @@ tags: [player]
 - [[Rushing Ecosystem and Running Back Weaponization]]
 - [[Ambiguous Backfields and Market Risk Aversion]]
 - [[Healthy Enough to Play vs. Healthy Enough to Perform]]
+- [[Jordan Mason]]

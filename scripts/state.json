@@ -84,6 +84,18 @@
       "title": "Re-Assessing The Rookies For 2026",
       "transcript_source": "whisper"
     },
+    "0c67a9f7-75d1-4d0f-9270-0701ab93499c": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-17",
+      "guid": "0c67a9f7-75d1-4d0f-9270-0701ab93499c",
+      "last_checked": "2026-09-17",
+      "pub_date": "2026-09-17",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-09-17-harris-week-2-ranks-previewing-lions-v-bills.md",
+      "status": "ingested",
+      "title": "Week 2 Ranks & Previewing Lions v Bills",
+      "transcript_source": "whisper"
+    },
     "0d11b16d-9989-42fe-b576-f9037df8adc6": {
       "expert": "Chris Harris",
       "first_seen": "2026-08-04",
@@ -526,6 +538,18 @@
       "staged_path": "raw/ingested/reception-perception/2026-03-17-rp-free-agency-part-ii.md",
       "status": "ingested",
       "title": "Free Agency Part II",
+      "transcript_source": "whisper"
+    },
+    "2z4OHHyRGq7nM9pnNkBDk2r8hhHfCj0K": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-09-15",
+      "guid": "2z4OHHyRGq7nM9pnNkBDk2r8hhHfCj0K",
+      "last_checked": "2026-09-15",
+      "pub_date": "2026-09-15",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/ingested/reception-perception/2026-09-15-rp-week-1-lies-or-truth-flowers-in-full-bloom-cant-stop-coker.md",
+      "status": "ingested",
+      "title": "Week 1 Lies or Truth: Flowers in Full Bloom + Can't Stop Coker",
       "transcript_source": "whisper"
     },
     "38986103-c68b-46bb-87c7-ffa3977c8abe": {
@@ -2364,6 +2388,18 @@
       "title": "Do We Believe in These Receivers?",
       "transcript_source": "whisper"
     },
+    "JF2VAGfesO929D2cj0mOEl1bVmvon1Oz": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-09-17",
+      "guid": "JF2VAGfesO929D2cj0mOEl1bVmvon1Oz",
+      "last_checked": "2026-09-17",
+      "pub_date": "2026-09-17",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/ingested/reception-perception/2026-09-17-rp-week-2-breakdown-chiefs-aerial-weapon-shortage-goldens-surge-new-look-.md",
+      "status": "ingested",
+      "title": "Week 2 Breakdown: Chiefs Aerial Weapon Shortage, Golden\u2019s Surge & New Look Bills",
+      "transcript_source": "whisper"
+    },
     "PSWaYxMYWrxEkjxdA5CBF9WqFR4ZRQRm": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-20",
@@ -2578,6 +2614,18 @@
       "staged_path": "raw/ingested/reception-perception/2026-09-01-rp-which-rookie-wrs-can-you-trust-early-this-season.md",
       "status": "ingested",
       "title": "Which Rookie WRs Can You Trust Early This Season?",
+      "transcript_source": "whisper"
+    },
+    "b35b15e4-a81b-483b-beb3-cc09c68d70d1": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-14",
+      "guid": "b35b15e4-a81b-483b-beb3-cc09c68d70d1",
+      "last_checked": "2026-09-14",
+      "pub_date": "2026-09-14",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-09-14-harris-week-1-game-film-review.md",
+      "status": "ingested",
+      "title": "Week 1 Game Film Review",
       "transcript_source": "whisper"
     },
     "b3a429d5-207d-4e43-8094-3aa6806f7962": {
@@ -3226,6 +3274,18 @@
       "staged_path": "raw/ingested/reception-perception/2024-09-10-rp-week-1-recap.md",
       "status": "ingested",
       "title": "Week 1 Recap!",
+      "transcript_source": "whisper"
+    },
+    "c1a50425-6826-49a4-80d9-bc7ff8406858": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-18",
+      "guid": "c1a50425-6826-49a4-80d9-bc7ff8406858",
+      "last_checked": "2026-09-18",
+      "pub_date": "2026-09-18",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-09-18-harris-players-weve-already-changed-our-minds-on.md",
+      "status": "ingested",
+      "title": "Players We've Already Changed Our Minds On",
       "transcript_source": "whisper"
     },
     "c1bb77f2-f05a-11ee-a49d-9beaf26bf9f5": {
@@ -4294,6 +4354,18 @@
       "staged_path": "raw/ingested/harris-football/2025-08-18-harris-five-busts-for-2025.md",
       "status": "ingested",
       "title": "Five Busts For 2025",
+      "transcript_source": "whisper"
+    },
+    "f868a1fb-46d8-49bb-9ff0-a79d6efee41e": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-15",
+      "guid": "f868a1fb-46d8-49bb-9ff0-a79d6efee41e",
+      "last_checked": "2026-09-15",
+      "pub_date": "2026-09-15",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-09-15-harris-week-2-waivers-more-w1-game-film.md",
+      "status": "ingested",
+      "title": "Week 2 Waivers & More W1 Game Film",
       "transcript_source": "whisper"
     },
     "fbfb999b-3109-4096-8c98-f3a244875d30": {
@@ -7006,6 +7078,30 @@
       "staged_path": "raw/ingested/rsp-cast/2026-09-07-rsp-feel-it-or-fit-9726-with-bob-harris-and-matt-waldman.md",
       "status": "ingested",
       "title": "Feel It or F\u2013It 9.7.26 with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
+    },
+    "https://mattwaldmanrsp.com/?p=54394": {
+      "expert": "Matt Waldman",
+      "first_seen": "2026-09-16",
+      "guid": "https://mattwaldmanrsp.com/?p=54394",
+      "last_checked": "2026-09-16",
+      "pub_date": "2026-09-15",
+      "show": "Matt Waldman's RSP Cast",
+      "staged_path": "raw/ingested/rsp-cast/2026-09-15-rsp-feel-it-or-fit-91426-with-bob-harris-and-matt-waldman.md",
+      "status": "ingested",
+      "title": "Feel It or F\u2013It 9.14.26 with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
+    },
+    "https://mattwaldmanrsp.com/?p=54412": {
+      "expert": "Matt Waldman",
+      "first_seen": "2026-09-18",
+      "guid": "https://mattwaldmanrsp.com/?p=54412",
+      "last_checked": "2026-09-18",
+      "pub_date": "2026-09-17",
+      "show": "Matt Waldman's RSP Cast",
+      "staged_path": "raw/ingested/rsp-cast/2026-09-17-rsp-surprises-disappointments-colts-giants-and-patriots-offenses-going-dee.md",
+      "status": "ingested",
+      "title": "Surprises, Disappointments, Colts, Giants, and Patriots Offenses: Going Deep with Brandon Angelo & Matt Waldman",
       "transcript_source": "whisper"
     },
     "lBVG9RPlKrEDgQb54y8GBiUotJw46bNn": {

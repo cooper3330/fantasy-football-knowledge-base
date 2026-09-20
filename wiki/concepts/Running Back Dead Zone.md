@@ -15,6 +15,7 @@ tags: [concept]
 - 2026-04-30 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-04-30]]): Harris explicitly labeled his RB23-30 tier ([[David Montgomery]], [[Chuba Hubbard]], [[Tony Pollard]], [[J.K. Dobbins]] and others) the 'running back dead zone,' the range where fantasy managers typically pivot to receivers, and argued this is exactly the range where the market both over- and under-corrects: backs dinged mainly because the market has decided their situation is bad tend to be undervalued relative to talent, while backs the market gets excited about because their situation looks 'infallible' tend to be overvalued.
 - 2026-08-28 — According to cousin Josh (Chris Harris's untracked co-host) and [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-08-28]]): discussing [[David Montgomery]] going around Round 5, Josh labels him 'typical, as they'd say, the dead-zone running back' -- ADP has broadly pumped running backs up over the last year-plus even for backs like Montgomery who haven't moved up on merit. Harris agrees Montgomery sits in that fifth-round dead-zone tier but argues the touchdown-equity case (power role, goal-line work) still makes him a reasonable value there despite the label.
 - 2026-09-01 — According to guest Ben Gretsch (not a tracked expert) ([[Harris Fantasy Football Podcast - 2026-09-01]]): cited research by JJ Zachariason (not tracked) showing that backs drafted around the third-round 'dead zone' ADP threshold with poor prior-year receiving efficiency (low yards-per-route-run) tend to bust at a high rate. He flagged [[Javonte Williams]]'s sub-0.5 yards-per-route-run last season as fitting that red-flag profile, even as Williams's clear lead-back role and improved touchdown outlook argue for optimism anyway.
+- 2026-09-18 — According to Chris Harris ([[Harris Fantasy Football Podcast - 2026-09-18]]) [Redraft (Standard)]: Harris frames the Buccaneers' [[Bucky Irving]] backfield as a partial answer to the running back dead zone question -- even with touchdown work occasionally carved out for a change-of-pace back near the goal line, Tampa Bay 'doesn't overthink it' and keeps feeding Irving as the clear lead back when healthy, which is exactly the kind of concentrated-role backfield that makes a mid-round running back pick worth drafting through the dead zone.
 
 ## Related
 - [[Jonathan Brooks]]
@@ -24,3 +25,4 @@ tags: [concept]
 - [[League Trend Cycles and Market Inefficiency]]
 - [[David Montgomery]]
 - [[Javonte Williams]]
+- [[Bucky Irving]]

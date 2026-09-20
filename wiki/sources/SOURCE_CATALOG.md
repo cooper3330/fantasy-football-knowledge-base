@@ -623,6 +623,14 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2026-09-10 | [[Matt Harmon]] | Decoding NFL Week 1: Reloaded WR Rooms & Secondary Clashes | [[Reception Perception The Show - 2026-09-10]] |
 | 2026-09-10 | [[Chris Harris]] | Patriots v Seahawks & Week 1 Flexual Healing | [[Harris Fantasy Football Podcast - 2026-09-10]] |
 | 2026-09-11 | [[Chris Harris]] | 49ers Crush Rams & What's Freaking Us Out For Week 1 | [[Harris Fantasy Football Podcast - 2026-09-11]] |
+| 2026-09-14 | [[Chris Harris]] | Week 1 Game Film Review | [[Harris Fantasy Football Podcast - 2026-09-14]] |
+| 2026-09-15 | [[Matt Harmon]] | Week 1 Lies or Truth: Flowers in Full Bloom + Can't Stop Coker | [[Reception Perception The Show - 2026-09-15]] |
+| 2026-09-15 | [[Chris Harris]] | Week 2 Waivers & More W1 Game Film | [[Harris Fantasy Football Podcast - 2026-09-15]] |
+| 2026-09-15 | [[Matt Waldman]] | Feel It or F**k It 9.14.26 with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-09-15 (Feel It or Fk It)]] |
+| 2026-09-17 | [[Matt Harmon]] | Week 2 Breakdown: Chiefs Aerial Weapon Shortage, Golden's Surge & New Look Bills | [[Reception Perception The Show - 2026-09-17]] |
+| 2026-09-17 | [[Chris Harris]] | Week 2 Ranks & Previewing Lions v Bills | [[Harris Fantasy Football Podcast - 2026-09-17]] |
+| 2026-09-17 | [[Matt Waldman]] | Surprises, Disappointments, Colts, Giants, and Patriots Offenses: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2026-09-17]] |
+| 2026-09-18 | [[Chris Harris]] | Players We've Already Changed Our Minds On | [[Harris Fantasy Football Podcast - 2026-09-18]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

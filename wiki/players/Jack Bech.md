@@ -33,6 +33,7 @@ tags: [player]
 - 2026-07-24 — According to Chris Harris ([[Harris Fantasy Football Podcast - 2026-07-24]]) [Redraft (Standard)]: Harris notes Bech entered the league with 'the Matt Harmon seal of approval' from Reception Perception charting (without speaking for Harmon's current view of him), has him inside his own top-80 profiles, and says he'd keep an open mind on Bech if he becomes a standout in a wide-open Raiders receiver competition this camp.
 - 2026-08-17 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-08-17]]): Waldman said Bech, in his second year, hasn't separated himself from [[Dont'e Thornton Jr.]] or rookie [[Malik Benson]] in a three-way, effectively dead-heat competition for a Raiders receiver role.
 - 2026-08-25 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-08-25]]): Harmon projects Bech strictly as an 11-personnel big-slot receiver for the Raiders, saying that's the role he needs -- he can win against man/press coverage but only in short-to-intermediate areas and 'cannot win down the football field,' a limitation Harmon says dates back to his college prospect profile. Bech has flashed as a chain-moving big slot in the preseason and shown some good blocking reps, leading Harmon to float the Raiders 'almost inverting' him with [[Brock Bowers]] in usage at times.
+- 2026-09-17 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-09-17]]) [Redraft (Standard)]: Bech's Week 1 versus Miami was mixed but Harmon is bullish on the player. Good news: 4 targets, 3 catches, 23 yards and a touchdown, targeted on 31% of his routes with trust throws from [[Kirk Cousins]], and used detached from the formation, which Harmon likes ('this is what he should be doing,' unlike his rookie role). Bad news: Bech played only 42% of Las Vegas's dropbacks, trailing [[Tre Tucker]] (87%), [[Michael Mayer]] (77%) and [[Jalen Naylor]] (61%), and ran only two routes on snaps with two-or-fewer wide receivers on the field. Harmon speculated the bump partly owes to [[Brock Bowers]] being out, and questioned whether the team's investment in Naylor at Z really outproduces what Bech could do there. Harmon compared Bech's role to a younger [[Cooper Kupp]] -- effective in the short/intermediate area, uncovering himself on crossers and digs rather than winning deep -- and said 'the more Bech I get, the better,' hoping snap share condenses toward him as the season progresses.
 
 ## Related Concepts
 - [[Catch Technique and Ball Tracking]]
@@ -50,4 +51,5 @@ tags: [player]
 - [[Usage as Evidence of Ability]]
 - [[X Receiver Scarcity in the Modern NFL]]
 - [[Skewed Alignment Receivers and NFL Translation]]
+- [[Waiver Wire Archetypes and Organizational Support]]
 

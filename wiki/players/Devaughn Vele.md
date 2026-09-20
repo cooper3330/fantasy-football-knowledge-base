@@ -29,6 +29,8 @@ tags: [player]
 - 2026-02-27 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-02-27]]): New Orleans traded a fourth-round pick for Devaughn Vele, described as a 'pretty good' big-bodied power-slot type (6-plus feet, 200-plus pounds), similar in build to draft prospect Isaac TeSlaa, whom the Saints also reportedly had a high opinion of before Detroit traded up to grab him. Harmon says Vele profiles as a fine WR3 in the offense, but that New Orleans' receiver room beyond [[Chris Olave]] is still 'blank slate'-ish and likely gets further additions given expected cap relief this offseason.
 - 2026-03-19 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-03-19]]): Vele will keep getting written off as too old, but Waldman sees him as a nice Tim Patrick-type who can work the middle of the field -- addable and droppable off the waiver wire as matchups dictate rather than a long-term stash.
 - 2026-08-18 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-08-18]]) [Redraft (Standard)]: with [[Jordan Tyson]] out, Vele may see a target uptick in the Saints' offense, but Harris still doesn't consider him draftable.
+- 2026-09-15 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-15]]): Vele drew a pass-interference call at the goal line, made a diving touchdown grab and a full-extension 30-yard catch in the Saints' comeback, and got heavy volume as essentially the only other mouth to feed with Jordan Tyson out. Harris made him his #2 Week 2 waiver add (Funston had him #3), calling it a short-term play tied to the Tyson injury and saying he'd rather start Vele than Jaden Reed right now. Both hosts caution it depends on the Saints continuing to fall behind and rack up garbage-time volume.
+- 2026-09-18 — According to Jeff Erickson (guest, not a tracked expert; [[Harris Fantasy Football Podcast - 2026-09-18]]) [Redraft (Standard)]: Erickson's number-two 'up' pick after a 7-catch, touchdown game defined by route variety rather than just volume -- he highlights a semi-deep sideline route that drew defensive pass interference and a fade route he won on a different snap. Erickson says he can now use Vele as a flex/WR4 in some formats, calling it 'damning with faint praise' but real, and notes he's effectively the closest thing to a clear top receiver on the roster with [[Chris Olave]] out. Erickson expects Vele to keep climbing the rankings for now.
 
 ## Related Concepts
 - [[Dynasty]]
@@ -41,4 +43,5 @@ tags: [player]
 - [[Power Slot Receiver Archetype]]
 - [[Mining Bad Offenses]]
 - [[Sacrificial X Receiver]]
+- [[Chris Olave]]
 
