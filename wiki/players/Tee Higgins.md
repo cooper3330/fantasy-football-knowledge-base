@@ -77,6 +77,7 @@ tags: [player]
 - 2026-09-03 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-03]]) [Dynasty]: grouped Higgins with big-bodied, soft-tissue-injury-prone receivers (with a historical comp to Julio Jones) as unlikely to age gracefully into his 30s, contrasting him with the more skill-based aging comps discussed elsewhere on the show (see [[Aging Curves and Career Longevity]]).
 - 2026-09-09 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-09]]): Higgins' heel injury is not a Week 1 concern -- he's back at practice and Harris made no change to his rank, calling him an obvious start regardless.
 - 2026-09-14 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-14]]): Higgins and [[Ja'Marr Chase]] both had big gains in the second quarter to set up a red-zone score (that went to [[Mike Gesicki]] instead), and Higgins closed the game with a really good catch on a deep post to secure the final first down. Harris notes Gesicki will 'stand out in the box score' more than Higgins or Chase on nights like this, unfortunately for their fantasy lines.
+- 2026-09-21 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-21]]): Higgins had a strong game vs. Houston -- a deep dig route for a big gain, a third-down conversion taken for 24 yards, and a fourth-quarter spinning sideline grab (again on Derek Stingley Jr., who Harris says did nothing wrong on the play) that set up a field goal making it 20-6.
 
 ## Related Concepts
 - [[Weak Quarterback Play and Receiver Value]]

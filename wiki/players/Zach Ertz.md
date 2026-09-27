@@ -17,6 +17,7 @@ tags: [player]
 - 2025-11-03 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2025-11-03]]): with [[Jayden Daniels]] out and [[Marcus Mariota]] under center, Ertz 'probably becomes a check-down magnet', but Harris warns 'it's hard to make a living as a top-end fantasy starter in not a very good offense that way'. He also flags the Week 10 matchup — hosting a Lions team likely to be in a bad mood after losing to Minnesota.
 - 2025-12-09 — According to Chris Harris ([[Harris Fantasy Football Podcast - 2025-12-09]]): Ertz tore his ACL and is out for the season after getting bent over by a badly-placed, hard ('deadly medicine ball') throw from Marcus Mariota.
 - 2026-01-22 — According to [[Brandon Angelo]] ([[Matt Waldman's RSP Cast - 2026-01-22]]): Ertz had been good for his age before tearing his ACL, and it's unclear what he looks like coming back from that injury.
+- 2026-09-25 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-25]]): Ertz signed off the street as a short-term fill-in with [[Dallas Goedert]] out multiple weeks (sprained MCL); the Eagles 'certainly trust him there,' but Harris cautioned he 'is a lot slower than the last time he played in Philly,' tempering expectations for a real usage spike.
 
 ## Related Concepts
 - [[Aging Curves and Career Longevity]]

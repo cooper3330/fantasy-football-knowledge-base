@@ -631,6 +631,13 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2026-09-17 | [[Chris Harris]] | Week 2 Ranks & Previewing Lions v Bills | [[Harris Fantasy Football Podcast - 2026-09-17]] |
 | 2026-09-17 | [[Matt Waldman]] | Surprises, Disappointments, Colts, Giants, and Patriots Offenses: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2026-09-17]] |
 | 2026-09-18 | [[Chris Harris]] | Players We've Already Changed Our Minds On | [[Harris Fantasy Football Podcast - 2026-09-18]] |
+| 2026-09-21 | [[Chris Harris]] | Week 2 Game Film Review | [[Harris Fantasy Football Podcast - 2026-09-21]] |
+| 2026-09-21 | [[Matt Waldman]] | Feel It or F**k It 9.21.26 with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-09-21 (Feel It or Fk It)]] |
+| 2026-09-22 | [[Chris Harris]] | Week 3 Waivers & More W2 Game Film Review | [[Harris Fantasy Football Podcast - 2026-09-22]] |
+| 2026-09-22 | [[Matt Harmon]] | Week 2 Review: A 2nd Round Steal, Confusing Bears and Silver & Black Surge | [[Reception Perception The Show - 2026-09-22]] |
+| 2026-09-24 | [[Matt Harmon]] | Rams NEED a Trade? Puka Hobbled, Giant Problems & Packers Offense Needs a Jolt | [[Reception Perception The Show - 2026-09-24]] |
+| 2026-09-24 | [[Chris Harris]] | Week 3 Lineups & Falcons v Packers Preview | [[Harris Fantasy Football Podcast - 2026-09-24]] |
+| 2026-09-25 | [[Chris Harris]] | Five Things That Are Blowing Our Minds & Thursday Night Review | [[Harris Fantasy Football Podcast - 2026-09-25]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

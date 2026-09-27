@@ -192,6 +192,18 @@
       "title": "Running Back Profiles? Running Back Profiles!",
       "transcript_source": "whisper"
     },
+    "1d0d968f-9de8-43cf-b7b2-73bc3679adea": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-21",
+      "guid": "1d0d968f-9de8-43cf-b7b2-73bc3679adea",
+      "last_checked": "2026-09-21",
+      "pub_date": "2026-09-21",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-09-21-harris-week-2-game-film-review.md",
+      "status": "ingested",
+      "title": "Week 2 Game Film Review",
+      "transcript_source": "whisper"
+    },
     "1e92bc55-1014-4534-9e3f-b1a3870ef745": {
       "expert": "Chris Harris",
       "first_seen": "2026-08-03",
@@ -526,6 +538,18 @@
       "staged_path": "raw/ingested/reception-perception/2025-07-30-rp-nfc-south-wr-division-preview.md",
       "status": "ingested",
       "title": "NFC South WR Division Preview",
+      "transcript_source": "whisper"
+    },
+    "2ce3d349-de4a-4e47-b92a-bff9609cc7cd": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-24",
+      "guid": "2ce3d349-de4a-4e47-b92a-bff9609cc7cd",
+      "last_checked": "2026-09-24",
+      "pub_date": "2026-09-24",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-09-24-harris-week-3-lineups-falcons-v-packers-preview.md",
+      "status": "ingested",
+      "title": "Week 3 Lineups & Falcons v Packers Preview",
       "transcript_source": "whisper"
     },
     "2e4946c0-218b-11f1-bfda-1bdfca1fab18": {
@@ -1500,6 +1524,18 @@
       "title": "NFL Week 5 Takeaways!",
       "transcript_source": "whisper"
     },
+    "69628f3a-9f3e-40a6-8a78-afb611d5a978": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-25",
+      "guid": "69628f3a-9f3e-40a6-8a78-afb611d5a978",
+      "last_checked": "2026-09-25",
+      "pub_date": "2026-09-25",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-09-25-harris-five-things-that-are-blowing-our-minds-thursday-night-review.md",
+      "status": "ingested",
+      "title": "Five Things That Are Blowing Our Minds & Thursday Night Review",
+      "transcript_source": "whisper"
+    },
     "69cb985e-b3f7-11ef-b76b-83d304c91be2": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-04",
@@ -2400,6 +2436,18 @@
       "title": "Week 2 Breakdown: Chiefs Aerial Weapon Shortage, Golden\u2019s Surge & New Look Bills",
       "transcript_source": "whisper"
     },
+    "LYEqfaCLbZyyap2iiV48pJ5ZEU6ZrFWd": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-09-24",
+      "guid": "LYEqfaCLbZyyap2iiV48pJ5ZEU6ZrFWd",
+      "last_checked": "2026-09-24",
+      "pub_date": "2026-09-24",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/ingested/reception-perception/2026-09-24-rp-rams-need-a-trade-puka-hobbled-giant-problems-packers-offense-needs-a-.md",
+      "status": "ingested",
+      "title": "Rams NEED a Trade? Puka Hobbled, Giant Problems & Packers Offense Needs a Jolt",
+      "transcript_source": "whisper"
+    },
     "PSWaYxMYWrxEkjxdA5CBF9WqFR4ZRQRm": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-20",
@@ -2470,6 +2518,18 @@
       "staged_path": "raw/ingested/reception-perception/2026-06-04-rp-aj-brown-trade-official-london-gets-the-bag-xavier-worthy-profile.md",
       "status": "ingested",
       "title": "AJ Brown Trade Official, London Gets The Bag & Xavier Worthy Profile",
+      "transcript_source": "whisper"
+    },
+    "ZjGCys3nTXKseCRaUk6U4DxIDj87jhOT": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-09-23",
+      "guid": "ZjGCys3nTXKseCRaUk6U4DxIDj87jhOT",
+      "last_checked": "2026-09-23",
+      "pub_date": "2026-09-22",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/ingested/reception-perception/2026-09-22-rp-week-2-review-a-2nd-round-steal-confusing-bears-and-silver-black-surge.md",
+      "status": "ingested",
+      "title": "Week 2 Review: A 2nd Round Steal, Confusing Bears and Silver & Black Surge",
       "transcript_source": "whisper"
     },
     "a08d9a6e-f651-4a2a-b411-4d592452098e": {
@@ -4210,6 +4270,18 @@
       "staged_path": "raw/ingested/harris-football/2026-08-11-harris-swing-players-for-2026.md",
       "status": "ingested",
       "title": "Swing Players For 2026",
+      "transcript_source": "whisper"
+    },
+    "e6b63dbb-49db-4f35-8a40-f0a3b122581b": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-22",
+      "guid": "e6b63dbb-49db-4f35-8a40-f0a3b122581b",
+      "last_checked": "2026-09-22",
+      "pub_date": "2026-09-22",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-09-22-harris-week-3-waivers-more-w2-game-film-review.md",
+      "status": "ingested",
+      "title": "Week 3 Waivers & More W2 Game Film Review",
       "transcript_source": "whisper"
     },
     "e895a63e-d50b-4f01-9628-fc59a33f297c": {
@@ -7102,6 +7174,18 @@
       "staged_path": "raw/ingested/rsp-cast/2026-09-17-rsp-surprises-disappointments-colts-giants-and-patriots-offenses-going-dee.md",
       "status": "ingested",
       "title": "Surprises, Disappointments, Colts, Giants, and Patriots Offenses: Going Deep with Brandon Angelo & Matt Waldman",
+      "transcript_source": "whisper"
+    },
+    "https://mattwaldmanrsp.com/?p=54419": {
+      "expert": "Matt Waldman",
+      "first_seen": "2026-09-23",
+      "guid": "https://mattwaldmanrsp.com/?p=54419",
+      "last_checked": "2026-09-23",
+      "pub_date": "2026-09-21",
+      "show": "Matt Waldman's RSP Cast",
+      "staged_path": "raw/ingested/rsp-cast/2026-09-21-rsp-feel-it-or-fit-92126-with-bob-harris-and-matt-waldman.md",
+      "status": "ingested",
+      "title": "Feel It or F\u2013It 9.21.26 with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
     },
     "lBVG9RPlKrEDgQb54y8GBiUotJw46bNn": {

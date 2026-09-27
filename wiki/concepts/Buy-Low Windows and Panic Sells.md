@@ -20,6 +20,7 @@ tags: [concept, trades, strategy]
 - 2025-11-21 — According to Chris Harris and Cousin Josh (guest, untracked) on [[Harris Fantasy Football Podcast - 2025-11-21]] [Dynasty]: Several of the hosts' 2026 value-riser picks -- [[Chris Olave]], [[Cedric Tillman]], [[Luther Burden III]] -- were framed explicitly as buy-low targets whose current dynasty market price (crashed ADP, FantasyPros ranks lagging actual production) reflects a rough 2025 season or slow rookie start rather than a real talent ceiling, making now the time to acquire them before the value resets upward.
 - 2025-12-04 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-12-04]]) [Dynasty]: laid out an explicit buy-low playbook for [[Kyle Williams]] -- acquire him now, before a strong playoff performance or free-agency rumors about George Pickens/Alec Pierce/Calvin Ridley drive up his perceived value, and ideally while his role stays quiet enough that fantasy managers keep overlooking him.
 - 2026-08-10 — According to Bob Harris and [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-08-10]]): discussing [[Luther Burden III]]'s groin injury, both hosts frame training-camp injury scares as buying opportunities rather than red flags when a team is simply resting a player who has already shown enough to earn trust -- Harris explicitly calls a depressed price 'the best news' for anyone who hasn't drafted the player yet. Waldman ties the risk management to end-game roster construction, referencing his Football Guys article on planning 'a great end game': build in some safer, high-floor picks late if you're taking a risk on a name like Burden earlier, or lean into upside swings late if you've already secured safety, so a single injury scare doesn't sink a whole roster.
+- 2026-09-22 — According to Matt Harmon ([[Reception Perception The Show - 2026-09-22]]): after a whiplash Week 2 for Chicago's pass catchers, Harmon said he'd be trying to buy low on both [[Rome Odunze]] and [[Colson Loveland]], while choosing to just 'monitor' [[Luther Burden III]] rather than buy or sell given his usage dip is real but still only two games old. Both hosts acknowledged the broader trap of small-sample overreaction, noting they expect to look back on some of their own Week 2 declarations as overreactions within a month.
 
 ## Related
 - [[Running Back Trade Market Scarcity Premium]]
@@ -29,3 +30,5 @@ tags: [concept, trades, strategy]
 - [[Win-Now Trade Timing]]
 - [[Mining Bad Offenses]]
 - [[Luther Burden III]]
+- [[Rome Odunze]]
+- [[Colson Loveland]]
