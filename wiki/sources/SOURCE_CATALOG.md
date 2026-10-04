@@ -638,6 +638,14 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2026-09-24 | [[Matt Harmon]] | Rams NEED a Trade? Puka Hobbled, Giant Problems & Packers Offense Needs a Jolt | [[Reception Perception The Show - 2026-09-24]] |
 | 2026-09-24 | [[Chris Harris]] | Week 3 Lineups & Falcons v Packers Preview | [[Harris Fantasy Football Podcast - 2026-09-24]] |
 | 2026-09-25 | [[Chris Harris]] | Five Things That Are Blowing Our Minds & Thursday Night Review | [[Harris Fantasy Football Podcast - 2026-09-25]] |
+| 2026-09-28 | [[Chris Harris]] | Week 3 Game Film Review - RB Injuries Abound! | [[Harris Fantasy Football Podcast - 2026-09-28]] |
+| 2026-09-28 | [[Matt Waldman]] | Feel It or F**k It 9.28.26 with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-09-28]] |
+| 2026-09-29 | [[Matt Harmon]] | JJ to NYC! Plus: What's Working in Vegas & New Star in Jacksonville | [[Reception Perception The Show - 2026-09-29]] |
+| 2026-09-29 | [[Chris Harris]] | Week 4 Waiver Wire & More W3 Game Reviews | [[Harris Fantasy Football Podcast - 2026-09-29]] |
+| 2026-10-01 | [[Matt Harmon]] | Everybody Loves Raymond, T-Mac Tape & Are the Browns...Back? | [[Reception Perception The Show - 2026-10-01]] |
+| 2026-10-01 | [[Chris Harris]] | Putting Together Week 4 Lineups | [[Harris Fantasy Football Podcast - 2026-10-01]] |
+| 2026-10-01 | [[Matt Waldman]] | QB & WR Development, Saints Offense, & Rookies: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2026-10-01]] |
+| 2026-10-02 | [[Chris Harris]] | Players To Trade For & Thursday Night Review | [[Harris Fantasy Football Podcast - 2026-10-02]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

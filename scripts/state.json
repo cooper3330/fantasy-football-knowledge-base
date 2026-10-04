@@ -2088,6 +2088,18 @@
       "title": "Emeka Egbuka Film Futures & AJ Brown's Future & Super Bowl Wagers!",
       "transcript_source": "whisper"
     },
+    "7b615906-8491-440f-ae83-e61a81087cd0": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-10-02",
+      "guid": "7b615906-8491-440f-ae83-e61a81087cd0",
+      "last_checked": "2026-10-02",
+      "pub_date": "2026-10-02",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-10-02-harris-players-to-trade-for-thursday-night-review.md",
+      "status": "ingested",
+      "title": "Players To Trade For & Thursday Night Review",
+      "transcript_source": "whisper"
+    },
     "7c705b28-5109-4da8-8ae9-c4f90a7ca86c": {
       "expert": "Chris Harris",
       "first_seen": "2026-08-04",
@@ -2112,6 +2124,18 @@
       "title": "Mid-Round Prospect Profiles!",
       "transcript_source": "whisper"
     },
+    "7e6ebd2a-3a8f-4721-b2b9-f5a00aa2d07d": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-10-01",
+      "guid": "7e6ebd2a-3a8f-4721-b2b9-f5a00aa2d07d",
+      "last_checked": "2026-10-01",
+      "pub_date": "2026-10-01",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-10-01-harris-putting-together-week-4-lineups.md",
+      "status": "ingested",
+      "title": "Putting Together Week 4 Lineups",
+      "transcript_source": "whisper"
+    },
     "8089f0f5-95bd-49bb-90f0-b8af485e9ca0": {
       "expert": "Chris Harris",
       "first_seen": "2026-09-10",
@@ -2134,6 +2158,18 @@
       "staged_path": "raw/ingested/reception-perception/2025-02-13-rp-nfc-east-wide-receiver-preview.md",
       "status": "ingested",
       "title": "NFC East Wide Receiver Preview",
+      "transcript_source": "whisper"
+    },
+    "81f4295a-1f14-4d79-9622-a75474d41f85": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-29",
+      "guid": "81f4295a-1f14-4d79-9622-a75474d41f85",
+      "last_checked": "2026-09-29",
+      "pub_date": "2026-09-29",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-09-29-harris-week-4-waiver-wire-more-w3-game-reviews.md",
+      "status": "ingested",
+      "title": "Week 4 Waiver Wire & More W3 Game Reviews",
       "transcript_source": "whisper"
     },
     "8262732a-47f2-11f1-b068-fbb73df95c39": {
@@ -2424,6 +2460,18 @@
       "title": "Do We Believe in These Receivers?",
       "transcript_source": "whisper"
     },
+    "IuzJGe340ljacEwoVNhNizYbBp4DSVsL": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-10-01",
+      "guid": "IuzJGe340ljacEwoVNhNizYbBp4DSVsL",
+      "last_checked": "2026-10-01",
+      "pub_date": "2026-10-01",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/ingested/reception-perception/2026-10-01-rp-everybody-loves-raymond-t-mac-tape-are-the-brownsback.md",
+      "status": "ingested",
+      "title": "Everybody Loves Raymond, T-Mac Tape & Are the Browns...Back?",
+      "transcript_source": "whisper"
+    },
     "JF2VAGfesO929D2cj0mOEl1bVmvon1Oz": {
       "expert": "Matt Harmon",
       "first_seen": "2026-09-17",
@@ -2602,6 +2650,18 @@
       "staged_path": "raw/ingested/harris-football/2026-04-16-harris-qb-te-rookies-in-the-2026-nfl-draft.md",
       "status": "ingested",
       "title": "QB & TE Rookies In The 2026 NFL Draft",
+      "transcript_source": "whisper"
+    },
+    "aKXJaX0gwLB0Y7DO4LXHo42LH1BUmKsB": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-09-29",
+      "guid": "aKXJaX0gwLB0Y7DO4LXHo42LH1BUmKsB",
+      "last_checked": "2026-09-29",
+      "pub_date": "2026-09-29",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/ingested/reception-perception/2026-09-29-rp-jj-to-nyc-plus-whats-working-in-vegas-new-star-in-jacksonville.md",
+      "status": "ingested",
+      "title": "JJ to NYC! Plus: What\u2019s Working in Vegas & New Star in Jacksonville",
       "transcript_source": "whisper"
     },
     "aa0c23d9-6b5b-4124-92f6-e7c385286903": {
@@ -3982,6 +4042,18 @@
       "staged_path": "raw/ingested/reception-perception/2024-02-13-rp-chiefs-take-down-49ers-for-super-bowl-lviii.md",
       "status": "ingested",
       "title": "Chiefs Take Down 49ers for Super Bowl LVIII",
+      "transcript_source": "whisper"
+    },
+    "ca101bee-3547-4618-a2d6-d0980bd7d99f": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-09-28",
+      "guid": "ca101bee-3547-4618-a2d6-d0980bd7d99f",
+      "last_checked": "2026-09-28",
+      "pub_date": "2026-09-28",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-09-28-harris-week-3-game-film-review-rb-injuries-abound.md",
+      "status": "ingested",
+      "title": "Week 3 Game Film Review - RB Injuries Abound!",
       "transcript_source": "whisper"
     },
     "ca178d40-2483-11ed-a706-5f16602d1dad": {
@@ -7186,6 +7258,30 @@
       "staged_path": "raw/ingested/rsp-cast/2026-09-21-rsp-feel-it-or-fit-92126-with-bob-harris-and-matt-waldman.md",
       "status": "ingested",
       "title": "Feel It or F\u2013It 9.21.26 with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
+    },
+    "https://mattwaldmanrsp.com/?p=54437": {
+      "expert": "Matt Waldman",
+      "first_seen": "2026-09-30",
+      "guid": "https://mattwaldmanrsp.com/?p=54437",
+      "last_checked": "2026-09-30",
+      "pub_date": "2026-09-28",
+      "show": "Matt Waldman's RSP Cast",
+      "staged_path": "raw/ingested/rsp-cast/2026-09-28-rsp-feel-it-or-fit-92826-with-bob-harris-and-matt-waldman.md",
+      "status": "ingested",
+      "title": "Feel It or F\u2013It 9.28.26 with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
+    },
+    "https://mattwaldmanrsp.com/?p=54484": {
+      "expert": "Matt Waldman",
+      "first_seen": "2026-10-02",
+      "guid": "https://mattwaldmanrsp.com/?p=54484",
+      "last_checked": "2026-10-02",
+      "pub_date": "2026-10-01",
+      "show": "Matt Waldman's RSP Cast",
+      "staged_path": "raw/ingested/rsp-cast/2026-10-01-rsp-qb-wr-development-saints-offense-rookies-going-deep-with-brandon-angel.md",
+      "status": "ingested",
+      "title": "QB & WR Development, Saints Offense, & Rookies: Going Deep with Brandon Angelo & Matt Waldman",
       "transcript_source": "whisper"
     },
     "lBVG9RPlKrEDgQb54y8GBiUotJw46bNn": {

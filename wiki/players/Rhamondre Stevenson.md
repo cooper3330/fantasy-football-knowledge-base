@@ -59,6 +59,8 @@ tags: [player]
 - 2026-09-17 — According to [[Brandon Angelo]] ([[Matt Waldman's RSP Cast - 2026-09-17]]): Angelo thinks Stevenson could see enough volume to be fantasy-relevant given how thin New England's receiver room is, even as the passing offense struggles.
 - 2026-09-21 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-21]]): Stevenson fumbled away a good screen on just the third play of the game in Steeler territory and got 'an absolute earful' from Mike Vrabel on camera. Despite still handling all eight third-down snaps (pass-pro trust), Harris thinks the fumble further erodes New England's confidence in him with the ball, predicting [[TreVeyon Henderson]] gets ranked ahead of him next week. Harris: 'now once again they may feel like they cannot trust Stevenson with the ball.'
 - 2026-09-24 — According to Jake Trowbridge (DraftKings DFS guest, not a tracked expert) ([[Harris Fantasy Football Podcast - 2026-09-24]]): Stevenson fumbled and is, per Trowbridge, 'dead to the Patriots for at least three weeks' as a result, opening a clearer runway for [[TreVeyon Henderson]] in New England's backfield.
+- 2026-10-01 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-01]]) [Redraft (Standard)]: Discussing the Patriots backfield for Week 4, Harris said he has Stevenson 'significantly ahead' of [[TreVeyon Henderson]] right now -- Stevenson remains the better pass protector and holds the clear third-down role, while people around the team reportedly view Henderson as a disappointing role player by comparison.
+- 2026-10-02 — According to cousin Josh (untracked guest) and [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-02]]): Stevenson is RB35 with modest numbers, but both hosts agree the market has this wrong -- Josh says people perceive TreVeyon Henderson as having more value than Stevenson and thinks that's 'wrong, wrong, wrong, wrong, wrong,' and Harris says the Patriots coaching staff is fully locked in on Stevenson as the starter with 'zero thought' of turning the job over, barring an injury or a repeated fumbling problem (Stevenson has had multiple fumbles this season that create some real risk). Josh frames this as a buy-low given scarce, flex-worthy running backs are undervalued relative to the league's glut of interchangeable WR2/3 types. Proposed cost: any of Josh Downs, Matthew Golden or Deebo Samuel, with both hosts agreeing Golden-for-Stevenson gets it done.
 
 ## Related Concepts
 - [[Dented Cans]]
@@ -78,4 +80,5 @@ tags: [player]
 - [[Draft Capital Rep Allocation Bias]]
 - [[Existing Roster Talent and Prospect Opportunity]]
 - [[Training Camp Report Skepticism]]
+- [[Running Back Dead Zone]]
 

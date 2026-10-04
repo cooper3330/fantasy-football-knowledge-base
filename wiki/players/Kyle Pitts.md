@@ -66,6 +66,7 @@ tags: [player]
 - 2026-08-20 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-08-20]]) [Redraft (Standard)]: Harris says he doesn't have Pitts ranked anywhere near his ADP as a top tight end, given his broader skepticism of the Falcons' quarterback situation.
 - 2026-09-14 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-14]]): Pitts was wide open on an early seam shot that [[Cooper Rush]] 'dramatically underthrew,' costing what might have been a long touchdown. Harris says he isn't a big believer in Pitts generally, but even he acknowledges the quarterback play cost Pitts a big play here.
 - 2026-09-24 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-24]]): Harris was sitting Pitts 'everywhere I could' in Week 2 during the [[Cooper Rush]] starts, and said flatly that anyone still rostering him at this point has a 'skill issue' -- a pointed continuation of his broader skepticism about Pitts's fantasy relevance regardless of who starts at quarterback for Atlanta.
+- 2026-09-28 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-09-28]]) [Dynasty]: unlike [[Drake London]], Waldman says it's unclear what a strong [[Michael Penix Jr.]] week does for Kyle Pitts -- he expects Pitts to keep 'Kyle Pitzing' (underperforming his talent) rather than return to the TE1/TE2-caliber form he flashed late last season when [[Kirk Cousins]], whom Waldman calls a 'tight end whisperer,' was targeting him.
 
 ## Related Concepts
 - [[Scheme vs Talent]]
