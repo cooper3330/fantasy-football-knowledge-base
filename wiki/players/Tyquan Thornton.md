@@ -17,10 +17,12 @@ tags: [player]
 - 2025-10-13 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2025-10-13]]): Thornton played 16 snaps and ran only 12 routes against the Lions and finished with zero catches and zero targets, confirming the ranking call Harris had made pushing back on listeners who wanted him started over [[Brian Thomas Jr.]] -- 'pretty much anyone would have been a better bet than how Thornton turned out.' With Rashee Rice's return approaching, Harris said he is 'certainly not thinking of using Thornton again anytime soon.'
 - 2026-09-21 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-21]]): Thornton emerged as the Chiefs' deep threat against the Colts, catching a 'hold your breath' shot down to the one and converting a deep 3rd-and-long ball in overtime. Harris notes the irony that the Patriots whiffed on him so badly in the second round they had to cut him, and calls the game 'not good for fantasy but good for the Chiefs' -- a one-off role-player deep shot rather than a repeatable target share.
 - 2026-09-21 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-09-21 (Feel It or Fk It)]]) [Redraft (Standard)]: Thornton made several nice plays, including a near-60-yard connection off play-action, but Waldman characterized him strictly as a deep-ball weapon -- Kansas City still lacks anyone else who reliably wins the intermediate, timing-route portion of the field.
+- 2026-10-06 — According to Chris Harris ([[Harris Fantasy Football Podcast - 2026-10-06]]): Before his injury, Tyquan Thornton had the best game of his career for the Chiefs against the Raiders -- a short touchdown, a leaping 22-yard touchdown, and a pivotal 55-yard catch off a Patrick Mahomes scramble-and-launch that set up the go-ahead score ('why can't the Patriots get guys like that'). On that same catch he suffered a dislocated ankle, got up to celebrate before realizing the severity, and had to be carted off. Harris confirms he's done for the season, calling it a brutal injury not to re-watch on replay, and notes it leaves Kansas City's receiver corps 'really, really thin.'
 
 ## Related Concepts
 - [[Training Camp Report Skepticism]]
 - [[Lid Lifter Receivers and Space Creation]]
 - [[Waiver Wire Archetypes and Organizational Support]]
 - [[Mining Bad Offenses]]
+- [[Sunday Morning Insider Reports and Fantasy Noise]]
 

@@ -34,6 +34,7 @@ tags: [player]
 - 2026-09-10 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-10]]) [Redraft (Standard)]: floated by a listener as the Week 1 flex fallback if [[Jeremiah Love]] can't go; Harris said he'd lean Allgeier over [[DJ Moore]] in that scenario, but noted it sounds like Love is expected to play, making it a low-probability contingency.
 - 2026-09-11 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-11]]) [Redraft (Standard)]: Harris confirmed [[Tyler Allgeier]] will also play in Week 1, noting that's not a disqualifier for fantasy relevance since most teams roll with two backs anyway.
 - 2026-09-14 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-14]]): Allgeier out-carried and out-snapped [[Jeremiah Love]] (17-11, 41-32) and got the goal-line work on two other possessions besides Love's touchdown drive, including late-game clock-killing snaps. Harris notes some of that gap should be discounted since Allgeier played through garbage-time drives, but calls him 'a physical dude' who is clearly first in line for short-yardage work over the rookie for now.
+- 2026-10-06 — According to Chris Harris ([[Harris Fantasy Football Podcast - 2026-10-06]]): Tyler Allgeier held the goal-line role and was in on Arizona's two-minute drill against the Giants, taking 29 of 34 backfield snaps to split with Jeremiah Love -- a real, ongoing complication of Love's path to a clean lead role.
 
 ## Related Concepts
 - [[Dynasty]]

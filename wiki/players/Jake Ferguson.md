@@ -19,6 +19,7 @@ tags: [player]
 - 2025-12-12 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2025-12-12]]): Harris said flatly he hopes fantasy managers are no longer excited by Ferguson, arguing his earlier-career production numbers overstated how good a player he actually is; Ferguson was limited Wednesday and then didn't practice Thursday with a calf issue, and Harris flagged a midweek downgrade like that as 'never great' for availability. [Redraft (Standard)]
 - 2026-09-14 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-14]]): Ferguson drew a pass-interference penalty on the goal line as part of Dallas's red-zone possessions, a minor but notable role note from an otherwise uneven offensive night.
 - 2026-09-22 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-22]]): Ferguson scored twice against Washington -- once when the Commanders simply forgot to cover him, and again after a Washington fumble deep in their own territory set up a short field.
+- 2026-10-06 — According to Chris Harris ([[Harris Fantasy Football Podcast - 2026-10-06]]): Harris reiterated why he avoids chasing Jake Ferguson in fantasy, grouping him with Dalton Schultz as tight ends who 'aren't special players' -- they'll pop for a week here and there but are largely 'cul-de-sac tight ends,' a dead end for sustained fantasy value even in a good Dallas offense.
 
 ## Related Concepts
 - [[Tight End as Number One Read]]

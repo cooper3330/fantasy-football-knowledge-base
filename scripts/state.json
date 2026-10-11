@@ -168,6 +168,18 @@
       "title": "New Prospect Drops!",
       "transcript_source": "whisper"
     },
+    "157fffab-3626-4874-8fcb-6ac1e598aff1": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-10-05",
+      "guid": "157fffab-3626-4874-8fcb-6ac1e598aff1",
+      "last_checked": "2026-10-05",
+      "pub_date": "2026-10-05",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-10-05-harris-week-4-game-film-review.md",
+      "status": "ingested",
+      "title": "Week 4 Game Film Review",
+      "transcript_source": "whisper"
+    },
     "18he7wtjqJ6kHD54XJpwdJSEeTfY2toM": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-19",
@@ -840,6 +852,18 @@
       "title": "Week 9 Waivers & More W8 Game Discussion",
       "transcript_source": "whisper"
     },
+    "5dedc97e-677a-430f-bef1-9ab708d611ea": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-10-08",
+      "guid": "5dedc97e-677a-430f-bef1-9ab708d611ea",
+      "last_checked": "2026-10-08",
+      "pub_date": "2026-10-08",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-10-08-harris-week-5-start-sit-decisions-and-much-silliness.md",
+      "status": "ingested",
+      "title": "Week 5 Start & Sit Decisions and Much Silliness",
+      "transcript_source": "whisper"
+    },
     "5fab33d4-b3f7-11ef-b76b-ebce4575c4ed": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-03",
@@ -970,6 +994,18 @@
       "staged_path": "raw/ingested/reception-perception/2025-04-08-rp-julio-jones-retires-more-tutu-incoming-jaylin-noel-chart.md",
       "status": "ingested",
       "title": "Julio Jones Retires, More Tutu Incoming & Jaylin Noel Chart!",
+      "transcript_source": "whisper"
+    },
+    "6121cefb-b3e2-46e1-b776-8b1b7a99e03d": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-10-06",
+      "guid": "6121cefb-b3e2-46e1-b776-8b1b7a99e03d",
+      "last_checked": "2026-10-06",
+      "pub_date": "2026-10-06",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-10-06-harris-week-5-waiver-wire-more-w4-game-reviews.md",
+      "status": "ingested",
+      "title": "Week 5 Waiver Wire & More W4 Game Reviews",
       "transcript_source": "whisper"
     },
     "6160581c-b3f7-11ef-b76b-eb2b11dbde94": {
@@ -2494,6 +2530,18 @@
       "staged_path": "raw/ingested/reception-perception/2026-09-24-rp-rams-need-a-trade-puka-hobbled-giant-problems-packers-offense-needs-a-.md",
       "status": "ingested",
       "title": "Rams NEED a Trade? Puka Hobbled, Giant Problems & Packers Offense Needs a Jolt",
+      "transcript_source": "whisper"
+    },
+    "PReLgMMAQKNOU4vDgb9fY4X2WynKyGfq": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-10-06",
+      "guid": "PReLgMMAQKNOU4vDgb9fY4X2WynKyGfq",
+      "last_checked": "2026-10-06",
+      "pub_date": "2026-10-06",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/ingested/reception-perception/2026-10-06-rp-feed-the-wr1s-ceedee-nico-eat-zay-flowers-elite-ascension.md",
+      "status": "ingested",
+      "title": "Feed the WR1s: CeeDee + Nico EAT & Zay Flowers' Elite Ascension",
       "transcript_source": "whisper"
     },
     "PSWaYxMYWrxEkjxdA5CBF9WqFR4ZRQRm": {
@@ -4210,6 +4258,18 @@
       "staged_path": "raw/ingested/harris-football/2026-09-04-harris-preseason-huggy-baggy-awards.md",
       "status": "ingested",
       "title": "Preseason Huggy & Baggy Awards",
+      "transcript_source": "whisper"
+    },
+    "d72adb39-03d3-403a-b17c-e3ea90014a74": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-10-09",
+      "guid": "d72adb39-03d3-403a-b17c-e3ea90014a74",
+      "last_checked": "2026-10-09",
+      "pub_date": "2026-10-09",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/transcripts/harris-football/2026-10-09-harris-players-to-trade-away-the-sprinter-soldier-goes-off.md",
+      "status": "fetched",
+      "title": "Players To Trade Away & The Sprinter Soldier Goes Off",
       "transcript_source": "whisper"
     },
     "d8082086-169c-11f1-be9d-73e005b075a4": {
@@ -7284,6 +7344,18 @@
       "title": "QB & WR Development, Saints Offense, & Rookies: Going Deep with Brandon Angelo & Matt Waldman",
       "transcript_source": "whisper"
     },
+    "https://mattwaldmanrsp.com/?p=54496": {
+      "expert": "Matt Waldman",
+      "first_seen": "2026-10-06",
+      "guid": "https://mattwaldmanrsp.com/?p=54496",
+      "last_checked": "2026-10-06",
+      "pub_date": "2026-10-05",
+      "show": "Matt Waldman's RSP Cast",
+      "staged_path": "raw/ingested/rsp-cast/2026-10-05-rsp-feel-it-or-fit-10526-with-bob-harris-and-matt-waldman.md",
+      "status": "ingested",
+      "title": "Feel It or F\u2013It 10.5.26 with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
+    },
     "lBVG9RPlKrEDgQb54y8GBiUotJw46bNn": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-19",
@@ -7330,6 +7402,18 @@
       "staged_path": "raw/ingested/reception-perception/2026-06-25-rp-quarterback-dive-with-alfredo-brown.md",
       "status": "ingested",
       "title": "Quarterback Dive with Alfredo Brown",
+      "transcript_source": "whisper"
+    },
+    "qb6BDf2jmLNKATa2f9zVl1JeU9zA4g2R": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-10-08",
+      "guid": "qb6BDf2jmLNKATa2f9zVl1JeU9zA4g2R",
+      "last_checked": "2026-10-08",
+      "pub_date": "2026-10-08",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/ingested/reception-perception/2026-10-08-rp-the-falcons-are-flying-the-eagles-are-not-carnell-tate-szn.md",
+      "status": "ingested",
+      "title": "The Falcons Are Flying, The Eagles Are Not + Carnell Tate SZN??",
       "transcript_source": "whisper"
     },
     "u55WGyc4qyfQviEUYPoaiht6Ioz4p3Bc": {

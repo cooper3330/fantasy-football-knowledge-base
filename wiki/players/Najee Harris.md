@@ -39,6 +39,7 @@ tags: [player]
 - 2026-03-30 — According to Bob Harris (untracked co-host, [[Matt Waldman's RSP Cast - 2026-03-30]]): Najee Harris is visiting Seattle this week while recovering from his Achilles injury; Bob Harris says he has seen video of Harris already running on a treadmill, an encouraging but early recovery signal. No clarity yet on whether he lands a roster spot given the Seahawks' other backfield options.
 - 2026-08-24 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-08-24 (Feel It or Fk It)]]): citing head coach John Harbaugh's comments from before Najee Harris was signed, Waldman said Harris 'is not 100%' coming off his Achilles tear and it 'will be a bit of a process to get him back up to speed,' which he called a sensible expectation. Harris's arrival has already pushed [[Tyrone Tracy Jr.]] down the pecking order behind [[Devin Singletary]] in the most recent preseason game, but Waldman cautioned against overrating Harris's near-term role until his conditioning off the injury becomes clearer. [Best Ball]
 - 2026-09-07 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-09-07]]) [Dynasty]: Waldman flags 'legitimate reporting' that Harris will eventually carve out a role in the backfield behind Cam Skattebo, but is skeptical he's ready immediately coming off his Achilles injury, citing his head coach saying Harris is 'not 100%' and that his return 'is going to be a process' that could take a month, two months, or the entire season.
+- 2026-10-06 — According to Chris Harris ([[Harris Fantasy Football Podcast - 2026-10-06]]): Najee Harris converted a two-point conversion in a short-yardage role behind Cam Skattebo against Arizona, but also fumbled in Arizona territory on what turned out to be his last snap of the game -- Harris flagged the fumble as a real doghouse risk for him going forward.
 
 ## Related Concepts
 - [[Jaylen Warren]] — the direct backfield-split question
@@ -56,3 +57,4 @@ tags: [player]
 - [[Training Camp Report Skepticism]]
 - [[Clearly Defined Roles vs Do-Everything Personnel]]
 - [[Omarion Hampton]]
+- [[Goal Line Vulture Panic and Snap Share Evidence]]

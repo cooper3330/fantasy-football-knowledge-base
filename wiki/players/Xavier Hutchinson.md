@@ -29,6 +29,7 @@ tags: [player]
 - 2026-08-20 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-08-20]]) [Redraft (Standard)]: with [[Jayden Higgins]] out for the season with a torn ACL, Hutchinson is the most likely beneficiary, probably moving up the pecking order as an outside receiver in Houston.
 - 2026-08-20 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-08-20]]): Xavier Hutchinson 'is going to play more than any of you want' due to his blocking, and could even see the most snaps of any Houston WR2 candidate at times, but Harmon calls him firmly 'not a fantasy factor' -- his value is as a run-game/blocking piece rather than a target earner.
 - 2026-09-28 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-28]]): without [[Nico Collins]], [[Xavier Hutchinson]] was the closest thing Houston had to a fantasy factor -- flipped the field with a deep over route in the fourth quarter, then made an 'incredible' full-extension hands catch on the would-be winning drive, possibly injuring himself in the process. Finished 3-for-51 as Houston's leading receiver, but Harris said 'there really may not be a fantasy starter on this team' until Collins returns.
+- 2026-10-06 — According to Chris Harris ([[Harris Fantasy Football Podcast - 2026-10-06]]): Xavier Hutchinson has been passed on Houston's receiver depth chart by Jaylin Noel in three-receiver personnel, at least for this game, per Harris's film review.
 
 ## Related Concepts
 - [[Nico Collins]]

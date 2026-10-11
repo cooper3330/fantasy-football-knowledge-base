@@ -646,6 +646,12 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2026-10-01 | [[Chris Harris]] | Putting Together Week 4 Lineups | [[Harris Fantasy Football Podcast - 2026-10-01]] |
 | 2026-10-01 | [[Matt Waldman]] | QB & WR Development, Saints Offense, & Rookies: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2026-10-01]] |
 | 2026-10-02 | [[Chris Harris]] | Players To Trade For & Thursday Night Review | [[Harris Fantasy Football Podcast - 2026-10-02]] |
+| 2026-10-05 | [[Chris Harris]] | Week 4 Game Film Review | [[Harris Fantasy Football Podcast - 2026-10-05]] |
+| 2026-10-05 | [[Matt Waldman]] | Feel It or F**k It 10.5.26 with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-10-05 (Feel It or Fk It with Bob Harris)]] |
+| 2026-10-06 | [[Matt Harmon]] | Feed the WR1s: CeeDee + Nico EAT & Zay Flowers' Elite Ascension | [[Reception Perception The Show - 2026-10-06]] |
+| 2026-10-06 | [[Chris Harris]] | Week 5 Waiver Wire & More W4 Game Reviews | [[Harris Fantasy Football Podcast - 2026-10-06]] |
+| 2026-10-08 | [[Matt Harmon]] | The Falcons Are Flying, The Eagles Are Not + Carnell Tate SZN?? | [[Reception Perception The Show - 2026-10-08]] |
+| 2026-10-08 | [[Chris Harris]] | Week 5 Start & Sit Decisions and Much Silliness | [[Harris Fantasy Football Podcast - 2026-10-08]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |
