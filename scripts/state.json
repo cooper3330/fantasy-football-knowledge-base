@@ -420,6 +420,18 @@
       "title": "Analyzing Landing Spots For Round 2 & 3 Pass Catchers",
       "transcript_source": "whisper"
     },
+    "29efd7d9-a0e3-40c1-9695-8d55f3ecf6c4": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-10-15",
+      "guid": "29efd7d9-a0e3-40c1-9695-8d55f3ecf6c4",
+      "last_checked": "2026-10-15",
+      "pub_date": "2026-10-15",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/transcripts/harris-football/2026-10-15-harris-jeremiyah-love-film-week-6-lineup-decisions.md",
+      "status": "fetched",
+      "title": "Jeremiyah Love Film & Week 6 Lineup Decisions",
+      "transcript_source": "whisper"
+    },
     "2a2673f4-f2d6-11ef-9566-af2f1dbae544": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-03",
@@ -586,6 +598,18 @@
       "staged_path": "raw/ingested/reception-perception/2026-09-15-rp-week-1-lies-or-truth-flowers-in-full-bloom-cant-stop-coker.md",
       "status": "ingested",
       "title": "Week 1 Lies or Truth: Flowers in Full Bloom + Can't Stop Coker",
+      "transcript_source": "whisper"
+    },
+    "34e0631b-fdf5-45e6-9b83-b32c3b8e1a50": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-10-12",
+      "guid": "34e0631b-fdf5-45e6-9b83-b32c3b8e1a50",
+      "last_checked": "2026-10-12",
+      "pub_date": "2026-10-12",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/transcripts/harris-football/2026-10-12-harris-week-5-game-film-review.md",
+      "status": "fetched",
+      "title": "Week 5 Game Film Review",
       "transcript_source": "whisper"
     },
     "38986103-c68b-46bb-87c7-ffa3977c8abe": {
@@ -3924,6 +3948,18 @@
       "title": "Wild Card Weekend Recap!",
       "transcript_source": "whisper"
     },
+    "c8d5d3f1-50fe-442f-83cb-2edea3e382c2": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-10-16",
+      "guid": "c8d5d3f1-50fe-442f-83cb-2edea3e382c2",
+      "last_checked": "2026-10-16",
+      "pub_date": "2026-10-16",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/transcripts/harris-football/2026-10-16-harris-hot-cold-starts-we-believe-in-bo-toxic.md",
+      "status": "fetched",
+      "title": "Hot & Cold Starts We Believe In & Bo Toxic",
+      "transcript_source": "whisper"
+    },
     "c8f46358-f05a-11ee-a49d-4bf1395dcf75": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-03",
@@ -4006,6 +4042,18 @@
       "staged_path": "raw/ingested/reception-perception/2025-01-16-rp-divisional-round-preview.md",
       "status": "ingested",
       "title": "Divisional Round Preview!",
+      "transcript_source": "whisper"
+    },
+    "c9c73f92-b168-4e22-95fc-74fcf7b90e8c": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-10-13",
+      "guid": "c9c73f92-b168-4e22-95fc-74fcf7b90e8c",
+      "last_checked": "2026-10-13",
+      "pub_date": "2026-10-13",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/transcripts/harris-football/2026-10-13-harris-week-6-waivers-reviewing-more-w5-film.md",
+      "status": "fetched",
+      "title": "Week 6 Waivers & Reviewing More W5 Film",
       "transcript_source": "whisper"
     },
     "c9ccb900-2483-11ed-a706-6fde5d023666": {
@@ -7368,6 +7416,18 @@
       "title": "Some Year 2 Interesting Names",
       "transcript_source": "whisper"
     },
+    "lxHg3SgH8MP9mtJJrdlX7zijcMZk3Ldi": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-10-13",
+      "guid": "lxHg3SgH8MP9mtJJrdlX7zijcMZk3Ldi",
+      "last_checked": "2026-10-13",
+      "pub_date": "2026-10-13",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/transcripts/reception-perception/2026-10-13-rp-complete-breakdown-of-the-marvin-harrison-jr-trade.md",
+      "status": "fetched",
+      "title": "COMPLETE Breakdown of the Marvin Harrison Jr. Trade",
+      "transcript_source": "whisper"
+    },
     "n1AA38QdST9Y7vmbKu9MBWKUeqGb1NI8": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-19",
@@ -7390,6 +7450,18 @@
       "staged_path": "raw/ingested/reception-perception/2026-06-09-rp-talkin-injuries-w-dr-nithin-natwa.md",
       "status": "ingested",
       "title": "Talkin' Injuries w/ Dr. Nithin Natwa",
+      "transcript_source": "whisper"
+    },
+    "pvEtkfkgVkyrQEOlkZaXZufWxlTLQDeS": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-10-15",
+      "guid": "pvEtkfkgVkyrQEOlkZaXZufWxlTLQDeS",
+      "last_checked": "2026-10-15",
+      "pub_date": "2026-10-15",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/transcripts/reception-perception/2026-10-15-rp-lets-go-for-a-stroll-through-the-wide-receiver-trade-market.md",
+      "status": "fetched",
+      "title": "Let's Go for a Stroll Through the Wide Receiver Trade Market",
       "transcript_source": "whisper"
     },
     "q9EsNLPyci2jh97KVliUS3EOAeDndh9P": {
