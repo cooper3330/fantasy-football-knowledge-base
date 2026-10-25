@@ -48,6 +48,18 @@
       "title": "Five ADP Surprises Plus More Injuries",
       "transcript_source": "whisper"
     },
+    "0439701e-34ad-49ca-8188-bfdb2d7eb605": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-10-22",
+      "guid": "0439701e-34ad-49ca-8188-bfdb2d7eb605",
+      "last_checked": "2026-10-22",
+      "pub_date": "2026-10-22",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-10-22-harris-week-7-lineup-choices-previewing-pats-v-bears.md",
+      "status": "ingested",
+      "title": "Week 7 Lineup Choices & Previewing Pats v Bears",
+      "transcript_source": "whisper"
+    },
     "04944433-5db1-42b2-b7c4-d7ba76a6c40f": {
       "expert": "Chris Harris",
       "first_seen": "2026-08-02",
@@ -427,9 +439,21 @@
       "last_checked": "2026-10-15",
       "pub_date": "2026-10-15",
       "show": "Harris Fantasy Football Podcast",
-      "staged_path": "raw/transcripts/harris-football/2026-10-15-harris-jeremiyah-love-film-week-6-lineup-decisions.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/harris-football/2026-10-15-harris-jeremiyah-love-film-week-6-lineup-decisions.md",
+      "status": "ingested",
       "title": "Jeremiyah Love Film & Week 6 Lineup Decisions",
+      "transcript_source": "whisper"
+    },
+    "2GmzMg0KnKZeTGfZOohcbsbEBPo8YkqG": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-10-22",
+      "guid": "2GmzMg0KnKZeTGfZOohcbsbEBPo8YkqG",
+      "last_checked": "2026-10-22",
+      "pub_date": "2026-10-22",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/ingested/reception-perception/2026-10-22-rp-rams-commanders-scrambling-for-help-mccarthy-gets-his-new-york-moment.md",
+      "status": "ingested",
+      "title": "Rams & Commanders Scrambling for Help & McCarthy Gets His New York Moment",
       "transcript_source": "whisper"
     },
     "2a2673f4-f2d6-11ef-9566-af2f1dbae544": {
@@ -600,6 +624,18 @@
       "title": "Week 1 Lies or Truth: Flowers in Full Bloom + Can't Stop Coker",
       "transcript_source": "whisper"
     },
+    "3235a374-cb82-4b38-bbd5-7e9b495ad168": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-10-23",
+      "guid": "3235a374-cb82-4b38-bbd5-7e9b495ad168",
+      "last_checked": "2026-10-23",
+      "pub_date": "2026-10-23",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-10-23-harris-assessing-offensive-environments-through-six-weeks.md",
+      "status": "ingested",
+      "title": "Assessing Offensive Environments Through Six Weeks",
+      "transcript_source": "whisper"
+    },
     "34e0631b-fdf5-45e6-9b83-b32c3b8e1a50": {
       "expert": "Chris Harris",
       "first_seen": "2026-10-12",
@@ -607,8 +643,8 @@
       "last_checked": "2026-10-12",
       "pub_date": "2026-10-12",
       "show": "Harris Fantasy Football Podcast",
-      "staged_path": "raw/transcripts/harris-football/2026-10-12-harris-week-5-game-film-review.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/harris-football/2026-10-12-harris-week-5-game-film-review.md",
+      "status": "ingested",
       "title": "Week 5 Game Film Review",
       "transcript_source": "whisper"
     },
@@ -694,6 +730,18 @@
       "staged_path": "raw/ingested/harris-football/2025-12-02-harris-week-14-waivers-more-w13-game-reviews.md",
       "status": "ingested",
       "title": "Week 14 Waivers & More W13 Game Reviews",
+      "transcript_source": "whisper"
+    },
+    "479ea97d-82a4-4070-b806-72d8cb01b24c": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-10-20",
+      "guid": "479ea97d-82a4-4070-b806-72d8cb01b24c",
+      "last_checked": "2026-10-20",
+      "pub_date": "2026-10-20",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-10-20-harris-week-7-waivers-more-w6-film-review.md",
+      "status": "ingested",
+      "title": "Week 7 Waivers & More W6 Film Review",
       "transcript_source": "whisper"
     },
     "47f009ed-7d3f-4ab1-b687-e0f331e10918": {
@@ -3955,8 +4003,8 @@
       "last_checked": "2026-10-16",
       "pub_date": "2026-10-16",
       "show": "Harris Fantasy Football Podcast",
-      "staged_path": "raw/transcripts/harris-football/2026-10-16-harris-hot-cold-starts-we-believe-in-bo-toxic.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/harris-football/2026-10-16-harris-hot-cold-starts-we-believe-in-bo-toxic.md",
+      "status": "ingested",
       "title": "Hot & Cold Starts We Believe In & Bo Toxic",
       "transcript_source": "whisper"
     },
@@ -4051,8 +4099,8 @@
       "last_checked": "2026-10-13",
       "pub_date": "2026-10-13",
       "show": "Harris Fantasy Football Podcast",
-      "staged_path": "raw/transcripts/harris-football/2026-10-13-harris-week-6-waivers-reviewing-more-w5-film.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/harris-football/2026-10-13-harris-week-6-waivers-reviewing-more-w5-film.md",
+      "status": "ingested",
       "title": "Week 6 Waivers & Reviewing More W5 Film",
       "transcript_source": "whisper"
     },
@@ -4315,9 +4363,21 @@
       "last_checked": "2026-10-09",
       "pub_date": "2026-10-09",
       "show": "Harris Fantasy Football Podcast",
-      "staged_path": "raw/transcripts/harris-football/2026-10-09-harris-players-to-trade-away-the-sprinter-soldier-goes-off.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/harris-football/2026-10-09-harris-players-to-trade-away-the-sprinter-soldier-goes-off.md",
+      "status": "ingested",
       "title": "Players To Trade Away & The Sprinter Soldier Goes Off",
+      "transcript_source": "whisper"
+    },
+    "d7903d85-1b42-458d-9609-b909025e5185": {
+      "expert": "Chris Harris",
+      "first_seen": "2026-10-19",
+      "guid": "d7903d85-1b42-458d-9609-b909025e5185",
+      "last_checked": "2026-10-19",
+      "pub_date": "2026-10-19",
+      "show": "Harris Fantasy Football Podcast",
+      "staged_path": "raw/ingested/harris-football/2026-10-19-harris-week-6-game-film-review.md",
+      "status": "ingested",
+      "title": "Week 6 Game Film Review",
       "transcript_source": "whisper"
     },
     "d8082086-169c-11f1-be9d-73e005b075a4": {
@@ -7404,6 +7464,30 @@
       "title": "Feel It or F\u2013It 10.5.26 with Bob Harris and Matt Waldman",
       "transcript_source": "whisper"
     },
+    "https://mattwaldmanrsp.com/?p=54544": {
+      "expert": "Matt Waldman",
+      "first_seen": "2026-10-21",
+      "guid": "https://mattwaldmanrsp.com/?p=54544",
+      "last_checked": "2026-10-21",
+      "pub_date": "2026-10-19",
+      "show": "Matt Waldman's RSP Cast",
+      "staged_path": "raw/ingested/rsp-cast/2026-10-19-rsp-feel-it-or-fit-101926-with-bob-harris-and-matt-waldman.md",
+      "status": "ingested",
+      "title": "Feel It or F\u2013It 10.19.26 with Bob Harris and Matt Waldman",
+      "transcript_source": "whisper"
+    },
+    "https://mattwaldmanrsp.com/?p=54564": {
+      "expert": "Matt Waldman",
+      "first_seen": "2026-10-24",
+      "guid": "https://mattwaldmanrsp.com/?p=54564",
+      "last_checked": "2026-10-24",
+      "pub_date": "2026-10-22",
+      "show": "Matt Waldman's RSP Cast",
+      "staged_path": "raw/ingested/rsp-cast/2026-10-22-rsp-eagles-offense-jeremiah-smith-2027-qb-class-going-deep-with-brandon-an.md",
+      "status": "ingested",
+      "title": "Eagles Offense, Jeremiah Smith, 2027 QB Class: Going Deep with Brandon Angelo & Matt Waldman",
+      "transcript_source": "whisper"
+    },
     "lBVG9RPlKrEDgQb54y8GBiUotJw46bNn": {
       "expert": "Matt Harmon",
       "first_seen": "2026-08-19",
@@ -7423,8 +7507,8 @@
       "last_checked": "2026-10-13",
       "pub_date": "2026-10-13",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2026-10-13-rp-complete-breakdown-of-the-marvin-harrison-jr-trade.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2026-10-13-rp-complete-breakdown-of-the-marvin-harrison-jr-trade.md",
+      "status": "ingested",
       "title": "COMPLETE Breakdown of the Marvin Harrison Jr. Trade",
       "transcript_source": "whisper"
     },
@@ -7459,8 +7543,8 @@
       "last_checked": "2026-10-15",
       "pub_date": "2026-10-15",
       "show": "Reception Perception: The Show",
-      "staged_path": "raw/transcripts/reception-perception/2026-10-15-rp-lets-go-for-a-stroll-through-the-wide-receiver-trade-market.md",
-      "status": "fetched",
+      "staged_path": "raw/ingested/reception-perception/2026-10-15-rp-lets-go-for-a-stroll-through-the-wide-receiver-trade-market.md",
+      "status": "ingested",
       "title": "Let's Go for a Stroll Through the Wide Receiver Trade Market",
       "transcript_source": "whisper"
     },
@@ -7486,6 +7570,18 @@
       "staged_path": "raw/ingested/reception-perception/2026-10-08-rp-the-falcons-are-flying-the-eagles-are-not-carnell-tate-szn.md",
       "status": "ingested",
       "title": "The Falcons Are Flying, The Eagles Are Not + Carnell Tate SZN??",
+      "transcript_source": "whisper"
+    },
+    "rXSSHIjqWQcnW1tVXjfJrN8mkvcS9RoO": {
+      "expert": "Matt Harmon",
+      "first_seen": "2026-10-20",
+      "guid": "rXSSHIjqWQcnW1tVXjfJrN8mkvcS9RoO",
+      "last_checked": "2026-10-20",
+      "pub_date": "2026-10-20",
+      "show": "Reception Perception: The Show",
+      "staged_path": "raw/ingested/reception-perception/2026-10-20-rp-end-of-an-era-in-indy-tanner-time-omar-cooper-jr-looked-good.md",
+      "status": "ingested",
+      "title": "End of an Era in Indy, Tanner Time & Omar Cooper Jr. Looked GOOD",
       "transcript_source": "whisper"
     },
     "u55WGyc4qyfQviEUYPoaiht6Ioz4p3Bc": {

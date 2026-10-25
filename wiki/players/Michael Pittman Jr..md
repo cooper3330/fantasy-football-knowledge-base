@@ -72,6 +72,7 @@ tags: [player]
 - 2026-08-10 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-08-10]]): Michael Pittman Jr. suffered a leg injury in camp that caused him to limp off practice, but as of the time of recording it appears to be a precautionary, minor issue that Harris expects to be confirmed as no big deal.
 - 2026-08-27 — According to James Koh, not tracked ([[Reception Perception The Show - 2026-08-27]]): Koh describes Pittman as the 'meat and potatoes' receiver of the Colts' 2025 offense, running the slants and intermediate concepts [[Daniel Jones]] leaned on most, and voices concern about Indianapolis moving on from him this offseason in favor of [[Keenan Allen]], even with [[Josh Downs]] and [[Alec Pierce]] still in the receiver room.
 - 2026-09-18 — According to Chris Harris ([[Harris Fantasy Football Podcast - 2026-09-18]]) [Redraft (Standard)]: Pittman has been on the injury report with a foot injury and hadn't done much in practice as of Friday.
+- 2026-10-20 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-10-20]]): [[Michael Pittman Jr.]] is currently on IR for the Colts, with the team having moved on from him in free agency decisions while giving [[Alec Pierce]] a big extension -- part of what Harmon characterized as a run of incoherent personnel moves in Indianapolis under the now-fired Chris Ballard.
 
 ## Related Concepts
 - [[Anthony Richardson]]

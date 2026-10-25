@@ -37,6 +37,7 @@ tags: [concept, strategy, draft]
 - 2026-08-31 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-08-31]]): In the wake of Josh Jacobs' suspension, Harris frames the leftover Green Bay backfield ([[Marshawn Lloyd]], [[Chris Brooks]], [[Caleb Johnson]]) as a live example of drafting into total ambiguity -- he stresses that rosters aren't finished (the Packers can still trade or sign a back) and that his rankings are explicitly an attempt to price the full probability matrix of outcomes rather than chase the best case, warning that fantasy players 'tend to only embrace the best case' this time of year on hot, unresolved backfields.
 - 2026-09-01 — According to [[Chris Harris]] and guest Ben Gretsch (not a tracked expert) ([[Harris Fantasy Football Podcast - 2026-09-01]]): both flagged the Broncos ([[RJ Harvey]], [[JK Dobbins]], [[Jonah Coleman]]) and Packers ([[Marshawn Lloyd]], [[Chris Brooks]], [[Caleb Johnson]], behind an uncertain [[Josh Jacobs]]) as backfields where the correct answer is genuinely unknowable pre-season, calling the Packers situation 'this weird airplane black box.' Both were drafting multiple pieces of these ambiguous committees late/mid-round as low-cost bets on a depth-chart shakeout rather than confidently picking a winner, and agreed both situations could evolve significantly once the season starts.
 - 2026-09-28 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-09-28]]): two separate backfields illustrate the same caution this week -- Miami's ([[De'Von Achane]] out for the year, [[Ollie Gordon II]] and [[Jalen Wright]] splitting work under a scheme built around [[Malik Willis]]'s legs) and Cleveland's ([[Quinshon Judkins]] and [[Raheim Sanders]] in a near-even snap split, trending toward a committee). Waldman's advice in both cases is the same: don't chase the ambiguous committee back on waivers or in trade; his explicit Miami recommendation is to grab any established veteran who becomes available instead of gambling on which unproven back wins the job.
+- 2026-10-22 — According to [[Chris Harris]] and guest Jeff Bell of Football Guys ([[Harris Fantasy Football Podcast - 2026-10-22]]): three Week 7 ambiguous backfields illustrate the pattern -- Josh Jacobs stuck in an unknown ramp-up split with Marshawn Lloyd and Pierre Strong in Green Bay, Chase Brown ceding snaps to Samaje Perine in Cincinnati after a fumble, and New England rotating Rhamondre Stevenson, TreVeyon Henderson and Corey Kiner based on in-game mistakes rather than a settled depth chart. In each case the hosts note the committee creates real risk-aversion for fantasy managers -- Harris admits he 'didn't rank' Jacobs at all rather than commit to a number, calling himself 'a coward' -- even when one back (Jacobs, Stevenson) is clearly talented enough to post a workhorse line if given full volume.
 
 ## Related
 - [[Running Back Dead Zone]]
@@ -65,3 +66,8 @@ tags: [concept, strategy, draft]
 - [[Jonah Coleman]]
 - [[JK Dobbins]]
 - [[Marshawn Lloyd]]
+- [[Josh Jacobs]]
+- [[Chase Brown]]
+- [[Rhamondre Stevenson]]
+- [[TreVeyon Henderson]]
+- [[Corey Kiner]]

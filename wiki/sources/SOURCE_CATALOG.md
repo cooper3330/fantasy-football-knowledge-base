@@ -652,6 +652,21 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2026-10-06 | [[Chris Harris]] | Week 5 Waiver Wire & More W4 Game Reviews | [[Harris Fantasy Football Podcast - 2026-10-06]] |
 | 2026-10-08 | [[Matt Harmon]] | The Falcons Are Flying, The Eagles Are Not + Carnell Tate SZN?? | [[Reception Perception The Show - 2026-10-08]] |
 | 2026-10-08 | [[Chris Harris]] | Week 5 Start & Sit Decisions and Much Silliness | [[Harris Fantasy Football Podcast - 2026-10-08]] |
+| 2026-10-09 | [[Chris Harris]] | Players To Trade Away & The Sprinter Soldier Goes Off | [[Harris Fantasy Football Podcast - 2026-10-09]] |
+| 2026-10-12 | [[Chris Harris]] | Week 5 Game Film Review | [[Harris Fantasy Football Podcast - 2026-10-12]] |
+| 2026-10-13 | [[Matt Harmon]] | COMPLETE Breakdown of the Marvin Harrison Jr. Trade | [[Reception Perception The Show - 2026-10-13]] |
+| 2026-10-13 | [[Chris Harris]] | Week 6 Waivers & Reviewing More W5 Film | [[Harris Fantasy Football Podcast - 2026-10-13]] |
+| 2026-10-15 | [[Chris Harris]] | Jeremiyah Love Film & Week 6 Lineup Decisions | [[Harris Fantasy Football Podcast - 2026-10-15]] |
+| 2026-10-15 | [[Matt Harmon]] | Let's Go for a Stroll Through the Wide Receiver Trade Market | [[Reception Perception The Show - 2026-10-15]] |
+| 2026-10-16 | [[Chris Harris]] | Hot & Cold Starts We Believe In & Bo Toxic | [[Harris Fantasy Football Podcast - 2026-10-16]] |
+| 2026-10-19 | [[Matt Waldman]] | Feel It or F**k It 10.19.26 with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-10-19]] |
+| 2026-10-19 | [[Chris Harris]] | Week 6 Game Film Review | [[Harris Fantasy Football Podcast - 2026-10-19]] |
+| 2026-10-20 | [[Matt Harmon]] | End of an Era in Indy, Tanner Time & Omar Cooper Jr. Looked GOOD | [[Reception Perception The Show - 2026-10-20]] |
+| 2026-10-20 | [[Chris Harris]] | Week 7 Waivers & More W6 Film Review | [[Harris Fantasy Football Podcast - 2026-10-20]] |
+| 2026-10-22 | [[Matt Harmon]] | Rams & Commanders Scrambling for Help & McCarthy Gets His New York Moment | [[Reception Perception The Show - 2026-10-22]] |
+| 2026-10-22 | [[Chris Harris]] | Week 7 Lineup Choices & Previewing Pats v Bears | [[Harris Fantasy Football Podcast - 2026-10-22]] |
+| 2026-10-22 | [[Matt Waldman]] | Eagles Offense, Jeremiah Smith, 2027 QB Class: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2026-10-22 (Going Deep Eagles & 2027 QB Class)]] |
+| 2026-10-23 | [[Chris Harris]] | Assessing Offensive Environments Through Six Weeks | [[Harris Fantasy Football Podcast - 2026-10-23]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

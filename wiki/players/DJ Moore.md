@@ -57,6 +57,7 @@ tags: [player]
 - 2026-09-28 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-28]]): two deep shots to [[DJ Moore]] resulted in interceptions on back-to-back Bills drives, one thrown directly into triple coverage. Late in the game, though, Moore torched man coverage on a 3rd-and-10 cross to get inside the five -- Harris called it unlucky that he didn't score himself, with James Cook punching it in on the very next snap for the winning margin.
 - 2026-10-05 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-05]]): Moore converted a key third-and-long and was part of an eight-minute Bills drive, but got stuffed on a red-zone carry attempt and went to the medical tent, visibly re-injuring the shoulder issue from a couple weeks earlier; he did not return. Status for Week 5 is unresolved.
 - 2026-10-06 — According to Chris Harris ([[Harris Fantasy Football Podcast - 2026-10-06]]): DJ Moore left Buffalo's Week 4 game early with a nagging AC-joint/shoulder issue, opening the door for Keon Coleman's breakout workload behind him.
+- 2026-10-12 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-12]]): heading into the Bills-Rams Monday night game, Moore is questionable with the shoulder injury that knocked him out of Week 4 and did not practice this week, though Harris notes 'he doesn't need to practice to play.' His status is the swing factor for Buffalo's receiving corps in a game Harris expects to be high-scoring.
 
 ## Related Concepts
 - [[Play Caller Cheat Codes]]

@@ -50,6 +50,7 @@ tags: [player, prospect]
 - 2026-07-24 — According to Andy Behrens (untracked co-host) ([[Harris Fantasy Football Podcast - 2026-07-24]]) [Redraft (Standard)]: Behrens calls Vidal's role 'the legitimate big variable' in the Chargers backfield -- for anyone fully bought into [[Omarion Hampton]], Vidal's camp usage is the thing to track, since meaningful work for Vidal would cut into Hampton's share rather than [[Keaton Mitchell]]'s already-defined role. Neither host expects real clarity here before Week 1.
 - 2026-09-10 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-10]]) [Redraft (Standard)]: Harris pushed back on calling the Chargers backfield a clean 'two-headed monster' around [[Omarion Hampton]], noting Vidal 'is standing right over there waving hello' and was one of the five most important players to the Chargers making the 2025 playoffs -- reason to be cautious projecting a clean workload for either Hampton or an injured [[Keaton Mitchell]].
 - 2026-10-05 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-05]]): Vidal played real early-down snaps for stretches of this game, part of an early game plan to avoid running at Seattle's interior and instead throw to backs on the perimeter -- he caught several of those perimeter passes and scored a garbage-time touchdown on a shovel pass. Harris frames this as a real share of work, not just mop-up duty, cutting into [[Omarion Hampton]]'s role at times.
+- 2026-10-12 — According to [[Chris Harris]] and guest Sam Gold (not tracked) ([[Harris Fantasy Football Podcast - 2026-10-12]]): Gold argues that given the Chargers' poor offensive line and scheme, Vidal's running style -- finding a crease and getting through it faster -- fits 'much, much more' than Omarion Hampton's power style right now, since Vidal doesn't need the same push behind the line of scrimmage to be effective. Both hosts frame this as a situational, not talent, edge for Vidal on early downs.
 
 ## Related Concepts
 - [[Dynasty]]
@@ -65,3 +66,4 @@ tags: [player, prospect]
 - [[Sunday Morning Insider Reports and Fantasy Noise]]
 - [[Offensive Line Investment and Skill Player Value]]
 - [[Waiver Wire Archetypes and Organizational Support]]
+- [[Contact Mitigation and Dictating Contact]]
