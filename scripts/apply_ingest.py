@@ -77,9 +77,66 @@ def trim_index(summary):
     return (trimmed + (f" {paren}" if paren else "")).strip()
 
 
+def resolve_aliases(plan):
+    """Point plan page names and [[links]] at their canonical pages. Returns notes.
+
+    The prompt shows the agent each page's aliases so it writes the canonical name
+    in the first place; this is the safety net for when it doesn't. Without it, a
+    take on "Jacoby Brissette" lands on a brand-new page beside the real one --
+    which is how three duplicate player pages came to exist.
+
+    Page names resolve per kind; [[links]] resolve across the whole plan (bullets,
+    source body, log, index, notes). Prose is never rewritten: expanding "MVS"
+    inside a quoted take would change what the expert actually said.
+    """
+    notes = []
+    aliases = wu.load_aliases()
+    if not aliases:
+        return notes
+
+    for p in plan.get("pages") or []:
+        name = (p.get("name") or "").strip()
+        canon = wu.resolve_name(p.get("kind"), name, aliases) if name else name
+        if canon != name:
+            p["name"] = canon
+            notes.append(f"page name {name!r} is an alias of {canon!r}")
+        # `related` entries are bare page names (rendered as links later), so they
+        # need resolving too -- a player or a concept, whichever the alias belongs to.
+        rel = []
+        for r in p.get("related") or []:
+            fixed = r
+            for kind in ("concept", "player", "format"):
+                fixed = wu.resolve_name(kind, r, aliases)
+                if fixed != r:
+                    break
+            if fixed != r:
+                notes.append(f"related {r!r} is an alias of {fixed!r}")
+            rel.append(fixed)
+        if rel:
+            p["related"] = rel
+
+    rewritten = {}
+
+    def walk(o):
+        if isinstance(o, str):
+            new, changed = wu.rewrite_links(o, aliases)
+            rewritten.update(changed)
+            return new
+        if isinstance(o, list):
+            return [walk(x) for x in o]
+        if isinstance(o, dict):
+            return {k: walk(v) for k, v in o.items()}
+        return o
+
+    plan.update(walk(plan))
+    for alias, canon in sorted(rewritten.items()):
+        notes.append(f"link [[{alias}]] -> [[{canon}]]")
+    return notes
+
+
 def normalize(plan):
     """Rewrite the plan in place where the fix is mechanical. Returns notes."""
-    notes = []
+    notes = resolve_aliases(plan)
     raw = ((plan.get("source") or {}).get("page") or "").strip()
     clean = normalize_source_page(raw)
     if raw and clean != raw:

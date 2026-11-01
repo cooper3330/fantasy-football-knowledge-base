@@ -39,6 +39,7 @@ tags: [player]
 - 2026-09-28 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-28]]): 'avert your eyes' -- [[Sam LaPorta]] dropped a would-be touchdown in the end zone on a scramble drill off a great throw from Jared Goff, finishing just 3-for-44 on the day despite the drop costing him a score.
 - 2026-10-12 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-12]]): LaPorta caught a fourth-down conversion from Jared Goff to get Detroit's first points on the board, then scored a touchdown two drives later when Arizona again left him uncovered -- a steady, high-leverage role in the Lions' blowout win.
 - 2026-10-16 — According to guest Cousin Josh (not a tracked expert) and [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-16]]) [Redraft]: Josh lists LaPorta as his number-three 'don't sell,' noting he currently leads the NFL in tight end receiving yards, is running routes and looking like his rookie-year top-10-upside peak, and - with Detroit's defense 'brutal' and the offense needing to score 30 a game - appears to be the preferred target over [[Jameson Williams]] behind [[Amon-Ra St. Brown]]. Josh says he's fully healthy, isn't selling on a bye week, and expects him to separate from the field behind only [[Brock Bowers]] and [[Trey McBride]] the rest of the year. Harris notes LaPorta was already his own preseason TE3, implicitly agreeing with the hold.
+- 2026-10-26 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-26]]), with guest Jamie Eisenberg: LaPorta was a 'complete non-factor' in the Lions-Packers track meet, and Eisenberg drew a parallel to last year's post-bye shift when Dan Campbell's staff began feeding [[Jameson Williams]] more; he wondered whether a similar pattern -- accelerated by LaPorta's public contract frustration -- could marginalize him again as the staff decides it needs Williams more involved. Harris called it a 'great unactionable point': nobody's benching or cutting LaPorta, but there may be a straight line between his contract outburst and Detroit choosing to feed Williams instead.
 
 ## Related Concepts
 - [[Player Development and Coachability]]
@@ -54,3 +55,4 @@ tags: [player]
 - [[Sophomore Slump]]
 - [[Jameson Williams]]
 - [[Buy-Low Windows and Panic Sells]]
+- [[Contract Holdout Slow Starts]]

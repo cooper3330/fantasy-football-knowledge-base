@@ -47,6 +47,7 @@ tags: [player]
 - 2026-09-28 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-28]]): [[Travis Kelce]] hadn't caught a pass since the opening-drive 48-yard play-action gain but scored a touchdown late in the fourth quarter to help put Miami away. Harris: 'not exactly wagon hood for the Chiefs, but the guys you needed pretty much did get there.'
 - 2026-10-19 — According to Patrick Doherty (Rotoworld, untracked guest) and Chris Harris ([[Harris Fantasy Football Podcast - 2026-10-19]]): Kelce appeared to suffer a high-ankle sprain against the Chargers but 'toughed it out' and still made plays. Harris's framing was that Kelce remains fully in 'rub some dirt on it' mode, which he joked 'has been his entire career,' and both agreed next week's tougher Seahawks matchup is the more meaningful test of his health and role.
 - 2026-10-23 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-23]]): Kelce suffered what looked like a high-ankle sprain against the Chargers, taped it up and kept playing (Harris calls him tough), and has been limited in practice this week, but Harris assumes he'll play Sunday night in Seattle barring further news.
+- 2026-10-26 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-26]]), with guest Jamie Eisenberg: at 36, Kelce 'is not going to be a guy that wins consistently for an entire game' anymore, cited as one reason Kansas City's passing offense has become so thin around Patrick Mahomes.
 
 ## Related Concepts
 - [[Redraft (Standard)]]

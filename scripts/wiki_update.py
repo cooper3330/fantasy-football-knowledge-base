@@ -222,6 +222,154 @@ def page_path(kind, name):
     return REPO / "wiki" / KIND_DIR[kind] / f"{name}.md"
 
 
+# --- aliases ---------------------------------------------------------------
+#
+# `aliases: [A, B]` in a page's frontmatter lists spellings that must resolve to
+# that page: nicknames (OBJ, MVS) and the ASR mangles this wiki keeps hitting
+# ("Jacoby Meyers" for Jakobi Meyers). For a long time nothing read that key, so
+# an alias was documentation only -- an agent that heard "Jacoby Lane" had no way
+# to know the page existed as "Ja'Kobi Lane", and created a second one. Three
+# consumers read it now: ingest_manifest.py shows aliases in the page inventory
+# (so the agent doesn't make the duplicate), apply_ingest.py resolves plan names
+# and [[links]] (so a slip doesn't make one anyway), and lint_frontmatter.py flags
+# collisions.
+
+DIR_KIND = {v: k for k, v in KIND_DIR.items()}
+LINK = re.compile(r"\[\[([^\]|\n]+)(\|[^\]\n]*)?\]\]")
+
+
+def _wiki(wiki_dir):
+    return Path(wiki_dir) if wiki_dir else REPO / "wiki"
+
+
+def parse_aliases(value):
+    """'[A, B]' / 'A, B' / '"A"' -> ['A', 'B']. Brackets and surrounding quotes
+    are stripped; an apostrophe inside a name ("Ja'Kobi") is left alone."""
+    v = value.strip()
+    if v.startswith("[") and v.endswith("]"):
+        v = v[1:-1]
+    out = []
+    for part in v.split(","):
+        part = part.strip()
+        if len(part) >= 2 and part[0] == part[-1] and part[0] in "'\"":
+            part = part[1:-1].strip()
+        if part:
+            out.append(part)
+    return out
+
+
+def page_aliases(path):
+    """Aliases declared in one page's frontmatter. Reads only as far as the
+    closing '---', so scanning the whole wiki stays cheap."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            if f.readline().strip() != "---":
+                return []
+            for line in f:
+                if line.strip() == "---":
+                    return []
+                key, _, value = line.partition(":")
+                if key.strip() == "aliases":
+                    return parse_aliases(value)
+    except OSError:
+        pass
+    return []
+
+
+def _kind_pages(wiki_dir=None):
+    root = _wiki(wiki_dir)
+    for d, kind in DIR_KIND.items():
+        if (root / d).exists():
+            for p in sorted((root / d).glob("*.md")):
+                yield kind, p
+
+
+def load_aliases(wiki_dir=None):
+    """{casefolded alias: [(kind, canonical page name), ...]}.
+
+    More than one entry means two pages claim the same alias. That is ambiguous,
+    so it resolves to nothing; alias_conflicts() reports it."""
+    out = {}
+    for kind, p in _kind_pages(wiki_dir):
+        for a in page_aliases(p):
+            if a.casefold() != p.stem.casefold():
+                out.setdefault(a.casefold(), []).append((kind, p.stem))
+    return out
+
+
+def resolve_name(kind, name, aliases=None, wiki_dir=None):
+    """The canonical page name for `name`, or `name` unchanged.
+
+    A page that already exists under exactly this name always wins. An alias must
+    never redirect a take away from a real page -- a wrong alias, or an unmerged
+    duplicate, should surface in lint_frontmatter rather than silently re-route
+    content. Only a name with no page of its own is looked up as an alias, and
+    only when exactly one page of the same kind claims it."""
+    if kind not in KIND_DIR or _wiki(wiki_dir).joinpath(KIND_DIR[kind], f"{name}.md").exists():
+        return name
+    table = load_aliases(wiki_dir) if aliases is None else aliases
+    hits = {c for k, c in table.get(name.casefold(), []) if k == kind}
+    return hits.pop() if len(hits) == 1 else name
+
+
+def rewrite_links(text, aliases=None, wiki_dir=None):
+    """Rewrite [[Alias]] and [[Alias|shown]] to the canonical page.
+    Returns (new_text, [(alias, canonical), ...]).
+
+    Only wikilinks are touched, never prose: expanding "MVS" inside a quoted take
+    would change what the expert actually said. A link to a page that exists under
+    that exact name is also left alone, for the same reason as resolve_name."""
+    table = load_aliases(wiki_dir) if aliases is None else aliases
+    if not table or "[[" not in text:
+        return text, []
+    names = None
+    changed = []
+
+    def sub(m):
+        nonlocal names
+        target = m.group(1).strip()
+        hits = {c for _, c in table.get(target.casefold(), [])}
+        if len(hits) != 1:
+            return m.group(0)
+        if names is None:
+            names = {p.stem for p in _wiki(wiki_dir).rglob("*.md")}
+        if target in names:
+            return m.group(0)
+        canon = hits.pop()
+        changed.append((target, canon))
+        return f"[[{canon}{m.group(2) or ''}]]"
+
+    return LINK.sub(sub, text), changed
+
+
+def alias_conflicts(wiki_dir=None):
+    """Problems with the alias table itself, as readable strings.
+
+    An alias that is also a real page is an unmerged duplicate (exactly how the
+    Lane/Meyers/Brissett splits looked). The same alias on two pages is ambiguous.
+    Both are warnings, not failures: they are cleanup work, not a broken vault."""
+    root = _wiki(wiki_dir)
+    pages = {}
+    for p in root.rglob("*.md"):
+        if "_templates" not in p.parts:
+            pages.setdefault(p.stem.casefold(), p)
+    claimed, out = {}, []
+    for _, p in _kind_pages(wiki_dir):
+        for a in page_aliases(p):
+            cf = a.casefold()
+            if cf == p.stem.casefold():
+                continue
+            claimed.setdefault(cf, []).append(p)
+            if cf in pages and pages[cf] != p:
+                out.append(f"alias {a!r} on [[{p.stem}]] is also a page "
+                           f"({pages[cf].relative_to(root.parent)}) -- unmerged duplicate?")
+    for cf, ps in sorted(claimed.items()):
+        if len(ps) > 1:
+            out.append(f"alias {cf!r} is claimed by {len(ps)} pages "
+                       f"({', '.join('[[' + p.stem + ']]' for p in ps)}) -- ambiguous, resolves to none")
+    return out
+
+
 def _section(lines, heading):
     """(start, end) line indices of a '## ' section body, excluding the heading."""
     try:

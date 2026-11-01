@@ -667,6 +667,13 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2026-10-22 | [[Chris Harris]] | Week 7 Lineup Choices & Previewing Pats v Bears | [[Harris Fantasy Football Podcast - 2026-10-22]] |
 | 2026-10-22 | [[Matt Waldman]] | Eagles Offense, Jeremiah Smith, 2027 QB Class: Going Deep with Brandon Angelo & Matt Waldman | [[Matt Waldman's RSP Cast - 2026-10-22 (Going Deep Eagles & 2027 QB Class)]] |
 | 2026-10-23 | [[Chris Harris]] | Assessing Offensive Environments Through Six Weeks | [[Harris Fantasy Football Podcast - 2026-10-23]] |
+| 2026-10-26 | [[Chris Harris]] | Week 7 Game Film Review | [[Harris Fantasy Football Podcast - 2026-10-26]] |
+| 2026-10-26 | [[Matt Waldman]] | Feel It or F**k It 10.26.26 with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-10-26 (Feel It or Fk It)]] |
+| 2026-10-27 | [[Matt Harmon]] | The Rookie WR Class is Popping OFF + The Malik Nabers Resurgence | [[Reception Perception The Show - 2026-10-27]] |
+| 2026-10-27 | [[Chris Harris]] | Week 8 Waivers & More W7 Game Film Review | [[Harris Fantasy Football Podcast - 2026-10-27]] |
+| 2026-10-29 | [[Matt Harmon]] | Seattle Steals a Stud & Can These 3 Offenses Find Their Rhythm? | [[Reception Perception The Show - 2026-10-29]] |
+| 2026-10-29 | [[Chris Harris]] | Week 8 Fantasy Lineups & Luther Burden Film Futures | [[Harris Fantasy Football Podcast - 2026-10-29]] |
+| 2026-10-30 | [[Chris Harris]] | Midseason Huggy & Baggy Awards | [[Harris Fantasy Football Podcast - 2026-10-30]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

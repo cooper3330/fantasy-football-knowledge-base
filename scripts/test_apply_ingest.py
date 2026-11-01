@@ -245,6 +245,82 @@ stnc = json.loads((ROOT / "scripts" / "state.json").read_text())
 check("no_content finalized state to ingested",
       stnc["episodes"][GUID]["status"] == "ingested")
 
+# --- aliases: a plan that uses an alias must land on the canonical page -------
+# Regression for the Lane / Meyers / Brissett splits: an agent heard "Jacoby
+# Brissette", the page existed as "Jacoby Brissett", and a second page was created
+# beside it. `aliases:` in frontmatter is the wiki's record of which spellings are
+# one page; the applier must honour it. Here "Existing" carries two aliases.
+SRC = "[[Test Source - 2024-05-01]]"
+
+
+def alias_vault():
+    build()
+    ex = ROOT / "wiki" / "players" / "Existing.md"
+    ex.write_text(ex.read_text().replace("tags: [player]\n---",
+                                         "aliases: [Existng, Existing Guy]\ntags: [player]\n---", 1))
+    (ROOT / "wiki" / "concepts" / "Real Concept.md").write_text(
+        "---\ntype: concept\naliases: [Concept Alias]\ntags: [concept]\n---\n\n"
+        "# Real Concept\n\n## Expert Takes\n- \n\n## Related\n")
+    return ex
+
+
+def one_page_plan(name, bullet, **extra):
+    page = {"name": name, "kind": "player", "bullet": bullet, **extra}
+    return good_plan(pages=[page], experts=[])
+
+
+ex = alias_vault()
+r = run(one_page_plan("Existng", f"According to [[Matt Waldman]] ({SRC}): via alias"))
+check("alias page name applies", r.returncode == 0, f"rc={r.returncode}\n{r.stdout}{r.stderr}")
+check("alias page name reported as normalized",
+      "'Existng' is an alias of 'Existing'" in r.stdout, r.stdout)
+check("take landed on the canonical page", "via alias" in ex.read_text())
+check("no page created under the alias spelling",
+      not (ROOT / "wiki" / "players" / "Existng.md").exists())
+
+alias_vault()
+r = run(one_page_plan("Existing", f"According to [[Matt Waldman]] ({SRC}): beat [[Existing Guy]] and [[Existing Guy|him]]"))
+body = ex.read_text()
+check("[[alias]] link rewritten to canonical", "beat [[Existing]] and [[Existing|him]]" in body, body)
+check("link rewrite keeps the |display text", "[[Existing|him]]" in body)
+check("no link to the alias spelling survives", "[[Existing Guy" not in body)
+
+alias_vault()
+r = run(one_page_plan("Existing", f"According to [[Matt Waldman]] ({SRC}): people call him Existng and Existing Guy"))
+check("alias in PROSE is left exactly as the expert said it",
+      "people call him Existng and Existing Guy" in ex.read_text())
+
+alias_vault()
+r = run(one_page_plan("Existing", f"According to [[Matt Waldman]] ({SRC}): x", related=["Concept Alias"]))
+check("related alias resolves to the canonical concept",
+      "[[Real Concept]]" in ex.read_text() and "[[Concept Alias]]" not in ex.read_text(), ex.read_text())
+
+alias_vault()
+before = snapshot()
+r = run(good_plan(pages=[
+    {"name": "Existing", "kind": "player", "bullet": f"one ({SRC})"},
+    {"name": "Existng", "kind": "player", "bullet": f"two ({SRC})"}], experts=[]))
+check("alias + canonical in one plan is rejected as a duplicate",
+      r.returncode == 2 and "duplicate entry" in r.stdout, f"rc={r.returncode}\n{r.stdout}")
+check("...and the rejected plan left the vault untouched", snapshot() == before)
+
+# A page that really exists under the alias's spelling must NOT be redirected.
+alias_vault()
+(ROOT / "wiki" / "players" / "Existng.md").write_text(
+    "---\ntype: player\nteam: BUF\nposition: WR\ntags: [player]\n---\n\n# Existng\n\n"
+    "## Expert Takes\n- 2024-01-01 — a different player\n\n## Related Concepts\n")
+r = run(one_page_plan("Existng", f"According to [[Matt Waldman]] ({SRC}): stays put"))
+check("an existing page named like an alias is never redirected",
+      "stays put" in (ROOT / "wiki" / "players" / "Existng.md").read_text()
+      and "stays put" not in ex.read_text(), r.stdout)
+
+# A genuinely new name is untouched by the alias machinery.
+alias_vault()
+r = run(one_page_plan("Brand New", f"According to [[Matt Waldman]] ({SRC}): first",
+                      frontmatter={"team": "BUF", "position": "WR"}))
+check("a name that is not an alias is created as before",
+      r.returncode == 0 and (ROOT / "wiki" / "players" / "Brand New.md").exists(), r.stdout)
+
 shutil.rmtree(ROOT, ignore_errors=True)
 print(f"\n{'FAILED' if fails else 'all passed'} ({fails} failure(s))")
 sys.exit(1 if fails else 0)

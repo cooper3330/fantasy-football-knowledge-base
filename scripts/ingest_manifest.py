@@ -26,8 +26,20 @@ import json
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import wiki_update as wu                                           # noqa: E402
+
 REPO = Path(__file__).resolve().parent.parent
 STATE = REPO / "scripts" / "state.json"
+
+# Appended to each page inventory. Without it the agent sees "Ja'Kobi Lane" on the
+# list, hears "Jacoby Lane" in the transcript, and has no way to connect them --
+# so it creates a second page. Aliases are the wiki's own record of which spellings
+# are the same page; this is where the agent finally gets to see them.
+ALIAS_NOTE = """A name after "aka" is a known nickname or ASR mangle of the page BEFORE it. If
+the transcript says it, the page is the one before "aka": use that name, never the
+aka name, for `name` and in every [[link]]. (If you notice a mangle that is not
+listed, still use the real spelling of the player the page is named for.)"""
 
 CORE_SCHEMA = """These are the rules that govern every page you write. They are
 extracted from CLAUDE.md; you do NOT need to open it.
@@ -98,12 +110,33 @@ def inventory():
     def names(d):
         p = REPO / "wiki" / d
         return sorted(f.stem for f in p.glob("*.md")) if p.exists() else []
-    return {k: names(k) for k in ("players", "concepts", "experts", "sources")}
+    inv = {k: names(k) for k in ("players", "concepts", "experts", "sources")}
+    # page name -> its aliases, for the pages that have any. Kept separate from the
+    # name lists so len(inv["players"]) and the other counts stay plain page counts.
+    inv["aliases"] = {}
+    for d in ("players", "concepts"):
+        for p in (REPO / "wiki" / d).glob("*.md"):
+            a = wu.page_aliases(p)
+            if a:
+                inv["aliases"][p.stem] = a
+    return inv
+
+
+def with_aliases(names, aliases):
+    """['Ja'Kobi Lane', ...] -> ["Ja'Kobi Lane (aka Jacoby Lane, Jakobi Lane)", ...]"""
+    return [f"{n} (aka {', '.join(aliases[n])})" if aliases.get(n) else n for n in names]
+
+
+def inventory_blocks(inv):
+    """The player and concept lists as rendered into a prompt, aliases included."""
+    al = inv.get("aliases", {})
+    players = ", ".join(with_aliases(inv["players"], al)) or "(none yet)"
+    concepts = "\n".join(f"  - {c}" for c in with_aliases(inv["concepts"], al)) or "  (none yet)"
+    return players, concepts
 
 
 def build_prompt(eps, inv):
-    inv_players = ", ".join(inv["players"]) or "(none yet)"
-    inv_concepts = "\n".join(f"  - {c}" for c in inv["concepts"]) or "  (none yet)"
+    inv_players, inv_concepts = inventory_blocks(inv)
     n = len(eps)
     plural = "these transcripts IN ORDER" if n > 1 else "this transcript"
     files = "\n".join(f"  {i}. {e['staged_path']}" for i, e in enumerate(eps, 1))
@@ -137,7 +170,8 @@ EXISTING CONCEPT PAGES -- merge into these rather than creating near-duplicates:
 {inv_concepts}
 
 EXISTING PLAYER PAGES -- check this list before creating any player page, so you
-update rather than duplicate, and never create a variant spelling of an existing page:
+update rather than duplicate, and never create a variant spelling of an existing page.
+{ALIAS_NOTE}
 {inv_players}
 
 --- END PRE-COMPUTED CONTEXT ---
@@ -222,8 +256,7 @@ def build_extract_prompt(ep, inv, plan_out):
     all of that for zero tokens. Cost is turns x context, and this collapses ~66
     turns of interleaved read/edit into a handful.
     """
-    inv_players = ", ".join(inv["players"]) or "(none yet)"
-    inv_concepts = "\n".join(f"  - {c}" for c in inv["concepts"]) or "  (none yet)"
+    inv_players, inv_concepts = inventory_blocks(inv)
     # Source pages already on disk for THIS episode's date. A show sometimes
     # publishes twice in a day, and two other shows routinely publish on the same
     # date, so `<Show> - <date>` is not unique. The applier rejects a plan whose
@@ -266,7 +299,8 @@ EXISTING CONCEPT PAGES -- merge into these rather than creating near-duplicates:
 {inv_concepts}
 
 EXISTING PLAYER PAGES -- these already exist, so your bullet updates them rather
-than creating anything. Never write a variant spelling of a name on this list:
+than creating anything. Never write a variant spelling of a name on this list.
+{ALIAS_NOTE}
 {inv_players}
 
 --- END PRE-COMPUTED CONTEXT ---

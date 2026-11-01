@@ -22,6 +22,7 @@ tags: [player]
 - 2026-09-21 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-09-21 (Feel It or Fk It)]]) [Redraft (Standard)]: with [[Jalen Coker]] and [[Tetairoa McMillan]] both drawing attention outside, Waldman said Waller is now getting matchup advantages against smaller corners and safeties as a big-bodied receiving tight end, which he framed as a big reason [[Bryce Young]]'s passing game has opened up -- calling those 'the easy throws that good quarterbacks get.'
 - 2026-09-22 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-22]]): Waller scored twice against Atlanta, first off a Jalen Coker catch setting up the score, then again later in the game as Carolina pulled away.
 - 2026-09-25 — According to Cousin Josh (untracked co-host) ([[Harris Fantasy Football Podcast - 2026-09-25]]): Waller is tied for TE8 through two weeks as part of Carolina's surprise start, though Josh caveated it 'just happened to score two TDs' and grouped it with the rest of the Panthers' unproven hot start that the hosts aren't ready to fully believe in yet.
+- 2026-10-26 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-26]]): Waller caught Carolina's only real explosive play of the day, a long touchdown that briefly cut Tampa Bay's lead, in an otherwise lost 43-6 game for the Panthers.
 
 ## Related Concepts
 - [[Waiver Wire Archetypes and Organizational Support]]

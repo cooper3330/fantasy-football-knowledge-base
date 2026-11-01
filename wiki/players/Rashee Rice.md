@@ -100,6 +100,7 @@ tags: [player]
 - 2026-10-19 — According to Patrick Doherty (Rotoworld, untracked guest) ([[Harris Fantasy Football Podcast - 2026-10-19]]): with Rice out, Doherty said [[Xavier Worthy]] becomes the Chiefs' clear Plan A target, worth elevating in rankings until Rice returns.
 - 2026-10-22 — According to [[Brandon Angelo]] ([[Matt Waldman's RSP Cast - 2026-10-22 (Going Deep Eagles & 2027 QB Class)]]) [Dynasty]: Angelo compares [[Jeremy Bernard]]'s current run-game-heavy usage to Rice's own usage before his breakout, noting Rice graduated into a bigger role once he proved he could run intermediate patterns with clean timing alongside Patrick Mahomes.
 - 2026-10-23 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-23]]): Rice still hasn't practiced since the Week 4 hamstring injury, and Harris says the situation 'is not trending in the right direction' for a near-term return.
+- 2026-10-29 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-10-29]]): Rashee Rice's hamstring injury has now lingered through the bye week and cost him two games, with no firm return update given on the show. Harmon pushed back on being typecast as a 'Rasheed Rice hater,' saying he's tried to fairly note both Rice's weaknesses and clear strengths -- the bigger problem for Kansas City, per Harmon, is that everyone else around him in the receiver room is bad, which was exposed in the Week 8 blowout loss to Seattle, where four of the Chiefs' top five pass-catchers that game were tight ends or running backs.
 
 
 ## Related Concepts

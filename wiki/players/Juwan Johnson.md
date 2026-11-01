@@ -20,10 +20,12 @@ tags: [player]
 - 2026-09-28 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-28]]): [[Juwan Johnson]] scored a short touchdown and, per Harris, has now proven he 'belongs in the no-brainer ranks of fantasy starters for the moment.' Harris admitted he had Johnson ranked one spot below Brenton Strange in his preseason Almanac and conceded Johnson has been the better fantasy option so far -- contingent on Tyler Shough continuing to keep him 'in clover' as the offense's preferred red-zone tight end target.
 - 2026-10-01 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-10-01]]): Juwan Johnson is 'the perfect conversion project' as a receiver-turned-tight-end in Kellen Moore's Saints offense -- he can do 'basically anything' asked of him as a true move tight end, and 'it worked out.'
 - 2026-10-08 — According to [[Matt Harmon]], with co-host James Koh (not tracked) agreeing ([[Reception Perception The Show - 2026-10-08]]): Johnson is playing well and making touchdown-scoring plays in New Orleans. Both hosts attribute this more to Tyler Shough's QB play and Kellen Moore's scheme putting him in position to succeed than to a standalone talent leap, since role players like Johnson typically aren't relevant without competent quarterback play behind them.
+- 2026-10-26 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-26]]): Harris reversed his September 'victory lap' take on Johnson, calling him droppable now -- he's playing a ton of snaps without the ball coming near him, with only one meaningful target (a slant converted on a big third down right before [[Tyler Shough]]'s interception). Harris: 'the ball isn't even going near him... time to move on, find your Tunyon' during the Saints' bye week.
 
 ## Related Concepts
 - [[Waiver Wire Archetypes and Organizational Support]]
 - [[Quarterback-Receiver Chemistry]]
 - [[Value-Based Drafting and Early Tight End Cost]]
 - [[High Floor Picks and Draft Risk Balancing]]
+- [[Elijah Moore Rule]]
 

@@ -52,6 +52,7 @@ tags: [player]
 - 2026-09-28 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-28]]): [[Amon-Ra St. Brown]] scored his fifth touchdown of the season on a goal-line catch split wide but was otherwise quiet -- only 4-for-19 total. Harris called finding the end zone on an otherwise quiet stat line 'his routine in games where he doesn't blow up,' meaning little real concern despite the modest yardage.
 - 2026-10-08 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-10-08]]): currently 10th in the yardage leaderboard, but Harmon says he'd 'actually be shocked' if St. Brown finishes the season there rather than closer to 6th, viewing his current ranking as understating his true level.
 - 2026-10-12 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-12]]): St. Brown was visibly 'as angry as maybe I've ever seen him,' screaming at the sideline that he wanted the ball and the touchdown; Detroit tried repeatedly to get it to him in the end zone but he 'would never quite get there,' and he fumbled a punt return (recovered by Detroit) and fumbled again after a catch later in the game -- a frustrating, target-heavy but score-less day despite the Lions blowout win.
+- 2026-10-26 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-26]]), with guest Jamie Eisenberg: St. Brown was 'unstoppable' against Green Bay even though the cornerback assigned to shadow him did not appear to slow him at all in man coverage.
 
 ## Related Concepts
 - [[Zone vs Man Route Running]]

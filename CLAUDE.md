@@ -76,6 +76,20 @@ Rules that apply everywhere:
 - No required key is left blank on a real page. Templates ship blank; pages don't.
 - `aliases` is optional but legal anywhere, and is the right home for the
   nickname problem in rule 6 — `aliases: [CMC]` on the Christian McCaffrey page.
+  It is **machine-read, not just documentation**, so whenever you merge a
+  duplicate page, put the retired spelling in the survivor's `aliases`:
+  - `ingest_manifest.py` shows each page as `Name (aka X, Y)` in the page
+    inventory, with an instruction to use the name before "aka". This is what
+    stops an agent that hears "Jacoby Lane" from creating a second page beside
+    "Ja'Kobi Lane".
+  - `apply_ingest.py` resolves a plan's page `name`, `related` entries and
+    `[[links]]` through the same table, so a slip still lands on the canonical
+    page. It rewrites **links only, never prose** — expanding "MVS" inside a quoted
+    take would change what the expert said. An existing page with the exact name
+    always wins over an alias, so an alias can never redirect a take away from a
+    real page; an alias claimed by two pages resolves to neither.
+  - `lint_frontmatter.py` warns (non-fatally) on an alias that is also a page — an
+    unmerged duplicate — or one claimed by two pages.
 
 Verify with:
 
@@ -449,7 +463,13 @@ A periodic health pass. Check for:
 - **Missing cross-references** — a player mentioned in prose without a wikilink,
   or an expert page not listing a source it clearly informed.
 - **Garbled names** — pages created under ASR spellings (rule 7), or duplicates
-  of the same player under two spellings.
+  of the same player under two spellings. `lint_frontmatter.py` now surfaces the
+  common case: an `aliases:` entry that is also a page of its own is an unmerged
+  duplicate. Merge it into the page that lists it, add the retired spelling to
+  `aliases`, repoint inbound links, and **look for take bullets misfiled under a
+  *different* player's page** — a mangled name can resolve to the wrong real
+  player (a Ravens rookie's camp take was filed under an unrelated Washington
+  receiver).
 - **Gaps** — a tracked expert with no recent sources; a format page with no takes.
 - **Split wikilinks** — a `[[Player\nName]]` broken across a line break by text
   wrapping. These silently fail to resolve and are easy to miss. Check with:

@@ -69,6 +69,7 @@ tags: [player]
 - 2026-10-19 — According to Chris Harris ([[Harris Fantasy Football Podcast - 2026-10-19]]): Smith had a scary moment falling on his back and grabbing his back/side, but returned and 'put two drives that were good together' late, including a 'jumpish ball' touchdown catch in the end zone from [[Tanner McKee]] that Harris called a great catch. Despite the overall offensive mess around him, Smith was one of the few bright spots as Philadelphia tried to come back against Carolina.
 - 2026-10-20 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-10-20]]): in [[Tanner McKee]]'s first start, [[DeVonta Smith]] immediately became the clear top target, posting a 41% targets-per-route rate as a pure outside receiver -- Harmon's framing: a new backup quarterback who 'knows immediately where his bread is buttered.'
 - 2026-10-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-10-22 (Going Deep Eagles & 2027 QB Class)]]) [Dynasty]: Waldman lists Smith among his three highest-ever graded receiver prospects since 2019, alongside [[Jeremiah Smith]] and [[Ja'Marr Chase]].
+- 2026-10-26 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-26]]): Smith will again be out for Philadelphia's Monday-night game at Dallas with the hamstring injury Harris said is 'destroying his season.'
 
 
 ## Related Concepts
@@ -96,3 +97,4 @@ tags: [player]
 - [[Third-Year Receiver Leap and the Six-Game Breakout Window]]
 - [[Skewed Alignment Receivers and NFL Translation]]
 - [[Healthy Enough to Play vs. Healthy Enough to Perform]]
+- [[Wide Receiver Injury Rate Trend]]

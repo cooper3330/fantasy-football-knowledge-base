@@ -69,7 +69,7 @@ McCole Hardman, Marquez Valdes-Scantling and Justin Watson (Chiefs WR-room
 box-score/depth mentions only, no standalone evaluative read beyond team
 context already captured above), Kadarius Toney (expected-departure mention
 only), Mike Evans, Tee Higgins, Michael Pittman Jr., Calvin Ridley, Curtis
-Samuel, Kendrick Bourne, Jacoby Meyers and Odell Beckham Jr. (named only as
+Samuel, Kendrick Bourne, Jakobi Meyers and Odell Beckham Jr. (named only as
 hypothetical Chiefs free-agency/draft targets, no individual evaluation),
 Chris Jones, L'Jarius Sneed, Trent McDuffie, Fred Warner and Talanoa Hufanga
 (defensive players — out of scope for this wiki's QB/RB/WR/TE schema),

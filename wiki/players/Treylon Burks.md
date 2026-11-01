@@ -34,6 +34,7 @@ tags: [player]
 - 2025-11-20 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2025-11-20]]): Burks is a first-round bust from the 2022 class that Harmon says was 'easy to see coming' on college tape -- he needed to be deployed as a big slot receiver but was instead immediately cast as an X receiver and 'completely flopped' there. Injuries have also been a persistent factor in his career.
 - 2025-12-01 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2025-12-01 (Feel It or Fk It)]]): Asked if Treylon Burks is better than [[A.J. Brown]] and [[George Pickens]] combined, Waldman firmly rejected it -- 'never felt that' -- and said the question mostly reveals who overweights athletic ability and size over technical receiving skill.
 - 2026-08-06 — According to [[Brandon Angelo]] ([[Matt Waldman's RSP Cast - 2026-08-06]]): a brief camp fade -- Angelo isn't buying the 'Stefon Diggs is imminent' framing being floated around Burks this camp.
+- 2026-10-30 — According to Chris Harris ([[Harris Fantasy Football Podcast - 2026-10-30]]): Burks has 'an outside shot' of replacing [[Terry McLaurin]] in Washington's offense, but Harris notes Burks still hadn't practiced as of Thursday following a bye week, after getting hurt in the prior Monday night game -- leaving his status, and the McLaurin-replacement scenario, unresolved heading into Week 8.
 
 ## Related Concepts
 - [[Redraft (Standard)]]

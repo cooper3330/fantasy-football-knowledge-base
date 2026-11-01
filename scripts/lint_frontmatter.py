@@ -26,6 +26,9 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import wiki_update as wu                                           # noqa: E402
+
 REPO = Path(__file__).resolve().parent.parent
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -182,6 +185,19 @@ def main():
             print(f"  ok  {rel}")
 
     print(f"\nChecked {checked} page(s).")
+
+    # Alias problems are cleanup work, not a broken vault, so they warn and never
+    # change the exit code -- a duplicate page awaiting deletion must not turn the
+    # daily job red. An alias that is also a page is an unmerged duplicate (the
+    # signature of the Lane / Meyers / Brissett splits); one alias on two pages is
+    # ambiguous and resolves to neither.
+    conflicts = wu.alias_conflicts()
+    if conflicts:
+        print(f"\n{len(conflicts)} alias warning(s) (non-fatal):")
+        for c in conflicts:
+            print(f"  - {c}")
+        print()
+
     if not failures:
         print("Frontmatter OK -- every page conforms to its type schema.")
         return 0
