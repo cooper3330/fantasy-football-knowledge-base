@@ -66,6 +66,7 @@ tags: [player]
 - 2026-09-21 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-21]]): Chase had two touchdowns in Cincinnati's win at Houston -- a perfectly-covered end-zone toe-tap catch-and-spin against Derek Stingley Jr. for the game's first points, and a second TD off an improvised route following a Burrow scramble. Harris singles this out as a showcase of both Chase's and [[Joe Burrow (not tracked separately)|Burrow]]'s ability to create under duress.
 - 2026-10-05 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-05]]): Chase had a 20-yard grab early before a defender grabbed his facemask and wrenched his neck on a subsequent play, causing him to fall awkwardly and hit his head; he was ruled out with a concussion. Harris flags the real downstream question of whether Tee Higgins can carry the passing game in his absence, drawing a direct parallel to 2022 when Chase missed time and Higgins was merely 'okay' rather than a true number one.
 - 2026-10-22 — According to [[Matt Waldman]] ([[Matt Waldman's RSP Cast - 2026-10-22 (Going Deep Eagles & 2027 QB Class)]]) [Dynasty]: In his all-time receiver prospect grades dating to 2019, Waldman places Chase in his top tier alongside [[Jeremiah Smith]], [[DeVonta Smith]], and (as a pure receiver) [[Travis Hunter]].
+- 2026-11-03 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-11-03]]) [Redraft (Standard)]: Chase drew 16 targets against Tennessee and went over 140 yards with a touchdown, and Harmon said 'I think Jamar has looked awesome... he is capable of being one of the best receivers in the league,' even though his season-long production still trails [[Tee Higgins]]'. Harmon attributed the gap to Cincinnati's scheme funneling more of the in-breaking and post-route work to Higgins this year rather than any decline in Chase's play, noting Chase is frequently used as a motion-in second slot receiver within the Bengals' condensed route concepts alongside Higgins and [[Mike Gesicki]].
 
 ## Related Concepts
 - [[Weak Quarterback Play and Receiver Value]]
@@ -89,3 +90,4 @@ tags: [player]
 - [[Preseason ADP vs In-Season Production]]
 - [[Win-Now Trade Timing]]
 - [[Quarterback-Receiver Chemistry]]
+- [[Condensed Formations and Blurred Slot-Outside Lines]]

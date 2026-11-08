@@ -70,6 +70,7 @@ tags: [player]
 - 2026-09-21 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-09-21]]): Metcalf, hounded most of the game by Christian Gonzalez, finally beat him on a good third-down route -- and then dropped the target. Harris: 'if the people who scored drops were honest, Metcalf might have five or six in two games,' flagging a concerning early-season drop pattern.
 - 2026-10-02 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-02]]): Metcalf made two tight-window catches late in the fourth quarter (22 and 28 yards) off Aaron Rodgers that pushed him over 100 yards, and earlier drew his 'now once daily obligatory' unsportsmanlike-conduct penalty for flipping the ball at a defender. Despite the big plays, Pittsburgh never looked for him in the end zone -- the final red-zone drive's three targets all went to Darnell Washington instead -- which Harris flags as a notable role quirk given Metcalf's night.
 - 2026-10-20 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-20]]) [Redraft (Standard)]: Down 13 in the fourth quarter against Tampa, Pittsburgh went to 16 straight pass plays and Aaron Rodgers threw 49 attempts, and Harris says Metcalf's second-half performance 'really did remind me in some ways of early-career Metcalf' -- not so much the downfield stuff, but the toughness, physicality and play-making on intermediate routes that reminded Harris of the 'old DK Metcalf we used to love.' Harris's caveat is that this level of volume requires exactly this kind of extreme game-flow deficit, which Rodgers isn't usually inclined to chase, so he's skeptical it repeats as a steady diet rather than a ceiling-game outlier.
+- 2026-11-02 — According to Matt Waldman ([[Matt Waldman's RSP Cast - 2026-11-02 (Feel It or Fk It)]]) [Dynasty]: asked if Metcalf is underrated, Waldman says yes -- he believes Metcalf is a player who, given an extended runway to develop over two to three years, could become an underrated [[Deebo Samuel]]-type: not as physical, but faster, and someone who can go up and get contested balls. His worry is that injuries plus the team adding [[Wan'Dale Robinson]], 'who's a very good player,' have undercut Metcalf's developmental flow -- he isn't getting the extended runway Waldman thinks he needs to reach that ceiling.
 
 ## Related Concepts
 - [[Scheme vs Talent]]
@@ -93,4 +94,5 @@ tags: [player]
 - [[Clearly Defined Roles vs Do-Everything Personnel]]
 - [[Running Back Trade Market Scarcity Premium]]
 - [[X Receiver Scarcity in the Modern NFL]]
+- [[Deliberate Practice and the Development Sweet Spot]]
 

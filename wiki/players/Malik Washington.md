@@ -52,6 +52,7 @@ tags: [player]
 - 2026-09-10 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-09-10]]): Projected Malik Washington to be Miami's starting slot receiver in 11 personnel, part of a young receiver trio (with [[Chris Bell]] and [[Caleb Douglas]]) Harmon plans to track closely even though he doesn't expect the Dolphins offense overall to be good in 2026.
 - 2026-10-01 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-10-01]]): Washington, a sixth-round pick Harmon 'liked... as a prospect,' has 'earned a starting job' in Miami and stands to benefit from De'Von Achane's injury (Washington logged two carries after Achane went down). Harmon recalls him at UVA as 'kind of a design-touches guy' and plans to chart his tape soon for the in-season tracker, flagging him as a name worth monitoring given the Dolphins' backfield shakeup [Best Ball]/[Dynasty] relevance.
 - 2026-10-27 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-10-27]]) [Redraft (Standard)]: Washington continues to run the most routes of any Dolphins receiver, and Harmon likes him as more than a gimmicky slot role player, projecting him as a potential starting slot receiver in the league as part of a promising young trio with [[Caleb Douglas]] and [[Chris Bell]].
+- 2026-11-05 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-11-05]]): Harmon is high on Malik Washington's Week 9 spot against Detroit, noting the Lions are especially vulnerable to slot receivers this year (107.1 yards/game, a 123 passer rating and 5 touchdowns allowed to slot targets) even with nickel Brian Branch back from injury. He says Washington -- targeted on 24% of his routes this season, with a touchdown won against a top corner last week -- is a good man-coverage beater, which matters since Detroit is the 2nd-most man-coverage-heavy defense in the league behind only Cleveland. Harmon says he's still in 'exploratory mode' on Washington's ceiling but has charted him as a legitimately good slot prospect.
 
 ## Related Concepts
 - [[Reception Perception Methodology]]
@@ -64,3 +65,4 @@ tags: [player]
 - [[FAAB Budget Allocation Strategy]]
 - [[Buy-Low Windows and Panic Sells]]
 - [[Training Camp Report Skepticism]]
+- [[Zone vs Man Route Running]]

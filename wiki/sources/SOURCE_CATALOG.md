@@ -674,6 +674,13 @@ Once ingested, each episode also gets a summary page in `wiki/sources/`.
 | 2026-10-29 | [[Matt Harmon]] | Seattle Steals a Stud & Can These 3 Offenses Find Their Rhythm? | [[Reception Perception The Show - 2026-10-29]] |
 | 2026-10-29 | [[Chris Harris]] | Week 8 Fantasy Lineups & Luther Burden Film Futures | [[Harris Fantasy Football Podcast - 2026-10-29]] |
 | 2026-10-30 | [[Chris Harris]] | Midseason Huggy & Baggy Awards | [[Harris Fantasy Football Podcast - 2026-10-30]] |
+| 2026-11-02 | [[Chris Harris]] | Week 8 Game Film Review | [[Harris Fantasy Football Podcast - 2026-11-02]] |
+| 2026-11-02 | [[Matt Waldman]] | Feel It or F**k It 11.2.26 with Bob Harris and Matt Waldman | [[Matt Waldman's RSP Cast - 2026-11-02 (Feel It or Fk It)]] |
+| 2026-11-03 | [[Matt Harmon]] | Week 8 Fireworks: Tee Time, Michael Wilson Flies High & is AD Mitchell Just GOOD? | [[Reception Perception The Show - 2026-11-03]] |
+| 2026-11-03 | [[Chris Harris]] | Week 9 Waivers & More W8 Game Film Review | [[Harris Fantasy Football Podcast - 2026-11-03]] |
+| 2026-11-05 | [[Matt Harmon]] | Trade Deadline Headlines - BTJ Rumors, Aiyuk BACK? & Week 9 Best/Worst Matchups! | [[Reception Perception The Show - 2026-11-05]] |
+| 2026-11-05 | [[Chris Harris]] | Week 9 Lineup Decisions & Snark & Mixtape & More! | [[Harris Fantasy Football Podcast - 2026-11-05]] |
+| 2026-11-06 | [[Chris Harris]] | Biggest Surprises Of 2026 So Far & Week 9 Injuries | [[Harris Fantasy Football Podcast - 2026-11-06]] |
 
 <!-- Claude: append a row per ingested episode as you process it:
      | date | expert | episode | summary page |

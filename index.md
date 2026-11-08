@@ -52,27 +52,27 @@ for the chronological record of ingests, queries, and lints.
 - [[Baker Mayfield]] — QB, TB — out Week 4 vs Green Bay with a backup starting; tanks Egbuka's near-term target quality per Harris
 - [[Justin Fields]] — QB, NYJ — benched for Tyrod Taylor to start 2nd half after big hit; possible concussion, plans unclear
 - [[Derek Carr]] — QB, NO — retired May 2025; Waldman saw it coming after the Shough pick (2025 takes)
-- [[Justin Herbert]] — QB, LAC — Waldman: mid-tier decision-maker with elite tools; McDaniel scheme tweak won't fix it
+- [[Justin Herbert]] — QB, LAC -- collapsed from preseason QB5 to QB27-29, dropped in most leagues amid 0-7 start
 - [[Russell Wilson]] — QB, NYG — Harmon calls the 450-yard Cowboys game a mirage; limited menu capping Nabers (2025 takes)
 - [[C.J. Stroud]] — QB, HOU — projected top-12/possible top-5 rebound per Waldman; better O-line is the driver, Kyle Pitts comp
 - [[Jared Goff]] — QB, DET -- Harris drops Lions out of his top-3 offenses (still top-10) after an OL-driven struggle vs. Buffalo
-- [[Lamar Jackson]] — QB, BAL -- ankle injury held him out of the 2nd half; team says day-to-day, seen in a walking boot, status unclear
+- [[Lamar Jackson]] — QB, BAL -- Harmon: almost certainly out for the season with a thumb injury after one snap in Week 8
 - [[Patrick Mahomes]] — QB, KC — Harris/Behrens rank Mahomes only QB12-13, wary of hyped 'ahead of schedule' recovery reports
 - [[Jalen Hurts]] — QB, PHI — out for the season (injury); no real contract out through 2027, no-trade clause intact
 - [[Brock Purdy]] — QB, SF — reinstalled as starter; Waldman rates him clearly above Mac Jones on arm, anticipation and mobility
-- [[Kyler Murray]] — QB, MIN — Harmon: bottom-5 QB (27th EPA/pass); 'oil and water' fit under KOC's unadjusted scheme
+- [[Kyler Murray]] — QB, MIN -- Harmon's charting: clear outlier avoiding core intermediate/breaking routes; benched for Carson Wentz
 - [[Drew Lock]] — QB, SEA — thrust into starting duty after Darnold's hip injury; shaky then clutch late in Week 1 win
-- [[Gardner Minshew]] — QB, LV — Waldman buying: reads, anticipation, mid-season rapport with Adams and Bowers (2024 takes, stale)
+- [[Gardner Minshew]] — QB, ARI -- Bob Harris: thrives in chaos relieving Jacoby Brissett down 17-3, but shaky with a structured game plan
 - [[Anthony Richardson]] — QB, free agent-in-waiting — Waldman still rosters him dynasty-wide, bets on a bounce-back elsewhere
 - [[Joe Flacco]] — QB, CIN — brutal outing, pick-six; Harris expects Joe Burrow to reclaim the job Thursday vs Ravens
 - [[Jordan Love]] — QB, GB -- back to top-10 form behind improved O-line; Harris/Doherty worry Josh Jacobs's return tempts LaFleur back to run-heavy mode
 - [[Dak Prescott]] — QB, DAL — Koh predicts 5,000 passing yards; Harmon counters with a Cowboys Super Bowl and Dak MVP pick instead
-- [[Bryce Young]] — QB, CAR — dropped to QB17 after shaky Tampa game; Harris wary six-game leap was schedule-driven.
+- [[Bryce Young]] — QB, CAR -- Waldman: O-line pressure and drops to blame, not the knee; too early to bench or sell
 - [[Michael Penix Jr.]] — QB, ATL -- still unplayable for fantasy; rib injury and leverage-reading issues persist, but unlocks London/Pitts upside
 - [[Tua Tagovailoa]] — QB, now ATL — Brown calls tape 'absolutely awful,' fears a permanent decline, not just a scheme fit issue
 - [[Drake Maye]] — QB, NE — 'not yet' a fraud per Waldman; receiving talent and picks still the issue
 - [[Bo Nix]] — QB, DEN — season-long disappointment per Waldman; blames OC Davis Webb and O-line, not a QB1 so far
-- [[Caleb Williams]] — QB, CHI — out Week 5 (Bagent/Keenum struggled); expected back Week 6 vs. Falcons
+- [[Caleb Williams]] — QB, CHI -- Harris now trusts Chicago's offense over any other in the league behind Williams
 - [[Jayden Daniels]] — QB, WAS — arm/elbow brace, uncertain Week 4 status in London; Harris won't rank him normally if mobility is limited
 - [[J.J. McCarthy]] — QB, NYG — surprisingly strong early Giants starts; 'dangerous backup' profile, excellent clean pocket, poor under pressure.
 - [[Spencer Rattler]] — QB, NO — benched mid-3rd quarter after INT/fumble/overthrow; Tyler Shough now starter
@@ -98,7 +98,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Michael Pratt]] — QB, 2024 prospect — Waldman: high-floor fundamentals, too slow to throw underneath/away
 - [[Sam Hartman]] — QB, 2024 prospect — Waldman: technically sound but capped arm limits him to distributor role
 - [[Deshaun Watson]] — QB, CLE — QB10 through Wk7; Waldman says 70-75% back to peak, viable streamer/Superflex option
-- [[Jacoby Brissett]] — QB, ARI — leads NFL in passing yards/game since starting; Harmon cites him as proof scheme fit beats draft capital
+- [[Jacoby Brissett]] — QB, ARI -- pulled down 17-3 vs Dallas for Gardner Minshew; QB competition left unresolved
 - [[Will Levis]] — QB, TEN — Waldman 2025: 'fuck it,' processing is the real flaw; mechanics work treats symptoms, No. 1 pick looms
 - [[Sam Darnold]] — QB, SEA — streamer only; Carter has him outside top 20, prefers Brissett vs. Bears this week.
 - [[Sam Howell]] — QB, SEA — backup-level and a bad fit behind a leaky line; 22% sack rate in relief (2024 takes, stale)
@@ -106,14 +106,14 @@ for the chronological record of ingests, queries, and lints.
 - [[Geno Smith]] — QB, NYJ — Harmon/Koh reversal: playing well beyond expectations, 4th in CPOE, pushing the ball downfield effectively
 - [[Zach Wilson]] — QB, NYJ — Waldman: Baker-Mayfield-style redemption in range if he matures; could be out of league in years
 - [[Josh Allen]] — QB, BUF -- 79% of offense/100% of TDs through 2 wks; Harris doubts the rushing workload's sustainability
-- [[Trevor Lawrence]] — QB, JAX — Week 9+ fantasy QB1 run has Harris moving him to a 'fringe starter' tier, skeptical rushing TDs repeat
+- [[Trevor Lawrence]] — QB, JAX -- Harmon: NFL's best and highest-rate passer on 10-20 air-yard middle-of-field throws this season
 - [[Trey Lance]] — QB, SF — groin strain, out at least 4 games from Oct 10, earliest return ~Week 10
 - [[Malik Willis]] — QB, MIA — two picks, a fumble vs. CIN; Harris: clearly not a starting-level NFL QB, Dolphins should draft one.
 - [[Jameis Winston]] — QB, NYG — named starter over Dart; Harmon calls him a fantasy 'pump and dump' with no worthwhile targets (2025 takes)
 - [[Jake Haener]] — QB, NO — Waldman: better than Rattler now; startable-at-times backup who feeds Olave safely (2024)
 - [[Hendon Hooker]] — QB, DET — Waldman near-out; backup ceiling, Josh Dobbs career path projected (2024 takes, stale)
-- [[Tyson Bagent]] — QB, CHI — expected to start if Williams is out; both hosts warn his weak arm flattens value for Burden/Loveland/Odunze
-- [[Cam Ward]] — QB, TEN — Harmon/Koh: looks 'broken' early, too many mistakes; scheme isn't the problem, execution is
+- [[Tyson Bagent]] — QB, CHI -- Waldman: likes him 'a lot,' projects future starter/Garoppolo-type; Ravens reportedly inquired via Declan Doyle tie
+- [[Cam Ward]] — QB, TEN — best game of his career per hosts; mobility featured heavily in RPO-based attack.
 - [[Darian Mensah]] — QB, Tulane — aggressive downfield passer with elite ball placement; expected power-four transfer (2024 devy takes, stale)
 - [[Skylar Thompson]] — QB, PIT — backup; Waldman says Miami governed his aggression, Kansas State tape more downfield (2025 takes)
 - [[Carson Beck]] — QB, ARI — strong preseason opens a path to an earlier start if Arizona struggles; Waldman comps him to a young Derek Carr
@@ -141,7 +141,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Mac Jones]] — QB, SF — Vikings trade buzz; Harmon skeptical he's a real starter outside Shanahan scheme, projects 2nd-rd price
 - [[Davis Mills]] — QB, HOU — Waldman: still Stroud's backup job long-term, but open to reconsidering if the strong play continues
 - [[Tyrod Taylor]] — QB, NYJ — groin injury in Week 14 collapses Jets passing offense; Week 15 status decides whether any Jets skill player is startable
-- [[Tyler Huntley]] — QB, BAL — new page; started for injured Lamar Jackson, accurate/conservative, streamer only for now
+- [[Tyler Huntley]] — QB, BAL — turf toe, expected on IR; Baltimore down to third-string QB.
 - [[Drake May]] — QB, NE -- more decisive/confident Week 4 bounce-back; Harris open to using him again in fantasy
 - [[Mason Rudolph]] — QB, PIT — filled in for Rodgers with an ultra-conservative, screen-heavy approach per Chris Harris
 - [[Dylan Gabriel]] — QB, CLE — hosts: overwhelmed, 'shouldn't even be a backup,' clearly worse than Shedeur Sanders
@@ -153,11 +153,11 @@ for the chronological record of ingests, queries, and lints.
 - [[Drew Allar]] — QB, PIT -- Waldman has no real grade on him; fortuitous opportunity, not talent, drives his hype
 - [[Baron Morton]] — QB, Texas Tech -- new RSP prospect page; Waldman says active-roster spot alone would be an accomplishment
 - [[Diego Pavia]] — QB, BAL -- Waldman's top-5 QB grade in the class despite an incentive-only, behavior-contingent deal
-- [[Joe Fagnano]] — QB, Connecticut (Draft Prospect) — Waldman sleeper: O'Connell-style backup/journeyman-starter upside with seasoning
+- [[Joe Fagnano]] — QB, BAL -- next man up after Jackson (thumb surgery) and Huntley (turf toe); Ravens reportedly exploring outside options
 - [[Brendan Soresby]] — QB, prospect — Waldman's dynasty buy target; comps him to a young Jay Cutler, worth a 2nd-round pick or heavy FAAB
-- [[Jaden Daniels]] — QB, WAS — twice-dislocated elbow, out long-term (not ruled out for season); Mariota starts
+- [[Jaden Daniels]] — QB, WAS -- Harris/Pianowski both have him QB11-13, grouped with streamers; lost rookie-year magic, no weapons
 - [[Cooper Rush]] — QB, ATL — benched after multiple turnovers; Harris says he 'will never play again' as Falcons starter
-- [[Carson Wentz]] — QB, MIN -- Waldman's pick over Kyler Murray as best-suited to O'Connell's offense; expect him to start.
+- [[Carson Wentz]] — QB, MIN -- Harmon's charting: throws Vikings' core intermediate/breaking routes far more, far better than Kyler Murray did
 - [[Case Keenum]] — QB, CHI — 38yo journeyman threw 3 TD in relief of injured Caleb Williams; Harmon expects him to keep starting for now
 - [[Michael Penix Jr]] — QB, ATL — offense surged 32nd/26th to 1st/2nd (Harmon's metric) since he took over; Koz: small-sample, soft matchups
 - [[Tanner McKee]] — QB, PHI — new starter after Hurts' season-ending injury; graded a functional, downfield-capable backup
@@ -167,6 +167,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Trinidad Chambliss]] — QB prospect — Angelo's favorite CFB watch; top-5 talent he expects underdrafted on age/size concerns
 - [[C.J. Carr]] — QB prospect, Notre Dame — new page; Angelo calls him 'good' but not top-tier in a thin 2027 class
 - [[JJ McCarthy]] — QB, NYG — thriving post-Minnesota; Harmon credits Giants' route combos (Nabers/Likely) for one clear read
+- [[Jaxson Dart]] — QB, NYG -- eye-opening spot start vs. Texans; Harris still fascinated but calls the QB1 job unsettled
 
 ### Running Backs
 - [[Christian McCaffrey]] — RB, SF -- not practicing early camp; hosts flag 2024 tightness echo and a possible contract-leverage angle
@@ -175,12 +176,12 @@ for the chronological record of ingests, queries, and lints.
 - [[James Cook]] — RB, BUF — risk 3/10; hosts flag his small frame/running style as a theoretical, not yet realized, injury risk
 - [[Tyler Goodson]] — RB, IND — Waldman getting off the train; still likes the versatility but not the Indianapolis situation (2024 takes, stale)
 - [[Trey Sermon]] — RB, IND — competent one-week fill-in, nothing beyond it; Howard/Williams comp *(2023 takes, stale)*
-- [[Devin Singletary]] — RB, NYG — took over as hot hand, TD; add off Tracy's likely concussion with Giants on bye wk14
-- [[Saquon Barkley]] — RB, PHI — re-aggravated hamstring/back injury on 9-snap cameo Week 7; Harris says stop starting any Eagles skill players.
-- [[Derrick Henry]] — RB, BAL -- Waldman/Harris both feeling a 32-year-old age-defying bounce-back year, top-5 RB if line holds
+- [[Devin Singletary]] — RB, NYG -- elevated to lead-back volume as Giants' backfield situation collapses around him
+- [[Saquon Barkley]] — RB, PHI -- Giants revenge game; Harris calls him a 'severely degraded' shell of his former self
+- [[Derrick Henry]] — RB, BAL -- downgraded after wildcat-gimmick Thursday loss (17 touches, 57 yards) with Fagnano at QB
 - [[Joe Mixon]] — RB, HOU — Harris/Gretsch expect Mixon gone; leaks suggest Texans-driven, may be career-threatening injury
 - [[Alvin Kamara]] — RB, NO -- flashed a vintage TD run but left banged up/back issue, severity unclear entering Week 7
-- [[Breece Hall]] — RB, NYJ -- trending toward a return from quad injury; expected back in the ranks
+- [[Breece Hall]] — RB, NYJ -- returns vs. KC into muddled timeshare after Braylon Allen's strong fill-in stretch
 - [[Nick Chubb]] — RB, retired — Waldman: Chubb is Hall of Fame-worthy on tape, likely needs a veterans committee path over HOF voter bias.
 - [[David Montgomery]] — RB, HOU — groin injury expected to cost multiple weeks; Woody Marks set to take over the lead role.
 - [[Isiah Pacheco]] — RB, KC — buried behind Kareem Hunt (21-38 snap split); Harmon says he's given nothing all year post-injury
@@ -193,7 +194,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Tank Bigsby]] — RB, PHI -- lead back in Barkley's Week 4 absence but got hurt himself late; status TBD for Week 5
 - [[Kendre Miller]] — RB, NO — short-term opportunity (Kamara limited by back injury) in a muddled 3-way Saints backfield split.
 - [[Chase Brown]] — RB, CIN -- 38-12 snap edge over Perine despite lost goal-line work; floated by Harris/Eisenberg as a buy-low.
-- [[Tony Pollard]] — RB, TEN — 3-TD, 80-yards-in-10-minutes explosion vs. CLE; Harris calls it a sell-high spot, not a new baseline.
+- [[Tony Pollard]] — RB, TEN — Harris reverses course, trusts him rest of way; trade buzz persists (~3rd-rounder).
 - [[Michael Carter]] — RB, ARI — Harris's No. 1 waiver add; pass-catching role gives PPR floor even in a run-funneled offense
 - [[Austin Ekeler]] — RB, WAS — outplayed Croskey-Merritt filling in for injured Rashad White; Waldman favors him as the better short-term option.
 - [[Josh Jacobs]] — RB, GB -- season debut after suspension: 35 snaps to Lloyd's 22, scored; workload expected to keep rising.
@@ -250,17 +251,17 @@ for the chronological record of ingests, queries, and lints.
 - [[Gus Edwards]] — RB, LAC — last in league YPC after a top-10 all-time career mark; Harstad calls it noise, not decline (2024 takes, stale)
 - [[Travis Etienne Jr.]] — RB, JAX -- now on IR per Harris's Monday-night preview; out indefinitely
 - [[J.K. Dobbins]] — RB, DEN -- Harmon says he looks a step slower and is trending down, though offense context muddies it
-- [[Chuba Hubbard]] — RB, CAR -- confirmed as one of the best fantasy picks of 2026; 29-touch, 119-scrimmage-yard outing vs. GB
+- [[Chuba Hubbard]] — RB, CAR -- unlikely RB1 breakout: RB12 on season, 29-touch game, ranked ~14th rest-of-season
 - [[Miles Sanders]] — RB, CAR — Angelo blames poor Panthers infrastructure/ownership, not talent loss, for his decline
 - [[Dylan Johnson]] — RB, TEN UDFA — Waldman's other favorite; projects as low-red-zone role Titans currently lack
 - [[Eric Gray]] — RB, NYG — new page; Waldman has Gray 60/40 over Tyrone Tracy Jr. for the complementary role behind Singletary
 - [[Dameon Pierce]] — RB, PHI — now the presumed lead back with Saquon out, but both hosts doubt the talent and the OL is in flux
 - [[Deuce Vaughn]] — RB, DAL — not viewed as a 2024 fantasy factor; buried behind Elliott/Dowdle regardless of role changes
 - [[Justin Strong]] — RB, IND (UDFA) — tryout with Colts; Waldman flags burst/vision but wants a deep-league watch, not a draft pick
-- [[Zach Charbonnet]] — RB, SEA -- activated off 21-day window, active Sun. vs KC; backfield role still unresolved
+- [[Zach Charbonnet]] — RB, SEA — back in even split with Jadarian Price post-injury; Harris calls him 'slightly overpriced' Week 9
 - [[Cordarrelle Patterson]] — RB/KR, PIT — Harstad: greatest returner ever, records set in the era most hostile to returns
 - [[Leonard Fournette]] — RB, FA — Waldman: monitor-only 'next Latavius Murray' type until there's a real, proven role
-- [[Ashton Jeanty]] — RB, LV -- lost 2nd-half/4th-quarter work to Mike Washington after a drop; possible hand/ankle issue, Week 7 status uncertain
+- [[Ashton Jeanty]] — RB, LV -- bizarre benching to 2 carries behind Mike Washington; Waldman/Harris call it temporary, Jeanty still clearly better
 - [[Trevor Etienne]] — RB, 2025 prospect — 'lunch pail' back; adequate everywhere, spot-start/tertiary projection per Angelo (2025 pre-draft takes, stale)
 - [[Ollie Gordon II]] — RB, MIA — Waldman now taking him seriously; feature-back usage, gap-scheme fit, ahead of Jalen Wright
 - [[Jaleel McLaughlin]] — RB, DEN — Waldman's favorite Denver back at an RB50 price; Payton receiving-back archetype (2024 takes, stale)
@@ -269,7 +270,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Justice Hill]] — RB, BAL — Waldman's preferred late Derrick Henry handcuff; some standalone TD value (2025 takes)
 - [[A.J. Dillon]] — RB, PHI — Waldman: real closeout/short-yardage threat to Shipley behind Barkley, badly underrated (2025 takes)
 - [[Christopher Brooks]] — RB, GB — best shot at a bigger in-house role if Jacobs misses time; strong pass-pro/catching but lacks a speed element.
-- [[Sione Vaki]] — RB, DET — Waldman: cheap luxury-spot stash behind Gibbs after Montgomery MCL injury (2024 takes, stale)
+- [[Sione Vaki]] — RB, DET — real early-down work (11 carries) behind Gibbs; viable handcuff now.
 - [[Jordan Lyle]] — RB, Miami — Angelo devy watch: Gibbs-like HS tape, late-1st/early-2nd upside, small frame (~185 lbs)
 - [[Kyle Monangai]] — RB, CHI — took over backfield touches after a DeAndre Swift fumble; was already playing well
 - [[Jacory Croskey-Merritt]] — RB, WAS — benched short-term per Waldman after an unimpressive game; Ekeler looked sharper filling in for Rashad White.
@@ -288,15 +289,15 @@ for the chronological record of ingests, queries, and lints.
 - [[Nate Frazier]] — RB, Georgia — true freshman, Sharpe's pick as a future national-name back (2024 takes, stale)
 - [[Quinshon Judkins]] — RB, CLE -- ankle limiting him again; McLaughlin the top handcuff if he sits
 - [[Kareem Hunt]] — RB, KC — Week 1 third-down and short-yardage back over Pacheco; Harris rates the role above the player
-- [[Jonathan Taylor]] — RB, IND — trade rumors escalating toward the Nov. 10 deadline after heavy backup touches Week 7; roster McGowan now.
+- [[Jonathan Taylor]] — RB, IND -- expected to play then be traded; risk of limited/showcase usage vs. Dallas
 - [[Isaac Brown]] — RB, Louisville — Waldman prefers him to Bucky Irving; creative but disciplined, Clinton Portis flashes (eligibility unclear)
 - [[Rhamondre Stevenson]] — RB, NE -- muddled into a 3-man committee after a 3rd back took all 11 closeout carries off a Henderson fumble
 - [[Jerome Ford]] — RB, CLE — squeezed out by Judkins's return per Waldman/Bob Harris; Sampson keeps the change-up role
 - [[Sincere McCormick]] — RB, SF — signed after should've been rostered in 2025 per Waldman; praised as a smart, instinctive runner, not a camp arm.
-- [[Cam Skattebo]] — RB, NYG -- lead role confirmed after conflicting Sunday-AM reports; scored in OT, Singletary still vultures some touches.
+- [[Cam Skattebo]] — RB, NYG -- hamstring, hasn't practiced; Harris signals a ranking drop is likely coming
 - [[Ameer Abdullah]] — RB, LV — Waldman's case study in journeyman labeling; versatile with contact balance but not a startable fantasy back (2024 takes)
-- [[TreVeyon Henderson]] — RB, NE -- Harris: 'not a top-30 running back,' losing series to Corey Kiner after mistakes despite known upside
-- [[Omarion Hampton]] — RB, LAC -- named Harris's midseason Fantasy LVP; was already on his preseason bust list
+- [[TreVeyon Henderson]] — RB, NE -- unlikely to play vs. GB; Harris doubts trade rumors, points to high ankle sprain
+- [[Omarion Hampton]] — RB, LAC -- fallen to ~RB29; underlying metrics confirm he's running well under expected yards behind a bad line
 - [[Kaleb Johnson]] — RB, PIT — buried in Tomlin's doghouse after a fumble; Jaylen Warren and Kenneth Gainwell passed him on depth chart.
 - [[Brashard Smith]] — RB, KC — leaked 'more involved' role with Pacheco struggling and Hunt cooked; Harris a speculative add (2025)
 - [[LeQuint Allen]] — RB, JAX — 1% rostered; Harris's No. 5 waiver add as possible third-down back behind Etienne (2025 takes)
@@ -310,7 +311,7 @@ for the chronological record of ingests, queries, and lints.
 - [[RJ Harvey]] — RB, DEN — touchdown-dependent production; Waldman says Jonah Coleman may be overtaking the lead role
 - [[Dylan Sampson]] — RB, CLE — 20 touches in W1 debut, quick but small; Ciely prefers him to Judkins, Harris prefers Judkins (2025)
 - [[Marcus Yarns]] — RB, FA — Waldman's most intriguing 2025 back; electric space player, needs 200 lbs for a complement role (2025 pre-draft)
-- [[Bhayshul Tuten]] — RB, JAX -- Harris flags a possible sell-high window; box score (2 TDs) overstates a limited big-play back
+- [[Bhayshul Tuten]] — RB, JAX -- 29.9-pt RB2 outing; Waldman: still rising, 'a back I'd want to build around,' eyeing top-5 overall
 - [[Lan Larison]] — RB, NE — Koh's deep sleeper: elite hands, possible Woodhead-style hybrid pass-catching role (untracked co-host take)
 - [[James Conner]] — RB, ARI — begins season on IR, out at least 4 games with no guaranteed return; opens door for Tyler Allgeier
 - [[Kaytron Allen]] — RB, WAS — rookie, only 4 carries Wk 1, but Gold projects growing short-yardage role after JCM fumble
@@ -328,23 +329,23 @@ for the chronological record of ingests, queries, and lints.
 - [[Hassan Haskins]] — RB, LAC — lost backfield lead to Vidal (19 vs 43 snaps) despite offseason camp hype
 - [[Zonovan Knight]] — RB, ARI — Harris's slight Week 10 nod over Demercado on goal-line and two-minute work, low conviction (2025 take)
 - [[Bam Knight]] — RB — Waldman ranks ahead of Tyler Allgeier on coaching comments; plus-backup upside while Love is out
-- [[Jalen Warren]] — RB, PIT -- trending back from sprained ankle; Harris expects him startable if Friday practice happens
+- [[Jalen Warren]] — RB, PIT -- surprise breakout: 5.9 YPC (league-best), 2nd among RBs in scrimmage yards
 - [[Rashad White]] — RB, WAS — Waldman buy signal; outplaying Croskey-Merritt on blocking, receiving, decision-making
-- [[Emmanuel Wilson]] — RB, SEA -- 2-TD fill-in game, but Zach Charbonnet's activation threatens the role as soon as Week 5
+- [[Emmanuel Wilson]] — RB, SEA — fully phased out of Seattle backfield behind returning Price/Charbonnet; zero offensive snaps
 - [[Jawhar Jordan]] — RB, HOU — Koh's breakout sleeper pick; holds RB3 role, best single-game rush total by a Texans back last two years
 - [[Raheim Sanders]] — RB, CLE — rising complementary role, near-even snap split with Judkins per Waldman
 - [[R.J. Harvey]] — RB, DEN -- mostly checkdown-screen volume; Harmon doesn't buy a stock-up narrative despite raw usage
 - [[Caleb Johnson]] — RB, GB -- fumbled again, lost playing time; Harris: no juice, trending toward the doghouse
-- [[Jeremiah Love]] — RB — no firm return timeline; downcast per reports, Waldman calls it a normal rookie-year grind
+- [[Jeremiah Love]] — RB, ARI -- on IR with ankle injury; team's 'unrelated to August sprain' framing met with skepticism
 - [[Demond Claiborne]] — RB, Wake Forest prospect -- Waldman: underrated talent, but serious ball-security red flag (7 fumbles in 2025)
 - [[Emmett Johnson]] — RB, SEA — dynasty stash per Waldman/Angelo; Walker injury history (2-4 games) makes him a 'league winner' handcuff
-- [[Jonah Coleman]] — RB, DEN — only RB100 rest-of-season per Denny Carter; Harris senses momentum building toward Coleman over Dobbins.
+- [[Jonah Coleman]] — RB, DEN — took over Denver backfield from Dobbins, scored game-winner; Nix's offense still unproven.
 - [[Davon Booth]] — RB, Mississippi State prospect -- Waldman: unheralded, comps to Kyle Monangai with more burst
 - [[Miles Montgomery]] — RB, NE -- placed on IR (not cut) as a rookie UDFA; Waldman reads that as the team protecting the investment
 - [[Mike Washington Jr.]] — RB, LV (rookie) -- inside-zone hammer fit questioned under Kubiak; ADP riser after Jeanty's ankle scare
 - [[Darius Taylor]] — RB, Minnesota prospect -- Waldman: Le'Veon Bell-style patient runner with elite ball security, but recurring leg injuries
 - [[Robert Henry Jr.]] — RB, UTSA prospect -- Waldman's early-fall priority pick; James Cook comp, Day 3 value in a weak RB class
-- [[Mike Washington]] — RB, LV — ADP surged to Rd4 after Jeanty's injury; Waldman calls that an overpay, prefers him Rd7-8 or as a late dart.
+- [[Mike Washington]] — RB, LV — surprise 25-carry workload over Jeanty; both hosts view it as likely temporary, not a true change
 - [[Adam Randall]] — RB, BAL — Koh's top handcuff pick; new coaching staff (Bisciotti's own pick) tabbed over Hill/Ali as backup to Henry
 - [[Chip Trainum]] — RB, Toledo -- new RSP prospect page; converted LB, Waldman rates his ceiling near Adam Randall's
 - [[Jaden Nixon]] — RB, UCF -- new RSP prospect page; deep-sleeper return specialist, likely makes roster on special teams
@@ -358,7 +359,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Desmond Reed]] — RB, NCAA (Pittsburgh) — new prospect page; dynamic open-field runner, but footwork lapses on pressure cuts at top speed.
 - [[Eli Sanders]] — RB, NCAA (USC) — new prospect page; explosive gap runner coming off ACL tear, not highly rated but flagged upside.
 - [[Jamari Taylor]] — RB, NCAA (UVA) — new prospect page; Waldman likes his footwork, acceleration and top-end speed to prolong runs.
-- [[Jadarian Price]] — RB, SEA -- still on IR, out at least 3 more weeks per Harris
+- [[Jadarian Price]] — RB, SEA — even split with Charbonnet post-injury; Harris thought a missed TD run exposed limited burst
 - [[Jayden Ott]] — RB, NCAA (California) — new prospect page; patient vs. tight boxes, but ill-advised cutbacks against heavier boxes.
 - [[Jam Miller]] — RB, NCAA (Alabama) — new prospect page; 2024 field-flipping burst missing in 2025 while playing hurt.
 - [[Kayshawn Owens]] — RB, NCAA (South Florida) — new prospect page; low-to-ground finisher Waldman thinks is underrated.
@@ -369,7 +370,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Rahsul Faison]] — RB, NCAA (South Carolina) — new prospect page; Waldman calls him an effective tight-crease, patient zone runner.
 - [[Zach Palmer-Smith]] — RB, NCAA (UAB) — new prospect page; decisive power runner, not a breakaway threat but efficient deceleration.
 - [[Freddie Brock]] — RB, NCAA (Georgia State) — new prospect page; reserve-role UDFA type if third-down game and special teams develop.
-- [[Seth McGowan]] — RB, IND — top speculative Taylor handcuff/trade-deadline add; 11 touches and several broken tackles Week 7.
+- [[Seth McGowan]] — RB, IND — #1 Week 9 waiver add per Harris/Seeley as Jonathan Taylor trade looms; volume-over-talent bet
 - [[Sean Williams]] — RB, Kansas -- Waldman calls him underrated, a 5'9'/218 bowling ball he ranks ahead of Jonah Coleman in this range
 - [[Kalen Black]] — RB, SF — CMC backup; 15 touches (9 non-garbage) Wk1, top waiver add; hosts value at ~20-25% FAAB
 - [[Casey Concepcion]] — WR, CLE — career-high 129 yards, 55 YAC (most in NFL this season); Harmon's confidence high going forward.
@@ -382,38 +383,39 @@ for the chronological record of ingests, queries, and lints.
 - [[Jalen Wright]] — RB, MIA -- lost all second-half snaps to Ollie Gordon; unclear if role change or re-injury
 - [[JK Dobbins]] — RB, DEN — took over the lead role last week once Sean Payton assumed play-calling; unclear if durable
 - [[Corey Kiner]] — RB, NE -- new page; undrafted 'lunch-pail' back getting opportunistic series behind Stevenson/Henderson
+- [[Braylon Allen]] — RB, NYJ -- role at risk as Breece Hall returns from quad injury; split uncertain
 
 ### Wide Receivers
-- [[Justin Jefferson]] — WR, MIN — still elite, but Harmon: KOC's scheme locks him into X-only outside routes Kyler won't throw
+- [[Justin Jefferson]] — WR, MIN -- Harmon: still NFL's best route runner/separator by his charting; bounce-back expected with Carson Wentz now at QB
 - [[Ja'Marr Chase]] — WR, CIN -- left with a concussion after a facemask/neck injury; status for Week 5 in question
 - [[Keenan Allen]] — WR, IND — Harris flags possible decline signs after quiet game vs. Chiefs; 'cookage may finally be there'
 - [[Amon-Ra St. Brown]] — WR, DET — Koh's bold call: 2,000 receiving yards in 2026 fueled by a bad Lions defense and light schedule
 - [[Jameson Williams]] — WR, DET -- 100-yd bounce-back vs. soft CB matchup; Harmon says boom/bust is simply who he is, not a trend
-- [[Brandon Aiyuk]] — WR, SF — Waldman feels career is effectively over; fired agent, no reinstatement filing, guaranteed money at risk
-- [[Tee Higgins]] — WR, CIN -- true alpha performance filling in for Chase, but exited late with a groin strain
+- [[Brandon Aiyuk]] — WR, FA -- filed for reinstatement, reports to SF facility; Harmon expects release, then a signing elsewhere by year's end
+- [[Tee Higgins]] — WR, CIN — on ~1,700-yd pace; leads NFL in combined in-route/post-route yards per Harmon's charting.
 - [[Jordan Addison]] — WR, MIN — zero catches vs Bears; Harmon calls him a good, solid WR2, not a true WR1.
 - [[Jayden Reed]] — WR, GB — season-ending neck injury (IR), confirmed by Matt LaFleur; Packers lack clear depth to replace his role
 - [[Noah Brown]] — WR, WAS — surprise Houston cut, signed by Washington; competent system depth pushed out by roster crowding (2024 takes, stale)
 - [[John Metchie III]] — WR, HOU — Harmon sells the breakout (slot-only role player); Koh buys on vacant slot role (2024 takes, stale)
 - [[Xavier Hutchinson]] — WR, HOU -- Waldman: least dynamic but good route runner; red-zone TD upside if featured there
 - [[Tre Tucker]] — WR, LV -- profile surprised Harmon with route balance/elite speed; projected top-snaps WR3, Best Ball riser
-- [[Treylon Burks]] — WR, TEN — Waldman says sell/cut in dynasty: catch-point and zone issues, ~10 targets projected, may not last the year
+- [[Treylon Burks]] — WR, WAS -- flashed as McLaurin's replacement (3-81, 53-yd gain); Waldman: good-receiver ceiling, more volatile than Antonio Williams
 - [[DeAndre Hopkins]] — WR, BAL — Waldman contrarian garbage-time start; Harris says low routes, don't (2025)
 - [[Adam Thielen]] — WR, MIN — Harmon: effectively a paid retirement at 35, a 'ghost'; the Carolina trade aged well for Carolina (2025 takes)
-- [[Deebo Samuel]] — WR, SF -- left Week 5 win vs. Seattle with a hamstring injury on a non-contact play, per Harmon
-- [[Malik Nabers]] — WR, NYG — resurgent post-injury; 33-38% target share last 3 games, 5th in NFL yards, flirting with top-5 status.
+- [[Deebo Samuel]] — WR, SF -- not expected back after bye per GM John Lynch; hasn't played since Week 5
+- [[Malik Nabers]] — WR, NYG -- Harris reverses prior skepticism; now calls him simply too talented to be capped, DFS price a 'discount'
 - [[Marvin Harrison Jr.]] — WR, HOU -- scored vs Giants but played only 11 snaps; role/volume concern despite good hands shown.
-- [[Rome Odunze]] — WR, CHI -- 6-94 running the hardest routes in the offense; Harmon/Harris both reaffirm bullish long-term view
+- [[Rome Odunze]] — WR, CHI -- Harmon: leads the NFL in explosive play rate among 30+ target WRs, driven by precise dig/in-cut routes
 - [[Keon Coleman]] — WR, BUF -- Harris/Overzet's #1 Week 5 add: 94% routes, 33% target share, 23.6 pts with DJ Moore out; add, don't start
 - [[Ainias Smith]] — WR, PHI — slow camp start, Johnny Wilson ahead; Waldman says he needs a year or two (2024 takes, stale)
 - [[Michael Gallup]] — WR, WAS — un-retired; former true X (95% outside 2020) Harmon sees as a longshot perimeter fit for Daniels (2025 takes)
-- [[Brian Thomas Jr.]] — WR, JAX -- trade smoke rising; Cohen no longer defending him publicly, Harmon's tier-one WR trade target.
-- [[Ladd McConkey]] — WR, LAC -- concussion in Week 6; Doherty/Harris flag a season-long durability pattern on the Chargers' only high-end skill talent
+- [[Brian Thomas Jr.]] — WR, JAX -- Harmon: 50/50 he stays on roster after bye benching; trade value only ~3rd-round pick
+- [[Ladd McConkey]] — WR, LAC -- collapsed from preseason WR14 outlook to outside the top 36 amid Chargers' offensive line mess
 - [[Ricky Pearsall]] — WR, SF -- PCL re-injury needs season-ending surgery, done for 2026; targeting a 2027 return at 27.
 - [[Troy Franklin]] — WR, DEN -- losing early camp rep battle to Pat Bryant; Harris not yet moving ranks but leaning that way
 - [[CeeDee Lamb]] — WR, DAL — risk 5-6/10; hosts see him as capped-upside value relative to WRs going 9-12 picks later
 - [[Tyreek Hill]] — WR, FA -- agent reportedly talking to Chiefs amid Rice/Thornton injuries; leg health unknown, ~1 month from ready
-- [[Mike Evans]] — WR, SF — out again (beat up all year); Waldman calls him 49ers' key X-receiver, Achilles concern lingers
+- [[Mike Evans]] — WR, SF -- not expected back after bye; Lynch publicly didn't expect his return
 - [[Rashid Shaheed]] — WR, SEA — signed 3yr/$51M but no clear role behind Kupp/JSN; Harmon has 'serious concerns' about scheme fit
 - [[Jerry Jeudy]] — WR, CLE — trade candidate; Harmon values him near a 6th/7th-rounder, below Cleveland's reported 3rd/4th ask.
 - [[Courtland Sutton]] — WR, DEN -- Chris Harris still above-ADP on Sutton; guest Ben Gretsch more bearish on a Payton rotation phasing him out
@@ -422,21 +424,21 @@ for the chronological record of ingests, queries, and lints.
 - [[Stefon Diggs]] — WR, WAS -- TD vs. SF, stock up, but Harris says he's no longer elite vs. man coverage
 - [[Cooper Kupp]] — WR, SEA — Waldman projects a 'distant third' role behind Shaheed as Kupp's Seattle stock fades
 - [[Quentin Johnston]] — WR, LAC — having his worst season; Harmon reverses prior optimism, calls him a near-valueless cap-dump chip.
-- [[Jaxon Smith-Njigba]] — WR, SEA -- sustaining elite production (4 TD/277 yds/17 rec over 2 gms) even with Drew Lock at QB
-- [[Zay Flowers]] — WR, BAL — efficiency/alignment breakout (82% catch rate, 45% slot); Harmon eyeing a dynasty tier bump
+- [[Jaxon Smith-Njigba]] — WR, SEA -- Harris's MVP pick: 1,000+ scrimmage yards, 9 TDs despite broken Seattle offense
+- [[Zay Flowers]] — WR, BAL -- outlook muted after gadget-offense Thursday dud (6 touches, 23 yards)
 - [[Puka Nacua]] — WR, LAR -- calf injury scare Thursday; no good internal replacement if he sits, status TBD
 - [[Tank Dell]] — WR, HOU — IR designation as expected; both hosts say full recovery to prior form is unlikely, possibly career-ending
 - [[Nico Collins]] — WR, HOU — snaps capped ~70% (possible hamstring mgmt); shut down by shadow coverage due to X-only alignment
 - [[Josh Downs]] — WR, IND — requested trade from Colts; Harmon expects ~3rd-rd return; eyeing KC/SF/Rams/Giants/Carolina/Steelers
 - [[Marvin Mims Jr.]] — WR, DEN — Harris and Daigle would drop him for Troy Franklin; Payton clearly does not see him as the guy (2025 takes)
 - [[Jalen Hyatt]] — WR, NYG — boom/bust deep threat; needs a Wan'Dale Robinson injury to matter (2025 takes)
-- [[Rashee Rice]] — WR, KC — hamstring injury has lingered through bye, missed 2 games; weak supporting cast is the bigger issue
+- [[Rashee Rice]] — WR, KC — back from absence, immediately plugged into slant/screen role with a TD.
 - [[Davante Adams]] — WR, LAR -- out for most of the rest of the regular season per Harris
 - [[Gabe Davis]] — WR, BUF — torn ACL, out for the season; Bills' outside WR room now the league's thinnest per Harmon
 - [[Khalil Shakir]] — WR, BUF — Waldman: close to but short of 1,000 yards; Brady's spread design, not a talent issue (2025 takes)
 - [[Drake London]] — WR, ATL — relevant again riding hot Penix; best stretch for at-cost managers per Waldman
-- [[Michael Wilson]] — WR, ARI -- set for more X-receiver snaps now that MHJ is traded; Harmon comps him to Tee Higgins
-- [[George Pickens]] — WR, DAL -- inconsistent behind a struggling Cowboys offense; Harris leans sell, Josh says just play him
+- [[Michael Wilson]] — WR, ARI -- gutted out 2 broken ribs for game-winning catch; Graziano/Waldman float top-30 2027 ADP, Puka Nacua comp
+- [[George Pickens]] — WR, DAL -- Harmon: unlikely to be traded despite rumors; Cowboys cling to NFC East hopes at ~4-4
 - [[Diontae Johnson]] — WR, FA — cut by Cleveland; Harmon thinks his career is over, biggest bag fumble
 - [[Tyler Lockett]] — WR, LV — released by TEN, signed with Raiders; Harmon says his play/speed have declined, opened door for Dike in TEN
 - [[Terry McLaurin]] — WR, WAS -- season over (torn patellar tendon); no guaranteed 2027 money, Harmon expects he's cut.
@@ -444,12 +446,12 @@ for the chronological record of ingests, queries, and lints.
 - [[Ronnie Bell]] — WR, SF — a name to know mostly for injury-contingency reasons behind Aiyuk/Deebo, not his own emergence *(2024 takes, stale)*
 - [[Dontayvion Wicks]] — WR, GB -- worth a speculative add; downfield usage (nearly 20 aY/tgt) vs Makai Lemon's short/slot role.
 - [[Romeo Doubs]] — WR, NE -- Angelo: drops issue plus a concerning 'wasn't locked in' postgame quote in Week 1
-- [[Christian Watson]] — WR, GB — on pace for ~1,600 yds/20 TD; Harmon calls him the league's most-improved WR, now a true No. 1.
+- [[Christian Watson]] — WR, GB -- big target share but hands/drops and lingering health concerns cap the ranking
 - [[Cedric Tillman]] — WR, CLE -- Harris's #5 2026 riser pick; value 'destroyed' by IR stint, not talent, per Harris
 - [[Tyler Scott]] — WR, CHI — "overrated on speed" pre-draft per Waldman; used as a one-dimensional RPO/deep-shot option, a Darnell-Mooney-before-he-developed comp *(2024 takes, stale)*
 - [[Jonathan Mingo]] — WR, DAL — Harmon questions whether he makes the roster; power-slot-only path blocked by Lamb, athletic traits under-delivered
 - [[Demario Douglas]] — WR, NE — Harmon: 3.2 YPRR vs man (6th-best), floated as Stefon Diggs-role replacement in 50/50 alignment role
-- [[Malik Washington]] — WR, MIA — earned starting job; stands to benefit in backfield/passing touches with De'Von Achane injured
+- [[Malik Washington]] — WR, MIA -- Harmon: good man-coverage beater, 24% target rate; strong Week 9 spot vs. man-heavy Lions slot defense
 - [[Xavier Legette]] — WR, CAR — bust vs. draft capital, but passable WR3 role player on merit alone
 - [[Malachi Corley]] — WR, CLE — cut by Jets, claimed by Browns; part of broader 2024 WR class bust discussion
 - [[Javon Baker]] — WR, NE — ~40 rookie routes, unchartable; developmental one-side prospect with maturity flags (2025 takes)
@@ -459,10 +461,10 @@ for the chronological record of ingests, queries, and lints.
 - [[J. Michael Sturdivant]] — WR, GB (UDFA) — Harmon flags him as a deep sleeper; Packers gave rare guaranteed UDFA money
 - [[Marquise Brown]] — WR, KC — 61% route share but Harmon sees little pop left; intermediate-only zone beater (2025 in-season take)
 - [[Skyy Moore]] — WR, GB — stepping in as starting slot receiver after Jayden Reed's season-ending injury; 48% route share Week 3
-- [[A.J. Brown]] — WR, NE -- low-target game was Chicago's scheme, not decline; Harris recommends buying low
+- [[A.J. Brown]] — WR, NE -- still out; Harris says Patriots mismanaged ankle injury, now possible knee issue
 - [[DeMarcus Robinson]] — WR, LAR — Rams' only real vertical/outside option post-Nacua; 75% outside, top aDOT on team (2024 takes, stale)
 - [[Jahan Dotson]] — WR, ATL — signed with Falcons behind Drake London; Harmon projects ~750 yards with real opportunity
-- [[Adonai Mitchell]] — WR, NYJ — boom/bust streamer; Cooper now Jets' 1B over him, Carter targets Raiders' weak secondary.
+- [[Adonai Mitchell]] — WR, IND -- Waldman: now Indy's true WR2 over Omar Cooper Jr, strong route-running game vs Raiders
 - [[Xavier Worthy]] — WR, KC — Harmon: too small for outside/contested role; 3-11 vs Seattle; weak link atop a thin WR room
 - [[Ja'Lynn Polk]] — WR, NO — unexpectedly retired Aug 2026 after 33 career targets; Harmon: prospect miss, partly poor role fit in NE
 - [[Michael Pittman Jr.]] — WR, PIT (traded from IND) — extended 3yr/$59M; Harmon's 'perfect Rodgers receiver' fit
@@ -487,7 +489,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Michael Thomas]] — WR, FA — suspended one game; Waldman expects a signing by mid-October, a waiver stash not a draft pick (2024 takes, stale)
 - [[Curtis Samuel]] — WR, BUF — Harmon: KC game showed real outside role, health finally better, but snap path unclear (2024 takes, stale)
 - [[Rondale Moore]] — WR, ATL — Harmon: 'not a real receiver,' pure gadget/motion piece after trade for Desmond Ridder
-- [[Garrett Wilson]] — WR, NYJ — role shift to more Z/slot and fewer nine routes graded as the 'right usage,' per-route production strong despite QB chaos
+- [[Garrett Wilson]] — WR, NYJ -- in concussion protocol, uncertain for Chiefs matchup
 - [[Odell Beckham Jr.]] — WR, NYG — signed under Harbaugh; Harmon expects no real 2026 role, calls it a career send-off
 - [[Xavier Gipson]] — WR, NYJ — Harmon 'really intrigued,' thinks he can play; eyed for bigger slot role in 2024
 - [[Greg Dortch]] — WR, ARI -- Harmon/Koh's sleeper pick of a bad Cardinals room; 2024 charting subject
@@ -511,12 +513,12 @@ for the chronological record of ingests, queries, and lints.
 - [[Aeneas Smith]] — WR, PHI — Harmon deep sleeper; projected as Eagles' full-speed motion piece for new OC Kellen Moore's scheme
 - [[Calvin Austin III]] — WR, PIT — Waldman: weekly starter as WR2; Rodgers back-shoulder connection and schemed backfield usage
 - [[Denzel Mims]] — WR, PIT — buy-low sleeper for the open WR2 job opposite Pickens; Waldman buys the food-poisoning excuse for his lost Jets year
-- [[DK Metcalf]] — WR, PIT -- vintage toughness/volume game in a trailing script; Harris skeptical the usage repeats
+- [[DK Metcalf]] — WR, NYG -- Waldman: underrated Deebo-type ceiling with a runway, but Wan'Dale Robinson addition may be cutting development short
 - [[Brandin Cooks]] — WR, NO — sacrificial X: zero targets on 22 routes despite 49% snaps; not startable in this offense (2025 takes)
 - [[Andrei Iosivas]] — WR, CIN — Week 12 waiver add filling in for Ja'Marr Chase; both hosts land him top-4 on their boards
 - [[Charlie Jones]] — WR, CIN — Waldman/Angelo watchlist name for Tyler Boyd's vacated slot role; Purdue product.
 - [[Casey Washington]] — WR, ATL — Waldman: reliable third-down target in Week 1, but Mooney's return likely reclaims the role
-- [[Parker Washington]] — WR, JAX -- just 3 targets in disaster game; Harris admits he may have overrated his 'alpha' status
+- [[Parker Washington]] — WR, JAX -- Harmon ranks him ~15-20 real-life, not top-10; volatile role but strong Week 9 bounce-back spot vs. BAL
 - [[Jaylen Waddle]] — WR, MIA — Harris calls FantasyPros 4th-round valuation wrong; sell target, pairs well with Henderson in trades
 - [[Kendrick Bourne]] — WR, ARI -- Harris ranks him top-50, a usable WR3/bye-week streamer after a strong Week 6 showing in the Arizona upset
 - [[Alec Pierce]] — WR, IND -- placed on IR; Harris expresses real doubt he returns at all this season
@@ -544,20 +546,20 @@ for the chronological record of ingests, queries, and lints.
 - [[Nick Marsh]] — WR, Michigan State — big boundary freshman, 3rd among FR in yards; Waldman says scoop him in C2C (2024 takes, stale)
 - [[Nick Westbrook-Ikhine]] — WR, MIA — Harmon floats him as Miami's sacrificial on-line X in 3WR sets, freeing Waddle role catering
 - [[Rakim Jarrett]] — WR, TB — Waldman: 'Stefon Diggs starter kit'; watch-list add on a high-scoring offense (2024 takes, stale)
-- [[DJ Moore]] — WR, BUF — questionable (shoulder) for Monday night vs. Rams, did not practice
+- [[DJ Moore]] — WR, BUF -- productive return (4-82-1 vs. BAL); Harmon: Bills now the NFL's No. 1 offense by his efficiency metrics
 - [[David Moore]] — WR, CAR — Wk12 team leader in targets/routes/yards, but Harmon sees a depth piece once Coker returns
 - [[Savion Williams]] — WR/RB hybrid, GB — Waldman now views him as GB's de facto RB2; Cordarrelle Patterson-type ceiling
 - [[Tetairoa McMillan]] — WR, CAR — career-high usage (82.5% slot routes, 41% target share); confirmed No. 1 in Idzik's scheme
 - [[Nick Nash]] — WR prospect, San Jose State — Waldman intrigued but not in love; timed speed decides his ceiling
 - [[Jacob Cowing]] — WR, SF — 67 rookie routes and mostly special teams; getting some Deebo-style jet-sweep work in OTAs
 - [[Luther Burden III]] — WR, CHI — WR26, outproducing Odunze from the slot; dangerous after catch, unproven vs. man coverage (Harris).
-- [[Matthew Golden]] — WR, GB -- could see 20 targets/game if Christian Watson's chest injury lingers; still drop-prone (8 on season)
+- [[Matthew Golden]] — WR, GB -- 27% target share, top-30 rest-of-season; ranked ahead of Watson as offense's 'easy button'
 - [[Jalen Royals]] — WR, KC — Harmon's Rashee Rice comp; healthy after rookie-year knee tendinitis, getting starting OTA reps with Rice out
 - [[Andrew Armstrong]] — WR, MIA — undrafted Arkansas SEC receiving leader; Harmon day-two grade, decent X profile, 25-year-old rookie
 - [[Konata Mumpfield]] — WR, LAR — Waldman comps traits to Davante Adams; ceiling range Antonio Bryant/Brandon Lloyd
 - [[Isaiah Bond]] — WR, CLE — waiver-wire watch (top-20 caliber) behind presumed WR1 Denzel Boston in an unsettled QB situation
 - [[LaJohntay Wester]] — WR prospect, Colorado — Angelo's second-tier route runner and returner; 170-lb frame, combine matters
-- [[Emeka Egbuka]] — WR, TB -- in concussion protocol, possible foot injury; real chance he's out soon
+- [[Emeka Egbuka]] — WR, TB -- back in ranks at WR28 vs. Bears, tempered by Baker Mayfield's struggles
 - [[Tre Harris]] — WR, LAC -- fuse lit but slow burn; Waldman targets 400-600 yards in 2026, real breakout in 2027
 - [[Jayden Higgins]] — WR, HOU -- torn ACL, out for the season (Harris, 2026-08-25)
 - [[Xavier Restrepo]] — WR, TEN — UDFA slot/zone-beater with Cam Ward chemistry; Harmon bets he outsnaps a drafted Titans rookie
@@ -577,7 +579,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Kelly Akharaiyi]] — WR, FA — Waldman's lone-wolf 2025 sleeper: route running and ball tracking, but likely UDFA (2025 pre-draft, stale)
 - [[Bru McCoy]] — WR, FA — 6-3/230 Tennessee sleeper; young JuJu/Hakeem Nicks comp, well-rounded eventual starter (2025 pre-draft)
 - [[Julio Jones]] — WR, retired — Harmon's Hall-of-Fame retrospective; 2016 as apex, 86.2% vs zone as Shanahan's X (2025 takes)
-- [[Kyle Williams]] — WR, NE — buried as most sacrificial X-role Harmon has charted since 2014; needs slot/Z pivot post-AJ Brown trade
+- [[Kyle Williams]] — WR, NE — 30% TD rate, 25.3 YPR over last 17 games despite 'sacrificial X' usage; Harmon: buy-low trade target.
 - [[Tory Horton]] — WR, SEA -- Harris has him WR57 ahead of Shaheed, but unclear shin/groin surgery clouds camp health outlook
 - [[Jacolby George]] — WR, FA — Waldman: Miami slot/flanker, Travis Benjamin floor to Jordan Addison ceiling (2025 pre-draft take, stale)
 - [[Xavier Guillory]] — WR, FA — Waldman: physical blocker/special-teamer, Hines Ward-coached, bye-week waiver gem upside (2025 pre-draft take, stale)
@@ -589,7 +591,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Elijah Badger]] — WR, KC — UDFA; Harmon says he may be Kansas City's best X candidate, 20 YPR at Florida, press work needed (2025 takes)
 - [[KC Concepcion]] — WR, CLE — drafted 24th, Harmon's pre-draft favorite; best press-man beater in class, projects heavy multi-alignment role
 - [[Jordyn Tyson]] — WR, NO — recurring hamstring/knee injuries; Waldman says shut him down for the year, re-injury risk 'Will Fuller territory'
-- [[Antonio Williams]] — RB, WAS — Harris and Funston's unanimous #1 waiver pickup; expanded role expected with McLaurin out.
+- [[Antonio Williams]] — WR, WAS -- Harmon: ran 88% of routes in Wk8 (team-high), probably Washington's best pass-catcher; tough Wk9 vs. Rams
 - [[Nyck Harbor]] — WR, South Carolina — on Waldman's 2026 do-not-draft list; elite track athlete who makes everything look hard, hosts want him at TE
 - [[Evan Stewart]] — WR, Oregon — on the hosts' 2026 do-not-draft list; couldn't out-produce Tez Johnson as Oregon's third option
 - [[Efton Chism III]] — WR, NE — 'definitely worth adding' per Waldman while Stefon Diggs is out; likely a bye-week piece once Diggs returns.
@@ -605,7 +607,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Mason Tipton]] — WR, NO -- UDFA out of Yale (4.33 40) stepping into Brandon Cooks's clear-out role for Chris Olave
 - [[Tyrell Shavers]] — WR, BUF — torn ACL ends season; Harmon says he was carving out real role before the injury
 - [[Carnell Tate]] — WR, TEN — leads rookie WRs in yards/route run (2.0); 8% drop rate a real concern per Harmon.
-- [[Makai Lemon]] — WR, PHI — rough rookie start under Hurts, poor scheme fit; Harmon watching chemistry develop with new QB [[Tanner McKee]]
+- [[Makai Lemon]] — WR, PHI — drops tied to McKee's slow windup per Harmon/Koh; outlook improves once DeVonta Smith returns.
 - [[Chris Brazzell]] — WR, CAR -- Waldman/Bob Harris favor Brazzell over Legette/Metchie for the open WR3 job
 - [[Chris Bell]] — WR, MIA — off PUP and practicing after ACL rehab; both hosts flag as a Week 1 waiver add, possible Dolphins alpha
 - [[Mitchell Tinsley]] — WR, CIN — outproduced Iosivas with Higgins out; Harris would rank him ahead if that continues
@@ -626,7 +628,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Brendan Thompson]] — WR, NFL Draft Prospect -- new small-school name; Waldman comps him to a 'poor man's Jordan Addison'
 - [[Deion Burks]] — WR, IND — Day 3 rookie; Harmon's dynasty stash if/when Josh Downs is traded away
 - [[Jordan Tyson]] — WR, NYJ — on IR, may not debut until ~Week 9; Harmon's zone-beating talent, trust tree at zero early
-- [[Omar Cooper Jr.]] — WR, IND — add off waivers but production so far is mostly fluky big plays; not a trusted starter yet
+- [[Omar Cooper Jr.]] — WR, NYJ — zero targets despite back-to-back 100-yd games; Harmon says crowded Jets WR room, not a talent issue.
 - [[Aaron Anderson]] — WR prospect, LSU — solid release tools, needs to stop rounding off breaks per Waldman
 - [[Brennan Thompson]] — WR, 2026 draft prospect (Miss St) -- explosive but skewed-alignment deep-only profile; Tank Dell/John Brown comp
 - [[Camden Brown]] — WR prospect, Georgia Southern (ex-Auburn) — physical catch-point/YAC talent, raw route technique
@@ -645,7 +647,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Reggie Virgil]] — WR prospect (Texas Tech) -- Harmon: day-three zone-beating Z/slot; strong ball tracking, limited long speed vs press
 - [[Jeff Caldwell]] — WR prospect (Cincinnati) -- elite testing, Christian Watson comp, but weak tape; Harmon warns vs Day 1 X-receiver bet
 - [[Xavier Thomas]] — WR, CHI — late Bears pick; 4.48 speed comped loosely to Henry Ruggs, fringe dynasty dart-throw
-- [[Caleb Douglas]] — WR, MIA — 2 catches, 2 TDs in return; Harmon comps him to Quentin Johnston with more physicality.
+- [[Caleb Douglas]] — WR, MIA — Seeley's #4 Week 9 add; Denzel Boston comp, favorable schedule, 18-20pt upside with Malik Willis
 - [[Kevin Coleman]] — WR, MIA -- Day 3 pick; slippery after catch, competes with Malik Washington for slot snaps
 - [[Zachariah Branch]] — WR, NYG -- Waldman skeptical of minicamp hype itself, but sees real opportunity behind a thin depth chart
 - [[Zavion Thomas]] — WR, CHI -- 3rd-round pick; speedy leverage/kick-return piece projected as Kalief Raymond replacement, limited target share
@@ -669,8 +671,8 @@ for the chronological record of ingests, queries, and lints.
 ### Tight Ends
 - [[T.J. Hockenson]] — TE, MIN — ~17 targets with Jefferson out/hobbled; Waldman says Hockenson looks fully healthy in a featured 'Greg Olsen'-type role.
 - [[Travis Kelce]] — TE, KC — grades held up better than Harris expected; TE11, low ceiling but higher floor than feared
-- [[Sam LaPorta]] — TE, DET — Harris's most-drafted player of the summer (5/7 eligible teams); bounce-back bet after injury-wrecked 2025
-- [[Dalton Kincaid]] — TE, BUF — 'completely disappeared' from offense since DJ Moore's injury removed a complementary vertical threat.
+- [[Sam LaPorta]] — TE, DET — targets fading amid contract comments; not a bench yet, trending that way.
+- [[Dalton Kincaid]] — TE, BUF -- Harmon: averages 3.3 YPRR with DJ Moore on the field vs. just 2.0 without him
 - [[Luke Musgrave]] — TE, GB — Chris Harris says drop him; not developing into a passing-game factor behind Tucker Kraft
 - [[Tucker Kraft]] — TE, GB — reportedly close to playing some snaps at OT given the line's struggles; muddies role
 - [[Brevyn Spann-Ford]] — TE, Minnesota prospect — 6'7"/270; looked lost as a blocker in 2022, visibly figured out technique by late 2023 per Waldman; projects as a practice-squad/depth-TE NFL path *(2024 pre-draft takes, stale)*
@@ -720,11 +722,11 @@ for the chronological record of ingests, queries, and lints.
 - [[Will Dissly]] — TE, LAC — third in Chargers first-read share, leads team in designed targets since bye (2024 takes, stale)
 - [[Jonnu Smith]] — TE, PIT — Harmon: trade from Miami a bust, 5.8 YPR and -1 yards in the playoff loss
 - [[Tyler Warren]] — TE, IND -- ruled out well ahead of Week 6; Harris moving him toward out of the TE ranks
-- [[Harold Fannin Jr.]] — TE, CLE — Josh loves him in dynasty but fades in redraft at ADP 74 given target competition, weak QB.
+- [[Harold Fannin Jr.]] — TE, CLE -- surprise groin injury on Thursday's report after a huge game; Week 9 status in doubt
 - [[Colston Loveland]] — TE, CHI -- Harris's 'most undervalued' pick; ranks him top-70 overall, well ahead of FantasyPros consensus
 - [[Mason Taylor]] — TE, NYJ -- Waldman: arguably better all-around player than Tyler Warren, wants more volume first
 - [[Elijah Arroyo]] — TE, SEA — emerging boom/bust matchup play; splits with Barner, who keeps the low red zone
-- [[Mike Gesicki]] — TE, CIN — Waldman: crazy value at TE27 ADP, sneaky TE1 in year two with Burrow despite stiff-footed profile
+- [[Mike Gesicki]] — TE, CIN — top-10 TE production, <20% rostered; functions as a de facto slot WR per Harmon.
 - [[Thomas Fidone]] — TE, NYG -- Waldman: crowded room, but Fidone's blocking/catch-point skills project a future starter
 - [[Gunnar Helm]] — TE, TEN — Waldman vaulted him above consensus after Okonkwo's role faded; Hunter Henry-type comp
 - [[Jackson Hawes]] — TE, BUF -- Waldman stashing him late as a deep-dynasty TE-premium luxury pick amid Dawson Knox release rumors
@@ -768,6 +770,7 @@ for the chronological record of ingests, queries, and lints.
 - [[Oscar Delp]] — TE, NO -- Waldman: Delp projects as Saints TE1 within two years over Fant/Jonnu Smith; ~4th-round dynasty value
 - [[Tyler Higbee]] — TE, LAR -- Waldman fades the year-two-leap thesis; prefers Colby Parkinson's target/TD share in a crowded room
 - [[Colson Loveland]] — TE, CHI — 1 catch through 2 games (usage/blitz-driven per Harmon), buy-low candidate
+- [[Terrence Ferguson]] — TE, LAR -- 21-day window opened; real difference-maker upside if Rams don't add a WR first
 
 <!-- Claude: maintain grouped by position (QB / RB / WR / TE), each with a
      one-line summary. See CLAUDE.md "Index maintenance". -->

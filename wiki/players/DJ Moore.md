@@ -58,6 +58,7 @@ tags: [player]
 - 2026-10-05 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-05]]): Moore converted a key third-and-long and was part of an eight-minute Bills drive, but got stuffed on a red-zone carry attempt and went to the medical tent, visibly re-injuring the shoulder issue from a couple weeks earlier; he did not return. Status for Week 5 is unresolved.
 - 2026-10-06 — According to Chris Harris ([[Harris Fantasy Football Podcast - 2026-10-06]]): DJ Moore left Buffalo's Week 4 game early with a nagging AC-joint/shoulder issue, opening the door for Keon Coleman's breakout workload behind him.
 - 2026-10-12 — According to [[Chris Harris]] ([[Harris Fantasy Football Podcast - 2026-10-12]]): heading into the Bills-Rams Monday night game, Moore is questionable with the shoulder injury that knocked him out of Week 4 and did not practice this week, though Harris notes 'he doesn't need to practice to play.' His status is the swing factor for Buffalo's receiving corps in a game Harris expects to be high-scoring.
+- 2026-11-05 — According to [[Matt Harmon]] ([[Reception Perception The Show - 2026-11-05]]): In his return against Baltimore, DJ Moore caught 4 of 7 targets for 82 yards and a touchdown (plus a fumble) -- Harmon's charting shows only one of his targets came on an out-breaking route, with the touchdown and his best gain coming on a big crossing/post route. Harmon says Moore's precision on in-cuts has taken a 'big step back' over the past few years, but he can still separate on explosive crossing and post routes, which showed up immediately in his return. He also flags that Moore's presence is a major driver for [[Dalton Kincaid]]'s efficiency and that, per his own offensive efficiency metrics, Buffalo is now the No. 1 offense in the NFL (leading the league in explosive play rate, drive score percentage and points per drive; top-3 in dropback EPA, top-3 in rushing EPA), with Moore's return making them 'even more explosive.'
 
 ## Related Concepts
 - [[Play Caller Cheat Codes]]
@@ -77,4 +78,5 @@ tags: [player]
 - [[Training Camp Report Skepticism]]
 - [[Zone vs Man Route Running]]
 - [[Off-Script Play Creation and Pocket Climbing]]
+- [[Rushing Ecosystem and Running Back Weaponization]]
 
